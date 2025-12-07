@@ -1,0 +1,23 @@
+﻿// Made in NPC Maker by BowieD
+GUID 6551d946a9fb4aa5b0aafc3c36404575
+Type Vendor
+ID 13002
+Selling 9
+Selling_0_ID 63327
+Selling_0_Cost 1500
+Selling_1_ID 63290
+Selling_1_Cost 1800
+Selling_2_ID 30015
+Selling_2_Cost 2500
+Selling_3_ID 29142
+Selling_3_Cost 7000
+Selling_4_ID 29108
+Selling_4_Cost 8500
+Selling_5_ID 23110
+Selling_5_Cost 8900
+Selling_6_ID 23109
+Selling_6_Cost 9600
+Selling_7_ID 23106
+Selling_7_Cost 10000
+Selling_8_ID 63317
+Selling_8_Cost 14000
