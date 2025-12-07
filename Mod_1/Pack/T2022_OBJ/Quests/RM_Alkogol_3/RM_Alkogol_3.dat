@@ -1,0 +1,21 @@
+GUID fb7da903c59f4f529c5f0f2edbbf40c0
+
+
+Type Medium
+ID 62260
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17064
+Condition_0_Value false
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17064
+Interactability_Reward_0_Value true
+
+Master_Bundle_Override t2022.masterbundle
+Bundle_Override_Path /Pack/T2022_OBJ/Quests/RM_Alkogol_0

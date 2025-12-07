@@ -1,0 +1,21 @@
+GUID 29f6d3e9c4d944778710e614ff5d22a2
+
+Type Resource
+ID 58056
+
+Health 900
+Radius 5
+Scale 0.3
+
+Reward_XP 12
+
+Vertical_Offset -0.01
+
+
+
+Vulnerable_To_Fists false
+
+Reset 600
+Asset_Bundle_Version 3
+No_Debris
+Has_Clip_Prefab false

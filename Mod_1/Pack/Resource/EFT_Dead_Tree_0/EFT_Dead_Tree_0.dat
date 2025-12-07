@@ -1,0 +1,20 @@
+GUID 841bc70804544f488225d4f41828f2c6
+
+
+Type Resource
+ID 39030
+
+Health 900
+Radius 4
+Scale 0.3
+
+Explosion 22
+Reward_ID 0
+Reward_XP 0
+Reward_Min 0
+Reward_Max 0
+
+Reset 450
+
+Has_Clip_Prefab false
+Asset_Bundle_Version 3

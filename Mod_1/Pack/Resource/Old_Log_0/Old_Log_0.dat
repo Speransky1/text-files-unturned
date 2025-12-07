@@ -1,0 +1,20 @@
+GUID 94b370900fd247739aa036896fdb1902
+
+Type Resource
+ID 58159
+
+Health 600
+Radius 5
+Scale 0.3
+
+Reward_ID 57306
+Reward_Min 1
+Reward_Max 3
+
+Vertical_Offset 0.2
+BladeID 20
+Vulnerable_To_Fists false
+
+Reset 600
+No_Debris
+Has_Clip_Prefab false

@@ -1,0 +1,18 @@
+GUID 44d8d5a1fd8d4a59823cdd0abc0b9044
+
+Type Resource
+Has_Clip_Prefab False
+ID 28504
+
+Health 4000
+Radius 4
+Scale 0
+
+Explosion 41330
+Reward_ID 10114
+Reward_XP 0
+Reward_Min 1
+Reward_Max 2
+
+No_Debris
+Reset 2400

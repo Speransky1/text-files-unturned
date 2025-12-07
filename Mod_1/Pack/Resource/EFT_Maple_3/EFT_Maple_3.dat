@@ -1,0 +1,17 @@
+GUID 1823c60c87664f069a8c8acf0828a033
+
+Type Resource
+ID 43703
+
+Health 1000
+Radius 5
+Scale 0.2
+
+Explosion 22
+
+Reset 6
+
+
+Asset_Bundle_Version 3
+
+Has_Clip_Prefab false

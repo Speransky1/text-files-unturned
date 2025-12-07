@@ -1,0 +1,29 @@
+GUID 8f14a3bf2806446da27652cd75467bdf
+
+Type Storage
+Rarity Mythical
+Useable Barricade
+Build Storage
+ID 54716
+
+Master_Bundle_Override t2022.masterbundle
+Bundle_Override_Path mod1_EFT/Pack/Plugins_Items/RaidOver_Safe
+
+Size_X 2
+Size_Y 2
+Size_Z 0.57
+
+Health 55000
+Range 4
+Radius 0.7
+Offset 0.75
+
+Storage_X 30
+Storage_Y 30
+Invulnerable
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+
+Salvage_Duration_Multiplier 0.4

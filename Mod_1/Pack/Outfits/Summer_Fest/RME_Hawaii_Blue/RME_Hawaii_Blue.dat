@@ -1,0 +1,23 @@
+GUID 211d2a9a949549728b31fc16940b38b2
+
+
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 45829
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 6
+Armor 0.95
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 32
+

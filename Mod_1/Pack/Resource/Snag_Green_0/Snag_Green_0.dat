@@ -1,0 +1,20 @@
+GUID 1bf3853651124bf284a3a32e1b85f77e
+
+Type Resource
+ID 58054
+
+Health 250
+Radius 5
+Scale 0.3
+
+Vertical_Offset -0.01
+
+Reward_XP 6
+
+
+Vulnerable_To_Fists true
+
+Reset 600
+Asset_Bundle_Version 3
+No_Debris
+Has_Clip_Prefab false

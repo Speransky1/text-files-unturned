@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "70a2710595cc4c9096f02f73f1405e7b"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/grass0/grass0.mat"
+		}
+	]
+}

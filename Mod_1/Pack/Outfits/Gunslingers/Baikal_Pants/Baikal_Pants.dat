@@ -1,0 +1,21 @@
+GUID 37025f3925e8426582cafe72c7de64ac
+
+Type Pants
+Rarity Mythical
+Useable Clothing
+ID 54047
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 7
+Height 6
+
+Armor 0.8
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 32

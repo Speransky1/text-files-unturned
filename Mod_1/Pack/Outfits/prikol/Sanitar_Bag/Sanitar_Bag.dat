@@ -1,0 +1,20 @@
+GUID 888e34b98a0b4e4489c3b95f385fe93f
+
+Type Backpack
+Rare Epic
+Useable Clothing
+ID 49106
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Width 7
+Height 5
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

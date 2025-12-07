@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 В АРСЕНАЛЕ МОЖНО ПРИОБРЕСТИ СНАРЯЖЕНИЕ, ОРУЖИЕ, БОЕПРИПАСЫ, МЕДИЦИНУ И МОДУЛИ ДЛЯ ОРУЖИЯ
+Response_0 <color=white>*Пистолеты, ПП, дробовики*</color>
+Response_1 <color=white>*Карабины, автоматы, винтовки*</color>
+Response_2 <color=white>*Боеприпасы*</color>
+Response_3 <color=white>*Модули*</color>
+Response_4 <color=white>*Медицина*</color>
+Response_5 <color=white>*Снаряжение*</color>
+Response_6 *Уйти*

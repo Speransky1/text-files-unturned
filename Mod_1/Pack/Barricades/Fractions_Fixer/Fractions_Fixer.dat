@@ -1,0 +1,25 @@
+GUID 4f4033f09ef1476fb288e3f8c01dc683
+
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 64800
+
+
+Storage_X 8
+Storage_Y 8
+
+Size_X 2
+Size_Y 2
+Size_Z 0.9
+
+Health 5200
+Range 4
+Radius 0.45
+Offset 0.58
+
+Use_Auto_Stat_Descriptions false
+
+Explosion 19
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

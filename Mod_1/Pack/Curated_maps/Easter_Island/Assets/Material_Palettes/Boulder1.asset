@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "d55d84beccb449ffafc426d40ab5d2ae"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/boulder0/stone1.mat"
+		}
+	]
+}

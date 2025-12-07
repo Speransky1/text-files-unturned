@@ -1,0 +1,40 @@
+GUID a9e5656e661c43ce8fe193e6dcc9306c
+
+Type Melee
+Useable Melee
+Slot Any
+ID 56742
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+Size2_Z 0.6
+
+Range 2
+Strength 1.5
+Stamina 0
+
+Player_Damage 35
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1
+
+Zombie_Damage 25
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1
+
+Animal_Damage 25
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1
+
+Barricade_Damage 55
+Structure_Damage 25
+Vehicle_Damage 25
+Resource_Damage 0
+Object_Damage 25
+
+Durability 0.01

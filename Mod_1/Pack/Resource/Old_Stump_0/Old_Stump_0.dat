@@ -1,0 +1,22 @@
+GUID a6dc7d8488eb4635afe4d97901ea64b4
+
+Type Resource
+ID 58156
+
+
+Health 1100
+Radius 5
+Scale 0.3
+
+Reward_ID 57313
+Reward_Min 1
+Reward_Max 4
+
+Vertical_Offset -0.3
+BladeID 21
+Vulnerable_To_Fists false
+
+Reset 6
+Asset_Bundle_Version 3
+No_Debris
+Has_Clip_Prefab false

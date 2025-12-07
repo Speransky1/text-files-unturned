@@ -1,0 +1,26 @@
+GUID 98fa653000df45cf88bb218b9a237766
+Type Storage
+Useable Barricade
+Build Storage
+ID 18810
+
+Size_X 2
+Size_Y 2
+Size_Z 0.1
+
+Health 600
+Range 4
+Radius 0.25
+Offset 0.83
+
+Storage_X 9
+Storage_Y 9
+
+Locked
+
+Explosion 36
+
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Has_Clip_Prefab false

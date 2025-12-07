@@ -1,0 +1,25 @@
+GUID 63dd3580416847b496db2a4e875b8bb6
+
+Type Supply
+Rarity Epic
+ID 56886
+
+Size_X 2
+Size_Y 2
+Size_Z 0.14
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1 
+Blueprint_0_Supply_0_ID 56886
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 59747
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 46121
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 15355
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 15358
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Build 27
+

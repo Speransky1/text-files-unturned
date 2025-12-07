@@ -1,0 +1,18 @@
+GUID 94f7631d88f14e089078ff33220b32c4
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 6603
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Armor 0.9
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 6603
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27

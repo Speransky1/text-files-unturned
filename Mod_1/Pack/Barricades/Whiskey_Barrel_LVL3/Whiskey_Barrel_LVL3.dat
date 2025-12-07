@@ -1,0 +1,22 @@
+GUID 466bf47f616947ee9ebe4bb7a6c9532a
+
+Type Barricade
+Rariry Legendary
+Useable Barricade
+Build Barricade
+ID 54592
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Health 600
+Range 15
+Radius 0.5
+Offset 0.84
+
+Explosion 36
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Has_Clip_Prefab false
+Use_Auto_Stat_Descriptions false

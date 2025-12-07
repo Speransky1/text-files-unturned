@@ -1,0 +1,20 @@
+GUID f823ab777d6743c1ba4456f59778dfd5
+
+Type Animal
+ID 25303
+
+Speed_Run 12
+Speed_Walk 4
+
+Behaviour Offense
+Damage 20
+
+Health 60
+
+Reward_ID 10152
+Reward_Min 1
+Reward_Max 1
+
+Glance_Anim_Variants 3
+
+Roars 3

@@ -1,0 +1,20 @@
+GUID 621ac61f2dfc4820904f88abcd4e9d35
+
+Type Animal
+ID 15555
+
+Speed_Run 8
+Speed_Walk 5
+
+Behaviour Offense
+
+Health 2600
+Regen 0.9
+Damage 34
+
+
+Reward_ID 10153
+Reward_Min 18
+Reward_Max 25
+
+Roars 3

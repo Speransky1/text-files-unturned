@@ -1,0 +1,23 @@
+GUID d154c3a3a1044a2a820203d067a0994f
+
+Type Medium
+ID 62199
+
+Conditions 1
+//исчезает при взятии
+Condition_0_Type Flag_Bool
+Condition_0_ID 17054
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Reset
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17054
+Interactability_Reward_0_Value true
+
+Master_Bundle_Override t2022.masterbundle
+Bundle_Override_Path /Pack/T2022_OBJ/Quests/RM_quest_flag_location

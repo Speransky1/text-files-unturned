@@ -1,0 +1,24 @@
+GUID e2e3479ca13b4469967f0f8cd6780d83
+
+Type Animal
+ID 25305
+
+Speed_Run 12
+Speed_Walk 2
+
+Behaviour Offense
+Damage 35
+Horizontal_Attack_Range 5
+Attack_Interval 2
+
+Health 500
+
+Reward_ID 10151
+Reward_Min 1
+Reward_Max 1
+
+Attack_Anim_Variants 1
+
+Roars 3
+
+Glance_Anim_Variants 1

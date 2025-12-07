@@ -1,0 +1,17 @@
+GUID 6020dcf4b1774b9da54ece85ce1d25f8
+
+Type Resource
+ID 43701
+
+Health 1000
+Radius 5
+Scale 0.2
+
+Explosion 22
+
+Reset 6
+
+
+Asset_Bundle_Version 3
+
+Has_Clip_Prefab false

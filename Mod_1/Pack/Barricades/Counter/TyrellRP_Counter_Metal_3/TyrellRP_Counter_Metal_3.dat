@@ -1,0 +1,20 @@
+GUID 247d511c99304074ac3267f8f90b8296
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Campfire
+ID 18531
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 200
+Range 4
+Radius 0.6
+Offset 0.83
+
+Explosion 36
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Has_Clip_Prefab false

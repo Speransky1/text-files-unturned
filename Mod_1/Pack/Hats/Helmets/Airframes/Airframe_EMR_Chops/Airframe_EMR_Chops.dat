@@ -1,0 +1,24 @@
+GUID ebfb193efad3444eb9b5e4db6def6940
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 55205
+
+Size_X 2
+Size_Y 2
+Size_Z 0.425
+
+Beard
+
+Armor 0.6
+Armor_Explosion 0.6
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+Quality_Min 55
+Quality_Max 65

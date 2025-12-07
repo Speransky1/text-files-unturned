@@ -1,0 +1,23 @@
+GUID d286a66139df4b809968a29db830d2dc
+
+
+Type Pants
+Rarity Uncommon
+Useable Clothing
+ID 45800
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 4
+Height 3
+
+Armor 0.95
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 32

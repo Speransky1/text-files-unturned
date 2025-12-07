@@ -1,0 +1,31 @@
+GUID 4ab5f596930848d2a8567f2786fb6709
+
+Type Charge
+Rarity Mythical
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Charge
+ID 54701
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Health 1
+Range 3
+Radius 0.1
+Offset 0.12
+
+Explosion 36
+Invulnerable
+Unrepairable
+Proof_Explosion
+
+Salvage_Duration_Multiplier 2.5
+
+Bypass_Pickup_Ownership True
+
+Allow_Placement_Inside_Clip_Volumes False
+Use_Auto_Stat_Descriptions false

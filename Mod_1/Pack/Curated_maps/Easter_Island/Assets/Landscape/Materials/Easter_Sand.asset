@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "fc6dfbfde1d241ad908d2367b4520731"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "easterisland.masterbundle"
+		"Path" "Assets/Landscapes/Materials/Sand.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "GRAVEL_STATIC"
+	"Foliage"
+	{
+		"GUID" "68eeb87a7f274fd0b0e36add7f279306"
+	}
+}

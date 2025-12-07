@@ -1,0 +1,20 @@
+GUID 343b678dd10d4d968097e6d314d02be3
+
+Type Resource
+ID 58055
+
+Health 230
+Radius 5
+Scale 0.3
+
+Reward_XP 5
+
+
+Vertical_Offset -0.01
+
+Vulnerable_To_Fists true
+
+Reset 600
+Asset_Bundle_Version 3
+No_Debris
+Has_Clip_Prefab false

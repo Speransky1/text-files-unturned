@@ -1,0 +1,14 @@
+GUID 9096ea4f7723444f936d4946126cbbe5
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 6643
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Food 40
+
+
+Bypass_ID_Limit

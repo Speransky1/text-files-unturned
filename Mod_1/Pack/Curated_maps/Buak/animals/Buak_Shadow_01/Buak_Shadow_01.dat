@@ -1,0 +1,24 @@
+GUID d65c36b5585e4637a5e5c37fe8cf3aa5
+
+Type Animal
+ID 25311
+
+Speed_Run 3
+Speed_Walk 1
+
+Regen 80
+
+Behaviour Offense
+Damage 30
+
+Health 1200
+
+Reward_ID 10115
+Reward_XP 0
+Reward_Min 0
+Reward_Max 1
+
+Attack_Anim_Variants 3
+Glance_Anim_Variants 2
+Startle_Anim_Variants 1
+Eat_Anim_Variants 0

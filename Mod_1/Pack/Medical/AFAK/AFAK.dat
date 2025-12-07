@@ -1,0 +1,18 @@
+GUID 215740469fe74b02ac97eddf79910c5f
+
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 62868
+
+Size_X 1
+Size_Y 1
+Size_Z 0.335
+
+Health 45
+Disinfectant 20
+
+Amount 1
+Count_Min 1
+Count_Max 1
+

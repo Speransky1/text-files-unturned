@@ -1,0 +1,29 @@
+GUID 81728c5d5e0943b0b7237ce546f94c66
+
+
+
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 54587
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 2000
+Range 4
+Radius 0.5
+Offset 0.75
+
+Locked
+
+Storage_X 7
+Storage_Y 5
+
+Explosion 19
+Sould_Close_When_Outside_Range true
+Salvage_Duration_Multiplier 0.25
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Use_Auto_Stat_Descriptions false

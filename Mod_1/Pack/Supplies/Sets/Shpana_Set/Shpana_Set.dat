@@ -1,0 +1,24 @@
+GUID 78bdbcc4210c4b40b84141f29ff2ad10
+
+
+Type Supply
+Rarity Uncommon
+ID 48710
+
+Size_X 3
+Size_Y 3
+Size_Z 0.14
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1 
+Blueprint_0_Supply_0_ID 48710
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 36051
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 54042
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 44693
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 27
+

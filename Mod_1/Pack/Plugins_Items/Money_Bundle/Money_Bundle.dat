@@ -1,0 +1,14 @@
+GUID c87e2e127dbb4aa7b9f96968198ad1cd
+
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 54703
+
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+
+Should_Delete_After_Use false

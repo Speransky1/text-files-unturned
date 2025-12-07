@@ -1,0 +1,18 @@
+GUID f7e40c18f1a547df8da2eb75033cdc0c
+Type Food
+Useable Consumeable
+Rarity Rare
+ID 6679
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Quality_Max 50
+
+Food 35
+Water 10
+Food_Constrains_Water
+Bleeding_Modifier Cut
+
+Bypass_ID_Limit

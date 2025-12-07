@@ -1,0 +1,25 @@
+GUID 7cae428d2a05466ca33654eced115ff3
+
+Type Supply
+Rarity Common
+ID 56889
+
+Size_X 3
+Size_Y 3
+Size_Z 0.14
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1 
+Blueprint_0_Supply_0_ID 56889
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 46234
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 37331
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 15355
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 15354
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Build 27
+

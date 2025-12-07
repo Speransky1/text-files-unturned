@@ -1,0 +1,12 @@
+GUID 0562590236a443c197c5e04156272455
+
+Type Food
+Useable Consumeable
+ID 58458
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 50
+Water 5

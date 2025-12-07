@@ -1,0 +1,18 @@
+GUID 6da53ef2b214441cae5c7c6220931850
+
+
+Type Decal
+ID 62193
+
+Decal_X 4
+Decal_Y 4
+Decal_LOD_Bias 1
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17051
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override t2022.masterbundle
+Bundle_Override_Path /Pack/T2022_OBJ/Quests/RM_Vandal_Quest_windrose

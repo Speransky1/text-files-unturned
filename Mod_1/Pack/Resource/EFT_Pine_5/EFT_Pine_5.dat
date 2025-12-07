@@ -1,0 +1,23 @@
+GUID d9431ddd1c25449a9678e3a16cf12a8f
+
+Type Resource
+ID 43718
+
+Health 1200
+Radius 5
+Scale 0.2
+
+Explosion 22
+
+Reset 600
+
+Reward_ID 57313
+Reward_Min 1
+Reward_Max 6
+
+BladeID 22
+
+
+
+
+Has_Clip_Prefab false

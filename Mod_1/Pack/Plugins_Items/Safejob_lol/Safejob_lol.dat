@@ -1,0 +1,27 @@
+GUID cf173118af594fd8b2c310af36433e22
+
+Type Storage
+Rarity Mythical
+Useable Barricade
+Build Storage
+ID 54710
+
+Size_X 2
+Size_Y 2
+Size_Z 0.57
+
+Health 16000
+Range 4
+Radius 0.7
+Offset 0.75
+
+Storage_X 9
+Storage_Y 9
+Invulnerable
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+
+Salvage_Duration_Multiplier 0.4
+Locked

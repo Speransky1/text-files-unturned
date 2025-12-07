@@ -1,0 +1,18 @@
+GUID 71976a874cbd49c683052035269b6497
+Type Vest
+Rarity Mythical
+Useable Clothing
+ID 6605
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Armor 0.9
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 6605
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27

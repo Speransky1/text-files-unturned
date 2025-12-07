@@ -1,0 +1,19 @@
+GUID 8fa6494f8ed1424f95e2fe8e78eb9a0c
+
+Type Resource
+ID 43717
+
+Health 1000
+Radius 5
+Scale 0.3
+
+Explosion 22
+
+Reset 6
+
+Auto_Skybox
+
+
+Asset_Bundle_Version 3
+
+Has_Clip_Prefab false

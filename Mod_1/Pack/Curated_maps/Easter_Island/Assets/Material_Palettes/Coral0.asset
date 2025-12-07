@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "357bf847a0eb414f9d246948831e262c"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Coral0/Coral0.mat"
+		}
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Coral0/Coral1.mat"
+		}
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Coral0/Coral2.mat"
+		}
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Coral0/Coral3.mat"
+		}
+	]
+}

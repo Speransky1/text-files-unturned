@@ -1,0 +1,17 @@
+GUID 905a1e2c611742099e48d742726aa948
+
+Type Food
+Useable Consumeable
+ID 58226
+
+
+
+Size_X 1
+Size_Y 2
+Size_Z 0.53
+
+
+Water 45
+Virus 3
+Vision 15
+

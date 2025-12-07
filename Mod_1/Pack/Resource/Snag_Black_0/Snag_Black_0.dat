@@ -1,0 +1,20 @@
+GUID f62ca13c58b24f3fababfecccd78be39
+
+Type Resource
+ID 58058
+
+Health 1300
+Radius 5
+Scale 0.3
+
+Reward_XP 5
+
+Vertical_Offset -0.01
+
+
+
+Vulnerable_To_Fists false
+Reset 600
+Asset_Bundle_Version 3
+No_Debris
+Has_Clip_Prefab false

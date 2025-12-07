@@ -1,0 +1,17 @@
+GUID af97884978c14dacac506429c4f966f6
+
+Type Animal
+ID 25300
+
+Speed_Run 16
+Speed_Walk 4
+
+Behaviour Defense
+
+Health 200
+
+Reward_ID 10150
+Reward_Min 1
+Reward_Max 1
+
+Glance_Anim_Variants 2

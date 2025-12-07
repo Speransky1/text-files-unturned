@@ -1,0 +1,16 @@
+GUID b56a8326033b4c6d953e22c484d71034
+
+Type Food
+Useable Consumeable
+ID 58233
+
+
+Size_X 1
+Size_Y 2
+Size_Z 0.47
+
+
+Water 65
+Virus 5
+Vision 35
+

@@ -1,0 +1,20 @@
+GUID 2abb8d210da74b19bf39ded477ba4e78
+
+Type Glasses
+Rarity Epic
+Useable Clothing
+ID 54713
+
+Size_X 2
+Size_Y 1
+Size_Z 0.175
+
+Hair
+Beard
+
+Vision Military
+
+Nightvision_Color_R 155
+Nightvision_Color_G 155
+Nightvision_Color_B 155
+Nightvision_Fog_Intensity 0.3

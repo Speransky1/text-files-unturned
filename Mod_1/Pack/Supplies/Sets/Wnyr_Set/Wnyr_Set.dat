@@ -1,0 +1,22 @@
+GUID f400245db2f8498a9a2a453fbae95f40
+
+
+Type Supply
+Rarity Common
+ID 48718
+
+Size_X 3
+Size_Y 3
+Size_Z 0.14
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1 
+Blueprint_0_Supply_0_ID 48718
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 17008
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 44681
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+

@@ -1,0 +1,16 @@
+GUID fe246830af5a426ca71f61e526067ffe
+
+
+Type Decal
+ID 62190
+
+Decal_X 4
+Decal_Y 2
+Decal_LOD_Bias 1
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17048
+Condition_0_Value True
+Condition_0_Logic Equal
+

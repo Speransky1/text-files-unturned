@@ -1,0 +1,27 @@
+GUID d1903c736e024ec6956a681129ebab76
+
+Type Supply
+Rarity Mythical
+ID 48809
+
+Size_X 3
+Size_Y 3
+Size_Z 0.14
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1 
+Blueprint_0_Supply_0_ID 48809
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 5
+Blueprint_0_Output_0_ID 55219
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59151
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 56208
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 54033
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Output_4_ID 44698
+Blueprint_0_Output_4_Amount 1
+Blueprint_0_Build 27
+

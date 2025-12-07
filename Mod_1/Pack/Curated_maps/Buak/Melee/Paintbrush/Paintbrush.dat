@@ -1,0 +1,45 @@
+GUID 9ecc9f9346af4e95881428c98a18a46c
+
+Type Melee
+Rarity Common
+Useable Melee
+Slot Any
+ID 27164
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Range 1.8
+Strength 1.5
+Stamina 35
+
+Weak 0.487
+Strong 0.459
+
+Player_Damage 10
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 40
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 10
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 4
+Resource_Damage 1
+Object_Damage 5
+
+Durability 0
+
+Blueprints 0

@@ -1,0 +1,20 @@
+GUID d4fb3a7882d149e1b410edfa05efb3f0
+
+
+Type Small
+ID 61659
+
+Conditions 1
+//исчезает при взятии
+Condition_0_Type Flag_Bool
+Condition_0_ID 17080
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17080
+Interactability_Reward_0_Value true

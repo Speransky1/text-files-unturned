@@ -1,0 +1,23 @@
+GUID 6e14a157c5f74a3c860efe04e719a2b6
+
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 31578
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 3
+
+Armor 0.95
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31578
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 31579
+Blueprint_0_Output_0_Amount 1

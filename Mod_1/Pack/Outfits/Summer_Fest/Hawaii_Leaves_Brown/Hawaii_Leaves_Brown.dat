@@ -1,0 +1,23 @@
+GUID cf48b257b9294cab9e68243d1dd5a27b
+
+
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 45813
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 5
+Armor 0.95
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 32
+

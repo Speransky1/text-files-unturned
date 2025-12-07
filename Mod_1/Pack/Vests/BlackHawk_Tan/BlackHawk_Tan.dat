@@ -1,0 +1,27 @@
+GUID 223af24f8b814211a8180f4d8a9b9eb6
+
+
+Type Vest
+Rarity Uncommon
+Useable Clothing
+ID 56237
+
+Size_X 3
+Size_Y 3
+Size_Z 0.55
+
+Width 5
+Height 3
+
+Armor 0.9
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 32
+
+Quality_Min 55
+Quality_Max 65
+

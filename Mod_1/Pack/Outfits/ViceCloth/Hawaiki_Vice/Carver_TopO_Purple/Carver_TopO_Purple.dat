@@ -1,0 +1,30 @@
+GUID bae2514aa0154f5883a806a71b67d97d
+Type Shirt
+Useable Clothing
+ID 61222
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 4
+
+Armor 0.95
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 61222
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32
+Blueprint_2_Type Apparel
+Blueprint_2_Supply_0_ID 61222
+Blueprint_2_Product 61221
+Blueprint_2_Build 32
+

@@ -1,0 +1,20 @@
+GUID f2f0825dd3d8418f8f2d8ad3a3db7059
+
+
+Type Supply
+
+ID 52874
+
+Size_X 4
+Size_Y 4
+Size_Z 0.25
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1 
+Blueprint_0_Supply_0_ID 52874
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59174
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Output_1_ID 59172
+Blueprint_0_Output_1_Amount 4

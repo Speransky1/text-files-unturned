@@ -1,0 +1,26 @@
+GUID dcd1e3ca3deb4f378fd1e58ee02a7727
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 36853
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 4
+
+Armor 0.6
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36853
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32

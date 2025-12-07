@@ -1,0 +1,18 @@
+GUID 94e5b13a9f7941528935604f4e51637c
+
+
+Type Medium
+ID 62257
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17061
+Condition_0_Value false
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17061
+Interactability_Reward_0_Value true

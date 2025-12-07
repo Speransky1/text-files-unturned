@@ -1,0 +1,21 @@
+GUID 214fa43376f8429bb9a079069c499bcb
+
+
+Type Backpack
+Rarity Rare
+Useable Clothing
+ID 34338
+
+Size_X 3
+Size_Y 3
+Size_Z 0.7
+
+Width 4
+Height 8
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

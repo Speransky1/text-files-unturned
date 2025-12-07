@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "4220c3b754384e3888e487f39c351a5c"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_Desert/Desert_Bej.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_Desert/Desert_Dark_Gray.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_Desert/Desert_Gray.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_Desert/Desert_Pink.mat"
+		}
+	]
+}

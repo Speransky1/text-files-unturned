@@ -1,0 +1,27 @@
+GUID 4f32015ea8e6476690ab004d139215c4
+
+Type Pants
+Useable Clothing
+Rarity Mythical
+ID 36666
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 7
+Height 4
+
+Armor 0.6
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 36666
+Blueprint_0_Product 75
+Blueprint_0_Products 1
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 75
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32

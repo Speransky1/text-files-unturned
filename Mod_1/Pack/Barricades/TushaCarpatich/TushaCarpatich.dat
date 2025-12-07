@@ -1,0 +1,21 @@
+GUID ace60b6b682b454db5d6d6d0278fdda7
+
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 50653
+
+Size_X 3
+Size_Y 2
+Size_Z 0.4
+
+Vulnerable
+Health 80
+Range 4
+Radius 0.5
+Offset 1.25
+
+Unrepairable
+
+Explosion 25456

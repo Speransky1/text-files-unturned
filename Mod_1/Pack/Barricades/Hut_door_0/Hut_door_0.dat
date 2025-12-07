@@ -1,0 +1,25 @@
+GUID d4118f69419f4013bb1a24ddccf6b290
+
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Door
+ID 50437
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 40400
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Salvage_Duration_Multiplier 0.4
+Use_Auto_Stat_Descriptions false

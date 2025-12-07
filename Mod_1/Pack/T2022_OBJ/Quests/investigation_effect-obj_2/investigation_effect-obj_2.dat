@@ -1,0 +1,24 @@
+GUID c09da49ee4de47deb84bfae85acf4574
+
+Type Small
+
+Has_Clip_Prefab False
+
+ID 62188
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17010
+Condition_0_Value False
+Condition_0_Logic Equal
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17010
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override t2022.masterbundle
+Bundle_Override_Path /Pack/T2022_OBJ/Quests/investigation_effect-obj
