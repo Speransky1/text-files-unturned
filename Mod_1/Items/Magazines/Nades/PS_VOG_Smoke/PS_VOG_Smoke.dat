@@ -1,0 +1,33 @@
+GUID 894dea7f1d12471db43db6bd707b52cc
+Type Magazine
+Rarity Epic
+ID 10614
+
+Size_X 1
+Size_Y 1
+Size_Z 0.125
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 18848
+
+Tracer 19030
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+
+Delete_Empty
+
+Range 5
+Explosion 19230
+Explosive
+Ballistic_Damage_Multiplier 0.5

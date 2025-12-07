@@ -1,0 +1,25 @@
+GUID ded1e272ce504f679a3c0c154eeb0120
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Claim
+ID 59502
+
+Size_X 2
+Size_Y 2
+Size_Z 0.59
+
+Vulnerable
+
+Health 600
+Range 4
+Radius 1.17
+Offset 1.3491
+
+Explosion 36
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Use_Auto_Icon_Measurements False
+
+Allow_Placement_On_Vehicle False

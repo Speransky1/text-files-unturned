@@ -1,0 +1,49 @@
+GUID 2b9e524df07a40a68f4b61fa0b3f1d47
+
+Type Magazine
+Rarity Legendary
+ID 63985
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/PS_AR_Drum
+
+Size_X 2
+Size_Y 2
+Size_Z 0.273
+
+Amount 76
+Count_Min 0
+Count_Max 76
+
+Calibers 1
+Caliber_0 19260
+
+Tracer 19002
+
+Speed 0.8
+Spread 1.25
+
+Blueprints 5
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 63999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63260
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63263
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 63860
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 63985
+Blueprint_4_Build 30

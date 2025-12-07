@@ -1,0 +1,29 @@
+GUID 143c327b7ef34ed1b0ae6c27bb405fa1
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Common
+Useable Structure
+Construct Pillar
+ID 19209
+
+SalvageItem 143c327b7ef34ed1b0ae6c27bb405fa1
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 882c55cf32b04c5f8a8ae97d7289af63
+
+Size_X 1
+Size_Y 2
+Size_Z 0.475
+
+Health 1000
+Range 6
+
+Explosion 19
+
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

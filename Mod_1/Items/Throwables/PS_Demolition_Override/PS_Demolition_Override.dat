@@ -1,0 +1,51 @@
+GUID 8eb0a6f2d0cf489ca492390eeac50b24
+Type Charge
+Rarity Legendary
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Charge
+ID 19667
+
+SalvageItem 8eb0a6f2d0cf489ca492390eeac50b24
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+
+PlacementAudioClip Sounds/BeepPlacing1.mp3
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 1
+Range 3
+Offset 0.07
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 1550
+Structure_Damage 2050
+Vehicle_Damage 6000
+Resource_Damage 3000
+Object_Damage 3000
+
+Explosion_Launch_Speed 30
+
+Range2 9
+Explosion2 19046
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True
+
+Allow_Placement_Inside_Clip_Volumes False
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Throwables/PS_Demolition_Charge

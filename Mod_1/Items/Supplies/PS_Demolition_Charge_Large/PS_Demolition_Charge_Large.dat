@@ -1,0 +1,62 @@
+GUID 9d41ed3713a243e2b275e6a5b16b1171
+Type Charge
+Rarity Legendary
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Charge
+ID 10689
+
+SalvageItem 9d41ed3713a243e2b275e6a5b16b1171
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+
+Size_X 4
+Size_Y 2
+Size_Z 0.27
+
+Health 1
+Range 3
+Offset 0.185
+
+Player_Damage 2100
+Zombie_Damage 2100
+Animal_Damage 2100
+Barricade_Damage 20000
+Structure_Damage 20000
+Vehicle_Damage 50000
+Resource_Damage 10000
+Object_Damage 51000
+
+Explosion_Launch_Speed 50
+
+Range2 22
+Explosion2 19047
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 19666
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 19016
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 19625
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Tool 19375
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+
+Salvage_Duration_Multiplier 0.4
+
+Bypass_Pickup_Ownership True
+
+PlacementAudioClip aridreborn.masterbundle:Sounds/BeepPlacing.wav
+
+Allow_Placement_Inside_Clip_Volumes False

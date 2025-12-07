@@ -1,0 +1,45 @@
+GUID c0a2b31b78ab4a6d8370a9aaadd307da
+
+Type Magazine
+Rarity Mythical
+ID 63492
+
+Size_X 2
+Size_Y 2
+Size_Z 0.255
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Other/PS_Railgun_Box
+
+Amount 16
+Count_Min 8
+Count_Max 16
+
+Calibers 1
+Caliber_0 18835
+
+Tracer 19037
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19492
+Blueprint_1_Build 30
+
+Range 2
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Explosion 19059
+Explosive
+
+Explosion_Launch_Speed 0
+
+Delete_Empty

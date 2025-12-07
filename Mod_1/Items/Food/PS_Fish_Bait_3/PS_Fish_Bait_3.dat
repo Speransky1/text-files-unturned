@@ -1,0 +1,24 @@
+GUID 1b5c71cbb7fe400cb341ba705e4ee4c2
+Type Food
+Useable Consumeable
+Rarity Uncommon
+ID 10938
+
+Size_X 1
+Size_Y 1
+Size_Z 0.87
+
+Food 3
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 10937
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text 3/4 Uses Left
+Quest_Reward_1_Duration 1
+
+Quality_Min 100
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Food/PS_Fish_Bait_0

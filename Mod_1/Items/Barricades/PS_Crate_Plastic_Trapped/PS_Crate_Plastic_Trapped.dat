@@ -1,0 +1,39 @@
+GUID 6e44f1fb34a34902990dc4ca2e5431b0
+Type Charge
+Rarity Epic
+Useable Barricade
+Build Charge
+ID 59868
+
+Size_X 2
+Size_Y 2
+Size_Z 0.56
+
+Health 100
+Range 4
+Radius 0.6
+Offset 0.75
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 111
+Structure_Damage 111
+Vehicle_Damage 600
+Resource_Damage 1700
+Object_Damage 1000
+
+Explosion_Launch_Speed 30
+
+Range2 12
+Explosion2 19011
+
+Explosion 19
+
+Vulnerable
+
+PlacementAudioClip Sounds/BeepPlacing1.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Allow_Placement_Inside_Clip_Volumes False

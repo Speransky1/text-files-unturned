@@ -1,0 +1,24 @@
+GUID f9537f803222490b9e061b10d8c9bb34
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59366
+
+Size_X 2
+Size_Y 1
+Size_Z 0.27
+
+Health 15
+Range 4
+Radius 0.05
+Offset 0.081
+
+Explosion 60
+Vulnerable
+
+PlacementAudioClip Sounds/MiscPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True

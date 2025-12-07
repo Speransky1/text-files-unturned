@@ -1,0 +1,22 @@
+GUID c3b99d0ebad845d5bb83e628dc5ea8cd
+Type Supply
+Rarity Legendary
+ID 10804
+
+Size_X 3
+Size_Y 3
+Size_Z 0.35
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10804
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 19262
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Output_1_ID 19009
+Blueprint_0_Output_1_Amount 4
+Blueprint_0_Output_2_ID 19016
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27

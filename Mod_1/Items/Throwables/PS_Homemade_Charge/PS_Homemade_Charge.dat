@@ -1,0 +1,38 @@
+GUID 795601afb29f4036a5452abae59b2a66
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 19199
+
+Size_X 2
+Size_Y 2
+Size_Z 0.22
+
+Health 1
+Offset 0.1
+
+Player_Damage 120
+Zombie_Damage 120
+Animal_Damage 120
+Barricade_Damage 200
+Structure_Damage 255
+Vehicle_Damage 1700
+Resource_Damage 2700
+Object_Damage 1000
+
+Explosion_Launch_Speed 30
+
+Range 7
+Explosion 19011
+
+Explosive
+Sticky
+
+Fuse_Length 12
+
+Strong_Throw_Force 500
+Weak_Throw_Force 350
+
+Boost_Throw_Force_Multiplier 1
+
+

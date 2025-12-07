@@ -1,0 +1,32 @@
+GUID 0c3b8d27e2be47eca037e05d0ec4af91
+Type Magazine
+Rarity Epic
+ID 10841
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 18850
+
+Tracer 19028
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+
+Delete_Empty
+
+Range 0
+Explosion 19029
+Explosive

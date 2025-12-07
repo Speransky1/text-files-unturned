@@ -1,0 +1,27 @@
+GUID a0fe3681ec384b54a46ce339327e5d95
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59613
+
+Size_X 3
+Size_Y 3
+Size_Z 0.43
+
+
+Health 80
+Range 4
+Radius 0.265
+Offset 0.272
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.15
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True

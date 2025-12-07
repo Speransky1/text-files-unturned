@@ -1,0 +1,50 @@
+GUID 029656f00abe40f5989ca486ea8bee22
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab False
+Build Barricade
+ID 19982
+
+SalvageItem 029656f00abe40f5989ca486ea8bee22
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 280e86d1ddc54ba082c6217609ac2bfc
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 40
+Range 4
+Radius 0.36
+Offset 0.4
+
+Explosion 37
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/PaperPlacement.mp3
+
+Bypass_Pickup_Ownership True
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19982
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59401
+Blueprint_0_Output_0_Amount 8
+Blueprint_0_Build 27
+
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Распаковать
+Action_0_Tooltip Разобрать

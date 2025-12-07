@@ -1,0 +1,29 @@
+GUID 9b09f60647a64940b513e3641fd36753
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Uncommon
+Useable Structure
+Construct Pillar
+ID 19448
+
+SalvageItem 9b09f60647a64940b513e3641fd36753
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 1b35307fb6b74c68ae1bf4c6a25a29d2
+
+Size_X 1
+Size_Y 2
+Size_Z 0.475
+
+Health 2000
+Range 6
+
+Explosion 19
+
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

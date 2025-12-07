@@ -1,0 +1,51 @@
+GUID 2dd5762d8d9a4971a729c25cf2f32beb
+Type Barrel
+Rarity Mythical
+ID 10555
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 10555
+
+Recoil_X 0.85
+Recoil_Y 0.85
+
+Aim_Duration_Multiplier 1.075
+Aiming_Movement_Speed_Multiplier 0.975
+Shake 0.95
+Spread 0.95
+Sway 0.975
+
+Silenced 
+Volume 0.65
+Gunshot_Rolloff_Distance_Multiplier 0.75
+Ballistic_Drop 1.2
+
+Quality_Min 100
+Quality_Max 100
+
+
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10555
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 19000
+Blueprint_0_Output_0_Amount 5
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Scrap
+Action_0_Tooltip Turn into components.
+
+

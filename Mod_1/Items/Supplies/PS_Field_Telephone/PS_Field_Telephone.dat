@@ -1,0 +1,25 @@
+GUID 5bf1e4670fe34f9f9b991d88a23dd1d5
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 59620
+
+Size_X 2
+Size_Y 3
+Size_Z 0.53
+
+Health 400
+Range 4
+Radius 0.14
+Offset 0.18
+
+Explosion 36
+
+Vulnerable
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True

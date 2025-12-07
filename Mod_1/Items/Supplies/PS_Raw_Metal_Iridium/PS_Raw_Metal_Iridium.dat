@@ -1,0 +1,44 @@
+GUID 3f273d8795a846ab8bf8c9510e438935
+Type Supply
+Rarity Epic
+ID 10814
+
+Size_X 1
+Size_Y 1
+Size_Z 0.6
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10814
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 10815
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 10814
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Supply_1_ID 19529
+Blueprint_1_Supply_1_Amount 5
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 19628
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Level 1
+Blueprint_1_Skill Cook
+Blueprint_1_Build 27
+
+Actions 2
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Stack
+Action_0_Tooltip Compactify.
+
+Action_1_Type Blueprint
+Action_1_Blueprint_0_Index 1
+Action_1_Text Smelt
+Action_1_Tooltip Extract the resource.

@@ -1,0 +1,31 @@
+GUID deb7905293e34961948c83d5a36c1ecc
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 59501
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Player_Damage 75
+Zombie_Damage 195
+Animal_Damage 195
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 4000
+Resource_Damage 500
+Object_Damage 500
+
+Weak_Throw_Force 800
+Strong_Throw_Force 1000
+Boost_Throw_Force_Multiplier 1.25
+
+Range 8
+Fuse_Length 10
+Explosion 19035
+
+Explosive
+Explode_On_Impact
+Explosion_Launch_Speed 0
+Projectile_Explosion_Launch_Speed 0

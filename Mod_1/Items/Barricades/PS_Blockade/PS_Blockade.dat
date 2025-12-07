@@ -1,0 +1,28 @@
+GUID 76258352cebd4794a35b610327b251b3
+
+Rarity Rare
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 10680
+
+SalvageItem dd7e291528444bb08ded2c8b83a10c72
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 2
+Item_Dropped_On_Destroy 1b35307fb6b74c68ae1bf4c6a25a29d2
+
+Size_X 3
+Size_Y 4
+Size_Z 0.8
+
+Health 600
+Range 5
+Radius 0.5
+Offset 0.5
+
+Salvage_Duration_Multiplier 0.1
+
+Explosion 36
+
+
+Has_Clip_Prefab false

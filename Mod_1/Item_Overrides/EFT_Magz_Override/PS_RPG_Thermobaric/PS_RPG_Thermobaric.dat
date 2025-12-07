@@ -1,0 +1,35 @@
+GUID 1afc9ef089564145903348d4175e01de
+
+Type Magazine
+Rarity Legendary
+ID 63579
+
+Size_X 3
+Size_Y 1
+Size_Z 0.2
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Other/PS_RPG_Thermobaric
+
+Amount 1
+
+Calibers 1
+Caliber_0 18834
+
+Tracer 12101
+
+Delete_Empty
+
+Range 14
+Player_Damage 150
+Zombie_Damage 150
+Animal_Damage 150
+Barricade_Damage 1050
+Structure_Damage 2050
+Vehicle_Damage 200
+Resource_Damage 2000
+Object_Damage 3000
+Explosion 19020
+Explosive
+
+Explosion_Launch_Speed 30

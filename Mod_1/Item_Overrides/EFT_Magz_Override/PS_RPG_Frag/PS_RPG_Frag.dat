@@ -1,0 +1,35 @@
+GUID 54acaa72c2144d6aace79ba73b3e8d7c
+
+Type Magazine
+Rarity Legendary
+ID 63577
+
+Size_X 3
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Other/PS_RPG_Frag
+
+Calibers 1
+Caliber_0 18834
+
+Tracer 12102
+
+Delete_Empty
+
+Range 24
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 50
+Structure_Damage 25
+Vehicle_Damage 200
+Resource_Damage 2000
+Object_Damage 2000
+Explosion 19020
+Explosive
+
+Explosion_Launch_Speed 30

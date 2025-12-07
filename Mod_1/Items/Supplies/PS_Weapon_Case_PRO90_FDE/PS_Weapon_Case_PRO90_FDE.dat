@@ -1,0 +1,23 @@
+GUID 817edbce57bd4d788259d078a9205b6e
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 19897
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Quest_Rewards 3
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 19892
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 19891
+Quest_Reward_1_Amount 3
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 19893
+Quest_Reward_2_Amount 1
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Weapon_Case_CARG

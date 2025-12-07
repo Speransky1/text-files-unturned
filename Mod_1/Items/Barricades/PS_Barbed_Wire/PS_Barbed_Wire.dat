@@ -1,0 +1,28 @@
+GUID 288dec2344ec4eed90a1a9218d86d492
+Type Trap
+Rarity Rare
+Useable Barricade
+Build Wire
+ID 10677
+
+Size_X 4
+Size_Y 2
+Size_Z 0.2
+
+SalvageItem dd7e291528444bb08ded2c8b83a10c72
+
+Health 350
+Range 4
+Radius 0.15
+Offset 0.4
+
+Player_Damage 23
+Zombie_Damage 23
+Animal_Damage 23
+
+Explosion 36
+Vulnerable
+Unrepairable
+
+
+PlacementPreviewPrefab Items/Barricades/PS_Barbed_Wire/Placement.prefab

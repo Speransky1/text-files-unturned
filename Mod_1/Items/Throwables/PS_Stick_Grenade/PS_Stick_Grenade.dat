@@ -1,0 +1,33 @@
+GUID ff5fb9e28478436996ce99543d2a48dd
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 19419
+
+Size_X 1
+Size_Y 2
+Size_Z 0.53
+
+Player_Damage 140
+Zombie_Damage 140
+Animal_Damage 140
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 200
+Resource_Damage 111
+Object_Damage 110
+
+Range 13
+Explosion 19038
+
+Explosive
+
+Strong_Throw_Force 250
+
+Weak_Throw_Force 80
+
+Boost_Throw_Force_Multiplier 1
+
+Fuse_Length 5
+
+Explosion_Launch_Speed 15

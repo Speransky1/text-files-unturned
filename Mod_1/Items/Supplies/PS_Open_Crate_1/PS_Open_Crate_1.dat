@@ -1,0 +1,22 @@
+GUID 426b60f7a1e24c00b58b16805c9a7d3b
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 10629
+
+Size_X 3
+Size_Y 2
+
+Quest_Rewards 3
+
+Quest_Reward_0_Type Item_Random
+Quest_Reward_0_ID 19314
+Quest_Reward_0_Amount 10
+
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 19514
+Quest_Reward_1_Amount 1
+
+Quest_Reward_2_Type Hint
+Quest_Reward_2_Text Box Unpacked
+Quest_Reward_2_Duration 1

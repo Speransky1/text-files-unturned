@@ -1,0 +1,28 @@
+GUID 2022c0e79457492f887d8ac21e64fab0
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Rare
+Useable Structure
+Construct Roof
+ID 19470
+
+SalvageItem 2022c0e79457492f887d8ac21e64fab0
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy af6c9d2f278b420da3485f57fba9326e
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 5000
+Range 6
+
+Explosion 36
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.6

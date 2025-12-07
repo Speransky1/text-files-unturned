@@ -1,0 +1,36 @@
+GUID 5ebb1069d27948cc98aec2c77f1c3339
+Type Storage
+Rarity Rare
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage
+ID 19814
+
+SalvageItem 5ebb1069d27948cc98aec2c77f1c3339
+Min_Items_Dropped_On_Destroy 2
+Max_Items_Dropped_On_Destroy 2
+Item_Dropped_On_Destroy 471b2b095de4472bbf200caee4564946
+
+Size_X 2
+Size_Y 2
+Size_Z 0.56
+
+Health 200
+Range 4
+Radius 0.24
+Offset 0.269
+
+Storage_X 4
+Storage_Y 4
+
+Explosion 36
+Vulnerable
+
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.33

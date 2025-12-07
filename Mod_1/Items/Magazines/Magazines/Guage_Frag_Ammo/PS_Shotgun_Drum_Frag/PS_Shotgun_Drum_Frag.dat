@@ -1,0 +1,63 @@
+GUID b76c522f55724cc8aec0b23a8dad65aa
+Type Magazine
+Rarity Legendary
+ID 19929
+
+Size_X 2
+Size_Y 2
+Size_Z 0.29
+
+Amount 20
+Count_Min 1
+Count_Max 20
+
+Ballistic_Damage_Multiplier 0.5
+
+Calibers 1
+Caliber_0 18814
+
+Tracer 19043
+
+Range 5
+Player_Damage 16
+Zombie_Damage 32
+Animal_Damage 32
+Barricade_Damage 24
+Structure_Damage 21
+Vehicle_Damage 16
+Resource_Damage 32
+Object_Damage 32
+Explosion 19044
+Explosive
+
+Explosion_Launch_Speed 0
+
+Blueprints 5
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//12Guage Frag (6)
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 10547
+Blueprint_2_Build 30
+//12Guage Frag (2)
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 11063
+Blueprint_3_Build 30
+//AW-12 Frag Drum
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 19929
+Blueprint_4_Build 30
+//Serna Frag Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 11001
+Blueprint_1_Build 30

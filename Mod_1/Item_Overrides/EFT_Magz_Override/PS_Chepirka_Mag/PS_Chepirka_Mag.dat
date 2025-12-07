@@ -1,0 +1,27 @@
+GUID 8d71cffbc725448a90f3a162c2882b2e
+
+Type Magazine
+Rarity Legendary
+ID 63574
+
+Size_X 3
+Size_Y 2
+Size_Z 0.5
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Other/PS_Chepirka_Mag
+
+Amount 4
+Count_Min 1
+Count_Max 4
+
+Calibers 1
+Caliber_0 18841
+
+Delete_Empty
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63574
+Blueprint_0_Build 30

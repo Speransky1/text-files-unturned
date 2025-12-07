@@ -1,0 +1,133 @@
+GUID e4c1f5196b2145d7a101f368c35efe30
+
+
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Primary
+ID 64615
+
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_DMR.wav
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Guns/Battle_Rifles/PS_FAL
+
+Aim_In_Duration 0.35
+
+Size_X 5
+Size_Y 2
+Size_Z 0.4
+
+Magazine 19836
+
+Unplace 0.17
+Replace 0.4
+
+Attachment_Calibers 5
+Attachment_Caliber_0 18904
+Attachment_Caliber_1 18902
+Attachment_Caliber_2 10516
+Attachment_Caliber_3 10671
+Attachment_Caliber_4 12000
+
+Magazine_Calibers 1
+Magazine_Caliber_0 19836
+
+Ammo_Min 0
+Ammo_Max 20
+
+Safety
+Semi
+Auto
+
+Range 600
+Ballistic_Steps 40
+Ballistic_Travel 15
+Ballistic_Drop 0.0013
+
+Firerate 9
+Action Trigger
+
+Player_Damage 42
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.4
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 110
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 110
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 25
+Resource_Damage 150
+Object_Damage 100
+
+Durability 0.15
+
+Spread_Aim 0.04
+Spread_Hip 0.13
+
+Recoil_Min_X 1.25
+Recoil_Min_Y 3
+Recoil_Max_X -1.25
+Recoil_Max_Y 5
+
+Recover_X 0.2
+Recover_Y 0.2
+
+Shake_Min_X 0.0036
+Shake_Min_Y -0.0075
+Shake_Min_Z -0.01
+Shake_Max_X -0.0036
+Shake_Max_Y -0.01
+Shake_Max_Z -0.01
+
+Muzzle 19066
+
+Shell 19018
+
+Gunshot_Rolloff_Distance 1000
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19659
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10615
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 19262
+Blueprint_1_Output_0_Amount 2
+Blueprint_1_Output_1_ID 19000
+Blueprint_1_Output_1_Amount 4
+Blueprint_1_Tool 19004
+Blueprint_1_Build 27
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements True
+
+Recoil_Crouch 0.8
+Recoil_Prone 0.7
+
+Spread_Prone 1
+Spread_Crouch 1
+
+
+Quality_Min 60
+Quality_Max 60
+
+Player_Damage_Bleeding Always

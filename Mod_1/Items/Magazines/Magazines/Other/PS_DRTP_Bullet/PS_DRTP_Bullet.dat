@@ -1,0 +1,25 @@
+GUID 1ccfa10a561849448095ed21a9916605
+Type Magazine
+Rarity Legendary
+ID 19143
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Speed 0.7
+
+Calibers 1
+Caliber_0 18840
+
+Tracer 19042
+
+Use_Auto_Icon_Measurements False
+
+Range 4
+Explosion 19019
+Explosive
+
+Delete_Empty

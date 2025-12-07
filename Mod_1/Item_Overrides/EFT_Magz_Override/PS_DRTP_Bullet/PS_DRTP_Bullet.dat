@@ -1,0 +1,34 @@
+GUID ffc193725a004a72a2bb6f8fade991eb
+
+Type Magazine
+Rarity Legendary
+ID 63143
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Other/PS_DRTP_Bullet
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Calibers 1
+Caliber_0 19143
+
+Tracer 19042
+
+Use_Auto_Icon_Measurements False
+
+Range 4
+Player_Damage 0
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 2
+Structure_Damage 2
+Vehicle_Damage 55
+Resource_Damage 55
+Object_Damage 55
+Explosion 19019
+Explosive
+
+Delete_Empty

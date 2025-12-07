@@ -1,0 +1,22 @@
+GUID d173033643204e0c945a175a0c5f32c2
+Type Water
+Rarity Uncommon
+Useable Consumeable
+ID 59056
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Water 70
+
+Quality_Min 3
+Quality_Max 40
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59635
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Вода закончилась
+Quest_Reward_1_Duration 1

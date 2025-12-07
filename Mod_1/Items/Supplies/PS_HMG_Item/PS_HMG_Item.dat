@@ -1,0 +1,49 @@
+GUID 3d6522a7b3b74871bf7f77820fba1f0c
+Type Barricade
+Rarity Epic
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Barricade
+ID 10034
+
+SalvageItem 3d6522a7b3b74871bf7f77820fba1f0c
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 0c689c6dd37b449bab72254d35ed0482
+
+Size_X 7
+Size_Y 2
+Size_Z 0.63
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10034
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 19262
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Output_1_ID 19009
+Blueprint_0_Output_1_Amount 4
+Blueprint_0_Output_2_ID 19567
+Blueprint_0_Output_2_Amount 3
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Health 150
+Range 4
+Radius 0.1
+Offset 0.15
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.15
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True
+
+Use_Auto_Icon_Measurements False

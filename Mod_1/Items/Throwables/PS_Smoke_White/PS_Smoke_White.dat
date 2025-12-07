@@ -1,0 +1,17 @@
+GUID 8df074b18ea6423fabfb061937e42a18
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 19649
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Strong_Throw_Force 1300
+
+Weak_Throw_Force 500
+
+
+Boost_Throw_Force_Multiplier 1
+

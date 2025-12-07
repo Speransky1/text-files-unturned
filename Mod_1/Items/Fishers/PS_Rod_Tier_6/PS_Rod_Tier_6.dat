@@ -1,0 +1,20 @@
+GUID 76b4d4cf9bc4442d8c5c1a8e834fbf28
+Type Fisher
+Rarity Mythical
+Useable Fisher
+ID 19732
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Reward_ID 19232
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19731
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27

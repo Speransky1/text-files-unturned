@@ -1,0 +1,28 @@
+GUID 0332f50f924e4ad38ccbb1d7d7c439b6
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 59830
+
+Size_X 4
+Size_Y 3
+Size_Z 0.57
+
+Health 600
+Range 7
+Radius 1.2
+Offset 1.25
+
+Storage_X 20
+Storage_Y 45
+
+Explosion 36
+
+Locked
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.5

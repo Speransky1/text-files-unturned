@@ -1,0 +1,56 @@
+GUID 4d1051c105b744cda476d24080f8a107
+Type Magazine
+Rarity Legendary
+ID 19319
+
+Size_X 1
+Size_Y 2
+Size_Z 0.295
+
+Amount 20
+Count_Min 10
+Count_Max 20
+
+Calibers 1
+Caliber_0 18817
+
+Tracer 19040
+
+Range 4
+Player_Damage 8
+Zombie_Damage 8
+Animal_Damage 8
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 19059
+Explosive
+
+Explosion_Launch_Speed 0
+
+Blueprints 4
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//Subsonic Ammo Box
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19291
+Blueprint_1_Build 30
+//Honey Bee Mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 19292
+Blueprint_2_Build 30
+//WKM Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 19319
+Blueprint_3_Build 30

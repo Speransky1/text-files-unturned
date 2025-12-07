@@ -1,0 +1,31 @@
+GUID a5f79301b74c4e84a1cc0a3a7687d6f7
+Type Trap
+Rarity Mythical
+Useable Barricade
+Build Spike
+ID 10009
+
+
+Has_Clip_Prefab False
+
+Size_X 4
+Size_Y 4
+Size_Z 0.35
+
+Unrepairable
+Unpickupable
+Proof_Explosion
+Can_Be_Damaged False
+
+Health 51232
+Range 4
+Radius 0.28
+Offset 0.25
+
+Player_Damage 66
+Zombie_Damage 60
+Animal_Damage 80
+
+Explosion 19
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3

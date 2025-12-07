@@ -1,0 +1,28 @@
+GUID e698b3e1ee354ad4afe303dbfd18318c
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Common
+Useable Structure
+Construct Roof_Poly
+ID 19214
+
+SalvageItem e698b3e1ee354ad4afe303dbfd18318c
+Min_Items_Dropped_On_Destroy 3
+Max_Items_Dropped_On_Destroy 3
+Item_Dropped_On_Destroy 882c55cf32b04c5f8a8ae97d7289af63
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1000
+Range 6
+
+Explosion 19
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

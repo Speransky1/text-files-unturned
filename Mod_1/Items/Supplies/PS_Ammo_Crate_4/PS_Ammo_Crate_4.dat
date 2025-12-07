@@ -1,0 +1,20 @@
+GUID 4505ce45a67b45feba895deebe20852e
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 19740
+
+Size_X 3
+Size_Y 2
+Size_Z 0.37
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 19325
+Quest_Reward_0_Amount 3
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 19681
+Quest_Reward_1_Amount 1
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Ammo_Crate_0

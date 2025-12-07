@@ -1,0 +1,37 @@
+GUID f12c8a32a0f640a1bd21bec5ab1b6423
+Type Storage
+Rarity Rare
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage_Wall
+ID 10572
+
+SalvageItem f12c8a32a0f640a1bd21bec5ab1b6423
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 340f1fb173714153a966c2b19c35f2cc
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 100
+Range 4
+Offset 0.11
+
+Storage_X 5
+Storage_Y 3
+Display
+Locked
+
+Explosion 36
+
+Invulnerable
+
+Should_Close_When_Outside_Range true
+
+Salvage_Duration_Multiplier 0.25

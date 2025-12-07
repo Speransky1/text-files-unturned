@@ -1,0 +1,36 @@
+GUID d296f0e5d77f4dc1bf9052d67e517b9c
+Type Sight
+Rarity Epic
+ID 19654
+
+Size_X 2
+Size_Y 1
+Size_Z 0.165
+
+Sway 1.3
+Zoom 3
+Aim_Duration_Multiplier 1.06
+
+Calibers 1
+Caliber_0 18911
+
+Blueprints 1
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19654
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 19384
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 19653
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Decraft Scope
+Action_0_Tooltip Uncouple the magnifier.

@@ -1,0 +1,178 @@
+GUID fb11dee86f204ff39af7b49e551f5ca6
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 10624
+
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_Honey.wav
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Guns/Battle_Rifles/PS_Scailo
+
+Magazine 10568
+Sight 10599
+
+Size_X 5
+Size_Y 2
+Size_Z 0.35
+
+Unplace 0.13
+Replace 0.6
+
+Magazine_Calibers 1
+Magazine_Caliber_0 18821
+
+Attachment_Calibers 4
+//Scope
+Attachment_Caliber_0 18911
+Attachment_Caliber_1 18909
+//Grip
+Attachment_Caliber_2 18930
+//Tactical
+Attachment_Caliber_3 18922
+
+Hook_Sight
+Hook_Grip
+Hook_Tactical
+
+Ammo_Min 0
+Ammo_Max 25
+
+Safety
+Semi
+Auto
+
+Caliber 19836
+
+Muzzle 19066
+
+Shell 19018
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements True
+
+Player_Damage_Bleeding Always
+
+Quality_Min 5
+Quality_Max 20
+
+Blueprints 3
+
+//Repair
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19659
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+
+//Salvage
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10624
+Blueprint_1_Outputs 1
+//Supply (High Tier Gun Parts)
+Blueprint_1_Output_0_ID 19262
+Blueprint_1_Output_0_Amount 4
+Blueprint_1_Tool 19004
+Blueprint_1_Build 27
+
+//Upgrade
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 3
+//Gun To Upgrade
+Blueprint_2_Supply_0_ID 10624
+Blueprint_2_Supply_0_Amount 1
+//Supply (Weapon Mod Kit)
+Blueprint_2_Supply_1_ID 19845
+Blueprint_2_Supply_1_Amount 1
+//Supply (Illegal Gun Parts)
+Blueprint_2_Supply_2_ID 19342
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 10626
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_State_Transfer
+Blueprint_2_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Repair
+Action_0_Tooltip Repair gun.
+
+////////////////////////////////////////Balance Stats
+
+Range 400
+Ballistic_Steps 40
+Ballistic_Drop 0.00055
+Damage_Falloff_Multiplier 0.6
+Damage_Falloff_Range 0.666
+Damage_Falloff_Max_Range 1
+Gunshot_Rolloff_Distance 800
+
+Can_Ever_Jam
+Jam_Quality_Threshold 0.5
+Jam_Max_Chance 0.06
+Unjam_Chamber_Anim Jam
+
+Aim_In_Duration 0.4
+
+Firerate 6
+Action Trigger
+
+Player_Damage 37
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.9
+
+Zombie_Damage 74
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.9
+
+Animal_Damage 74
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.9
+
+Barricade_Damage 37
+Structure_Damage 37
+Vehicle_Damage 37
+Resource_Damage 74
+Object_Damage 74
+
+Durability 0.06
+
+Recoil_Min_X -1.2
+Recoil_Min_Y 6
+Recoil_Max_X 1.2
+Recoil_Max_Y 8
+
+Recover_X 0.95
+Recover_Y 0.95
+
+Shake_Min_X -0.01
+Shake_Min_Y -0.005
+Shake_Min_Z -0.04
+Shake_Max_X 0.01
+Shake_Max_Y 0.01
+Shake_Max_Z -0.08
+
+Recoil_Crouch 1.1
+Recoil_Prone 2.5
+Recoil_Midair 3
+
+Spread_Aim 0.05
+Spread_Hip 0.10
+Spread_Prone 0.5
+Spread_Crouch 0.9
+Spread_Midair 3

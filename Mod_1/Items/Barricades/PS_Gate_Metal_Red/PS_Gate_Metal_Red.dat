@@ -1,0 +1,23 @@
+GUID e97ebe9e0aa2481ab506a145c8fee651
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Gate
+ID 59941
+
+Size_X 2
+Size_Y 1
+Size_Z 0.35
+
+Health 1400
+Range 4
+Radius 1.5
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

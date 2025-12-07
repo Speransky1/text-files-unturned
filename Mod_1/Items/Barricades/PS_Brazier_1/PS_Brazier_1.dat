@@ -1,0 +1,29 @@
+GUID f86b0b60cf644d8e80c17e4f9077f284
+Type Barricade
+Rarity Mythical
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Campfire
+ID 19909
+
+Size_X 1
+Size_Y 2
+Size_Z 0.85
+
+Health 6500
+Range 4
+Radius 0.63
+Offset 0.65
+
+Explosion 36
+Vulnerable
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+Can_Be_Damaged False
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Barricades/PS_Brazier_0

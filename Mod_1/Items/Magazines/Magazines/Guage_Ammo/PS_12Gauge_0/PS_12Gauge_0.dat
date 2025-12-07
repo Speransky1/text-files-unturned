@@ -1,0 +1,51 @@
+GUID 27684b6893fd403e84375ccf9b5478f6
+Type Magazine
+Rarity Rare
+ID 10543
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 6
+Count_Min 1
+Count_Max 6
+
+Pellets 6
+
+Calibers 1
+Caliber_0 18812
+
+Delete_Empty
+
+Tracer 19073
+
+Blueprints 5
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//12Guage (6)
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 10543
+Blueprint_2_Build 30
+//12Guage (2)
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 11009
+Blueprint_3_Build 30
+//AW-12 Drum
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 10602
+Blueprint_4_Build 30
+//Serna Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 11000
+Blueprint_1_Build 30

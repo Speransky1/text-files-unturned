@@ -1,0 +1,29 @@
+GUID 44d3d02390264899bd5b014fbeaab970
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Epic
+Useable Structure
+Construct Roof
+ID 10860
+
+SalvageItem 44d3d02390264899bd5b014fbeaab970
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 211d4ed48a4940429c3692fa3c787b38
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 10000
+Range 6
+
+Explosion 36
+
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.8

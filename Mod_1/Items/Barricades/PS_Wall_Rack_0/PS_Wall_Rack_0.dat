@@ -1,0 +1,29 @@
+GUID d63462e725ae4f1d9cb2edca44466cd3
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage_Wall
+ID 59789
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 300
+Range 4
+Offset 0.11
+
+Storage_X 5
+Storage_Y 3
+Display
+
+Invulnerable
+
+Explosion 36
+
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.25

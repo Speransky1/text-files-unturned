@@ -1,0 +1,17 @@
+GUID 7b68ac9ab81a4c168a85267fb99e8e01
+
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 60896
+
+Size_X 1
+Size_Y 1
+Size_Z 0.285
+
+Aid
+Health 15
+Water 5
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Medical/PS_Acid_Syringe

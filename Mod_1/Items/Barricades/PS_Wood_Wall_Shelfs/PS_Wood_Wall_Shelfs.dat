@@ -1,0 +1,35 @@
+GUID e4673faffdc3419895028870d9710450
+Type Storage
+Rarity Rare
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage_Wall
+ID 10571
+
+SalvageItem e4673faffdc3419895028870d9710450
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy db9f51e78ff24203a1722be857005283
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 100
+Range 4
+Offset 0.11
+
+Storage_X 5
+Storage_Y 3
+Display
+Locked
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+
+Salvage_Duration_Multiplier 0.25

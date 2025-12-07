@@ -1,0 +1,8 @@
+GUID 7c6791ee2f6e460e9aa7165f663304fe
+Type Sight
+ID 10766
+
+Zoom 2
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Sights/Tank_Scope

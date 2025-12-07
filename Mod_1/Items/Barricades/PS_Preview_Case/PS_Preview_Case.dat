@@ -1,0 +1,30 @@
+GUID cde73581c31c432ab1dd97f562fe6742
+Type Storage
+Useable Barricade
+Build Storage
+ID 10906
+
+Size_X 3
+Size_Y 3
+Size_Z 0.65
+
+Health 250
+Range 4
+Radius 0.5
+Offset 1.25
+
+Storage_X 10
+Storage_Y 10
+Display
+
+Salvage_Duration_Multiplier 0.1
+
+Allow_Placement_Inside_Clip_Volumes True
+
+Bypass_Claim
+
+Explosion 28
+
+Should_Close_When_Outside_Range true
+
+Has_Clip_Prefab false

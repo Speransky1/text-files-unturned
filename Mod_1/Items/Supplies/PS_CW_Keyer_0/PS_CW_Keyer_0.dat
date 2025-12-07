@@ -1,0 +1,26 @@
+GUID 6700f0da61ee470eb296ba380169caba
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59622
+
+Size_X 3
+Size_Y 3
+Size_Z 0.52
+
+Health 80
+Range 4
+Radius 0.15
+Offset 0.17
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True

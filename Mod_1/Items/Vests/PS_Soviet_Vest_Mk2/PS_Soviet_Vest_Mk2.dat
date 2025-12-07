@@ -1,0 +1,28 @@
+GUID 9c3dc1a346f444caba42e2ca619ab443
+
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 59128
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 5
+Height 6
+
+Armor 0.55
+Armor_Explosion 0.7
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+
+
+Quality_Min 5
+Quality_Max 15
+

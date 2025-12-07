@@ -1,0 +1,63 @@
+GUID 6f07714632ab4642811be5731dc55346
+
+
+Type Melee
+Rarity Epic
+Useable Melee
+Slot Any
+ID 59264
+
+Size_X 3
+Size_Y 2
+Size_Z 0.49
+
+Range 2
+Alert_Radius 32
+
+Player_Damage 20
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 45
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 25
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 105
+Structure_Damage 105
+Vehicle_Damage 25
+Resource_Damage 100
+Object_Damage 100
+
+Durability 0.01
+
+Blueprints 2
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 59275
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59276
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59277
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 59278
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 59279
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Tool 59376
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59010
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Build 32
+Repeated

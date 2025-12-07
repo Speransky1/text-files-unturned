@@ -1,0 +1,38 @@
+GUID 1719736821d34b66b03610ae62e1bac7
+
+Type Magazine
+Rarity Rare
+ID 63800
+
+Size_X 1
+Size_Y 1
+Size_Z 0.18
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/PS_Recon_Mag
+
+Amount 8
+Count_Min 0
+Count_Max 4
+
+Calibers 1
+Caliber_0 19800
+
+Tracer 19040
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 19999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63800
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63263
+Blueprint_2_Build 30

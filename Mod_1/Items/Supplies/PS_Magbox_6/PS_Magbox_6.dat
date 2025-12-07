@@ -1,0 +1,20 @@
+GUID 2204831025fa43a29fdf70b2dcb02d49
+Type Supply
+Rarity Epic
+ID 10514
+
+Size_X 2
+Size_Y 2
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10514
+Blueprint_0_Product 10510
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Magbox_0

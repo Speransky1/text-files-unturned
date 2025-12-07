@@ -1,0 +1,19 @@
+GUID 24ce2bf28fd64032920efe654591b1a8
+Type Supply
+Rarity Rare
+ID 10505
+
+Size_X 2
+Size_Y 2
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10505
+Blueprint_0_Product 19331
+Blueprint_0_Products 4
+Blueprint_0_Build 27
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Magbox_2

@@ -1,0 +1,15 @@
+GUID 9177eb3f77404768bfb329a7b40870ce
+Type Medical
+Rarity Legendary
+Useable Consumeable
+ID 60892 
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 60892 
+Quest_Reward_0_Amount 1
+

@@ -1,0 +1,17 @@
+GUID d439ff4a783f4b0888371668954280eb
+Type Food
+Rarity Legendary
+Useable Consumeable
+ID 10660
+
+Size_X 3
+Size_Y 2
+
+Quest_Rewards 2
+
+Quest_Reward_0_Type Item_Random
+Quest_Reward_0_ID 22229
+Quest_Reward_0_Amount 5
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 19505
+Quest_Reward_1_Amount 6

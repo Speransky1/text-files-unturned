@@ -1,0 +1,26 @@
+GUID f8aed542ea4644778a7de6176ac9979a
+Type Glasses
+Rarity Legendary
+Useable Clothing
+ID 59755
+
+Size_X 2
+Size_Y 1
+Size_Z 0.175
+
+Hair
+Beard
+
+Vision Military
+
+Nightvision_Color_R 90
+Nightvision_Color_G 190
+Nightvision_Color_B 210
+Nightvision_Fog_Intensity 1
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59016
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27

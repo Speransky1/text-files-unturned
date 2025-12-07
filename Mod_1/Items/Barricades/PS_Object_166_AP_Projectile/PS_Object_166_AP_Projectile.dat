@@ -1,0 +1,43 @@
+GUID a1cfc37296da4dd6b5a3a2fc59e98702
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Has_Clip_Prefab False
+Build Barricade
+ID 10530
+
+Size_X 4
+Size_Y 1
+Size_Z 0.155
+
+SalvageItem a1cfc37296da4dd6b5a3a2fc59e98702
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 3a7371bed7034acea12117c364dc47e1
+
+Health 100
+Range 4
+Radius 0.2
+Offset 0.39
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10530
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 19627
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 19000
+Blueprint_0_Output_1_Amount 3
+Blueprint_0_Tool 19375
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

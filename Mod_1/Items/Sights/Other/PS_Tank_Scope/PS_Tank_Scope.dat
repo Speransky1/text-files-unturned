@@ -1,0 +1,8 @@
+GUID 9e5c992f043c41819b525f60c1f603e3
+Type Sight
+ID 19116
+
+Zoom 1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Sights/Tank_Scope

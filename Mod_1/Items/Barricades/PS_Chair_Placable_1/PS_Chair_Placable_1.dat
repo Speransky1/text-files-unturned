@@ -1,0 +1,23 @@
+GUID f18c18d44398443a9c42004b86edb924
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59919
+
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Health 150
+Range 4
+Radius 0.4
+Offset 0.8
+
+Explosion 19
+Invulnerable
+
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.4

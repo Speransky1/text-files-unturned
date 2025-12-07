@@ -1,0 +1,35 @@
+GUID 9b28e91207a740c5b85f25f35db41292
+
+Type Magazine
+Rarity Legendary
+ID 63578
+
+Size_X 4
+Size_Y 1
+Size_Z 0.2
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Other/PS_RPG_Tandem
+
+Amount 1
+
+Calibers 1
+Caliber_0 18834
+
+Tracer 12103
+
+Delete_Empty
+
+Range 10
+Player_Damage 750
+Zombie_Damage 750
+Animal_Damage 750
+Barricade_Damage 2050
+Structure_Damage 2550
+Vehicle_Damage 1600
+Resource_Damage 2000
+Object_Damage 50000
+Explosion 19020
+Explosive
+
+Explosion_Launch_Speed 30

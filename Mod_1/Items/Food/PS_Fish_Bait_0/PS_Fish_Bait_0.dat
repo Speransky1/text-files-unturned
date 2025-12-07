@@ -1,0 +1,13 @@
+GUID bff11222eba24b3c99db031e8712b267
+Type Food
+Useable Consumeable
+Rarity Uncommon
+ID 10935
+
+Size_X 1
+Size_Y 1
+Size_Z 0.87
+
+Food 3
+
+Quality_Min 100

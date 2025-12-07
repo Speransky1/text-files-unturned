@@ -1,0 +1,58 @@
+GUID ef253cbeac1e4299b389e6a7f229c2b1
+Type Magazine
+Rarity Rare
+ID 10809
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 5
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 18809
+
+Tracer 19013
+
+Range 1
+Explosion 19059
+Explosive
+
+Explosion_Launch_Speed 0
+
+Blueprints 6
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//Magnum Ammo Package
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19288
+Blueprint_1_Build 30
+//Pass Mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 19289
+Blueprint_2_Build 30
+//RS50 Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 10809
+Blueprint_3_Build 30
+//SMG-M Mag
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 19926
+Blueprint_4_Build 30
+//SMG-M Mag Extended
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 10609
+Blueprint_5_Build 30

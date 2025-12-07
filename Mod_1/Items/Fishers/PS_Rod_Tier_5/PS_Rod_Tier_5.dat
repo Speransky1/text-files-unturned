@@ -1,0 +1,20 @@
+GUID 1e9ecbf907774f94b7040eb5a109ef1d
+Type Fisher
+Rarity Legendary
+Useable Fisher
+ID 19731
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Reward_ID 19228
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19730
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27

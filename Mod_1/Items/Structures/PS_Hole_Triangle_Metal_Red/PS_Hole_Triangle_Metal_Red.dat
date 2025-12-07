@@ -1,0 +1,29 @@
+GUID f75a23c4e33c40c1b49a1d38a7d12bdb
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Epic
+Useable Structure
+Construct Roof_Poly
+ID 19479
+
+SalvageItem f75a23c4e33c40c1b49a1d38a7d12bdb
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 211d4ed48a4940429c3692fa3c787b38
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 10000
+Range 6
+
+Explosion 36
+
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.8

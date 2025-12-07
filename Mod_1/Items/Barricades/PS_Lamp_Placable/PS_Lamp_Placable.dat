@@ -1,0 +1,25 @@
+GUID 0fcddbf3d97e42d484ab1af529c33108
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Spot
+ID 59885
+
+Size_X 2
+Size_Y 3
+
+Size_Z 0.69
+
+Health 250
+Range 4
+Radius 0.5
+Offset 1
+
+Explosion 36
+
+Vulnerable
+
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.3

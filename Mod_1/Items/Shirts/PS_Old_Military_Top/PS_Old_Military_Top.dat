@@ -1,0 +1,31 @@
+GUID d8f18f2cd71443238a63af52dc46baa2
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 10848
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 4
+Height 2
+
+Armor 0.95
+
+Armor_Explosion 1
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 10848
+Blueprint_0_Product 19002
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19002
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Quality_Min 75
+Quality_Max 100

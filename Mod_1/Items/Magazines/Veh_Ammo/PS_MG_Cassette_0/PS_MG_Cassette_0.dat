@@ -1,0 +1,39 @@
+GUID ebc16cfff6d5463481d93bc3e27dfe57
+Type Magazine
+Rarity Legendary
+ID 19195
+
+Size_X 5
+Size_Y 3
+Size_Z 0.6
+
+Amount 200
+Count_Min 50
+Count_Max 100
+
+Calibers 1
+Caliber_0 19195
+
+Pellets 3
+
+Tracer 19086
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19195
+Blueprint_0_Build 30
+
+Use_Auto_Icon_Measurements False
+
+Range 7
+Player_Damage 15
+Zombie_Damage 30
+Animal_Damage 30
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 5
+Resource_Damage 30
+Object_Damage 30
+Explosion 19044
+Explosive

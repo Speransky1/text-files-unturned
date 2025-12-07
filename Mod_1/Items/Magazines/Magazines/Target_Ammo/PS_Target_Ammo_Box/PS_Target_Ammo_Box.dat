@@ -1,0 +1,47 @@
+GUID 72fb9200485e46ff9c63e17cf73822bd
+Type Magazine
+Rarity Uncommon
+ID 19246
+
+Size_X 2
+Size_Y 2
+Size_Z 0.325
+
+Amount 90
+Count_Min 45
+Count_Max 90
+
+Calibers 1
+Caliber_0 18800
+
+Tracer 48
+
+Blueprints 5
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//Target Ammo Box
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19246
+Blueprint_1_Build 30
+//T22 Mag (20)
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 19250
+Blueprint_2_Build 30
+//T22 Mag (30)
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 19251
+Blueprint_3_Build 30
+//T22 Drum
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 19252
+Blueprint_4_Build 30

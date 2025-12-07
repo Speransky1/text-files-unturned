@@ -1,0 +1,34 @@
+GUID 3c70b15ede88498aacb97d1cd094d1ca
+Type Tactical
+Rarity Epic
+ID 10675
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 18922
+
+Firerate 1
+Spread 1.15
+Damage 0.8
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10675
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 19000
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Scrap
+Action_0_Tooltip Turn into components.

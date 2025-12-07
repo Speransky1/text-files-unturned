@@ -1,0 +1,23 @@
+GUID d898eac298dc47579b6f3e7c433ecca7
+Type Supply
+Rarity Epic
+ID 10685
+
+Size_X 5
+Size_Y 2
+Size_Z 0.4
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 10685
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 19162
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Tool 19003
+Blueprint_0_Product 10686
+Blueprint_0_Products 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

@@ -1,0 +1,28 @@
+GUID 7ac6c06e292843c9948765a858994ba4
+Type Oil_Pump
+Rarity Epic
+Useable Barricade
+Build Oil
+ID 59521
+
+Size_X 4
+Size_Y 4
+Size_Z 0.6
+
+Health 1000
+Range 4
+Radius 1.2
+Offset 1.25
+
+Explosion 36
+
+Vulnerable
+
+
+Fuel_Capacity 10000
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Use_Auto_Icon_Measurements False
+
+Salvage_Duration_Multiplier 0.5

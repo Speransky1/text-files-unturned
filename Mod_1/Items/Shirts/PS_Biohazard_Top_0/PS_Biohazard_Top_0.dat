@@ -1,0 +1,41 @@
+GUID 488175eabee74a72a36bbf819cb7caa6
+
+Type Shirt
+Rarity Legendary
+Useable Clothing
+ID 59776
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 4
+
+Armor 0.8
+
+Proof_Radiation
+
+Proof_Fire
+
+Quality_Min 75
+Quality_Max 100
+
+Blueprints 2
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59774
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 59658
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 59564
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Tool 59375
+Blueprint_0_Build 27
+
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59774
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32

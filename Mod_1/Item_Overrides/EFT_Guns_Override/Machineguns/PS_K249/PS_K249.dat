@@ -1,0 +1,122 @@
+GUID 638f4856d14340238b57ab76dc540561
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 10512
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+
+Magazine 10510
+Grip 10668
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_LMG.wav
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Guns/Machineguns/PS_K249
+
+
+Aiming_Movement_Speed_Multiplier 0.9
+
+Aiming_Recoil_Multiplier 1
+
+Aim_In_Duration 0.4
+
+Ammo_Min 55
+Ammo_Max 200
+
+Unplace 0.1
+Replace 0.47
+
+Hook_Sight
+Hook_Grip
+
+Safety
+Auto
+
+Attachment_Calibers 2
+Attachment_Caliber_0 18904
+Attachment_Caliber_1 18902
+
+Magazine_Calibers 1
+Magazine_Caliber_0 11108
+
+Firerate 5
+Action Trigger
+
+Player_Damage 42
+Player_Leg_Multiplier 0.33
+Player_Arm_Multiplier 0.33
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 2
+
+Zombie_Damage 80
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 80
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 2
+Structure_Damage 4
+Vehicle_Damage 8
+Resource_Damage 99
+Object_Damage 90
+
+Durability 0.02
+
+Spread_Aim 0.02
+Spread_Hip 0.03
+
+Recoil_Min_X -2
+Recoil_Min_Y 3
+Recoil_Max_X 2
+Recoil_Max_Y 4.5
+
+Recover_X 1
+Recover_Y 0.1
+
+Range 600
+Ballistic_Steps 75
+Ballistic_Travel 8
+Ballistic_Drop 0.001
+
+Damage_Falloff_Range 0.2
+Damage_Falloff_Max_Range 0.66
+Damage_Falloff_Multiplier 0.6
+
+Muzzle 19001
+
+Shell 19018
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27
+
+Gunshot_Rolloff_Distance 400
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements True
+
+Recoil_Prone 0.35
+Spread_Prone 0.035
+
+Recoil_Crouch 0.45
+Spread_Crouch 0.45
+
+Player_Damage_Bleeding Always
+
+Quality_Min 5
+Quality_Max 15

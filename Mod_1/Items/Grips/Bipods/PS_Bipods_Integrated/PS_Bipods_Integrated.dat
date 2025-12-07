@@ -1,0 +1,41 @@
+GUID 3474a6017a96446e9b4c5b09bd9c2c2e
+Type Grip
+Rarity Epic
+ID 10668
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Bipod
+
+Recoil_X 0.5
+Recoil_Y 0.5
+
+Aim_Duration_Multiplier 1.25
+Shake 0.25
+Spread 0.9
+Sway 0.25
+
+Calibers 2
+Caliber_0 11998
+Caliber_1 20907
+
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10668
+Blueprint_0_State_Transfer
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 10669
+Blueprint_0_Build 27
+
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 0
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Сложить сошки
+Action_0_Tooltip Сложить

@@ -1,0 +1,72 @@
+GUID 940da67b98844ef08339badde07554f2
+Type Magazine
+Rarity Epic
+ID 19891
+
+Size_X 2
+Size_Y 1
+Size_Z 0.12
+
+Amount 50
+Count_Min 25
+Count_Max 50
+
+Calibers 1
+Caliber_0 18815
+
+Tracer 19002
+
+Blueprints 10
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//Swift Ammo Box
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19325
+Blueprint_1_Build 30
+//C99 Mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 19407
+Blueprint_2_Build 30
+//Kaban Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 11004
+Blueprint_3_Build 30
+//PRO90 Mag
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 19891
+Blueprint_4_Build 30
+//Shpagin Mag
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 11069
+Blueprint_5_Build 30
+//SMG Mag
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 19331
+Blueprint_6_Build 30
+//SMG Drum
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 10608
+Blueprint_7_Build 30
+//Swift Mag
+Blueprint_8_Type Ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 19326
+Blueprint_8_Build 30
+//Swift Mag Extended
+Blueprint_9_Type Ammo
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 19798
+Blueprint_9_Build 30

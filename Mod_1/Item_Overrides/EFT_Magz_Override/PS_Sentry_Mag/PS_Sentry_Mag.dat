@@ -1,0 +1,21 @@
+GUID 6511a335d3ba4881965dcd426229c8be
+
+Type Magazine
+Rarity Legendary
+ID 63508
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Other/PS_Sentry_Mag
+
+Size_X 10
+Size_Y 10
+Size_Z 10
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 19507
+
+Tracer 19002

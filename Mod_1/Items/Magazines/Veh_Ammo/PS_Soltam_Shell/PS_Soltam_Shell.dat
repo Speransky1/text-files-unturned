@@ -1,0 +1,17 @@
+GUID 799f87563bce4a84adb8f21a0cc68df8
+Type Magazine
+Rarity Legendary
+ID 10634
+
+Size_X 5
+Size_Y 2
+Size_Z 0.3
+
+Amount 1
+
+Calibers 1
+Caliber_0 10235
+
+Delete_Empty
+
+Use_Auto_Icon_Measurements False

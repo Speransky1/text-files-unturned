@@ -1,0 +1,28 @@
+GUID 3d41922e791847efad95588e332913ed
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Common
+Useable Structure
+Construct Roof
+ID 10861
+
+SalvageItem 3d41922e791847efad95588e332913ed
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 882c55cf32b04c5f8a8ae97d7289af63
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1000
+Range 6
+
+Explosion 19
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

@@ -1,0 +1,54 @@
+GUID d51fdd72d6f14e3f979c8bc95b54f8db
+Type Magazine
+Rarity Legendary
+ID 10609
+
+Size_X 1
+Size_Y 3
+Size_Z 0.35
+
+Amount 45
+Count_Min 22
+Count_Max 45
+
+Speed 0.9
+
+Calibers 1
+Caliber_0 18807
+
+Tracer 19002
+
+Blueprints 6
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//Magnum Ammo Package
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19288
+Blueprint_1_Build 30
+//Pass Mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 19289
+Blueprint_2_Build 30
+//RS50 Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 10809
+Blueprint_3_Build 30
+//SMG-M Mag
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 19926
+Blueprint_4_Build 30
+//SMG-M Mag Extended
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 10609
+Blueprint_5_Build 30

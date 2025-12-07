@@ -1,0 +1,24 @@
+GUID 84ac0c5a8aa440c5892a8ceb15e6a750
+Type Supply
+Rarity Rare
+ID 10542
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10542
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 10543
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 30
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Open ammo box.
+Action_0_Tooltip Open ammo box.

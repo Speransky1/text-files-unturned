@@ -1,0 +1,32 @@
+GUID 50ba8af7631d4187b114b7c7fdb0c05a
+Type Barrel
+Rarity Epic
+ID 10642
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 10516
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10642
+Blueprint_0_Product 19000
+Blueprint_0_Products 1
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Scrap
+Action_0_Tooltip Turn into <color=#ffffff>Metal</color>.

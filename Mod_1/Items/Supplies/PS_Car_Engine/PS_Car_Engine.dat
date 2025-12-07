@@ -1,0 +1,25 @@
+GUID a593946f773244c98c16c7b69430db7e
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59285
+
+Size_X 4
+Size_Y 4
+Size_Z 0.8
+
+Health 1000
+Range 4
+Radius 0.5
+Offset 0.53
+
+Explosion 36
+Invulnerable
+
+Salvage_Duration_Multiplier 0.7
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True

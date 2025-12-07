@@ -1,0 +1,49 @@
+GUID 36ba41a79c024694bbee5ad45ed126d1
+Type Supply
+Rarity Epic
+ID 10019
+
+Size_X 3
+Size_Y 2
+Size_Z 0.435
+
+Blueprints 2
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 10019
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 19964
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 19659
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 19423
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10019
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 19262
+Blueprint_1_Output_0_Amount 3
+Blueprint_1_Tool 19004
+Blueprint_1_Build 27
+
+Actions 2
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Assemble a gun
+Action_0_Tooltip Assemble a gun.
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Blueprint_0_Link
+Action_1_Text Scrap
+Action_1_Tooltip Turn into components.

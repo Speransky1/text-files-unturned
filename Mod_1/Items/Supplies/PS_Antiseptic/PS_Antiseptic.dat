@@ -1,0 +1,16 @@
+GUID 33d8ec1f1ac04fa2a4a29c80c0596493
+
+Type Supply
+Rarity Uncommon
+ID 59014
+
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59370
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27

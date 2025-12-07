@@ -1,0 +1,27 @@
+GUID ee50602db9074349b1c889f65bf112f8
+Type Beacon
+Rarity Epic
+Useable Barricade
+Build Beacon
+ID 59888
+
+Size_X 2
+Size_Y 3
+Size_Z 0.7
+
+Health 650
+Range 4
+Radius 2
+Offset 0.5
+
+Explosion 59063
+Unpickupable
+
+
+Wave 80
+Rewards 12
+Reward_ID 59314
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Allow_Placement_Inside_Clip_Volumes True

@@ -1,0 +1,30 @@
+GUID 66494ce82eef4a7e97ee598ca01d5f30
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Epic
+Useable Structure
+Construct Wall
+ID 10885
+
+SalvageItem 66494ce82eef4a7e97ee598ca01d5f30
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 211d4ed48a4940429c3692fa3c787b38
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Requires_Pillars false
+
+Health 10000
+Range 6
+
+Explosion 36
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.8
