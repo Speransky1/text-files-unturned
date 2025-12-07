@@ -1,5 +1,0 @@
-﻿// Made in NPC Maker by BowieD
-Message_0_Page_0 Здарова, если есть рыба - тащи сюда, скупаю.
-Response_0 *Торговать*
-Response_1 <color=white>Расскажи мне про рыбалку</color>
-Response_2 *Уйти*

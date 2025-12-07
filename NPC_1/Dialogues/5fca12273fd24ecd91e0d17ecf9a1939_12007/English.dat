@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Если есть руда - куплю дорого.
+Response_0 *Торговать*
+Response_1 <color=white>Расскажи мне про добычу руды</color>
+Response_2 *Уйти*

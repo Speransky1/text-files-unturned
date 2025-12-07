@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Чем могу помочь?
+Response_0 <color=uncommon>Вы - медик?</color>
+Response_1 *Купить медикаменты*
+Response_2 *Уйти*

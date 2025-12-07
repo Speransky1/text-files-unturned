@@ -1,0 +1,16 @@
+﻿// Made in NPC Maker by BowieD
+GUID 8b1c5cb5732b45ac862c6f0942e73237
+ID 14010
+Type NPC
+Shirt 59149
+Pants 59917
+Vest 56223
+Hat 59113
+Primary 63544
+Face 29
+Beard 9
+Hair 0
+Color_Skin #BEA582
+Color_Hair #352C22
+Pose Stand
+Dialogue 12011
