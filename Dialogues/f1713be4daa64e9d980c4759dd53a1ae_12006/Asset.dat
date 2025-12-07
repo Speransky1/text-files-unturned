@@ -1,0 +1,20 @@
+﻿// Made in NPC Maker by BowieD
+GUID f1713be4daa64e9d980c4759dd53a1ae
+Type Dialogue
+ID 12006
+Messages 1
+Message_0_Pages 1
+Responses 3
+Response_0_Dialogue 12150
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 17072
+Response_0_Condition_0_Value False
+Response_0_Condition_0_Logic Equal
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 17072
+Response_0_Reward_0_Value True
+
+Response_1_Vendor 13007
