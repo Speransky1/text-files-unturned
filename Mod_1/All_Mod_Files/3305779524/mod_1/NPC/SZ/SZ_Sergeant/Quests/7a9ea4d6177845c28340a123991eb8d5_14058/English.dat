@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=uncommon>Добро пожаловать в Тайрелл</color>
+Description Чтобы заново освоится после в Тайрелле, нужно набраться знаний о местных Выживших. Было решено начать с того, что ты поговоришь с торговцами.... 
+Condition_0 Поговорить со скупщиком <color=uncommon>Сонни</color>
+Condition_1 Поговорить с механиком <color=uncommon>Лестером</color>
+Condition_2 Поговорить с аптекарем <color=uncommon>Дженни</color>
+Condition_3 Поговорить с работником кафе<color=uncommon>Хавьером</color>
+Reward_0 Футболка
+Reward_1 Штаны

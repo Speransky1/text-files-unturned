@@ -1,0 +1,33 @@
+﻿GUID a1317e9a99374c85ab4bcc3064f18943
+
+Type Water
+Useable Consumeable
+ID 41648
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Water 50
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems "3dca37c8a4834a989ef9e5a2f8060ecd" // Purification Tablets
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 41508
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Empty Bottle Received
+Quest_Reward_1_Duration 1
+InventoryAudio Sounds/Inventory/WaterShaking/Water_Shaking.asset
+Use_Auto_Stat_Descriptions false
+ConsumeAudioClip Sounds/DrinkSwallow_3.ogg

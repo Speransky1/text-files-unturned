@@ -1,0 +1,7 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=rare>Помощь извне</color>
+Description <color=mythical>Байкалу</color> нужен набор помощи, который скидывают с вертолётов. Зачем он ему не совсем понятно, но раз надо - значит надо, хуле тут елозить
+Condition_0 Принести набор помощи из аирдропа {0}/{1}
+Reward_4 <color=white>Новый комплект у</color> <color=epic>Дюшеса:</color>
+Reward_6 <color=white>Новые бартеры у</color> <color=#a92b75>Контрабандиста:</color>
+Reward_9 <color=yellow>Влияние: +200</color>

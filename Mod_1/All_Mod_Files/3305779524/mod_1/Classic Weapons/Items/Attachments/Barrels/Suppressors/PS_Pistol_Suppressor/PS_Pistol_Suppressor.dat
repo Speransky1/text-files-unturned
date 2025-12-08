@@ -1,0 +1,32 @@
+GUID d0c5569c1b9c4c76ba71f078092001da
+Type Barrel
+Rarity Rare
+ID 31204
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 25007
+
+Recoil_X 0.90
+Recoil_Y 0.90
+Shake 0.96
+Ballistic_Drop 1.1
+
+Gunshot_Rolloff_Distance_Multiplier 0.75
+Silenced 
+Volume 0.5
+
+Quality_Min 100
+Quality_Max 100
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31200
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

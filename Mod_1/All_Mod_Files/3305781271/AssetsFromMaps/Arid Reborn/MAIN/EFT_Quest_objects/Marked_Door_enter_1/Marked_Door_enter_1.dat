@@ -1,0 +1,22 @@
+GUID f4240cbd98414559abd3f98d20b4ebc1
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 62702
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 18001
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Bravo_Enter
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Large/PS_Offices_Door_1

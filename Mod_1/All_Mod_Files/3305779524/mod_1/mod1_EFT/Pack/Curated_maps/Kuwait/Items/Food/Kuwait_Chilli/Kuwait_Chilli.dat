@@ -1,0 +1,14 @@
+GUID a406d191ae4f4ec9b912700c93917b2a
+Type Food
+Rarity Common
+Useable Consumeable
+ID 5282
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 12
+Health 2
+
+Warmth 50

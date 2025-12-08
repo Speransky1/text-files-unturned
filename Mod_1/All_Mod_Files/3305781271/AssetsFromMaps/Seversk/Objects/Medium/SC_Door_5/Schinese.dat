@@ -1,0 +1,5 @@
+Name SC Door #6 [Interactive]
+
+Interactability_Condition_0 S2 key required
+
+Interact 通过地堡门进入S2 [{0}]

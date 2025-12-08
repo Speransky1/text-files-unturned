@@ -1,0 +1,49 @@
+GUID cc6b4a590b3c43b1a7a022757d80117b
+Rarity Legendary
+Type Vehicle
+ID 19047
+
+Speed_Min -5
+Speed_Max 5
+Steer_Min 12
+Steer_Max 24
+
+Health_Min 25000
+Health_Max 25000
+Health 25000
+
+
+
+Explosion_Min_Force_X -16
+Explosion_Min_Force_Y 128
+Explosion_Min_Force_Z -16
+Explosion_Max_Force_X 16
+Explosion_Max_Force_Y 128
+Explosion_Max_Force_Z 16
+
+Bicycle
+Bicycle_Anim_Speed 0.25
+Stamina_Boost 0.6
+Stamina_Powered
+
+Has_Horn False
+Can_Be_Locked False
+Has_Clip_Prefab false
+Traction
+Bumper_Multiplier 0
+Exit 1.5
+Brake 40
+Invulnerable
+Environment_Invulnerable
+Explosions_Invulnerable
+Tires_Invulnerable
+Should_Spawn_Seat_Capsules true
+Bumper_Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 10765
+Turret_0_Yaw_Min -360
+Turret_0_Yaw_Max 360
+Turret_0_Pitch_Min 80
+Turret_0_Pitch_Max 110

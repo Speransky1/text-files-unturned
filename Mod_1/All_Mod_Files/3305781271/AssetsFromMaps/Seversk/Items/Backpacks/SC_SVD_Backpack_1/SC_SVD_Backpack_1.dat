@@ -1,0 +1,27 @@
+﻿GUID c4495ea8b68e4187b3f61d85b88b5fb4
+
+Type Backpack
+Useable Clothing
+Rarity Legendary
+ID 41600
+
+Size_X 3
+Size_Y 4
+Size_Z 0.7
+Quality_Min 10
+Quality_Max 20
+Use_Auto_Stat_Descriptions False
+
+
+
+Width 8
+Height 7
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg

@@ -1,0 +1,34 @@
+GUID 297528c5d10147da8d3dbf0160765db7
+Type Barrel
+Rarity Epic
+ID 31201
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 25005
+
+Recoil_X 0.9
+Recoil_Y 0.85
+Shake 0.94
+
+Ballistic_Drop 1.1
+
+Silenced 
+Volume 0.5
+Gunshot_Rolloff_Distance_Multiplier 0.75
+
+Quality_Min 100
+Quality_Max 100
+
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31200
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

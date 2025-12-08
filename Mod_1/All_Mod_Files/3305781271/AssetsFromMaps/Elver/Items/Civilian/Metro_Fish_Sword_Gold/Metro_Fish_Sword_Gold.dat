@@ -1,0 +1,52 @@
+GUID 2b80ced32d4541cbb695ce8b1070706b
+
+Type Melee
+Rarity Legendary
+Useable Melee
+Slot Secondary
+ID 57483
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Range 3.6
+Strength 1.1
+Stamina 22
+
+Player_Damage 84
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 150
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 100
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 25
+Resource_Damage 10
+Object_Damage 100
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 57122 
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57221  
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 57483 
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 3

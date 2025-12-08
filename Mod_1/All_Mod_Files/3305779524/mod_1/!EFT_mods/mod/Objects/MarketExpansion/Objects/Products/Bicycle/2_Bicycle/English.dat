@@ -1,0 +1,5 @@
+Name ME Bicycle #2
+
+Interactability_Condition_0 Requires <color=#4E5D8E>1500$</color> 
+
+Interact Purchase a Black Bicycle for <color=#4E5D8E>1500$</color>  [{0}]

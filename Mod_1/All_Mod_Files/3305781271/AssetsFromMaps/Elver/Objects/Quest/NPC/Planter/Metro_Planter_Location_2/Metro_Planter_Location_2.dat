@@ -1,0 +1,14 @@
+GUID c9136f0e2c6c442b840212e04f2d2859
+
+Type Small
+Has_Clip_Prefab false
+ID 57718
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57155
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Planter/Metro_Plant_Cones_0

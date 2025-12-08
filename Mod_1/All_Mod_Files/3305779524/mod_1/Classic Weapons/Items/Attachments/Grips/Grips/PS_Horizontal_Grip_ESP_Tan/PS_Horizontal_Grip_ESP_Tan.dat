@@ -1,0 +1,24 @@
+GUID 407e70e469aa4df8a962c8f8418c6998
+Type Grip
+Rarity Legendary
+ID 31243
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 25110
+
+Recoil_X 0.75
+Recoil_Y 0.95
+Shake 0.92
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31243
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

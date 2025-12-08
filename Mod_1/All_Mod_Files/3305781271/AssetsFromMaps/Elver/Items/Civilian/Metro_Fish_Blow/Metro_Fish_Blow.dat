@@ -1,0 +1,28 @@
+GUID a7cb126b95874a74a12c1f21825b66a8
+
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 57121
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Virus 70
+Food 5
+Water 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 57121
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57202
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 57065 
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 57118
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27

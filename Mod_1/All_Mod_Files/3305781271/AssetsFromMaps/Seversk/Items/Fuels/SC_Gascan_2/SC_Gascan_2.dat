@@ -1,0 +1,53 @@
+﻿GUID 46ee635d88214b6ebc63865c784f1058
+
+Type Fuel
+Useable Fuel
+ID 41571
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Fuel 400
+InventoryAudio Sounds/Inventory/WaterShaking/Water_Shaking.asset
+Use_Auto_Stat_Descriptions false
+Use_Auto_Icon_Measurements True
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			"edc4d492616c4bfa841f8a8a1c58df1e x 5" // Plastic Fragments
+			"1986846586774600b7b8779394e49fb6 x 2" // Glue
+			"28302cbb580641738db43ae62a045dbe" // Insulating Tape
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+		]
+		OutputItems "edc4d492616c4bfa841f8a8a1c58df1e x 3" // Electronic Fragments
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 2
+Action_0_Blueprint_1_Index 1
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

@@ -1,0 +1,15 @@
+GUID d9893cd96e4e4338bfecc194bad2f0e9
+Type Barricade
+Useable Barricade
+Build Vehicle
+ID 45395
+
+Size_X 4
+Size_Y 3
+Size_Z 0.35
+
+Range 8
+Radius 1.75
+Offset 2
+
+Explosion 45135

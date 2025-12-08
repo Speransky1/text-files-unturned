@@ -1,0 +1,16 @@
+﻿GUID 3dca37c8a4834a989ef9e5a2f8060ecd
+
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 41624
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+InventoryAudio Sounds/Inventory/TabletsShaking/Tablets_Shaking.asset
+Aid
+Health 15
+Virus 10
+ConsumeAudioClip Sounds/Tablets_Swallow_1.ogg
+Use_Auto_Stat_Descriptions False

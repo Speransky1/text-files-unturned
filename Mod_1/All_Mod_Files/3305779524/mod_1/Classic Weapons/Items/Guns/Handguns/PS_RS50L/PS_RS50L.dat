@@ -1,0 +1,162 @@
+GUID 723fbbf1c0c24a5fb3fbdf2df5e51bc6
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Requires_NonZero_Attachment_Caliber True
+Slot Secondary
+ID 30021
+
+EquipAudioClip classicweapons.masterbundle:Assets/Guns_Equip/Equip_Deagle.wav
+
+Size_X 3
+Size_Y 2
+Size_Z 0.375
+
+Magazine 31022
+Sight 31279
+
+Hook_Sight
+
+Unplace 0.40
+Replace 0.80
+EquipableModelParent SpineHook
+Instantiated_Item_Name_Override 10807
+
+Ammo_Min 2
+Ammo_Max 6
+
+Safety
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 25029
+
+Attachment_Calibers 1
+//Scope
+Attachment_Caliber_0 25100
+
+Muzzle 30035
+
+Shell 30005
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Player_Damage_Bleeding Always
+
+
+
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "42ed3dec53e943c08810f115b75e9302" // Metal Scrap
+				Amount 1
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			"7b82c125a5a54984b8bb26576b59e977" // Workbench
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			"643bcbfe6a714f2ea7a78206855f3a87" // RS50
+			"72d7e61e9b3b4a5ea64a0a705e7b2a2c" // Mod Kit
+		]
+		OutputItems this
+		Skill Craft
+		Skill_Level 1
+		RequiresNearbyCraftingTags
+		[
+			"7b82c125a5a54984b8bb26576b59e977" // Workbench
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "21ede8ebffb14c5580e8c7ad149e335e x 2" // Metal Scrap
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]
+
+////////////////////////////////////////Balance Stats
+
+Range 500
+Ballistic_Steps 50
+Ballistic_Drop 0.0011
+Damage_Falloff_Multiplier 0.6
+Damage_Falloff_Range 0.666
+Damage_Falloff_Max_Range 1
+Gunshot_Rolloff_Distance 1000
+
+Can_Ever_Jam
+Jam_Quality_Threshold 0.5
+Jam_Max_Chance 0.2
+Unjam_Chamber_Anim Jam
+
+
+
+Firerate 20
+Action Trigger
+
+Player_Damage 46
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.7
+
+Zombie_Damage 92
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.7
+
+Animal_Damage 92
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.7
+
+Barricade_Damage 14
+Structure_Damage 14
+Vehicle_Damage 18
+Resource_Damage 16
+Object_Damage 18
+
+Durability 0.2
+
+Recoil_Min_X -1
+Recoil_Min_Y 21
+Recoil_Max_X 1
+Recoil_Max_Y 22
+
+Recover_X 0.8
+Recover_Y 0.85
+
+Shake_Min_X -0.015
+Shake_Max_X 0.015
+
+Shake_Min_Y -0.045
+Shake_Max_Y -0.05
+
+Shake_Min_Z -0.015
+Shake_Max_Z -0.025
+
+Recoil_Midair 3
+
+Spread_Aim 0.04
+Spread_Hip 0.08
+Spread_Midair 3

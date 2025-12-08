@@ -1,0 +1,25 @@
+GUID 7110627697cf41f49e71b33ee70f1288
+
+Type Small
+Has_Clip_Prefab false
+ID 57981
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 57208
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Decrement
+Interactability_Reward_1_Type Item
+Interactability_Reward_1_ID 57468
+Interactability_Reward_1_Amount 1
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 57208
+Condition_0_Value 0
+Condition_0_Logic Greater_Than
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_Withdraw

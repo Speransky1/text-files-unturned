@@ -1,0 +1,41 @@
+GUID 05294ccd936a450298734a414e025023
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 51604
+
+SalvageItem 05294ccd936a450298734a414e025023
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Health 1
+Range 4
+Radius 0.1
+Offset 0.1
+
+Explosion 51025
+Vulnerable
+Salvage_Duration_Multiplier 0.25
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Bypass_Pickup_Ownership True
+Allow_Placement_On_Vehicle False
+Has_Clip_Prefab False
+Use_Auto_Icon_Measurements False
+Bypass_Claim 
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 51029
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 51300
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 51033
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 51059
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 32

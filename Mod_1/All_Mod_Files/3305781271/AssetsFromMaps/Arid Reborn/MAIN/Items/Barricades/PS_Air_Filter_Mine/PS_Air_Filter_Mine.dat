@@ -1,0 +1,40 @@
+GUID 8d23bf12483749969d51c6e3760ddae4
+Type Trap
+Rarity Epic
+Useable Barricade
+Build Spike
+ID 59887
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 50
+Range 4
+Radius 0.1
+Offset 0.06
+
+Player_Damage 10
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 60
+Structure_Damage 60
+Vehicle_Damage 600
+Resource_Damage 1700
+Object_Damage 1000
+
+Explosion_Launch_Speed 10
+
+Trap_Setup_Delay 3
+
+Range2 10
+Explosion2 59061
+Explosive
+
+Explosion 36
+
+Vulnerable
+
+PlacementAudioClip Sounds/BeepPlacing1.mp3
+
+Salvage_Duration_Multiplier 0.2

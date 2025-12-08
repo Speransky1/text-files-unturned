@@ -1,0 +1,14 @@
+GUID aecba7eec77e43e2be3b9cdf7a03c63d
+
+Type Small
+ID 38908
+
+Master_Bundle_Override skyfight.masterbundle
+Bundle_Override_Path Objects/Quest/Skyfight_Switch_Off
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 38807
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset

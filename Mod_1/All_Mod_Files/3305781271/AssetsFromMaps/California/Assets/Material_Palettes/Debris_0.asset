@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "ba8eb42bbc9244a3b972dc94e997155a"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/debris_0/debris_0.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/debris_0/debris_1.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/debris_0/debris_2.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/debris_0/debris_3.mat"
+		}
+	]
+}

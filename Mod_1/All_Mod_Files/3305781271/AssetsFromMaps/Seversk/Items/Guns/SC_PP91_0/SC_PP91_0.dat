@@ -1,0 +1,201 @@
+﻿GUID 8a2c23b5a4aa4c8fae5ff8b138a0e4cb
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Primary
+ID 41695
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 3
+Requires_NonZero_Attachment_Caliber true
+Size_X 4
+Size_Y 2
+Size2_Z 0.3
+Magazine 41696
+Quality_Min 40
+Quality_Max 70
+Ammo_Min 15
+Ammo_Max 20
+StateTransfer false
+StateTransfer_DeleteAttachments false
+Auto
+Muzzle 41355
+Hook_Tactical
+Shell 41359
+Durability 0.3
+Magazine_Calibers 1
+Magazine_Caliber_0 43006
+Range 120
+Firerate 3
+Hook_Barrel
+Unplace 0.2
+Replace 0.7
+Action Trigger
+ThirdPerson_Zoom 1.5
+Aim_In_Duration 0.3
+Use_Auto_Icon_Measurements True
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/RifleRustle/Rifle_Rustle.asset
+Aiming_Movement_Speed_Multiplier 0.9
+Attachment_Calibers 2
+Attachment_Caliber_0 43001
+Attachment_Caliber_1 43050
+
+Player_Damage 38
+Player_Leg_Multiplier 0.9
+Player_Arm_Multiplier 1.3
+Player_Spine_Multiplier 1.5
+Player_Skull_Multiplier 1.6
+
+Zombie_Damage 96
+Zombie_Leg_Multiplier 0.8
+Zombie_Arm_Multiplier 0.9
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 40
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.7
+Animal_Skull_Multiplier 1.1
+
+Recoil_Crouch 1
+Recoil_Prone 0.9
+
+Spread_Prone 0.9
+Spread_Crouch 0.8
+
+Ballistic_Steps 12
+Ballistic_Travel 10
+Ballistic_Drop 0.002
+Damage_Falloff_Range 50
+Damage_Falloff_Max_Range 60
+Damage_Falloff_Multiplier 0.004
+
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 25
+Resource_Damage 20
+Object_Damage 20
+
+Spread_Aim 0.5
+Spread_Hip 3
+Spread_Angle_Degrees 8.5
+
+Recoil_Min_X -2
+Recoil_Min_Y 3
+Recoil_Max_X 3
+Recoil_Max_Y 4
+
+Recover_X 0.8
+Recover_Y 0.8
+
+Shake_Min_X -0.001
+Shake_Min_Y 0.001
+Shake_Min_Z -0.006
+Shake_Max_X 0.001
+Shake_Max_Y -0.001
+Shake_Max_Z -0.01
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 4" // Metal Parts
+			"c4f3449e46f944ae8f8ca9ae54623a1b x 3" // Gun Parts
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "71f4b81697874bcc935d741c5b4a4f1d" // PP91 Folded
+		StateTransfer true
+		Effect "3d60fa2702d246cdbf879d1d9687bae8" // SC_Folded_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "c2370e1ae60a4d81be3d4984f1c8c19b" // Duct Tape
+				Amount 3
+			}
+			{
+				ID "1986846586774600b7b8779394e49fb6" // Glue
+				Amount 2
+			}
+			{
+				ID "c4f3449e46f944ae8f8ca9ae54623a1b" // Gun Parts
+				Amount 2
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Gun Parts
+				Amount 2
+			}
+			{
+				ID "c2370e1ae60a4d81be3d4984f1c8c19b" // Duct Tape
+				Amount 1
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Gun Repair Kit
+			80356db46b6a42bdb79daf902a769c7b
+		]
+		Effect "3ced354ecb814ad2a9b9d3fad0c79a58" // SC_Gun_Repairkit_0
+	}
+]
+
+Actions 4
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Fold
+Action_0_Tooltip Collapses the stock alongside the weapon.
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 2
+Action_1_Text Repair
+Action_1_Tooltip Repair wit improvised supply items.
+
+Action_2_Type Blueprint
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 3
+Action_2_Text Gun Repair Kit
+Action_2_Tooltip Repair with <color=#rare>Gun Repair Kit</color>.
+
+Action_3_Type Blueprint
+Action_3_Blueprints 1
+Action_3_Blueprint_0_Index 0
+Action_3_Text Salvage
+Action_3_Tooltip Salvage into component materials.
+Add_Default_Actions false

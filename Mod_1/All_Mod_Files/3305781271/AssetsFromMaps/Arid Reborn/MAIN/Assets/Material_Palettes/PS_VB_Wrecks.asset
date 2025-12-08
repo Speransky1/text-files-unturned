@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "62e692c62c0f4cfdbf6423a7ec0008cb"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Vehicular/VB_Wreck_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Vehicular/VB_Wreck_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Vehicular/VB_Wreck_2.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Vehicular/VB_Wreck_3.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Vehicular/VB_Wreck_4.mat"
+		}
+	]
+}

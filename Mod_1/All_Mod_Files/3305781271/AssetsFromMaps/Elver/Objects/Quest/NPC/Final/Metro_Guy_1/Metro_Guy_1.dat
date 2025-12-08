@@ -1,0 +1,26 @@
+GUID 319ba800f41e4b858e31e56cf7155fe5
+
+Type Small
+Has_Clip_Prefab false
+ID 57632
+
+//I am proud of what you've done. Do you wish to recieve your reward?
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 58000
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 58001
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 58001
+Interactability_Reward_0_Value True
+
+Asset_Bundle_Version 3

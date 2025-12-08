@@ -1,0 +1,64 @@
+"Metadata"
+{
+	"GUID" "f4c33cdc7caf4222ab47159f2ae244f7"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Medic/Medic_1.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Medic/Medic_2.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Food/Diner_0.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Food/Diner_1.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Food/Food_2.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Food/Food_3.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Food/Food_4.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Food/Food_5.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Clothes/Clothes_1.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Clothes/Clothes_2.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Store/Store_0.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Store/Store_1.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Store/Store_2.mat"
+		}
+	]
+}

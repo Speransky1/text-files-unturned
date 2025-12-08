@@ -1,0 +1,8 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Здарова! Шмот нужен?
+Response_0 *Одежда*
+Response_1 Нужно помочь с чем-то?
+Response_2 <color=uncommon>Голодуха. Завершить</color>
+Response_3 <color=epic>Солидные прикиды</color>
+Response_4 <color=epic>Солидные прикиды. Завершить</color>
+Response_5 *Уйти*

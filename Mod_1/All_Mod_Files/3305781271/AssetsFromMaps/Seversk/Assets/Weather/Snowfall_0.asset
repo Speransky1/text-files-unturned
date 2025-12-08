@@ -1,0 +1,55 @@
+﻿Metadata
+{
+	GUID 5782e92c3e964a828891bbae33923d71
+	Type SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	Volume_Mask 2
+	Fade_In_Duration 10
+	Fade_Out_Duration 10
+	Food_Per_Second -0.04
+	Override_Fog true
+	Override_Atmospheric_Fog false
+	Fog_Blend_Exponent 1.25
+	Dawn
+	{
+		Fog_Color
+		{
+			Level_Enum SKY_SKY
+		}
+		Fog_Density 0.3
+	}
+	Midday
+	{
+		Fog_Color
+		{
+			Level_Enum SKY_SKY
+		}
+		Fog_Density 0.3
+	}
+	Dusk
+	{
+		Fog_Color
+		{
+			Level_Enum SKY_SKY
+		}
+		Fog_Density 0.3
+	}
+	Midnight
+	{
+		Fog_Color
+		{
+			Level_Enum SKY_SKY
+		}
+		Fog_Density 0.3
+	}
+	Effects
+	[
+		{
+			Prefab Effects/Weather/SC_Snowfall_0/Effect.prefab
+			Emission_Exponent 3
+			Translate_With_View true
+		}
+	]
+}

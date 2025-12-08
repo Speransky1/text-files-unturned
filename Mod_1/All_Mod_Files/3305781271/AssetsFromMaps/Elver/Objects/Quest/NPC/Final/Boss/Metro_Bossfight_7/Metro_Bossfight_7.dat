@@ -1,0 +1,11 @@
+GUID 230cc80943334aaba2e72dcae89c1c33
+
+Type Large
+Has_Clip_Prefab false
+ID 58198
+
+Interactability Quest
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Sky

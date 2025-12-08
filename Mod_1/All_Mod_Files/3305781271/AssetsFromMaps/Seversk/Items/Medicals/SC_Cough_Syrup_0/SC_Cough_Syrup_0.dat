@@ -1,0 +1,15 @@
+GUID 5598ac0719a24f6db564f8952a6814dc
+
+Type Medical
+Useable Consumeable
+ID 41620
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+InventoryAudio Sounds/Inventory/WaterShaking/Water_Shaking.asset
+Use_Auto_Stat_Descriptions False
+Aid
+Health 5
+Disinfectant 10
+ConsumeAudioClip Sounds/Drink_Swallow_0.ogg

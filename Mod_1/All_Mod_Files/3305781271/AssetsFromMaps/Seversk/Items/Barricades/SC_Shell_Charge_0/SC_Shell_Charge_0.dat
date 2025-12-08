@@ -1,0 +1,79 @@
+﻿GUID d8fadc1c55a344d68931342dd43e9f64
+
+Type Charge
+Rarity Legendary
+Useable Barricade
+Build Charge
+ID 41835
+
+Size_X 2
+Size_Y 3
+Size_Z 0.5
+
+Health 1
+Range 4
+Offset 0.2
+
+Player_Damage 450
+Zombie_Damage 550
+Animal_Damage 500
+Barricade_Damage 4100
+Structure_Damage 5300
+Vehicle_Damage 2500
+Resource_Damage 2700
+Object_Damage 2000
+
+Range2 11
+Explosion2 41352
+PlacementAudioClip Sounds/Placement_4.ogg
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.1
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset
+Use_Auto_Icon_Measurements true
+Use_Auto_Stat_Descriptions false
+Explosion 41329
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID "e29cb398a047413f80b1b84621385978" // Empty Shell
+				Amount 2
+			}
+			{
+				ID "35faa2c9105f450aa17784fe906fcdb4" // Plastite-4
+				Amount 2
+			}
+			{
+				ID "4823b53ee0c04a51b1abc6c3efc1aee9" // Eelectronic Fragments Stack
+				Amount 1
+			}
+			{
+				ID "28302cbb580641738db43ae62a045dbe" // Insulating Tape
+				Amount 4
+			}
+			{
+				ID "f1ab9fc753384336be9642e18c2c825a" // Grenade Fuse
+				Amount 5
+			}
+			{
+				ID "34f318433802448582725f19347d0eac" // Broken Walkie Talkie
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Has_Clip_Prefab false

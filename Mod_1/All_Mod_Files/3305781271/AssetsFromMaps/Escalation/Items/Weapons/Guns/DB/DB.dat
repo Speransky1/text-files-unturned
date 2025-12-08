@@ -1,0 +1,83 @@
+GUID 89ca813e93c844159e0e4471d2495aa2
+Type Gun
+Rarity Uncommon
+Useable Gun
+Slot Primary
+ID 51200
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Magazine 51911
+
+Ammo_Min 2
+Ammo_Max 2
+
+Safety
+Semi
+Burst
+
+Bursts 2
+
+Caliber 51006
+
+Range 50
+Firerate 1
+Action Trigger
+
+Player_Damage 14
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 50
+Zombie_Leg_Multiplier 0.7
+Zombie_Arm_Multiplier 0.7
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 50
+Animal_Leg_Multiplier 0.7
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.2
+
+Barricade_Damage 10
+Structure_Damage 15
+Vehicle_Damage 20
+Resource_Damage 20
+Object_Damage 20
+
+Durability 0
+Quality_Min 100
+Quality_Max 100
+
+Spread_Aim 0.3
+Spread_Hip 0.3
+
+Ballistic_Steps 1
+
+Recoil_Min_X 1
+Recoil_Min_Y 15
+Recoil_Max_X 4
+Recoil_Max_Y 25
+
+Recover_X -.6
+Recover_Y -.01
+
+Shake_Min_X 0.01
+Shake_Min_Y 0.005
+Shake_Min_Z -0.1
+Shake_Max_X -0.01
+Shake_Max_Y -0.005
+Shake_Max_Z -0.12
+
+Muzzle 0
+
+Blueprints 1
+
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27

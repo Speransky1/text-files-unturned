@@ -1,0 +1,42 @@
+﻿GUID 0f770bbdd3e64896ba5fd861455b4cd1
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Glass
+ID 41560
+SalvageItem 0f770bbdd3e64896ba5fd861455b4cd1
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1000
+Range 4
+Radius 0.5
+
+Explosion 41330
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Metal Parts
+				Amount 4
+			}
+			{
+				ID "ad7a88dea0eb455d9d6b772c93776e31" // Bolts
+				Amount 2
+			}
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/Placement_2.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 0.6
+Has_Clip_Prefab false

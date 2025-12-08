@@ -1,0 +1,23 @@
+GUID 1db996c999934dc59ef51b274b52eccb
+
+Type Magazine
+Rarity Epic
+ID 17003
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 26
+Count_Min 26
+Count_Max 26
+
+Calibers 1
+Caliber_0 17102
+
+Tracer 17004
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+Should_Fill_After_Detach True

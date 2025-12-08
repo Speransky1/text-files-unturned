@@ -1,0 +1,149 @@
+GUID 817d552504734ceda4fe61f14ab9acb7
+Type Gun
+Rarity Legendary
+Useable Gun
+Requires_NonZero_Attachment_Caliber True
+Slot Tertiary
+ID 30312
+
+EquipAudioClip classicweapons.masterbundle:Assets/Guns_Equip/Equip_AK.wav
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Magazine 31091
+
+Hook_Sight
+
+Ammo_Min 10
+Ammo_Max 30
+
+Unplace 0.15
+Replace 0.65
+
+Safety
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 25021
+
+Attachment_Calibers 1
+//Scope
+Attachment_Caliber_0 25001
+
+Muzzle 30037
+
+Shell 30066
+
+
+
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements True
+
+Player_Damage_Bleeding Always
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "42ed3dec53e943c08810f115b75e9302" // Metal Scrap
+				Amount 1
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			"7b82c125a5a54984b8bb26576b59e977" // Workbench
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems 
+		[
+			"21ede8ebffb14c5580e8c7ad149e335e x 4" // Metal Scrap
+			"e73a23b102f24520a32ec0b2afaa6157" // Maple Plank
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]
+
+////////////////////////////////////////Balance Stats
+
+Range 300
+Ballistic_Steps 30
+Ballistic_Drop 0.0011
+Damage_Falloff_Multiplier 0.6
+Damage_Falloff_Range 0.666
+Damage_Falloff_Max_Range 1
+Gunshot_Rolloff_Distance 600
+
+Can_Ever_Jam
+Jam_Quality_Threshold 0.5
+Jam_Max_Chance 0.15
+Unjam_Chamber_Anim Jam
+
+
+
+Firerate 15
+Action Trigger
+
+Player_Damage 37
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.7
+
+Zombie_Damage 74
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.7
+
+Animal_Damage 74
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.7
+
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 14
+Resource_Damage 22
+Object_Damage 26
+
+Durability 0
+
+Recoil_Min_X -5
+Recoil_Min_Y 14
+Recoil_Max_X 5
+Recoil_Max_Y 16
+
+Recover_X 0.8
+Recover_Y 0.85
+
+Shake_Min_X -0.015
+Shake_Max_X 0.015
+
+Shake_Min_Y -0.0295
+Shake_Max_Y -0.0325
+
+Shake_Min_Z -0.015
+Shake_Max_Z -0.025
+
+Recoil_Midair 3
+
+Spread_Aim 0.08
+Spread_Hip 0.16
+Spread_Midair 3
+

@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "33d69cdeb1a743a480da7b03df336b2e"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "canyon.masterbundle"
+			"Path" "Canyon/Material_Palletes/Brick_0/Material_0.mat"
+		}
+		{
+			"Name" "canyon.masterbundle"
+			"Path" "Canyon/Material_Palletes/Brick_0/Material_1.mat"
+		}
+		{
+			"Name" "canyon.masterbundle"
+			"Path" "Canyon/Material_Palletes/Brick_0/Material_2.mat"
+		}
+		{
+			"Name" "canyon.masterbundle"
+			"Path" "Canyon/Material_Palletes/Brick_0/Material_3.mat"
+		}
+	]
+}

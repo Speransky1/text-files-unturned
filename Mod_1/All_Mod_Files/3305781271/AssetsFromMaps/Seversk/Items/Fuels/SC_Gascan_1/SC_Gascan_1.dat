@@ -1,0 +1,70 @@
+﻿GUID 9d667c08fee94365ad0ab4c98a0ec52b
+
+Type Fuel
+Rarity Rare
+Useable Fuel
+ID 41570
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Fuel 3000
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+Use_Auto_Icon_Measurements True
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID "bd7ae49de32a43adbfd97447352d31ee" // Gas Can
+				Amount 3
+			}
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Metal Parts
+				Amount 3
+			}
+			{
+				ID "28302cbb580641738db43ae62a045dbe" // Insulating Tape
+				Amount 2
+			}
+			{
+				ID "aa51e7a26f784d448afd98c95e74e73f" // Blowtorch
+				Delete false
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "aa51e7a26f784d448afd98c95e74e73f" // Blowtorch
+				Delete false
+			}
+		]
+		OutputItems "bd7ae49de32a43adbfd97447352d31ee x 3" // Gas Can
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 2
+Action_0_Blueprint_1_Index 1
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.

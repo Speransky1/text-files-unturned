@@ -1,0 +1,29 @@
+GUID e30e5ca1373c48b6888c4810fd66ecbc
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Epic
+Useable Structure
+Construct Pillar
+ID 19480
+
+SalvageItem e30e5ca1373c48b6888c4810fd66ecbc
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 211d4ed48a4940429c3692fa3c787b38
+
+Size_X 1
+Size_Y 2
+Size_Z 0.475
+
+Health 10000
+Range 6
+
+Explosion 36
+
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.4

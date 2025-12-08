@@ -1,0 +1,13 @@
+GUID 06a63696d40e47ff84ca45bcc7750185
+
+Type Medium
+ID 62201
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17053
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override t2022.masterbundle
+Bundle_Override_Path /Pack/T2022_OBJ/Quests/RM_quest_flag_0

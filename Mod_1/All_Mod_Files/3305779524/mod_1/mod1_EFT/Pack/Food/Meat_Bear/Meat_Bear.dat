@@ -1,0 +1,14 @@
+GUID eac44e4c2bc841018970154275dd0a2e
+
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 19514
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 5
+Food 35
+Virus 40

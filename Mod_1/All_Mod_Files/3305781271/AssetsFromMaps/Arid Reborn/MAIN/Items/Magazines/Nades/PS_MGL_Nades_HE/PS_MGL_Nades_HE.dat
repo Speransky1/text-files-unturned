@@ -1,0 +1,57 @@
+GUID f83aca13261d4293956dde7ae4a88e40
+Type Magazine
+Rarity Legendary
+ID 19390
+
+Size_X 2
+Size_Y 2
+Size_Z 0.255
+
+Amount 6
+Count_Min 3
+Count_Max 6
+
+Calibers 1
+Caliber_0 18851
+
+Tracer 19030
+
+Blueprints 4
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19390
+Blueprint_1_Build 30
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 10840
+Blueprint_2_Supply_0_Amount 6
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 10840
+Blueprint_3_Build 30
+
+
+Delete_Empty
+
+Range 9
+Player_Damage 100
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 80
+Structure_Damage 105
+Vehicle_Damage 100
+Resource_Damage 200
+Object_Damage 200
+Explosion 19027
+Explosive
+Ballistic_Damage_Multiplier 0.5
+
+Explosion_Launch_Speed 15

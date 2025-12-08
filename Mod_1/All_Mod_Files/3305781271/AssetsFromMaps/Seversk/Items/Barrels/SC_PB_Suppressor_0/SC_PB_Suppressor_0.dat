@@ -1,0 +1,15 @@
+﻿GUID aef8c53ad15a4cbc8bd978c5712b62a9
+Type Barrel
+ID 41682
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 43002
+Spread 1
+Silenced
+Quality_Min 100
+Quality_Max 100
+Volume 1

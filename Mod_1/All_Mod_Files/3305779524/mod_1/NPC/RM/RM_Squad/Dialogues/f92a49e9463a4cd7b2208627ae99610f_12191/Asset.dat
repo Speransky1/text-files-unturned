@@ -1,0 +1,37 @@
+﻿// Made in NPC Maker by BowieD
+GUID f92a49e9463a4cd7b2208627ae99610f
+Type Dialogue
+ID 12191
+Messages 1
+Message_0_Pages 1
+Responses 1
+Response_0_Dialogue 12162
+Response_0_Quest 14062
+Response_0_Rewards 7
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 17076
+Response_0_Reward_0_Value False
+
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 17077
+Response_0_Reward_1_Value False
+
+Response_0_Reward_2_Type Flag_Bool
+Response_0_Reward_2_ID 17078
+Response_0_Reward_2_Value False
+
+Response_0_Reward_3_Type Flag_Bool
+Response_0_Reward_3_ID 17079
+Response_0_Reward_3_Value False
+
+Response_0_Reward_4_Type Flag_Bool
+Response_0_Reward_4_ID 17080
+Response_0_Reward_4_Value False
+
+Response_0_Reward_5_Type Flag_Bool
+Response_0_Reward_5_ID 17081
+Response_0_Reward_5_Value False
+
+Response_0_Reward_6_Type Quest
+Response_0_Reward_6_ID 14062
+

@@ -1,0 +1,30 @@
+GUID a2b5b08ec7e24f4baf1eefee4de50f65
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 57199
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Food 100
+Water 100
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 57196
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57197
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 57198
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 57190
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

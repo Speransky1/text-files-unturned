@@ -1,0 +1,22 @@
+GUID 353a7a9d46c745d8803b4296563c3f29
+Rarity Legendary
+Type Barricade
+Useable Barricade
+Build Vehicle
+ID 10822
+
+Size_X 6
+Size_Y 4
+Size_Z 0.5
+
+Range 8
+Radius 1.75
+Offset 2
+
+Allow_Placement_Inside_Clip_Volumes True
+
+Explosion 10232
+
+
+
+Has_Clip_Prefab false

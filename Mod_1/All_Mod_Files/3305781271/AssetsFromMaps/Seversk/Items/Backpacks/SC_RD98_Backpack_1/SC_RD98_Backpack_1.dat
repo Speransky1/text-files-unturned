@@ -1,0 +1,26 @@
+﻿GUID 6f7a19bc400f4f25b0632e40bf79e38a
+
+Type Backpack
+Useable Clothing
+Rarity Epic
+ID 41602
+
+Size_X 4
+Size_Y 4
+Size_Z 0.6
+Quality_Min 20
+Quality_Max 30
+Use_Auto_Stat_Descriptions False
+
+Width 6
+Height 6
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg

@@ -1,0 +1,43 @@
+﻿GUID 7dac0e02638e493aaef279e2ed9d5c2d
+
+Type Supply
+Rarity Uncommon
+ID 41344
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+InventoryAudio Sounds/Inventory/Default/Default.asset
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this x 6
+		OutputItems "9bf444f55874446a9d8537cdd81c5627" // Metal Sheet Stack
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "4f9fb8c83c494e2486329e494674813c x 4" // Metal Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Stack
+Action_0_Tooltip Pile items together for free up space.
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text Salvage
+Action_1_Tooltip Salvage into component materials.

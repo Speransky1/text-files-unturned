@@ -1,0 +1,76 @@
+GUID 0fe5dadc45f74ea28ad10d8adcc3f905
+
+Type Magazine
+Rarity Legendary
+ID 63193
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/PS_Plane_Bomb_Item
+
+Size_X 4
+Size_Y 2
+Size_Z 0.4
+
+Amount 1
+
+Calibers 1
+Caliber_0 19193
+
+Blueprints 3
+
+
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 19378
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 19680
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 19016
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 19009
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Products 1
+Blueprint_0_Tool 19375
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19193
+Blueprint_1_Outputs 4
+Blueprint_1_Output_0_ID 19378
+Blueprint_1_Output_0_Amount 3
+Blueprint_1_Output_1_ID 19680
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Output_2_ID 19016
+Blueprint_1_Output_2_Amount 2
+Blueprint_1_Output_3_ID 19009
+Blueprint_1_Output_3_Amount 2
+Blueprint_1_Tool 19375
+Blueprint_1_Build 27
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 4
+Blueprint_2_Supply_0_ID 19193
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 19016
+Blueprint_2_Supply_1_Amount 3
+Blueprint_2_Supply_2_ID 19007
+Blueprint_2_Supply_2_Amount 3
+Blueprint_2_Supply_3_ID 19625
+Blueprint_2_Supply_3_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 19266
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Tool 19196
+Blueprint_2_Build 27
+Blueprint_2_Rewards 1
+Blueprint_2_Reward_0_Type Item_Random
+Blueprint_2_Reward_0_ID 19480
+Blueprint_2_Reward_0_Amount 1
+
+
+Delete_Empty
+Use_Auto_Icon_Measurements False

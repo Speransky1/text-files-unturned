@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "8ad4e19b76474e099290e95aa567dd46"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/furniture_0/furniture_0.mat"
+		}
+	]
+}

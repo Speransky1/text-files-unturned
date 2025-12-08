@@ -1,0 +1,32 @@
+GUID 5ce0ca8881c746b2adbbf381892a8283
+
+
+Type Magazine
+Rarity Legendary
+ID 33129
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 8
+Count_Min 0
+Count_Max 8
+
+Calibers 1
+Caliber_0 63544
+
+
+Pellets 1
+Spread 1
+Ballistic_Damage_Multiplier 1.4
+
+Delete_Empty
+
+Tracer 19073
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 33129
+Blueprint_0_Build 30

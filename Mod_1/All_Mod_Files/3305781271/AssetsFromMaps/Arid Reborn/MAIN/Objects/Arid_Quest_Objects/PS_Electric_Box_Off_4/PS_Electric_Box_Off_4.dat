@@ -1,0 +1,39 @@
+GUID 29c62ba3b1fd47049bea16f04fadad99
+Type Medium
+
+Has_Clip_Prefab False
+
+
+Conditions 1
+
+//If activated, disappear
+Condition_0_Type Flag_Bool
+Condition_0_ID 20071
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Conditions 1
+
+//Must have at least 1 package item
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 19279
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability_Rewards 2
+
+//For disappearing
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 20071
+Interactability_Reward_0_Value True
+
+//Electric box power progress
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 20068
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Smol/PS_Electric_Box_Off

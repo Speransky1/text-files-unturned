@@ -1,0 +1,28 @@
+﻿Metadata
+{
+	GUID 66bd89740de648999c578755a5711c34
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Military_Crate_0/Military_Crate_0.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Military_Crate_0/Military_Crate_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Military_Crate_0/Military_Crate_2.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Military_Crate_0/Military_Crate_3.mat
+		}
+	]
+}

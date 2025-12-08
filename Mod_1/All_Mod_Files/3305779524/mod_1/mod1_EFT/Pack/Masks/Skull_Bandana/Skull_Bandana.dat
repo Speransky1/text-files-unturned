@@ -1,0 +1,20 @@
+GUID 5ca1f455206749f0b9dca8de4014555c
+
+
+
+Type Mask
+Rarity Rare
+Useable Clothing
+ID 43345
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Hair
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2

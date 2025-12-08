@@ -1,0 +1,27 @@
+GUID 327291f4c7c540dd815b73591b83d665
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 19651
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Boost_Throw_Force_Multiplier 1
+
+Flash
+
+Strong_Throw_Force 2000
+
+Weak_Throw_Force 1400
+
+Fuse_Length 1.1
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 19651
+Blueprint_0_Product 19000
+Blueprint_0_Products 1
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27

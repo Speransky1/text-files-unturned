@@ -1,0 +1,22 @@
+GUID 9747d5f56d0d480e9ff880019bf17035
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Hatch
+ID 59226
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Health 200
+Range 4
+Radius 0.5
+
+Locked
+
+Explosion 19
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

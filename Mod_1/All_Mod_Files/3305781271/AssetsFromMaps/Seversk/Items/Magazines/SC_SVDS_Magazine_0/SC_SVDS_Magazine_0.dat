@@ -1,0 +1,68 @@
+﻿GUID 5a73da1a3af640098d9cdebdfd4a3d2b
+Type Magazine
+Rarity Epic
+ID 41818
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 10
+Count_Min 5
+Count_Max 10
+
+Calibers 1
+Caliber_0 43031
+Tracer 41358
+
+InventoryAudio Sounds/Inventory/CasingRustle/Casing_Rustle.asset
+Use_Auto_Icon_Measurements True
+Use_Auto_Stat_Descriptions false
+
+Blueprints
+[
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "9c4896819a734b9db4920fb0fe3c949e" // Highcaliber Ammo
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems this
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "5ad7f4d304764623bed95925c128c840" // SVDS Magazine 1
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "43b7467bf1e04bc2ad278a39b3230b7d" // PKM Box
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		Name Salvage
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+				Prioritization LowestAmount
+				CountEmptyAsOne true
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems "4f9fb8c83c494e2486329e494674813c x 2" // Metal_Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Add_Default_Actions false

@@ -1,0 +1,12 @@
+GUID 968b7016f1d34e8ebf1378acc393b777
+Type Effect
+ID 19092
+
+Blast 137
+
+Lifetime 10
+
+Relevant_Distance 3000
+
+CameraShake_Radius 32
+CameraShake_MagnitudeDegrees 50

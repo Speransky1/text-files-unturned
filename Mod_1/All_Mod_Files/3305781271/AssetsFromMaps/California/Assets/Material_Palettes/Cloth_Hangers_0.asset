@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "2793bad2b6dc40d19be869e68c1de370"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/cloth_hangers_0/hanger_0.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/cloth_hangers_0/hanger_1.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/cloth_hangers_0/hanger_2.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/cloth_hangers_0/hanger_3.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/cloth_hangers_0/hanger_4.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/cloth_hangers_0/hanger_5.mat"
+		}
+	]
+}

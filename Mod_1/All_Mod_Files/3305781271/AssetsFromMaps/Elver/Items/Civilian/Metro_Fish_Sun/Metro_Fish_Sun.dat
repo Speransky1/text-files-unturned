@@ -1,0 +1,21 @@
+GUID f272518259e945758379748e95f81db0
+
+Type Food
+Rarity Legendary
+Useable Consumeable
+ID 57123
+
+Size_X 3
+Size_Y 3
+Size_Z 1.1
+
+Food 20
+Water 25
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 57123
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 57118
+Blueprint_0_Products 9
+Blueprint_0_Build 27

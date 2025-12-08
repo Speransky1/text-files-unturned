@@ -1,0 +1,10 @@
+GUID 740898ddfdd341a7aaf495ac6ef0ce3e
+Type Effect
+ID 19020
+
+Blast 137
+
+Relevant_Distance 3000
+
+CameraShake_Radius 20
+CameraShake_MagnitudeDegrees 50

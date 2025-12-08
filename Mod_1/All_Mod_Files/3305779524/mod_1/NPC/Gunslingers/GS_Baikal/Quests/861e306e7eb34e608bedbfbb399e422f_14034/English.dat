@@ -1,0 +1,8 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=rare>Офисный работник</color>
+Description <color=mythical>Байкал</color> помогает <color=red>Дмитрию</color>  в одном деле. Один из его людей ранее работал в одной корпе и имел на нее компромат. Правда, дело было до Вспышки. Если повезет, то тайник с жестким диском еще не нашли. Искать надо в одном из офисов, которые расположены на центральной аллее в Мидтауне
+Condition_0 Забрать жесткий диск из офиса в Мидтауне
+Reward_3 <color=white>Откроется возможность выполнять задания у</color> <color=red> Дмитрия</color>
+Reward_4 <color=white>Новый комплект у</color> <color=epic>Дюшеса:</color>
+Reward_6 <color=epic>Разблокируются новые виды оружия у</color> <color=legendary>Саяны</color><color=epic>, а так же новые модули у</color> <color=epic>Тархуна</color>
+Reward_7 <color=yellow>Влияние: +110</color>

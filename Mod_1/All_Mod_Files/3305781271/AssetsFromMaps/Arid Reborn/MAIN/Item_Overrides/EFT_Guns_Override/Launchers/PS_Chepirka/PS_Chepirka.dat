@@ -1,0 +1,124 @@
+GUID 94b97bb8df1c47b6b412991be09451b7
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 10562
+
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_M202.mp3
+
+Invulnerable
+
+Size_X 5
+Size_Y 3
+Size_Z 0.6
+
+Magazine 10574
+Sight 10575
+
+Unplace 0.1
+Replace 0.1
+
+Range 11
+Explosion 19010
+
+Ammo_Min 4
+Ammo_Max 4
+
+Safety
+Semi
+Auto
+
+Magazine_Calibers 1
+Magazine_Caliber_0 18841
+
+BladeIDs 3
+BladeID_0 0
+BladeID_1 2
+BladeID_2 3
+
+Gunshot_Rolloff_Distance 250
+
+Muzzle 19019
+
+Quality_Min 60
+Quality_Max 75
+
+Blueprints 2
+//Repair
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19659
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27
+
+//Salvage
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10562
+Blueprint_1_Outputs 2
+//Supply (High Tier Gun Parts)
+Blueprint_1_Output_0_ID 19262
+Blueprint_1_Output_0_Amount 5
+//Supply (Illegal Gun Parts)
+Blueprint_1_Output_1_ID 19342
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Tool 19004
+Blueprint_1_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Repair
+Action_0_Tooltip Repair gun.
+
+////////////////////////////////////////Balance Stats
+
+Ballistic_Force 6000
+Projectile_Explosion_Launch_Speed 40
+
+Equipable_Movement_Speed_Multiplier 0.70
+
+Aim_In_Duration 0.6
+
+Firerate 15
+Action Rocket
+
+Player_Damage 130
+Zombie_Damage 260
+Animal_Damage 260
+Barricade_Damage 420
+Structure_Damage 420
+Vehicle_Damage 600
+Resource_Damage 1200
+Object_Damage 1200
+
+Durability 4
+
+Recoil_Min_X -1
+Recoil_Min_Y 17.3
+Recoil_Max_X 1
+Recoil_Max_Y 18.7
+
+Recover_X 0.95
+Recover_Y 0.95
+
+Shake_Min_X 0
+Shake_Min_Y -0.04
+Shake_Min_Z -0.1
+Shake_Max_X 0
+Shake_Max_Y -0.05
+Shake_Max_Z -0.1
+
+Recoil_Crouch 1.1
+Recoil_Prone 2.5
+Recoil_Midair 3
+
+Spread_Aim 0.04
+Spread_Hip 0.04
+Spread_Prone 0.5
+Spread_Crouch 0.9
+Spread_Midair 3

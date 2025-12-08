@@ -1,0 +1,15 @@
+GUID eb1aa0f307c14d0d97f9403d27e12310
+Type Food
+Useable Consumeable
+ID 42311
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Food 30
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false

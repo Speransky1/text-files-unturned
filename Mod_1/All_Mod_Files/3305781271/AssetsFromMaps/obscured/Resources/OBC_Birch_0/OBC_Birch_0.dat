@@ -1,0 +1,11 @@
+GUID 03b6fadff6b847839ff153a5c4ec52e2
+Type Resource
+ID 39100
+
+Health 1000
+Radius 3
+Scale 0.1
+
+Auto_Skybox
+
+Has_Clip_Prefab false

@@ -1,0 +1,51 @@
+﻿// Made in NPC Maker by BowieD
+GUID 6a5d4159539d4b458b30793855b59cdc
+Type Quest
+ID 14828
+Conditions 7
+Condition_0_Type Item
+Condition_0_ID 59417
+Condition_0_Amount 10
+Condition_0_Reset 
+
+Condition_1_Type Item
+Condition_1_ID 50208
+Condition_1_Amount 2
+Condition_1_Reset 
+
+Condition_2_Type Item
+Condition_2_ID 50204
+Condition_2_Amount 1
+Condition_2_Reset 
+
+Condition_3_Type Item
+Condition_3_ID 57534
+Condition_3_Amount 2
+Condition_3_Reset 
+
+Condition_4_Type Item
+Condition_4_ID 59400
+Condition_4_Amount 2
+Condition_4_Reset 
+
+Condition_5_Type Item
+Condition_5_ID 59399
+Condition_5_Amount 2
+Condition_5_Reset 
+
+Condition_6_Type Item
+Condition_6_ID 56245
+Condition_6_Amount 1
+Condition_6_Reset 
+
+Rewards 2
+Reward_0_Type Item
+Reward_0_ID 59534
+Reward_0_Amount 0
+Reward_0_Auto_Equip False
+
+Reward_1_Type Item
+Reward_1_ID 56219
+Reward_1_Amount 1
+Reward_1_Auto_Equip True
+

@@ -1,0 +1,20 @@
+GUID 4507a954d3a14eb094c1d6419c3bdc7e
+
+Type Medium
+Has_Clip_Prefab false
+ID 57413
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 1
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57000
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Asset_Bundle_Version 3
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Furniture/Note

@@ -1,0 +1,25 @@
+GUID 889829768b29436494bcc11055c82d22
+
+
+
+Type Pants
+Rarity Rare
+Useable Clothing
+ID 31543
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 5
+Height 5
+
+Armor 0.9
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+

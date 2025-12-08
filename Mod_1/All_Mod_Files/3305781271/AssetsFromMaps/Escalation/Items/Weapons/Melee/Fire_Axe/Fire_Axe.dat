@@ -1,0 +1,58 @@
+GUID 253fd717506f445194c23eeaf28387f7
+Type Melee
+Rarity Rare
+Useable Melee
+Slot Any
+ID 51268
+
+Size_X 4
+Size_Y 2
+Size_Z 0.7
+Size2_Z 0.55
+
+Range 3.5
+Strength 1.5
+Stamina 30
+
+EquipablePrefab Items/Weapons/Melee/Fire_Axe/Equipable.prefab
+
+Player_Damage 50
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 50
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 50
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 40
+Structure_Damage 20
+Vehicle_Damage 30
+Resource_Damage 250
+Object_Damage 30
+
+Durability 0
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51268
+Blueprint_0_Product 51017
+Blueprint_0_Products 3
+Blueprint_0_Build 27
+
+Blueprint_1_Type Repair
+Blueprint_1_Supply_0_ID 51017
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 27
+
+AttackAudioClip Sounds/Big_Swing.mp3
+

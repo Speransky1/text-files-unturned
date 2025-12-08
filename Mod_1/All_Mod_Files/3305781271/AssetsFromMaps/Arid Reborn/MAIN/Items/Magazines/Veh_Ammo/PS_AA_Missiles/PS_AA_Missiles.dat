@@ -1,0 +1,34 @@
+GUID ba6530a23e20479d93f124e422906440
+Type Magazine
+Rarity Legendary
+ID 10589
+
+Size_X 5
+Size_Y 3
+Size_Z 0.7
+
+Amount 8
+Count_Min 0
+Count_Max 8
+
+Calibers 1
+Caliber_0 10738
+
+Delete_Empty
+
+Tracer 19043
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10589
+Blueprint_0_Build 30
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10539
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 10589
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27

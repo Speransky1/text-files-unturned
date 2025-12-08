@@ -1,0 +1,27 @@
+﻿GUID ffaa3a342df84ee1b09798267943a9c2
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 41634
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 10
+Energy 10
+Water 50
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/CanRustle/Can_Rustle.asset
+ConsumeAudioClip Sounds/Drink_Swallow_1.ogg
+Quality_Min 30
+Quality_Max 50
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 41456
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Empty Can Received
+Quest_Reward_1_Duration 1

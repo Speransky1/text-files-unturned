@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=#718385>Шнырь. Часть 2</color>
+Description На этом услуга не заканчивается. Теперь <color=uncommon>Связному</color> нужно вернуть ключ. который он оставил в фермерском доме при атаке Зараженных. Найди ключ и принеси ему
+Condition_0 Ключ <color=uncommon>Связного</color> из фермерского дома
+Reward_0 <color=white>Информация для</color> <color=mythical>Байкала</color>
+Reward_1 <color=white>Продолжение задания у</color> <color=mythical>Байкала</color>

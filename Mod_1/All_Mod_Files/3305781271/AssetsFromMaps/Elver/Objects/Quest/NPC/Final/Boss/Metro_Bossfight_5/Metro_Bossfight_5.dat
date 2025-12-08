@@ -1,0 +1,11 @@
+GUID 2918c63e70114dbaafb01f3751e5c81a
+
+Type Small
+Has_Clip_Prefab false
+ID 58195
+
+Interactability Quest
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint ReturnSafezone

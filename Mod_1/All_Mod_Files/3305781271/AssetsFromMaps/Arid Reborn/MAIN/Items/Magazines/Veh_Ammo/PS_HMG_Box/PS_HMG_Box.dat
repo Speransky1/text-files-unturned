@@ -1,0 +1,44 @@
+GUID afc04ed2fa8b4393b73db823c5e34d3b
+Type Magazine
+Rarity Rare
+ID 10030
+
+Size_X 2
+Size_Y 2
+Size_Z 0.395
+
+Amount 75
+Count_Min 15
+Count_Max 35
+
+Calibers 1
+Caliber_0 10029
+
+Tracer 19084
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10030
+Blueprint_1_Build 30
+
+Use_Auto_Icon_Measurements False
+
+Range 4
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 19059
+Explosive

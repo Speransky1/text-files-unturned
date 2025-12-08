@@ -1,0 +1,10 @@
+GUID 68613fe8b26845da84bd3deafb718cb1
+Type Medium
+Has_Clip_Prefab False
+ID 51000
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 52314
+Condition_0_Status Active
+Condition_0_Logic Equal

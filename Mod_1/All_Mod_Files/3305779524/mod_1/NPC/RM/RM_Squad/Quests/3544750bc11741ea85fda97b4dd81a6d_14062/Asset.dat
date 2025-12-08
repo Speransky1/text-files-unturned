@@ -1,0 +1,69 @@
+﻿// Made in NPC Maker by BowieD
+GUID 3544750bc11741ea85fda97b4dd81a6d
+Type Quest
+ID 14062
+Conditions 6
+Condition_0_Type Flag_Bool
+Condition_0_ID 17076
+Condition_0_Value True
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Reset 
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 17077
+Condition_1_Value True
+Condition_1_Logic Greater_Than_Or_Equal_To
+Condition_1_Reset 
+
+Condition_2_Type Flag_Bool
+Condition_2_ID 17078
+Condition_2_Value True
+Condition_2_Logic Greater_Than_Or_Equal_To
+Condition_2_Reset 
+
+Condition_3_Type Flag_Bool
+Condition_3_ID 17079
+Condition_3_Value True
+Condition_3_Logic Greater_Than_Or_Equal_To
+Condition_3_Reset 
+
+Condition_4_Type Flag_Bool
+Condition_4_ID 17080
+Condition_4_Value True
+Condition_4_Logic Greater_Than_Or_Equal_To
+Condition_4_Reset 
+
+Condition_5_Type Flag_Bool
+Condition_5_ID 17081
+Condition_5_Value True
+Condition_5_Logic Greater_Than_Or_Equal_To
+Condition_5_Reset 
+
+Rewards 5
+Reward_0_Type Experience
+Reward_0_Value 8000
+
+Reward_1_Type Item
+Reward_1_ID 29116
+Reward_1_Amount 1
+Reward_1_Sight 32114
+Reward_1_Tactical 31101
+Reward_1_Grip 30100
+Reward_1_Barrel 34110
+Reward_1_Auto_Equip True
+
+Reward_2_Type Item
+Reward_2_ID 33101
+Reward_2_Amount 3
+Reward_2_Auto_Equip False
+
+Reward_3_Type Item
+Reward_3_ID 59534
+Reward_3_Amount 0
+Reward_3_Auto_Equip False
+
+Reward_4_Type Item
+Reward_4_ID 59791
+Reward_4_Amount 0
+Reward_4_Auto_Equip False
+

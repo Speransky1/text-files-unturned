@@ -1,0 +1,19 @@
+GUID 52f6eb35885a4285b9fe4eb8d260aa5c
+
+Type Barricade
+Has_Clip_Prefab false
+Useable Barricade
+Build Barricade
+ID 57702
+
+Size_X 2
+Size_Y 1
+Size_Z 0.425
+
+Health 50
+Range 4
+Radius 0.125
+Offset 0.3
+
+Explosion 37
+Vulnerable

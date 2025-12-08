@@ -1,0 +1,46 @@
+﻿GUID 8fa8c26b9c9640d48dbd31a1d4d52acd
+
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 41567
+
+Size_X 1
+Size_Y 1
+Size_Z 0.32
+
+InventoryAudio Sounds/Inventory/Keys/Keys.asset
+Flash
+Use_Auto_Icon_Measurements False
+Use_Auto_Stat_Descriptions false
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "615a4030662e4ea7abad12b5a4e9a675" // Screwdriver
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 3" // Metal Parts
+			"f1ab9fc753384336be9642e18c2c825a" // Grenade Fuse
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

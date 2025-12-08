@@ -1,0 +1,37 @@
+﻿GUID e13c0127b8664a58a39678f73e74a842
+
+Type Farm
+Useable Barricade
+Rarity Uncommon
+Build Farm
+ID 41642
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Health 1
+Range 4
+Radius 0.25
+Offset 0.7
+
+Growth 2000
+Grow 41641
+
+Explosion 43
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "bfac6026305f4737a95fd275ebff65a6" // Utilities
+		InputItems "12302d1a44564a35aae986efa0b9ab00" // Beet
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+PlacementAudioClip Sounds/Placement_5.ogg
+Has_Clip_Prefab false
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/LeavesRustle/Leaves_Rustle.asset

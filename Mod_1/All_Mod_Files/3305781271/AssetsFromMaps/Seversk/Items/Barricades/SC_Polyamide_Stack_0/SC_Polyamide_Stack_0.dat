@@ -1,0 +1,51 @@
+﻿GUID 08f7e567ed3b42a086dad3b6a0de1606
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 41844
+Health 40
+Size_X 2
+Size_Y 3
+Size_Z 0.45
+Bypass_Pickup_Ownership true
+Allow_Placement_On_Vehicle false
+Range 3
+Radius 0
+Offset 0.4
+Salvage_Duration_Multiplier 0.1
+Vulnerable
+Explosion 41331
+Unrepairable
+Can_Be_Damaged true
+Has_Clip_Prefab false
+PlacementAudioClip Sounds/Clothy_Placement.ogg
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem 08f7e567ed3b42a086dad3b6a0de1606
+Min_Items_Dropped_On_Destroy 3
+Max_Items_Dropped_On_Destroy 6
+Item_Dropped_On_Destroy ae78a10a2264489eb1125bc31181b82d
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "c8208cf6b765409e854034383f6ce715 x 10" // Polyamide Fabric
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Unstack
+Action_0_Tooltip Spread out items for specific use.
+Add_Default_Actions false

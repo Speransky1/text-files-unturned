@@ -1,0 +1,24 @@
+GUID 6b1b881a095a4829b6e47f7e9bf88163
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 28018
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Player_Damage 150
+Zombie_Damage 600
+Animal_Damage 600
+Barricade_Damage 1100
+Structure_Damage 1100
+Vehicle_Damage 600
+Resource_Damage 2250
+Object_Damage 1000
+
+Range 24
+Explosion 28008
+
+Explosive
+Fuse_Length 5

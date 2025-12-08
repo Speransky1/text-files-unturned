@@ -1,0 +1,8 @@
+﻿// Made in NPC Maker by BowieD
+GUID 64e8a30753b24914a513b6bf1940cd97
+Type Dialogue
+ID 12101
+Messages 1
+Message_0_Pages 1
+Responses 1
+Response_0_Dialogue 12102

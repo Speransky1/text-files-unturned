@@ -1,0 +1,8 @@
+GUID 992390e5915646dc8a4a5bacb375f28c
+Type RewardsList
+
+//Visit Far-Abad
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22632
+Reward_0_Value True

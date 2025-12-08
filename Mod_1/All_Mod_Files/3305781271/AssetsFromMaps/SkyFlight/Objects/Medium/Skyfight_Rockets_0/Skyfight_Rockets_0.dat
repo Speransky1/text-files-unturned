@@ -1,0 +1,13 @@
+GUID cc8b8d75306d4280bc4f2eeaa5d6ab5a
+
+Type Medium
+ID 38840
+
+Interactability Quest
+Interactability_Hint Use
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 38840
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal

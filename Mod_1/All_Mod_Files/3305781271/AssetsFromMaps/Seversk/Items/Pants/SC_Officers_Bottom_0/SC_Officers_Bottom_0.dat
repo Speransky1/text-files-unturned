@@ -1,0 +1,51 @@
+﻿GUID 8563adfb0e1143b39862e1a2401344c7
+
+Type Pants
+Rarity Rare
+Useable Clothing
+ID 41578
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+Armor 0.85
+Width 5
+Height 3
+Quality_Min 15
+Quality_Max 50
+Use_Auto_Stat_Descriptions False
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems
+		[
+			"4b74f6b14f4f414fb8fc80329870e807 x 3" // Spool Thread
+			"159e927969ea4946a24602eaa05e3273" // Cloth
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg

@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "ec00665046bc4b04a66ce59e98ca4183"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Vehicle_0/Vehicle_0.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Vehicle_0/Vehicle_1.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Vehicle_0/Vehicle_2.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Vehicle_0/Vehicle_3.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Vehicle_0/Vehicle_4.mat"
+		}
+	]
+}

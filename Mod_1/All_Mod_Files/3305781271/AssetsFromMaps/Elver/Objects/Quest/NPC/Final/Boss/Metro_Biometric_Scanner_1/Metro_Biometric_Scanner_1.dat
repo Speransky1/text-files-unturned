@@ -1,0 +1,11 @@
+GUID 1b59f11696bb40cda91d3364cd7040b1
+
+Type Small
+Has_Clip_Prefab false
+ID 57964
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57364
+Condition_0_Value True
+Condition_0_Logic Equal

@@ -1,0 +1,155 @@
+GUID 308fdffe378243ea81916760963c5405
+Type Gun
+Rarity Legendary
+Useable Gun
+Requires_NonZero_Attachment_Caliber True
+Slot Primary
+ID 30616
+
+Instantiated_Item_Name_Override 25637
+
+EquipAudioClip classicweapons.masterbundle:Assets/Guns_Equip/Equip_Sniper.wav
+
+Size_X 5
+Size_Y 2
+Size_Z 0.465
+
+Equipable_Movement_Speed_Multiplier 0.9
+
+Sight 31287
+Magazine 31125
+Tactical 31235
+Grip 31265
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+
+
+Unplace 0.1
+Replace 0.75
+
+Ammo_Min 3
+Ammo_Max 5
+
+Safety
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 25050
+
+Attachment_Calibers 7
+//Defalut Sights (Idk)
+Attachment_Caliber_0 25000
+//Halo Sights
+Attachment_Caliber_1 25200
+//Scopes 2x-4x
+Attachment_Caliber_2 25201
+//Scopes 8x-16x
+Attachment_Caliber_3 25202
+//Grip
+Attachment_Caliber_4 25014
+//Tactical
+Attachment_Caliber_5 25004
+Attachment_Caliber_6 25016
+
+Muzzle 30041
+
+Shell 30006
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Player_Damage_Bleeding Always
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "42ed3dec53e943c08810f115b75e9302" // Metal Scrap
+				Amount 1
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			"7b82c125a5a54984b8bb26576b59e977" // Workbench
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "21ede8ebffb14c5580e8c7ad149e335e x 5" // Metal Scrap
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]
+
+////////////////////////////////////////Balance Stats
+
+Range 600
+Ballistic_Steps 60
+Ballistic_Drop 0.00055
+Damage_Falloff_Multiplier 0.6
+Damage_Falloff_Range 0.666
+Damage_Falloff_Max_Range 1
+Gunshot_Rolloff_Distance 1200
+
+
+
+Firerate 50
+Action Bolt
+
+Player_Damage 97
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.7
+
+Zombie_Damage 194
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.7
+
+Animal_Damage 194
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.7
+
+Barricade_Damage 30
+Structure_Damage 30
+Vehicle_Damage 20
+Resource_Damage 36
+Object_Damage 40
+
+Durability 0.5
+
+Recoil_Min_X -5.6
+Recoil_Min_Y 20
+Recoil_Max_X 5.6
+Recoil_Max_Y 25
+
+Recover_X 0.8
+Recover_Y 0.85
+
+Shake_Min_X -0.03
+Shake_Max_X 0.03
+
+Shake_Min_Y -0.02
+Shake_Max_Y -0.025
+
+Shake_Min_Z -0.045
+Shake_Max_Z -0.05
+
+Recoil_Midair 3
+
+Spread_Aim 0.02
+Spread_Hip 0.04
+Spread_Midair 3

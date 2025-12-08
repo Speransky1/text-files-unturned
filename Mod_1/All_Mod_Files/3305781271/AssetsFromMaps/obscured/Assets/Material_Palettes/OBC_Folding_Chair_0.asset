@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "05e63daa8feb4d51b203148c14ce7f69"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Folding_Chair_0/Folding_Chair_0.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Folding_Chair_0/Folding_Chair_1.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Folding_Chair_0/Folding_Chair_2.mat"
+		}
+	]
+}

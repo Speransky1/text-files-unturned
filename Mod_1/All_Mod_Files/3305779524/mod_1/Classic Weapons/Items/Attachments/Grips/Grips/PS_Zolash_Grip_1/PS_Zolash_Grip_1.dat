@@ -1,0 +1,24 @@
+GUID 0a9747b70b3b48c584a9ec1d582b6bc2
+Type Grip
+Rarity Rare
+ID 31252
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Calibers 1
+Caliber_0 25013
+
+Recoil_X 0.95
+Recoil_Y 0.85
+Shake 0.96
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31252
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 63
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

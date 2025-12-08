@@ -1,0 +1,18 @@
+GUID 7189a042870d40d89fbcc7851b151f44
+
+
+
+Type Small
+
+Has_Clip_Prefab False
+
+ID 62219
+
+Master_Bundle_Override t2022.masterbundle
+Bundle_Override_Path /Pack/T2022_OBJ/small/Flare_Purple
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 14040
+Condition_0_Status Active
+Condition_0_Logic Equal

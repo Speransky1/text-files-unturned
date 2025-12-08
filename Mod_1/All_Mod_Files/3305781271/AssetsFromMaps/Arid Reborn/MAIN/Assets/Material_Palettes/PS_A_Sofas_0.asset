@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "0dff723e702046389b35082bd1b8cc65"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/sofas_0/sofa_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/sofas_0/sofa_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/sofas_0/sofa_2.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/sofas_0/sofa_3.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/sofas_0/sofa_4.mat"
+		}
+	]
+}

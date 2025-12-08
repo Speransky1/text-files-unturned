@@ -1,0 +1,21 @@
+GUID a582ad7731d949469defa8e48bc63cc8
+
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 17010
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Aid
+Health 57
+
+Use_Auto_Icon_Measurements True
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Should_Delete_After_Use False

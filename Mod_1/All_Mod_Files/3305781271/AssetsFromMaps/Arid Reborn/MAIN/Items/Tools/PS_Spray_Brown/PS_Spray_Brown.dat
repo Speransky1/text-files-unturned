@@ -1,0 +1,13 @@
+GUID 4b05b170a6614b48840844d726737246
+Type Vehicle_Paint_Tool
+Rarity Epic
+Useable Vehicle_Paint
+ID 10912
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+UseAudioClip core.masterbundle:Sounds/Vehicle_Spraypaint.wav
+
+PaintColor #755A3F

@@ -1,0 +1,70 @@
+﻿GUID 520dc2360cfb47309531e5ed4ed66efe
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Mannequin
+ID 41827
+
+Size_X 2
+Size_Y 2
+Size_Z 0.58
+
+Health 300
+Range 4
+Radius 0.8
+Offset 1
+Use_Auto_Icon_Measurements False
+Use_Auto_Stat_Descriptions false
+Locked
+Salvage_Duration_Multiplier 0.4
+Bypass_Pickup_Ownership false
+Allow_Placement_On_Vehicle false
+Explosion 41331
+SalvageItem 520dc2360cfb47309531e5ed4ed66efe
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 2
+Item_Dropped_On_Destroy b539e831f4a74a0a9bf922c8b0db384e
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset
+PlacementAudioClip Sounds/Clothy_Placement.ogg
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "8ae387a91c1c4964be2a12be7aeabfb9" // Sticks
+				Amount 6
+			}
+			{
+				ID "159e927969ea4946a24602eaa05e3273" // Fabric Cloth
+				Amount 5
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 3
+			}
+			{
+				ID "8cb7b1f1918d49ffb899af25a69e3826" // Plastic Tube
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Hammer
+				Delete false
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+// References human read/writeable texture.
+Ignore_TexRW
+
+Has_Clip_Prefab false

@@ -1,0 +1,12 @@
+GUID 951d196eaa1f44cdb4a215bd7f3539ba
+Type Spawn
+ID 41482
+
+Tables
+[
+	{
+		// Wooden Plank (Supply Item)
+		LegacyAssetId 41329
+		Weight 100
+	}
+]

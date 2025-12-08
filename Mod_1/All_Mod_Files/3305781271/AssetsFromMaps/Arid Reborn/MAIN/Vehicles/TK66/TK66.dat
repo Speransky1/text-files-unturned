@@ -1,0 +1,125 @@
+GUID 009d351b2d534fbcb2f86622168e6c1c
+Type Vehicle
+Has_Clip_Prefab False
+Rarity Legendary
+ID 19050
+
+//////////////////////////////////////////////////////////Balance Stats
+
+Passenger_Explosion_Armor 0.9
+
+Melee_Damage_Multiplier 1
+
+Speed_Min -25
+Speed_Max 30
+
+Steer_Min 30
+Steer_Max 30
+
+Brake 60
+
+Fuel_Min 2000
+Fuel_Max 2500
+Fuel 5000
+
+Health_Min 1200
+Health_Max 1600
+Health 1700
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 10
+
+Fuel_Burn_Rate 4
+
+///////////////////////////////////////////////////////////////////////
+
+
+Explosion 19021
+
+
+Default_Battery a9c5e916c29646fdba9d08f6a7ce02b6
+Battery_Burn_Rate 4
+Battery_Charge_Rate 2
+BatteryMode_Headlights Burn
+BatteryMode_Sirens Burn
+BatteryMode_Driving Charging
+BatteryMode_Empty None
+
+
+WheelConfigurations
+[
+    {
+        WheelColliderPath Tires/Tire_0
+        IsColliderSteered true
+        IsColliderPowered false
+        ModelPath Wheels/Wheel_0
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_1
+        IsColliderSteered true
+        IsColliderPowered false
+        ModelPath Wheels/Wheel_1
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_2
+        IsColliderSteered false
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_2
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_3
+        IsColliderSteered false
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_3
+        ModelUseColliderPose true
+    }
+]
+
+Physics_Profile afa788126b624899af4c3942358e8f1b
+
+Tires_Invulnerable
+Bumper_Invulnerable
+Bumper_Multiplier 5
+Environment_Invulnerable
+
+
+
+Pitch_Drive 0.026
+
+Valid_Speed_Horizontal 300
+
+
+DefaultPaintColors
+[
+	"#d1d1d1" // White
+]
+
+
+PaintableSections
+[
+    {
+        Path Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Model_1
+        MaterialIndex 0
+    }
+]
+
+
+
+ExplosionBurnMaterialSections
+[
+    {
+        Path Model_0
+		AllMaterials true
+    }
+    {
+        Path Model_1
+		AllMaterials true
+    }
+]

@@ -1,0 +1,8 @@
+GUID 413a21dcb30a403db95db74fe31085e3
+Type RewardsList
+
+//Visit Kahramaan
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22630
+Reward_0_Value True

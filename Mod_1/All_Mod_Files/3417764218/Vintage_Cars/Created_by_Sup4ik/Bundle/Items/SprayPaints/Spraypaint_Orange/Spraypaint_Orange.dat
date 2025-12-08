@@ -1,0 +1,22 @@
+GUID 0b6ca0f39e8840bfbde28788b6eb3b8a
+Type Vehicle_Paint_Tool
+Rarity Uncommon
+Useable Vehicle_Paint
+ID 19304
+
+Size_X 2
+Size_Y 2
+Size_Z 0.30
+
+Use_Auto_Icon_Measurements False
+
+UseAudioClip vintagecars.masterbundle:Bundle/Sounds/Vehicle_Spraypaint.mp3
+
+PaintColor #e58834
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 19304
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27

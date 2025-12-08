@@ -1,0 +1,22 @@
+GUID 035b09dca9664ba7b0876972bfbd36ce
+Type Food
+Useable Consumeable
+ID 2011
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Food 20
+Energy 30
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 2010
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

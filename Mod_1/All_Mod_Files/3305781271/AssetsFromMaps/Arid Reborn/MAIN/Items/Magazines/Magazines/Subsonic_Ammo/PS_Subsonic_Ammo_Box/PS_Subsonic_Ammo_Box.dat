@@ -1,0 +1,42 @@
+GUID 55a1eded60814dcd9118cabdbb1dfe65
+Type Magazine
+Rarity Epic
+ID 19291
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Amount 30
+Count_Min 15
+Count_Max 30
+
+Calibers 1
+Caliber_0 18800
+
+Tracer 48
+
+Blueprints 4
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//Subsonic Ammo Box
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19291
+Blueprint_1_Build 30
+//Honey Bee Mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 19292
+Blueprint_2_Build 30
+//WKM Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 19319
+Blueprint_3_Build 30

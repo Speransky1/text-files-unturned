@@ -1,0 +1,22 @@
+GUID 7e03d710dd304e6398e3d42be08b8323
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Hatch
+ID 59233
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Health 900
+Range 4
+Radius 0.5
+
+Locked
+
+Explosion 36
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

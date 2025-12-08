@@ -1,0 +1,76 @@
+"Metadata"
+{
+	"GUID" "2d1355c5402c41f5b8733bbf35a58b4b"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_2.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_3.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_4.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_5.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_6.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_7.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_8.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_9.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/PS_House_10.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/ps_house_11.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/ps_house_12.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/ps_house_13.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/ps_house_14.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Residential/ps_house_15.mat"
+		}
+	]
+}

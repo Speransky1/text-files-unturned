@@ -1,0 +1,10 @@
+GUID f74f92e942ba42b0b39f7a4acfae7ab8
+Type Medium
+ID 4517
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Medium/Fences/Fence_Wood_1
+
+Material_Palette 53390069a4dd4d69b4459b4f5e83ddda

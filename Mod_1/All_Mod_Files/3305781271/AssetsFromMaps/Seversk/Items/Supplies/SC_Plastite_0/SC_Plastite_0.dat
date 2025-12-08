@@ -1,0 +1,47 @@
+﻿GUID 35faa2c9105f450aa17784fe906fcdb4
+
+Type Supply
+Rarity Epic
+ID 41507
+Size_X 2
+Size_Y 2
+Size_Z 0.37
+
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset
+Use_Auto_Stat_Descriptions false
+
+Blueprints
+[
+	{
+		CategoryTag "bfac6026305f4737a95fd275ebff65a6" // Utilities
+		InputItems
+		[
+			{
+				ID "154ed26374be4193ac49031f08a2a2a3" // Cloth
+				Amount 1
+			}
+			{
+				ID "6885550d43e24e77844d6f1522442aec" // Sodium Perchlorate
+				Amount 2
+			}
+			{
+				ID "58b45f8f7807426289e372b7341d10d2" // Gunpowder
+				Amount 3
+			}
+			{
+				ID "1986846586774600b7b8779394e49fb6" // Glue
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]

@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "478b9561ab1e49d4a116822ed445711d"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/huts/hut_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/huts/hut_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/huts/hut_2.mat"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+Name PS Bunker Door Openable #2 [B-51]
+
+Interactability_Condition_0 Missing B-51 Key
+
+Interact Use [{0}]

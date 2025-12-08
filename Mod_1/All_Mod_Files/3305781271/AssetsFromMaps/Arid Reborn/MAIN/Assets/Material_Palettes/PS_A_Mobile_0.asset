@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "1e60288d8f1f4fee884148e8a8be4afd"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/mobile_0/mobile_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/mobile_0/mobile_1.mat"
+		}
+	]
+}

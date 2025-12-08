@@ -1,0 +1,22 @@
+GUID 132320e251114a0d8e91ae6332717c8a
+Type Spawn
+ID 10158
+
+Tables
+[
+	{
+		// docs_wrg (Spawn)
+		Guid fbd427dad131406a93847b14efd0c346
+		Weight 6
+	}
+	{
+		// tainik_proper (Spawn)
+		Guid 1120a4f8114c4a31bf5c7600464d1b21
+		Weight 5
+	}
+	{
+		// Mercs_Deadzone_Guns (Spawn)
+		Guid 7be788f984674ca0aa50b7808a89f723
+		Weight 5
+	}
+]

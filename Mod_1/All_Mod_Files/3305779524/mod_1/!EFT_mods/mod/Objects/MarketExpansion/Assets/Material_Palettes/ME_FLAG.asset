@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "d1d492b448ca4890acc54f23737b4bb4"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FLAG/ME_FLAG_0.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FLAG/ME_FLAG_1.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FLAG/ME_FLAG_2.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FLAG/ME_FLAG_3.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FLAG/ME_FLAG_4.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FLAG/ME_FLAG_5.mat"
+		}
+	]
+}

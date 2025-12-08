@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "338dc9193dee41c7b5f85d46df018898"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Mixer_0/Mixer_0_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Mixer_0/Mixer_1_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Mixer_0/Mixer_2_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Mixer_0/Mixer_3_M.mat"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+﻿GUID 63832123425444fba92df06811ab3d70
+
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 41623
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Aid
+Health 35
+Disinfectant 30
+Use_Auto_Stat_Descriptions False
+ConsumeAudioClip Sounds/Tablets_Swallow_0.ogg
+InventoryAudio Sounds/Inventory/TabletsShaking/Tablets_Shaking.asset

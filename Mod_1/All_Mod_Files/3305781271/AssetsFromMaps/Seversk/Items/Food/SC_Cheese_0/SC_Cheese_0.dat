@@ -1,0 +1,19 @@
+﻿GUID 38cd955d8f1b4176a5e14eb9f7980854
+
+Type Food
+Useable Consumeable
+Rarity Uncommon
+ID 41801
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Food 20
+Water 10
+Use_Auto_Icon_Measurements False
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset
+ConsumeAudioClip Sounds/Eating_0.ogg
+Quality_Min 20
+Quality_Max 40

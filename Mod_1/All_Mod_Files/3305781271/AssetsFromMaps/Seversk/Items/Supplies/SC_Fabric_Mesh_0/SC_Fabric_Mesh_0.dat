@@ -1,0 +1,49 @@
+﻿GUID 928710c647bf4eb1bb1de7cfccdb1844
+
+Type Supply
+Rarity Uncommon
+ID 41562
+Size_X 1
+Size_Y 1
+Size_Z 0.42
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset
+
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "4b74f6b14f4f414fb8fc80329870e807 x 2" // Spool Thread
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		CategoryTag "d089feb7e43f40c5a7dfcefc36998cfb" // Supplies
+		InputItems
+		[
+			"4b74f6b14f4f414fb8fc80329870e807 x 4" // Thread
+			"159e927969ea4946a24602eaa05e3273 x 2" // Fabric Cloth
+			"1986846586774600b7b8779394e49fb6" // Glue
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this x 2
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

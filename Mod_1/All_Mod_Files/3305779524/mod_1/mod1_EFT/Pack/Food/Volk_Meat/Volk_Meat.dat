@@ -1,0 +1,15 @@
+GUID 4f2593b7ca9f491bbe55fb3f46e1a065
+
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 19530
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 3
+Food 25
+Virus 35

@@ -1,0 +1,26 @@
+GUID 2bdd7f87da664511aacaa5990b0cda37
+
+Type Magazine
+Rarity Rare
+ID 17001
+
+Size_X 1
+Size_Y 1
+Size_Z 0.18
+
+Amount 8
+Count_Min 4
+Count_Max 8
+
+Calibers 1
+Caliber_0 17100
+
+Tracer 17004
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17001
+Blueprint_0_Build 30
+
+Use_Auto_Stat_Descriptions false

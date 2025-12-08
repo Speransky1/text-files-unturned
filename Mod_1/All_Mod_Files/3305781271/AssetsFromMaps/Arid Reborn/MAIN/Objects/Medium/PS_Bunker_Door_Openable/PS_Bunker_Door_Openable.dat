@@ -1,0 +1,13 @@
+GUID 6585e8d6e91f44479830e11035059660
+Type Large
+Has_Clip_Prefab False
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 20053
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Binary_State
+Interactability_Delay 4
+Interactability_Hint Use

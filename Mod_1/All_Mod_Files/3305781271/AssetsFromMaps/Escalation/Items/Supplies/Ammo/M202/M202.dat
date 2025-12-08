@@ -1,0 +1,26 @@
+GUID 1c40b4e2322146fa84d532562129174a
+
+
+Type Magazine
+Rarity Legendary
+ID 52028
+
+
+
+Size_X 2
+Size_Y 2
+Size_Z 0
+
+
+Amount 4
+
+Calibers 1
+Caliber_0 51051
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 52028
+Blueprint_0_Build 30
+
+Delete_Empty

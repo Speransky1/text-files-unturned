@@ -1,0 +1,22 @@
+GUID 092c443e5ed74e8c8f04c5ba70168d5e
+Type Spawn
+ID 10503
+
+Tables
+[
+	{
+		// Marked_Rooms_Supply (Spawn)
+		Guid 19300632eaaa4d5699ecf826b1a6133b
+		Weight 25
+	}
+	{
+		// Marked_Rooms_Docs (Spawn)
+		Guid 5c719669d6b0402fa33e2ad724f62560
+		Weight 7
+	}
+	{
+		// Marked_Rooms_Barters (Spawn)
+		Guid f61ea2f79c3e4f218fa4c2e4c7146987
+		Weight 2
+	}
+]

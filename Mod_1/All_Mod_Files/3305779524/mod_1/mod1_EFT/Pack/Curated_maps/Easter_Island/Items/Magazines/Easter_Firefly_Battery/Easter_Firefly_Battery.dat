@@ -1,0 +1,26 @@
+GUID 4d04d28a54e44aa68f0d4d1bf6e7cd13
+Type Magazine
+Rarity Mythical
+ID 6701
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 10
+
+Calibers 1
+Caliber_0 6701
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_1_ID 1450
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 6701
+Blueprint_1_Build 30
+
+Delete_Empty

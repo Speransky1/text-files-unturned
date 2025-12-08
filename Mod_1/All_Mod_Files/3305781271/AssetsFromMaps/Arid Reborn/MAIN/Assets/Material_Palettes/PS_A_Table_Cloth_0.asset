@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "15ce1e83d55f46e3b63159a791f4bc28"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/table_cloth_0/table_cloth_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/table_cloth_0/table_cloth_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/table_cloth_0/table_cloth_2.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/table_cloth_0/table_cloth_3.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/table_cloth_0/table_cloth_4.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/table_cloth_0/table_cloth_5.mat"
+		}
+	]
+}

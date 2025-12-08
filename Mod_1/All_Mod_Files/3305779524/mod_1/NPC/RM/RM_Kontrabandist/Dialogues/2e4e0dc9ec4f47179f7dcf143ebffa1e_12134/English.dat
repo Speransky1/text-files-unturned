@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Здравствуй. Говори че хотел, дружище.
+Response_0 <color=#a92b75>Торговля</color>
+Response_1 Ты кто?
+Response_2 Как вести с тобой дела?
+Response_3 *Уйти*

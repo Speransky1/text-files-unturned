@@ -1,0 +1,7 @@
+Name Metro Bossfight [TP]
+
+Interact Teleport [{0}]
+
+Interactability_Condition_0 Rescue him.
+
+Interactability_Condition_1 Church interior incomplete.

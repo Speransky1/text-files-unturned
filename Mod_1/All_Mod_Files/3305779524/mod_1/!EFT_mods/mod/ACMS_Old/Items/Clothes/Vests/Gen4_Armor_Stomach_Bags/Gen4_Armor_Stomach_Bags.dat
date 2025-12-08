@@ -1,0 +1,75 @@
+GUID fa4619a97e62478285b59a2504f6f642
+Type Vest
+Rarity Common
+Useable Clothing
+ID 37375
+
+Size_X 3
+Size_Y 4
+Size_Z 0.65
+
+Width 3
+Height 2
+
+Armor 0.5
+Armor_Explosion 0.71
+Movement_Speed_Multiplier 0.86
+
+Durability 1
+
+Blueprints 4
+Actions 3
+// Repair
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 37355
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+// Add Arms
+Blueprint_1_State_Transfer
+Blueprint_1_Type Apparel
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 37375
+Blueprint_1_Supply_1_ID 37379
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 37377
+Blueprint_1_Build 27
+Action_0_Type Blueprint
+Action_0_Source 37375
+Action_0_Blueprints 0
+Action_0_Blueprint_0_Index 1
+Action_0_Text Add Arms
+Action_0_Tooltip Combining arm armor with body armor.
+
+// Remove Stomach
+Blueprint_2_State_Transfer
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 37375
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 37320
+Blueprint_2_Output_1_ID 37380
+Blueprint_2_Build 27
+Action_1_Type Blueprint
+Action_1_Source 37375
+Action_1_Blueprints 0
+Action_1_Blueprint_0_Index 2
+Action_1_Text Remove Stomach
+Action_1_Tooltip Seperating stomach armor from body armor.
+
+// Remove Bags
+Blueprint_3_State_Transfer
+Blueprint_3_Type Apparel
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 37375
+Blueprint_3_Outputs 2
+Blueprint_3_Output_0_ID 37374
+Blueprint_3_Output_1_ID 37378
+Blueprint_3_Build 27
+Action_2_Type Blueprint
+Action_2_Source 37375
+Action_2_Blueprints 0
+Action_2_Blueprint_0_Index 3
+Action_2_Text Remove Bags
+Action_2_Tooltip Seperating bags from body armor.

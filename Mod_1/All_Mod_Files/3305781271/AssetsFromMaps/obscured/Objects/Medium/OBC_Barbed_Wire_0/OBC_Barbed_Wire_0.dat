@@ -1,0 +1,23 @@
+GUID c629cd734aab4491b10cab3284386df3
+
+Type Trap
+Useable Barricade
+Build Wire
+ID 39100
+
+Size_X 4
+Size_Y 2
+Size_Z 0.8
+
+Player_Damage 35
+Zombie_Damage 62
+
+Unrepairable
+Unpickupable
+
+Proof_Explosion
+Can_Be_Damaged False
+
+Has_Clip_Prefab false
+
+Use_Auto_Stat_Descriptions false

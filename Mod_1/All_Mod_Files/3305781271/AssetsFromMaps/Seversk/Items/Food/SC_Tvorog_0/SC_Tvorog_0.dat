@@ -1,0 +1,18 @@
+﻿GUID 71f37d22852a41e9896053eb5af45459
+
+Type Food
+Useable Consumeable
+Rarity Uncommon
+ID 41640
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Food 35
+Water 20
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset
+ConsumeAudioClip Sounds/Eating_1.ogg
+Quality_Min 10
+Quality_Max 40

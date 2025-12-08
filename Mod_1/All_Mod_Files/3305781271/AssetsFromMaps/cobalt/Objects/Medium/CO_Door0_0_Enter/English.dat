@@ -1,0 +1,5 @@
+Name EFT Beglec Stash Enter
+
+Interactability_Condition_0 Требуется ключ от <color=blue>Схрона Беглеца</color>
+
+Interact Открыть [{0}]

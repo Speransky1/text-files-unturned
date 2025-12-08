@@ -1,0 +1,20 @@
+﻿// Made in NPC Maker by BowieD
+GUID d729c125e21f4806a6f4fced22300093
+ID 14047
+Type NPC
+Shirt 59081
+Pants 59065
+Face 9
+Beard 1
+Hair 2
+Color_Skin #BEA582
+Color_Hair #352C22
+Pose Asleep
+Dialogue 12145
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17076
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Reset 
+

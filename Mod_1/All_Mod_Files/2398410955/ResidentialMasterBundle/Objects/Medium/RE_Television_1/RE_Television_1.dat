@@ -1,0 +1,10 @@
+GUID 88836c7412eb40c1a69705569a4a7b21
+Type Medium
+ID 46204
+
+Material_Palette cb57d7562b7b46ac905100dce5552415
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 15
+Interactability_Effect 77

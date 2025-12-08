@@ -1,0 +1,17 @@
+GUID 6a254e05854a4d4595a6547d2cff4367
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60229
+
+Interactability Dropper
+Interactability_Delay 1200
+Interactability_Hint Custom
+Interactability_Reward_ID 59297
+
+Master_Bundle_Override arid.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Briefcase_0
+
+Exclude_From_Level_Batching true

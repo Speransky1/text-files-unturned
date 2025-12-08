@@ -1,0 +1,19 @@
+GUID 5ac294dccc3b4f608cba07f59b314749
+
+Type Barricade
+Has_Clip_Prefab false
+Rarity Epic
+Useable Barricade
+Build Sign_Wall
+ID 57681
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 200
+Range 4
+Offset 0.125
+
+Vulnerable
+Explosion 19

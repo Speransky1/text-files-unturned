@@ -1,0 +1,25 @@
+GUID 07f3b0b728704bf69314f85fdeeeac5f
+
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 59702
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Beard
+
+Armor 0.81
+Armor_Explosion 0.9
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+Quality_Min 55
+Quality_Max 65

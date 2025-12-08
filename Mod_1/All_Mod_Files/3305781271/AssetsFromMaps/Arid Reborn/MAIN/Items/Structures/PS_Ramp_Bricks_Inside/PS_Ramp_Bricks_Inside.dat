@@ -1,0 +1,28 @@
+GUID 2723e349ee2b4a79b25cb74dd78525c2
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Uncommon
+Useable Structure
+Construct Roof
+ID 10854
+
+SalvageItem 2723e349ee2b4a79b25cb74dd78525c2
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 1b35307fb6b74c68ae1bf4c6a25a29d2
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2000
+Range 6
+
+Explosion 19
+
+PlacementAudioClip aridreborn.masterbundle:Items/Barricades/PS_Blockade/Use.wav
+
+Salvage_Duration_Multiplier 0.4

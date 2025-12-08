@@ -1,0 +1,21 @@
+GUID c85d2ddd73e14cc7a59af4f5200ef7de
+
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Barricade
+ID 62899
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Health 5200
+Range 4
+Radius 0.45
+Offset 0.68
+Salvage_Duration_Multiplier 0.25
+
+Explosion 19
+
+eblan

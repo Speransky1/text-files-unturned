@@ -1,0 +1,52 @@
+﻿GUID d09b7d2ae31342a1b2165a75b7ef4b54
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Cage
+ID 41435
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 200
+Range 4
+Offset 0.15
+SalvageItem d09b7d2ae31342a1b2165a75b7ef4b54
+Explosion 41330
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "bfac6026305f4737a95fd275ebff65a6" // Utilities
+		InputItems
+		[
+			{
+				ID "fc66e44ca92f49d0b8d4fca4bd512190" // Electronic Fragments
+				Amount 4
+			}
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Metal Parts
+				Amount 2
+			}
+			{
+				ID "6cf962ee942941efa9d5b19ff8d85e6d" // Light Bulb
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+PlacementAudioClip Sounds/Placement_2.ogg
+Has_Clip_Prefab false
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.6
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false

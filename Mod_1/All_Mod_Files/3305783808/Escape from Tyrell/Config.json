@@ -1,0 +1,13 @@
+{               
+                "Tips": 26,
+                "Use_Legacy_Clip_Borders": false,
+				"Is_Aurora_Borealis_Visible": false,
+		        "Use_Legacy_Water": false,
+                "Use_Legacy_Ground": false,
+				"Use_Underground_Whitelist": true,
+				"Gravity": -12,
+                 "Asset": 
+				 { 
+				 "GUID": "30621ff01819451dbbc8e8eaf94e2880" 
+				 }
+}

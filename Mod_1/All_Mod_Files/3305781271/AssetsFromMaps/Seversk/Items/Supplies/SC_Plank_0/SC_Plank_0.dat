@@ -1,0 +1,55 @@
+﻿GUID e162f0162f154033935a7a1e3d58e57e
+
+Type Supply
+ID 41329
+Rarity Uncommon
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+InventoryAudio Sounds/Inventory/Default/Default.asset
+
+
+
+
+
+
+Blueprints
+[
+	{
+		CategoryTag "cdb2df24b76d4c6e9d8411c940d8337f" // Gear
+		InputItems
+		[
+			{
+				ID "cfe0e0e457e948b9b0b4cfec48cc0d93" // Wooden Log
+			}
+			{
+				ID "76f1d26328564ee9ba88d395126a4639" // Handsaw
+				Delete false
+			}
+		]
+		OutputItems this x 4
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this x 10
+		OutputItems "4bcf63e2c6d049bba3c0fad647986d27" // Planks Stack
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		CategoryTag "cdb2df24b76d4c6e9d8411c940d8337f" // Gear
+		InputItems "8ae387a91c1c4964be2a12be7aeabfb9 x 4" // Wooden Stick
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Stack
+Action_0_Tooltip Pile items together for free up space.
+
+Add_Default_Actions false

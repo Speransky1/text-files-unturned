@@ -1,0 +1,17 @@
+GUID 535ccfd7b604439ebdad37509eb2f7ef
+Type Sight
+Rarity Legendary
+ID 31451
+
+Size_X 1
+Size_Y 1
+Size_Z 0.12
+
+Zoom 3
+Sway 1
+
+Vision Military
+
+Nightvision_Color_R 129
+Nightvision_Color_G 225
+Nightvision_Color_B 157

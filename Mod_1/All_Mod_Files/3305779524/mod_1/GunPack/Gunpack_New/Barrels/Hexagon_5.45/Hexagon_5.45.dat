@@ -1,0 +1,24 @@
+GUID 32bfb21a7133465a91a265acf22279cc
+
+Type Barrel
+Rarity Epic
+ID 34102
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 23906
+
+Silenced 
+Volume 0.3
+Recoil_X 0.9
+Recoil_Y 0.7
+
+Gunshot_Rolloff_Distance_Multiplier 0.75
+
+
+
+
+Ballistic_Drop 1.3

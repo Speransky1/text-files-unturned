@@ -1,0 +1,22 @@
+GUID f7d31ef8b6af47148669ab1d08cf8b05
+
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 44003
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Should_Delete_After_Use False
+
+Bleeding
+Broken
+Health 23
+Disinfectant 100
+Food 100
+Water 100
+Energy 100
+
+Should_Drop_On_Death False

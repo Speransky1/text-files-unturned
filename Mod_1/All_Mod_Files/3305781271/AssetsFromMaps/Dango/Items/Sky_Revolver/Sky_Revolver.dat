@@ -1,0 +1,79 @@
+GUID 084227d50ba44eb8b781659b7b384bfe
+
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Any
+ID 44010
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+Size2_Z 0.4
+
+Magazine 44009
+
+Ammo_Min 40
+Ammo_Max 40
+
+Semi
+Bursts 1
+
+Caliber 44001
+
+Range 300
+Firerate 10
+Action Trigger
+
+Ballistic_Steps 1
+Ballistic_Travel 300
+Ballistic_Drop 0
+
+Player_Damage 63
+Player_Leg_Multiplier 0.7
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 169
+Zombie_Leg_Multiplier 13.37
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 420
+Animal_Leg_Multiplier 0.69
+Animal_Spine_Multiplier 0.420
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 25
+Structure_Damage 20
+Vehicle_Damage 75
+Resource_Damage 20
+Object_Damage 25
+
+Spread_Aim 0.05
+Spread_Hip 0.1
+
+Recoil_Min_X 8
+Recoil_Min_Y 25
+Recoil_Max_X 12
+Recoil_Max_Y 30
+
+Recover_X 0.5
+Recover_Y 0.75
+
+Shake_Min_X 0.01
+Shake_Min_Y 0.01
+Shake_Min_Z -0.1
+Shake_Max_X -0.01
+Shake_Max_Y -0.01
+Shake_Max_Z -0.15
+
+Muzzle 3
+
+Invulnerable
+
+Can_Aim_During_Sprint True
+
+Asset_Bundle_Version 2

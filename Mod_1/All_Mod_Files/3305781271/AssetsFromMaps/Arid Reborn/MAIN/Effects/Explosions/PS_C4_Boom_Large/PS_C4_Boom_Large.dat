@@ -1,0 +1,10 @@
+GUID e44cdaf560484b7287d85d56458a2bbb
+Type Effect
+ID 19047
+
+Blast 137
+
+Relevant_Distance 4000
+
+CameraShake_Radius 64
+CameraShake_MagnitudeDegrees 160

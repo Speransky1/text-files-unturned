@@ -1,0 +1,33 @@
+GUID 136b544111c7493faaa9ac03e41752fa
+Type Sight
+Rarity Epic
+ID 10899
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Sway 1.25
+Zoom 2.5
+Aim_Duration_Multiplier 1.05
+
+Calibers 1
+Caliber_0 18918
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10899
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 19000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Scrap
+Action_0_Tooltip Turn into <color=#ffffff>Metal</color>.

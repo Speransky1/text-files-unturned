@@ -1,0 +1,46 @@
+GUID e6087082050a4e5aafaffb1265de88a2
+
+
+Type Magazine
+Rarity Legendary
+ID 63292
+
+Size_X 1
+Size_Y 2
+Size_Z 0.25
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/PS_HoneyB_Mag
+
+Amount 20
+Count_Min 2
+Count_Max 11
+
+Calibers 1
+Caliber_0 19292
+
+Tracer 19013
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63292
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63291
+Blueprint_1_Build 30
+
+Range 4
+Player_Damage 4
+Zombie_Damage 8
+Animal_Damage 8
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 15
+Explosion 19019
+Explosive
+
+Explosion_Launch_Speed 0

@@ -1,0 +1,46 @@
+﻿GUID 4556961947e94b11a58a8c911315fbee
+
+Type Water
+Useable Consumeable
+ID 41645
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Water 35
+Energy 30
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems "3dca37c8a4834a989ef9e5a2f8060ecd" // Purification Tablets
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Quest_Rewards 5
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 41456
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Empty Can Received
+Quest_Reward_1_Duration 1
+InventoryAudio Sounds/Inventory/WaterShaking/Water_Shaking.asset
+ConsumeAudioClip Sounds/DrinkSwallow_2.ogg
+Use_Auto_Stat_Descriptions false
+
+Quest_Reward_2_Type Player_Life_Stamina
+Quest_Reward_2_Value 20
+Quest_Reward_2_GrantDelaySeconds 2
+
+Quest_Reward_3_Type Player_Life_Stamina
+Quest_Reward_3_Value 20
+Quest_Reward_3_GrantDelaySeconds 4
+
+Quest_Reward_4_Type Player_Life_Stamina
+Quest_Reward_4_Value 20
+Quest_Reward_4_GrantDelaySeconds 6

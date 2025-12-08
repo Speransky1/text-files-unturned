@@ -1,0 +1,46 @@
+GUID 91d2587f6b8c4cdcbd0cd70ecc9a62ce
+Type Magazine
+Rarity Rare
+ID 31020
+
+Size_X 2
+Size_Y 2
+Size_Z 0.325
+
+Amount 30
+Count_Min 15
+Count_Max 30
+
+Calibers 1
+Caliber_0 18800
+
+Delete_Empty
+
+Tracer 48
+
+Blueprints 5
+//Magnum Ammo Package
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31020
+Blueprint_0_Build 30
+//Pass Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31021
+Blueprint_1_Build 30
+//Magnum Fastloader
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31022
+Blueprint_2_Build 30
+//SMG-M Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31023
+Blueprint_3_Build 30
+//SMG-M Extented Mag
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 31024
+Blueprint_4_Build 30

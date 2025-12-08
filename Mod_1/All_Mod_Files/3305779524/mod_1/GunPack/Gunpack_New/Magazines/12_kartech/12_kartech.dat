@@ -1,0 +1,31 @@
+GUID b1725c74971b4ba3b8256d05f82b9cdb
+
+
+Type Magazine
+Rarity Epic
+ID 33128
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 8
+Count_Min 0
+Count_Max 8
+
+Calibers 1
+Caliber_0 63544
+
+Pellets 6
+Spread 6
+Ballistic_Damage_Multiplier 1.2
+
+Delete_Empty
+
+Tracer 19073
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 33128
+Blueprint_0_Build 30

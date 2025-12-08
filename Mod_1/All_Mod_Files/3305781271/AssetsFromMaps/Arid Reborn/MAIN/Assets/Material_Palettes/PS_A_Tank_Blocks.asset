@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "8bc0fdb4637f40be960f258eac025e26"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/tank_blocks/tank_block_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/tank_blocks/tank_block_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/tank_blocks/tank_block_2.mat"
+		}
+	]
+}

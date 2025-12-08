@@ -1,0 +1,45 @@
+GUID 9dac9f4269324ebd9852dfb23e70f274
+
+Type Sentry
+Rarity Legendary
+Useable Barricade
+Build Sentry
+ID 57109
+
+Size_X 2
+Size_Y 3
+Size_Z 0.55
+
+Health 800
+Range 4
+Radius 0.5
+Offset 1
+
+Storage_X 7
+Storage_Y 3
+Display
+Locked
+Mode Hostile
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 57025
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57110
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 57027 
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 57021 
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 67
+Blueprint_0_Supply_4_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Elver

@@ -1,0 +1,8 @@
+GUID 071cc9bb5c1f4583b5d5e5b13c11d7d5
+
+Type Large
+Has_Clip_Prefab false
+ID 58031
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_Vault_Door

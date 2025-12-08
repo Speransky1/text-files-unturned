@@ -1,0 +1,81 @@
+﻿// Made in NPC Maker by BowieD
+GUID 6a9b6287e9364dc6b09c2a14df129832
+Type Quest
+ID 14841
+Conditions 13
+Condition_0_Type Item
+Condition_0_ID 50201
+Condition_0_Amount 2
+Condition_0_Reset 
+
+Condition_1_Type Item
+Condition_1_ID 50202
+Condition_1_Amount 3
+Condition_1_Reset 
+
+Condition_2_Type Item
+Condition_2_ID 50205
+Condition_2_Amount 1
+Condition_2_Reset 
+
+Condition_3_Type Item
+Condition_3_ID 50200
+Condition_3_Amount 1
+Condition_3_Reset 
+
+Condition_4_Type Item
+Condition_4_ID 50204
+Condition_4_Amount 1
+Condition_4_Reset 
+
+Condition_5_Type Item
+Condition_5_ID 50208
+Condition_5_Amount 5
+Condition_5_Reset 
+
+Condition_6_Type Item
+Condition_6_ID 59706
+Condition_6_Amount 5
+Condition_6_Reset 
+
+Condition_7_Type Item
+Condition_7_ID 11128
+Condition_7_Amount 3
+Condition_7_Reset 
+
+Condition_8_Type Item
+Condition_8_ID 59400
+Condition_8_Amount 5
+Condition_8_Reset 
+
+Condition_9_Type Item
+Condition_9_ID 59274
+Condition_9_Amount 2
+Condition_9_Reset 
+
+Condition_10_Type Item
+Condition_10_ID 59180
+Condition_10_Amount 1
+Condition_10_Reset 
+
+Condition_11_Type Item
+Condition_11_ID 59524
+Condition_11_Amount 1
+Condition_11_Reset 
+
+Condition_12_Type Item
+Condition_12_ID 59120
+Condition_12_Amount 1
+Condition_12_Reset 
+
+Rewards 2
+Reward_0_Type Item
+Reward_0_ID 59534
+Reward_0_Amount 0
+Reward_0_Auto_Equip False
+
+Reward_1_Type Item
+Reward_1_ID 56241
+Reward_1_Amount 1
+Reward_1_Auto_Equip True
+

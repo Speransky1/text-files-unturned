@@ -1,0 +1,27 @@
+GUID eb4f7e33c2784251ad6518d1c36250f4
+Type Grip
+Rarity Rare
+ID 10584
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Calibers 1
+Caliber_0 18934
+
+Recoil_X 0.95
+Recoil_Y 0.85
+Shake 0.96
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10584
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 19202
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 19000
+Blueprint_0_Output_1_Amount 3
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27

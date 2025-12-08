@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "188b7d423c0b46cc814ad4099b6717a4"
+	"Type" "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			"Asset"
+			{
+				"GUID" "2dcb1557972140f18f088c72d098a89f"
+			}
+			"Weight" "1"
+		}
+	]
+}

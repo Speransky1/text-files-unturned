@@ -1,0 +1,18 @@
+GUID 4230c6d8effd4f6993d9eac2e779ee8c
+
+Type Medium
+ID 38917
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 38809
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Effect 38808
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 38809
+Interactability_Reward_0_Value True

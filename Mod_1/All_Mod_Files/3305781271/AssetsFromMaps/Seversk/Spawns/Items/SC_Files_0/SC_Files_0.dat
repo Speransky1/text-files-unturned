@@ -1,0 +1,147 @@
+GUID 07bc4e34f0184c94a4f269fbcb459e62
+Type Spawn
+ID 41432
+
+Tables
+[
+	{
+		// Screwdriver (Melee Item)
+		LegacyAssetId 41343
+		Weight 60
+	}
+	{
+		// Hammer (Melee Item)
+		LegacyAssetId 41348
+		Weight 50
+	}
+	{
+		// Pocket Knife (Melee Item)
+		LegacyAssetId 41666
+		Weight 50
+	}
+	{
+		// Pen (Supply Item)
+		LegacyAssetId 41674
+		Weight 50
+	}
+	{
+		// Glue (Supply Item)
+		LegacyAssetId 41352
+		Weight 40
+	}
+	{
+		// Bolts (Supply Item)
+		LegacyAssetId 41341
+		Weight 40
+	}
+	{
+		// Telephone (Supply Item)
+		LegacyAssetId 41677
+		Weight 40
+	}
+	{
+		// Pen (Supply Item)
+		LegacyAssetId 41673
+		Weight 40
+	}
+	{
+		// Scissors (Supply Item)
+		LegacyAssetId 41340
+		Weight 34
+	}
+	{
+		// Duct Tape (Supply Item)
+		LegacyAssetId 41325
+		Weight 34
+	}
+	{
+		// Toilet Paper (Supply Item)
+		LegacyAssetId 41797
+		Weight 32
+	}
+	{
+		// Power Supply (Supply Item)
+		LegacyAssetId 41675
+		Weight 30
+	}
+	{
+		// Pen (Supply Item)
+		LegacyAssetId 41672
+		Weight 30
+	}
+	{
+		// Nails (Supply Item)
+		LegacyAssetId 41334
+		Weight 30
+	}
+	{
+		// Plastic Tube (Supply Item)
+		LegacyAssetId 41676
+		Weight 30
+	}
+	{
+		// Matches (Supply Item)
+		LegacyAssetId 41367
+		Weight 30
+	}
+	{
+		// Light Bulb (Supply Item)
+		LegacyAssetId 41338
+		Weight 30
+	}
+	{
+		// Amplifier (Supply Item)
+		LegacyAssetId 41349
+		Weight 30
+	}
+	{
+		// Insulating Tape (Supply Item)
+		LegacyAssetId 41326
+		Weight 29
+	}
+	{
+		// Bottle of Chemicals (Supply Item)
+		LegacyAssetId 41799
+		Weight 22
+	}
+	{
+		// Battery (Supply Item)
+		LegacyAssetId 41339
+		Weight 20
+	}
+	{
+		// Twine (Supply Item)
+		LegacyAssetId 41346
+		Weight 20
+	}
+	{
+		// Gunpowder (Supply Item)
+		LegacyAssetId 41458
+		Weight 18
+	}
+	{
+		// Box of Papers (Barricade Item)
+		LegacyAssetId 41802
+		Weight 15
+	}
+	{
+		// Bleach (Supply Item)
+		LegacyAssetId 41351
+		Weight 15
+	}
+	{
+		// Tactical Compass (Map Item)
+		LegacyAssetId 41803
+		Weight 15
+	}
+	{
+		// Box of Nails (Barricade Item)
+		LegacyAssetId 41335
+		Weight 5
+	}
+	{
+		// Box of Bolts (Barricade Item)
+		LegacyAssetId 41342
+		Weight 5
+	}
+]

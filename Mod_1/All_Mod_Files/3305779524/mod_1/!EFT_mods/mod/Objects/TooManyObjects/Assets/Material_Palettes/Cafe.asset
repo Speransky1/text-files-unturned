@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "079599404ef140b9aa955ea2087d50c3"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "tmo.masterbundle"
+			"Path" "Assets/Material_Palettes/Cafe/Cafe_1.mat"
+		}
+		{
+			"Name" "tmo.masterbundle"
+			"Path" "Assets/Material_Palettes/Cafe/Cafe_2.mat"
+		}
+				{
+			"Name" "tmo.masterbundle"
+			"Path" "Assets/Material_Palettes/Cafe/Cafe_3.mat"
+		}
+				{
+			"Name" "tmo.masterbundle"
+			"Path" "Assets/Material_Palettes/Cafe/Cafe_4.mat"
+		}
+	]
+}

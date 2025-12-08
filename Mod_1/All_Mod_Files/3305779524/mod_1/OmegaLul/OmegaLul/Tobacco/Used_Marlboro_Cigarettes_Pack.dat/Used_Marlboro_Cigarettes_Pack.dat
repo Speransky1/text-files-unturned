@@ -1,0 +1,19 @@
+
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 58068
+
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item_Random
+Quest_Reward_0_ID 58068
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Внутри что-то было...
+Quest_Reward_1_Duration 2

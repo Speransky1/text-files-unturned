@@ -1,0 +1,34 @@
+GUID bc827908ad4e4eea96d20a301af474f6
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 57212
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 50
+Water 50
+Disinfectant 10
+Health 25
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 57202
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 57197
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 57198
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 57190
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Product 57212
+Blueprint_0_Products 4
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "cadcbb83be774a52b5ca1d43f5f266a1"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "hawaii.masterbundle"
+		"Path" "Terrain/2 grass.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "FOLIAGE_STATIC"
+	"Foliage"
+	{
+		"GUID" "2ec7aec6b4514433a7e4d2aba7e6aaec"
+	}
+}

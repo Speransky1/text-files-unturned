@@ -1,0 +1,19 @@
+GUID c0f553dab64a47e2adb3c860fd7c3573
+
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 39108
+
+Size_X 2
+Size_Y 2
+Size_Z 0.24
+
+Beard
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

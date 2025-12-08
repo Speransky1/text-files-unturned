@@ -1,0 +1,5 @@
+GUID 1eb5df0a3d884e20b153d3eb493c0897
+Type Effect
+ID 51038
+Spawn_On_Dedicated_Server
+Relevant_Distance 1024

@@ -1,0 +1,17 @@
+GUID 8f95d812eafd4c329e89436433c7c896
+
+Type Magazine
+Rarity Epic
+ID 60005
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/PS_LAW_Rocket
+
+Size_X 2
+Size_Y 1
+Size_Z 0.225
+
+Amount 1
+
+Calibers 1
+Caliber_0 10004

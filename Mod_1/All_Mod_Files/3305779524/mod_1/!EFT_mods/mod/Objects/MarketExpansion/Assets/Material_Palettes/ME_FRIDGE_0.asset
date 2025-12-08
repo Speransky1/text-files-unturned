@@ -1,0 +1,76 @@
+"Metadata"
+{
+	"GUID" "10155b7620484280adb8fca297db41dd"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_00.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_01.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_02.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_03.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_04.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_05.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_06.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_07.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_08.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_09.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_10.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_11.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_12.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_13.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_14.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_0/ME_FRIDGE_15.mat"
+		}
+	]
+}

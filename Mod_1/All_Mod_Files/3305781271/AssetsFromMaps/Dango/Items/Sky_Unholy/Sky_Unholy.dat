@@ -1,0 +1,42 @@
+GUID f91dc0648a944de6926802af070c8543
+
+Type Melee
+Rarity Mythical
+Useable Melee
+Slot Any
+ID 44001
+
+Size_X 1
+Size_Y 3
+Size_Z 0.9
+
+Range 4
+Strength 1.5
+Stamina 1
+
+Player_Damage 150
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1
+
+Zombie_Damage 250
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1
+
+Animal_Damage 69
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1
+
+Barricade_Damage 500
+Structure_Damage 500
+Vehicle_Damage 500
+Resource_Damage 500
+Object_Damage 200
+
+Invulnerable
+
+Asset_Bundle_Version 2

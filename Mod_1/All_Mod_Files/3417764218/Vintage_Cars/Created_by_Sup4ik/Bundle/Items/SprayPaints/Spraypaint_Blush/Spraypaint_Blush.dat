@@ -1,0 +1,22 @@
+GUID a877917c9eeb4951b4283024cf1667f0
+Type Vehicle_Paint_Tool
+Rarity Uncommon
+Useable Vehicle_Paint
+ID 19310
+
+Size_X 2
+Size_Y 2
+Size_Z 0.30
+
+Use_Auto_Icon_Measurements False
+
+UseAudioClip vintagecars.masterbundle:Bundle/Sounds/Vehicle_Spraypaint.mp3
+
+PaintColor #ffa6c4
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 19310
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27

@@ -1,0 +1,63 @@
+﻿GUID 3c0e90be66994081b0caf7efd17c6db1
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 41405
+
+Size_X 3
+Size_Y 3
+Size_Z 0.55
+
+Health 900
+Range 4
+Radius 0.5
+Offset 1.55
+
+Storage_X 20
+Storage_Y 16
+
+Explosion 41302
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 1
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem 3c0e90be66994081b0caf7efd17c6db1
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "86304a0290424fa6b0ec8d371dab235b" // Wooden Crate
+				Amount 6
+			}
+			{
+				ID "e162f0162f154033935a7a1e3d58e57e" // Wooden Plank
+				Amount 6
+			}
+			{
+				ID "8ae387a91c1c4964be2a12be7aeabfb9" // Wooden Stick
+				Amount 4
+			}
+			{
+				ID "022caafdda4e4937804a7cf79157dd91" // Nails
+				Amount 4
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/Placement_1.ogg
+Has_Clip_Prefab false

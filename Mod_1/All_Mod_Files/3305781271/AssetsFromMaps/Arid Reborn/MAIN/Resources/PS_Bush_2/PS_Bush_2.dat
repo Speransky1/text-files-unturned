@@ -1,0 +1,12 @@
+GUID 260be8a964e941c5abe68acdf6e64d22
+
+Type Resource
+Has_Clip_Prefab False
+ID 59009
+
+Health 1000
+Radius 3
+Scale 0.2
+Explosion 59025
+
+Halloween_Redirect f04401b4f574476f828453cd99f0c28e

@@ -1,0 +1,19 @@
+GUID 3f0224cc338548f393062643370fc1c2
+
+Type Supply
+Rarity Uncommon
+ID 59440
+
+Size_X 1
+Size_Y 1
+Size_Z 0.625
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59439
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59529
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Products 7
+Blueprint_0_Build 27

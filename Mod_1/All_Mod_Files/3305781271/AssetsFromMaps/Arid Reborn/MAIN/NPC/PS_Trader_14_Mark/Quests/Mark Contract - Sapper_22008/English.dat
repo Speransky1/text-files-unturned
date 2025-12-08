@@ -1,0 +1,5 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Mark Contract - Sapper
+Description Bring me 1x <color=#C832FA>Rewire Kit</color>, mark 3 Military Trucks on Fort Kneel & kill 300x zombies.
+Condition_1 {0}/{1} Planted Markers
+Condition_2 {0}/{1} Zombies

@@ -1,0 +1,9 @@
+GUID cc6f29907a36438e9dfe1f2db22febb6
+
+Type Resource
+Has_Clip_Prefab False
+ID 59019
+Health 10000
+Radius 3
+Scale 0.2
+Explosion 59025

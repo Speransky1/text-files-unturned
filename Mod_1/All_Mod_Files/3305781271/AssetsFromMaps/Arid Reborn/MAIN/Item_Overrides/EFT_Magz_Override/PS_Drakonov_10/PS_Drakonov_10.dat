@@ -1,0 +1,38 @@
+GUID cccc19282d8942a8be1936be1d5c627c
+
+Type Magazine
+Rarity Epic
+ID 63612
+
+Size_X 1
+Size_Y 1
+Size_Z 0.215
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Hypervelocity_Ammo/PS_Drakonov_10
+
+Amount 10
+Count_Min 4
+Count_Max 8
+
+Calibers 1
+Caliber_0 19309
+
+Tracer 19040
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 63999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63311
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63312
+Blueprint_2_Build 30

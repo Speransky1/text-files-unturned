@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=rare>Взрывное дело</color>
+Description У <color=green>Оружейников</color> истощились запасы взрывчатки. <color=mythical>Байкал</color> поручил найти компоненты для создания СВУ. Своего рода "разгрузочная работа"
+Reward_3 <color=white>Новые рюкзакиу</color> <color=epic>Дюшеса</color>
+Reward_4 <color=white>Новый комплект у</color> <color=epic>Дюшеса:</color>
+Reward_6 <color=white>Новые бартеры у</color> <color=#a92b75>Контрабандиста:</color>

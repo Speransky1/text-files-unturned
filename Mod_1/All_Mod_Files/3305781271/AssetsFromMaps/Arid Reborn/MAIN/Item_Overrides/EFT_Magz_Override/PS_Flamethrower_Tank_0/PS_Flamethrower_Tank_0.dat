@@ -1,0 +1,17 @@
+GUID 6246d3021e72475f83cb413901ebc350
+
+Type Magazine
+Rarity Mythical
+ID 63605
+
+Size_X 3
+Size_Y 2
+Size_Z 0.175
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Other/PS_Flamethrower_Tank_0
+
+Amount 200
+
+Calibers 1
+Caliber_0 18839

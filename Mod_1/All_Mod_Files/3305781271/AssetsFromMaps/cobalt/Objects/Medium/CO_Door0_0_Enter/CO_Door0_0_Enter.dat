@@ -1,0 +1,20 @@
+GUID 371ad015300b4dd09e2627ead2ecec50
+
+
+Type Medium
+
+Has_Clip_Prefab false
+
+Master_Bundle_Override cobalt.masterbundle
+Bundle_Override_Path /Objects/Medium/CO_Door0_0
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 52455
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Beglec_Stash

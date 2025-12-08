@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "e578e701dbf44a0abfde47131d06cc47"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/clock_1/clock_1.mat"
+		}
+	]
+}

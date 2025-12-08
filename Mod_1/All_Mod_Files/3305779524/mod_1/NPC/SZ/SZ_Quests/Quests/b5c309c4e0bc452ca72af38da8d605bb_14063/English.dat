@@ -1,0 +1,7 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=epic>Солидные прикиды</color>
+Description Заверши все ветки квестов у <color=epic>Бармена</color> в <color=white>Подземке</color> и получи возможность приобретать крайне солидные костюмы у <color=uncommon>Томми</color>
+Condition_0 Выполнить всю линейку квестов <color=uncommon>Доставщик</color>
+Condition_1 Выполнить всю линейку квестов <color=rare>Сборщик</color>
+Condition_2 Выполнить всю линейку квестов <color=epic>Медицина</color>
+Reward_1 <color=epic>Новая одежда у</color> <color=uncommon>Томми</color>

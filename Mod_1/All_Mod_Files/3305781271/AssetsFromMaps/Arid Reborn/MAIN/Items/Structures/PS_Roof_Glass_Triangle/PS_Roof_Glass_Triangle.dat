@@ -1,0 +1,28 @@
+GUID b9e7166e89e54605a42d2313807752fd
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Rare
+Useable Structure
+Construct Roof_Poly
+ID 19838
+
+SalvageItem b9e7166e89e54605a42d2313807752fd
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 2
+Item_Dropped_On_Destroy 39594c4aa2d249a2b701fac1898f4530
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2500
+Range 6
+
+Explosion 36
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.5

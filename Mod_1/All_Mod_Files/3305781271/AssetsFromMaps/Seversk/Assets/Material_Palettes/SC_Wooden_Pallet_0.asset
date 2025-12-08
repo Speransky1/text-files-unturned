@@ -1,0 +1,32 @@
+﻿Metadata
+{
+	GUID 71e64d53b3314438987de75dc0451c74
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Wooden_Pallet_0/Wooden_Pallet_0.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Wooden_Pallet_0/Wooden_Pallet_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Wooden_Pallet_0/Wooden_Pallet_2.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Wooden_Pallet_0/Wooden_Pallet_3.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Wooden_Pallet_0/Wooden_Pallet_4.mat
+		}
+	]
+}

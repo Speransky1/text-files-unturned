@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "6e4c74c25a3c42ccb317ae29401dd26d"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_00.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_01.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_02.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_03.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_04.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_05.mat"
+		}	
+	]
+}

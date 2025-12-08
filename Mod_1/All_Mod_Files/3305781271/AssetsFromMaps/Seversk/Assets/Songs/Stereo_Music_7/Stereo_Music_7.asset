@@ -1,0 +1,15 @@
+﻿Metadata
+{
+	GUID 2eb6641e0b2248e4bace979ccd58f6b2
+	Type SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	Song
+	{
+		MasterBundle sovcore.masterbundle
+		AssetPath Music/StereoMusic_7.ogg
+	}
+	Link_URL https://www.youtube.com/watch?v=DiDUIfMk7go&ab_channel=Kino-Topic
+	Is_Loop true
+}

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "b96eb6d72e514ebbb4787e899e25d863"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/Bridge_0_1.mat"
+		}
+	]
+}

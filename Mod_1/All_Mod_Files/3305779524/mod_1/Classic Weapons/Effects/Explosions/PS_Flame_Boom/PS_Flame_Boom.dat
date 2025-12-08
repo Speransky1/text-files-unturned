@@ -1,0 +1,10 @@
+GUID b5eb4ec9f8b64fa4be831b20969d4b72
+Type Effect
+ID 30009
+
+CameraShake_Radius 10
+CameraShake_MagnitudeDegrees 5
+
+Blast 137
+
+Relevant_Distance 500

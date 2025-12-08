@@ -1,0 +1,1003 @@
+"Metadata"
+{
+	"GUID" "617e7148f168458da661bb0a0f44a8c7"
+	"Type" "SDG.Unturned.CraftingBlacklistAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Input_Items"
+	[
+		{
+		"NoteToSelf" "eaglefire"
+		"GUID" "b03d581a5c1a490f995f8deba57b0f17"
+		}
+		{
+		"NoteToSelf" "maplestrike"
+		"GUID" "38508a1f73c8417a8a68cb675460d0b6"
+		}
+	]
+	"Output_Items"
+	[
+		{
+		"NoteToSelf" "jack o lantern"
+		"GUID" "7ed43ff2e65440c6992a556b61e6ed63"
+		}
+		{
+		"NoteToSelf" "metal wire"
+		"GUID" "ebb61f2e64f24351a6ab905b5516060b"
+		}
+		{
+		"NoteToSelf" "metal sheet"
+		"GUID" "7f06b16642724683bd61584a52fde981"
+		}
+		{
+		"NoteToSelf" "barricade"
+		"GUID" "eeffac0063804866b38c8eb6436ace10"
+		}
+		{
+		"NoteToSelf" "barricade"
+		"GUID" "f72d3be23d91499ba551420791d2f56a"
+		}
+		{
+		"NoteToSelf" "barricade"
+		"GUID" "54b5aa09ef0640e7994dce0ddcc60012"
+		}
+		{
+        "NoteToSelf" "barricade"
+        "GUID" "f767d92f00cc4938981431eeb9286312"
+        }
+		{
+        "NoteToSelf" "barricade"
+        "GUID" "d3c40816534e48c3af0e26fb4d5f1b1a"
+        }
+		{
+        "NoteToSelf" "barricade"
+        "GUID" "d8d471399d36471794257a686fed7400"
+        }
+		{
+        "NoteToSelf" "barricade"
+        "GUID" "8f7670d2dabc449d8f38c8cb656c6acf"
+        }
+		{
+        "NoteToSelf" "maplestrike"
+        "GUID" "8593a19ecb7d40c1a6718fabafb83d0e"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "63abd3a9aa754fe9986314e7ea1c90cf"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "2f48d614b5424e90adcbbde333abc7d6"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "bce3892b5a9f4bab96257fd991ffcb28"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "36b951b6123247b3b0f5a8e33f95ba6f"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "232cc85fa440423f8266d6c2923535b4"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "115e0813c6734779864b6d9c129e8c87"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "e15fd91a620a40ce922bb601a69bc1b5"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "362ab81b73a7431eb3f1477645605891"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "49e23cd99a1c4100bd0b78d9211ea3c0"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "b461b85c01294e8ab4619b3b06313499"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "93726a585cda40a0ae4cc1f42f481caf"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "68d9141f7b40442ca91a87655442a920"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "b98e6dcc04284219a279a95a09b98c6a"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "62a748bf40be48719fe79b8c3e065a79"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "d673b381629a45d9b0c5889f505374be"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "ea56c734f3614983a5381bbce91ba79a"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "a62e03f3ae01467fa2c3bdadb163f85f"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "323752b7e32b47388016bcf16f81cfb5"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "4aaec8684ea24c54ad7e6d371f06b897"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "5046df3b12024c30a770146006caaa35"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "6f1db95a321747bab4fc844a428e2489"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "6e4ee84becc449aeaa631ea54c3f6de4"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "dcbc219ece95406faf63d820ea8e76e1"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "c1b74e7d95eb46789439123d47ca6627"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "0dede0087967430c9ff5606a101eeb6e"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "014c8244baac4e9b9cc08963cb90e1e4"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "0311abc5e8f948dcaa6d841d47fee4dd"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "ba28cf47b37544c4a38f130d15d3d9aa"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "9a64b4678ba54194956578bed6831f6d"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "d9299b3aead64101aab30c7665ad1b6a"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "e70ea1b01f0d465a9634291df14e7649"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "b899422abf1f4991b362d645f56af304"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "6f87cb5e96814aa983d85a25f6e74801"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "4eb2f8a5af6a44b1940bf56ce5b97b26"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "cf5f376948bb46cc9ee2eb8b91c4642e"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "f61fe21902ed45149eafbc3b0f51232b"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "676b8bdaaab74fd4aa3d3c36265c6ea2"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "35e5ad20a45443e99553593a4b166c7b"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "a8c7f87176d547d8ba34167836f16054"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "20119b006ec64fdd81ea75e4bdc93a57"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "2a805f4d90f54199ba362cadb92c53de"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "b539b3c10881472a966fda01543f798d"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "ed1e4416d23449068bdf173881d149f2"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "4eb615311edb4ef98ee95d8c70ba3c25"
+        }
+		{
+        "NoteToSelf" "maplestrike"
+        "GUID" "8bd5f403d2b14f3ab77f7ccfce0ee9a2"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "1f8856edf5964774aa2457b37e45603b"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "2038421b52cc4beea8984e58b4c810a1"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "0c005ae5e4c74575af53ffe2144fad0b"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "5a7281e9af4c435b8cb7f9f5acf05aa9"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "cf2ba549eb0d4e06a88e578bbfe4802c"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "d03f1e69bec4496db920feb461d2c941"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "89a2f3ba54e44a75949223e16c393e6d"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "87d990da55864df6af8340d30d372a0c"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "a9049ac8d18e42f7b4db0ddcd580516e"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "270ce934caf94332aed1dcb68cdea6c9"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "cd6e2ec876a04546930dc357a7177268"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "644b617a197a4381be21230935b5d279"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "fa9b283859034fdbbd71078bb5a0d375"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "e9249609b4d54ebc8aa937ad67990780"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "3407a91dde0c4454b91d5af072f11a4c"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "db4346abc6a040d2ae51987dac2a4dc5"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "bbedd51cd987407d9e0907758e987f5a"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "cf1fa0312f61429a97be6f0ad66c80a0"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "2b9fb144fd2240b8827ebbfe132ce930"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "3ae8973098b3425c9e58c22ee0c79326"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "6c8c0a3f316645d9a54edd7871bb212b"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "1df113bd7fc545eeb31b48feb878f093"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "ba3d3b4781144a93a7cf061ccda3d7c7"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "59d94c3978fc42d582a9a1e84278070b"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "d5877ecb6706457eb61647d0de710ca5"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "2eceb00a94b5493aaf150b37fbef87b3"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "59a518cadba549308f4cfa2d3da5faef"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "f40d92ec0f544c33acfa8276798db9f9"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "c3411bd756be445b9de796ce384cf1d7"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "6d184c53fdeb4056a66ea949a67f01ed"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "3fc297047e834042901ac9083e996fad"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "5f79e4816d9841e5acccc1e758a43f65"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "7ed2ef07175f4fb493a00774e0cb8dbd"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "0a9c7e69c0e34db98be6d09bb6e085f2"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "1793de88863a41ef8ee7b8bab3d9ad79"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "97af6b04ea644b3b8c8696f780581872"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "6ecbbde5002648789f1e5138d23271e8"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "a27de1a9c75d446cbf8e7c1b4c527ef8"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "e2432d5d18e74a6cbc207746468b19bf"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "03511813fd964ea9a176b6c6ed191f56"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "c8c459e27d724d02a00bca4f4a7a6971"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "3b2ec42c24834943b61519c1452e7fc2"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "b16e02715819464ebd3a810543e760a9"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "cd1e2889b73b4a5cbd3a0b1af7eb7d9e"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "fe0653532f0944c495ca404420672f04"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "e14f9c4e27544968a54b946412dfa403"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "9dacf96665b04b2b97e47f767f0be13e"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "b6abf11e824b4e8bb275b781eb086f0b"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "632632fea2f94952938100c6cb62c544"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "343b36df35c94338a2f1e4a4a1b75440"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "51ff6bb8b63743c9be5fd4042d55060b"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "266602d956ad423d85183715f6bcc594"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "db6eb5d15adf43b1a576898a99b77e54"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "0d5f91c9f5d340fc86931e7679494ec4"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "a98e46523c704a24bea832801d059ca3"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "cbc5d88aa8524d37b4bde233fa21f030"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "11cb9fadebdc4303a3646c49bde5af2b"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "0b20822f17774ad3a0827ad5313ce7b3"
+        }
+{
+        "NoteToSelf" "maplestrike"
+        "GUID" "9908a43237364f22a62242cd1fb14fc9"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "cd5e4300f6994424848392cecf72936d"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "fdac7ad3db9c46109fa6a4e137969ad6"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "2e15a98da9e34774b961d636c0e88cc9"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "182e94a79d4b4d3bab9baac0d1d76b23"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "cba173169b314a16be5a1ab44f25fcf2"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "251cb1cc223c4f5ea3ff0deeb192a9bb"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "30c7b04f458e4cbb8958bc487ed46cc4"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "7ff64602a47842f284d7a6cb714c2d69"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "40cea9c052934435909942582758a147"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "0a5c63322bdb439896237c933fcbb055"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "8c434d54a97c4012b0cc8456ef5454eb"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "0b02499a008d41f78ece1a9d53e1664b"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "34b80e51ab5b47c2a243ff85bd6cff7d"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "37dcda8892bc43f29c2538f8e26c3a90"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "9e80c4e3366349e89716943757fd1210"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "f8d149f415724a4ba9831b4032bd0c2a"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "3be39729eb394a93b667181a5e376951"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "41372633ce26412e8c9890d75f3de416"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "736eac590eeb4f51bbe604c81cb6cf22"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "cece4643646b4244a34f594bbaf60834"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "c7428365b26348d08c96938ff5640406"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "06a78e7fdace45bcab785e1913a4c624"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "be8da1aa6deb44ecb4546ce7102fae41"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "ccf17fbfc2ec4300a57350e4b4fa6b11"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "11bdf58b48b64aa090f69eeafb28bd8d"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "b722aca538f041978187959e8cf19d9a"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "8d0b21995b084db3a91bb7a75d777f75"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "7dfa7ffbdc864017861fb8f0e25122bd"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "efb0180de9b948fb8805e6ee8036faec"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "db560a92c67c44f488acb3ce2db10f8f"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "df9be6c70bae459db8d00ca7a2c5ad5a"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "8ca3ad17aa5e4431b44ef9928e23c014"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "d472ed1ca67943a8abdde8cd176099b8"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "7f1a0e422b6347c89870a94942a43ea8"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "97b6fb7f9cfa4837a0a49c4efc7d8e8f"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "6e996babda8a4e7bb922dfc44b6925cd"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "2ec6f5c75cbb44dc823bfaa8b18eefa3"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "228b2c5f74124eb2a9757d5b06c65f52"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "f5cffee6e8434b3f8ece5c80b64ab8d2"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "870a1bdb38a644ef94b3606650550e9e"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "8c81bfb33b7c46e7affdf4bafbd41e68"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "e724fc0b301e40f4bf40c3c59e15912e"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "d70ddd7d092249babe7805352e6df1a7"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "1af65936e08d4a68a729df0ccc38feef"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "22b50b3e3bfb45bc9fe26802873a25da"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "a03bb3f607b948678c6b6f3142da86b1"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "35457ca38d03426091815950e067262b"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "239f32267ca444eea4833b0345274509"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "a193dcb2621b44da8c0b5199105aeb91"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "ec5013e9761a4e30b16dc5a115fa3a29"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "366d616032814bc2aec723a67bcc7629"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "642a4ad41af845b298e49885ec79c84e"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "9f1f78c1274d4f6cadbbc92f302a07fe"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "72fae83175f34bde94bd52d40c7a9ebc"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "306adf871cff47b48d09a3a5414def59"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "412697181591400983dafa441bd45b7b"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "6314c13082c24bdcbc9872d492df4926"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "09af865de1744194a18600dad2d80aef"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "ae9cd991d3ae420fa8292598c99ced4c"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "23f0953c6dc04b399fa6b8a6882a48f0"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "9644027036e0433ebdc512dc7b41ac2c"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "fc698d6d05a244518427207a4213fc4b"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "da3509f76b8242f881fc0f5ce6925350"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "9d5d6f62c95f4aa6af2d89711064cd3c"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "6eb5c705c58c472d9ed366708ac90750"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "a957cbd0eba24236957f49d9ba707352"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "f145006e7a704b77a4c54b2e121ee209"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "b8c982588f744fe890de959934616de8"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "0078ced43dc1454b98c4d0246a4c18ab"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "7d11aa2b07e641cb8362e207327937ec"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "52e635dbf3b641069759247cdf8336ad"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "54ebe428a6e34922b8764ca40a95d165"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "6553e4375e654bdd8ee00d88e4014b98"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "667ba2f0aba7484888bcfbec2a43798b"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "41873f4fca354e6482b48f7663f22aac"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "cdc4535e76db4da895649be269cdacbe"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "a909163e868f471290b0f66919dd52c4"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "37fdffea289349658130469d67ac79bb"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "ecd18c9a449948579fbd70b0b5e13fd2"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "8037a4fe33a24e648a7eb03c296b4e21"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "c4ddc94171524da294cd5c4daea98ddd"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "0f2fea18ed9444cbbb544993ed31d009"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "e4698d4dbe044bf8afdcac7b73748d9a"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "e0503457d87b4230bfa78350c79d16ec"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "ae46254cfa3b437e9d74a5963e161da4"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "3e78a9db8cf74f4e830df4c06f2e9273"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "b2ad25fcad7a4f109e6dcc76a4d285de"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "81419c5ae34e4f449bfddc9075709ff2"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "e79bf4b498344051b59732ccc0fcf2b9"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "619c2420ac19420caf2a260eb3f9e9aa"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "6526d3e0324945618b2eea4ad433cafd"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "ce5ee551b908435a9dc632617b9b8e4c"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "806bc882292247b78bd730ba073eb45a"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "e028fce70a3343c8be7837421318b847"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "57d8bb26e4d8424bb5679651c9582cca"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "19c80cec53c74296a366589e5400eadd"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "fa0ce6a84d5147518f6ee2c44e43b1b0"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "c1db19365f03442088c67a20226b272d"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "2718e79756684574a8223f055c70470f"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "82c4f915fc384563848d30673c78ebd4"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "e19ae9c345a241a08c9ff545c8c4cecd"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "b4ac981d976b4b12b67f55fde662b70c"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "ff7e1755f5114fc99f20cd4df88a760b"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "6d4baaba98de40708ae0df09ad7f1653"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "057e0861b33f49848c1639193a9b8083"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "7637ad4789f642329d24647ab0312733"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "394fef6fe98a459185aa533edf2c2b38"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "ed7e8310ad754a8d9ebe152a0ef6f437"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "26523c2cb43f429ea27e8db284e459de"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "620c99d34efb491caa7435bcf154b7f5"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "20c09459d02945e9b1dd65c5beba2763"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "f02100ce42c4445a94bd60468d92a9ba"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "858c2137aada4312a7cffcb918766c86"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "f2896720ad924d26a35c7883a67dffbf"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "3a8efbc56b044e98be7634453f6f4be1"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "5c68fd35ed1c4d19b651211a648f938c"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "8d684713a6da469eb23815d68afacf10"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "3a0f7c7ceb314cab9b52eea4e3e1ff23"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "e56bb0231db34929bcd2a4ba2aa925e3"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "7384ac31f76941798bb2eae6c78e71b5"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "ef690c42aae1466c9caf07d5980b8dad"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "d2e352cf157440e6821b4d11fc627af7"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "dec7d69e836f4d7f9c890a9828784772"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "c679722bbfc349cd840ce0ad2abc8305"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "e3b7d35c1b8346fb9c51d33460e05b6e"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "a921ecb08b6740e397d467e66acf104b"
+        }
+	    {
+        "NoteToSelf" "maplestrike"
+        "GUID" "9862d7ada9fa4988b5612b061207e1ef"
+        }
+		{
+        "NoteToSelf" "maplestrike"
+        "GUID" "6740b586ceef4d419c15633698503443"
+        }
+		{
+        "NoteToSelf" "maplestrike"
+        "GUID" "76c58f226cd74ef5a53a8912bee270d1"
+        }
+		{
+        "NoteToSelf" "maplestrike"
+        "GUID" "72772aa0e44c45a6accb37863c686801"
+        }
+	]
+}
+

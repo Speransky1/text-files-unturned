@@ -1,0 +1,19 @@
+﻿// Made in NPC Maker by BowieD
+GUID eb94a82e28cf431899bb658812ddf53c
+Type Vendor
+ID 13016
+Buying 7
+Buying_0_ID 59555
+Buying_0_Cost 250
+Buying_1_ID 59401
+Buying_1_Cost 400
+Buying_2_ID 57534
+Buying_2_Cost 4250
+Buying_3_ID 57536
+Buying_3_Cost 5500
+Buying_4_ID 57535
+Buying_4_Cost 6700
+Buying_5_ID 57532
+Buying_5_Cost 9800
+Buying_6_ID 57533
+Buying_6_Cost 14880

@@ -1,0 +1,14 @@
+GUID eb1a3580c8e643caaf8edd95646bde7b
+
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 58459
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 70
+Water 5
+Health 15

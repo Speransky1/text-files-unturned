@@ -1,0 +1,9 @@
+﻿GUID e7eda20dfc7240f8a2dc17fb25c90946
+
+Type Medium
+Has_Clip_Prefab false
+Rubble Destroy
+Rubble_Reset 100
+Rubble_Health 20
+Rubble_Effect 41328
+Material_Palette dd72fff80a6a490a9a7f1fa7e2ef01e8

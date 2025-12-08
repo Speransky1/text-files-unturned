@@ -1,0 +1,17 @@
+GUID e8caad3b0a7341be8fe9711f801664d4
+
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 39137
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

@@ -1,0 +1,23 @@
+GUID 2ce768fb3c1944cdafd8ff381727e4a4
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 51410
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Aid
+
+Health 20
+
+Quest_Rewards 3
+Quest_Reward_0_Type Rewards_List_Asset
+Quest_Reward_0_GUID e9c4dbee7e2e4c78b82341bdacdd6638
+// Med Book?
+Quest_Reward_1_Type Rewards_List_Asset
+Quest_Reward_1_GUID 10f16a26be744636bd91c24299516c96
+Quest_Reward_1_GrantDelaySeconds 6
+Quest_Reward_2_Type Rewards_List_Asset
+Quest_Reward_2_GUID d50c2f052bcc4fa0a47cf18f67b23193

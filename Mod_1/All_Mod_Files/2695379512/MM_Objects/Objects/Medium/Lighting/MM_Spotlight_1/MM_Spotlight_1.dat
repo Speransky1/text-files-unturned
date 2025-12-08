@@ -1,0 +1,14 @@
+GUID ab7e9065857541ae9c2e9c9235f97903
+Type Medium
+ID 20301
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 10
+Rubble_Effect 10014
+

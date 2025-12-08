@@ -1,0 +1,15 @@
+GUID ae08aaaca1fd49ada1a189497e85678a
+
+Type Medium
+
+Has_Clip_Prefab false
+
+Interactability Dropper
+Interactability_Hint Custom
+Interactability_Reward_ID 39214
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 39101
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset

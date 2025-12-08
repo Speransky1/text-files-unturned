@@ -1,0 +1,5 @@
+Name PS Base Door #5 [Key LO3]
+
+Interactability_Condition_0 Missing LO3 Key
+
+Interact Use [{0}]

@@ -1,0 +1,24 @@
+GUID e7c33cd4101c4aaa858e35b6dbd7575f
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60126
+
+Exclude_From_Level_Batching true
+
+Interactability Dropper
+Interactability_Delay 600
+Interactability_Hint Custom
+Interactability_Reward_ID 10158
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Event
+Interactability_Reward_0_ID PMC_Box_0
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 59725
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset

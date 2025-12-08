@@ -1,0 +1,25 @@
+GUID ad819b3c8df549528c8abce6ea5043f6
+Type Supply
+Rarity Rare
+ID 31601
+
+Size_X 1
+Size_Y 2
+Size_Z 0.75
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			"14901f32cd3240179fd6124324cc27e5 x 4" // Cloth
+			"21ede8ebffb14c5580e8c7ad149e335e x3" // Metal Scrap
+			"ae1fc8674d0b4443b3ad9a68776dcf0f x2" // Glue
+		]
+		OutputItems this
+		Skill Craft
+		Skill_Level 1
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]

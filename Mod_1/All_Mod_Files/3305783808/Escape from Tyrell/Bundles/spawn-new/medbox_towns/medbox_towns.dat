@@ -1,0 +1,31 @@
+GUID 1ea0a85b2e754ec69befa8b172cce5c6
+Type Spawn
+ID 10119
+
+Roots
+[
+	{
+		// medbox_heal_towns (Spawn)
+		Guid 34e592339e6649c3b23ad06d4e721fe2
+		Weight 3
+	}
+	{
+		// medbox_supplies_towns (Spawn)
+		Guid 5f10255c8de14be897327a77953015c3
+		Weight 2
+	}
+]
+
+Tables
+[
+	{
+		// medbox_heal_towns (Spawn)
+		Guid 34e592339e6649c3b23ad06d4e721fe2
+		Weight 3
+	}
+	{
+		// medbox_supplies_towns (Spawn)
+		Guid 5f10255c8de14be897327a77953015c3
+		Weight 2
+	}
+]

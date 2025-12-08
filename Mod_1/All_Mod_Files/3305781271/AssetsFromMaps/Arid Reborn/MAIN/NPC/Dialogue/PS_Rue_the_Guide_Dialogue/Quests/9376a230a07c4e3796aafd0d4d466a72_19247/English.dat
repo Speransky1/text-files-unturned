@@ -1,0 +1,5 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Finale
+Description Just before we are done, bring me a couple trinkets... For all the tasks you've done I will give you a secure box! It's super tough and likely nobody will be able to blow it up *but* you only get one. Keep it secure!
+Condition_4 {0}/{1} Zombies
+Reward_0 Secure Box

@@ -1,0 +1,10 @@
+GUID 496f9c454af34be194427af2ae244e9b
+Type Medium
+ID 4700
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 9
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Furniture/Note

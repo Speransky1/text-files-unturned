@@ -1,0 +1,156 @@
+GUID 86c8fbc27ac34019969a9220a5af8b4f
+Type Gun
+Rarity Uncommon
+Useable Gun
+Requires_NonZero_Attachment_Caliber True
+Slot Secondary
+ID 30216
+
+EquipAudioClip classicweapons.masterbundle:Assets/Guns_Equip/Equip_UZY.wav
+
+Size_X 3
+Size_Y 2
+Size_Z 0.46
+
+Hook_Sight
+Hook_Barrel
+
+Magazine 31014
+
+Unplace 0.15
+Replace 0.7
+
+Ammo_Min 11
+Ammo_Max 30
+
+Safety
+Auto
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 25026
+
+Attachment_Calibers 2
+//Scope
+Attachment_Caliber_0 25003
+//Barrel
+Attachment_Caliber_1 25011
+
+Muzzle 30037
+
+Shell 30000
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "42ed3dec53e943c08810f115b75e9302" // Metal Scrap
+				Amount 1
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			"7b82c125a5a54984b8bb26576b59e977" // Workbench
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems 
+		[
+			"21ede8ebffb14c5580e8c7ad149e335e x 3" // Metal Scrap
+			"e73a23b102f24520a32ec0b2afaa6157" // Maple Plank
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements True
+
+Player_Damage_Bleeding Always
+
+
+
+
+////////////////////////////////////////Balance Stats
+
+Range 200
+Ballistic_Steps 20
+Ballistic_Drop 0.00098
+Damage_Falloff_Multiplier 0.6
+Damage_Falloff_Range 0.666
+Damage_Falloff_Max_Range 1
+Gunshot_Rolloff_Distance 400
+
+Can_Ever_Jam
+Jam_Quality_Threshold 0.5
+Jam_Max_Chance 0.04
+Unjam_Chamber_Anim Jam
+
+
+
+Firerate 5
+Action Trigger
+
+Player_Damage 18
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.7
+
+Zombie_Damage 36
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.7
+
+Animal_Damage 36
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.7
+
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 8
+Resource_Damage 10
+Object_Damage 15
+
+Durability 0.04
+
+Recoil_Min_X -0.6
+Recoil_Min_Y 3.7
+Recoil_Max_X 0.6
+Recoil_Max_Y 4.1
+
+Recover_X 0.8
+Recover_Y 0.85
+
+Shake_Min_X -0.005
+Shake_Max_X 0.005
+
+Shake_Min_Y -0.0045
+Shake_Max_Y -0.006
+
+Shake_Min_Z -0.015
+Shake_Max_Z -0.025
+
+Recoil_Crouch 1.1
+Recoil_Prone 2.5
+Recoil_Midair 3
+
+Spread_Aim 0.1
+Spread_Hip 0.2
+Spread_Prone 0.5
+Spread_Crouch 0.75
+Spread_Midair 3

@@ -1,0 +1,52 @@
+﻿GUID a6248116f2b043e993d5ac47259a4d9d
+Type Vehicle
+Rarity Epic
+ID 41500
+Speed_Min -600
+Speed_Max 19
+Steer_Min 120
+Steer_Max 20
+Fuel_Min 1000
+Fuel_Max 2000
+Fuel 6000
+Health_Min 700
+Health_Max 1000
+Health 1200
+
+Exit 3.3
+Cam_Follow_Distance 16.2
+
+LockMouse
+Engine Helicopter
+Valid_Speed_Horizontal 90
+Sleds
+Traction
+Buildable_Placement_Rule Block
+Fuel_Burn_Rate 4
+Tires_Invulnerable
+Can_Steal_Battery false
+
+Trunk_Storage_X 9
+Trunk_Storage_Y 8
+Explosion 41325
+IgnitionAudioClip Sounds/Helicopter_Ignition.ogg
+Has_Clip_Prefab false
+BatteryMode_Driving Charge
+BatteryMode_Headlights Charge
+
+Air_Turn_Responsiveness 2
+Air_Steer_Min 80
+Air_Steer_Max 100
+Pitch_Drive 0.02
+Num_Steering_Tires 2
+Steering_Tire_0 0
+Steering_Tire_1 1
+Drops_Table_ID 41486
+Drops_Min 3
+Drops_Max 6
+Explosion_Min_Force_Y 3
+Explosion_Max_Force_Y 6
+Explosion_Min_Force_X -3
+Explosion_Max_Force_X 3
+Explosion_Min_Force_Z -3
+Explosion_Max_Force_Z 3

@@ -1,0 +1,22 @@
+GUID ff6ee7bb638345638e9e37a05c0133ed
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 62704
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 18002
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Charlie_Enter
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Large/PS_Offices_Door_1

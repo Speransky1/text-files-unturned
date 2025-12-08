@@ -1,0 +1,152 @@
+GUID 3552431913eb43d8ba8cb3525fa743c2
+Type Spawn
+ID 10101
+
+Tables
+[
+	{
+		// Ложка (Supply Item)
+		Guid d77de18dc5be4b7eb705e1a2a0ba99eb
+		Weight 80
+	}
+	{
+		// Вилка (Supply Item)
+		Guid 784db250ee874521806496b99756b8c5
+		Weight 80
+	}
+	{
+		// Нож для масла (Supply Item)
+		Guid 7dae322392734b5caee888eed9d6e872
+		Weight 80
+	}
+	{
+		// Спорк (Supply Item)
+		Guid 4e9ec4a7723e441cad34d9436244d598
+		Weight 75
+	}
+	{
+		// Старый фен (Supply Item)
+		Guid e8d0d03f97bb442f82cd68fdf8f5ac60
+		Weight 75
+	}
+	{
+		// Полотенце (Supply Item)
+		Guid 14a9077d163d431581d9456252949f53
+		Weight 75
+	}
+	{
+		// Скалка (Melee Item)
+		Guid 8044db3fba5b47fda462df0faad74186
+		Weight 75
+	}
+	{
+		// Зубочистка (Melee Item)
+		Guid 959681a2610a4f96be6a40064605b9cd
+		Weight 75
+	}
+	{
+		// Ножницы (Melee Item)
+		Guid d7fe216a8e6a4fe9ade19f75e94d6ab5
+		Weight 75
+	}
+	{
+		// Ручки (Barricade Item)
+		Guid c2e41f52d0434d448140e8decec9126e
+		Weight 65
+	}
+	{
+		// Чистящая щетка (Supply Item)
+		Guid 8fce2592d3544b5588b956a199dc439a
+		Weight 65
+	}
+	{
+		// Тарелка (Storage Item)
+		Guid 518990b3f21343a2b8157fab2f66a4ed
+		Weight 65
+	}
+	{
+		// Шариковая ручка (Supply Item)
+		Guid 0f2eff80707c485a85a25fe5955e3456
+		Weight 65
+	}
+	{
+		// Бумажные полотенца (Supply Item)
+		Guid 498768c7a572493aa82bbe6706635c5d
+		Weight 65
+	}
+	{
+		// Кружка (Tank Item)
+		Guid 80e582ac69af465b84d97f0bbbf64097
+		Weight 65
+	}
+	{
+		// Кофейный котелок (Storage Item)
+		Guid d99c09e4d80f42b69779021d18ca187e
+		Weight 50
+	}
+	{
+		// Котелок (Storage Item)
+		Guid 57c8e81161bc470aa36cf43846ff2822
+		Weight 50
+	}
+	{
+		// Лейка (Tank Item)
+		Guid 7af6e967d693451cbb9ea89bb76cefaa
+		Weight 50
+	}
+	{
+		// Телефон? (Supply Item)
+		Guid 2d4b1b0d012c40718e6885c2d4c53f0d
+		Weight 40
+	}
+	{
+		// Молоток (Melee Item)
+		Guid 4f6621da2d624b0589316dfc6ff98553
+		Weight 40
+	}
+	{
+		// Пила (Melee Item)
+		Guid dc201ee2988f48058f6e0729c0d5c5dd
+		Weight 40
+	}
+	{
+		// Газовый ключ (Melee Item)
+		Guid 8c7e6d4cd58043e69a75ad4dae181ec4
+		Weight 40
+	}
+	{
+		// Лупа (Supply Item)
+		Guid aec229c4cb6a45c59e5685755aa44382
+		Weight 35
+	}
+	{
+		// Труба (Supply Item)
+		Guid e922b2ad573648cea17cb7780567ef67
+		Weight 30
+	}
+	{
+		// Тостер (Supply Item)
+		Guid d862b05777224b2aae086dc3da270e46
+		Weight 20
+	}
+	{
+		// Минибар (Storage Item)
+		Guid cf9f06467e7a4e7c9c703e49b3933476
+		Weight 20
+	}
+	{
+		// Стеклянный куб (Supply Item)
+		Guid 13cefa151ebe4dc19a92594c17f236bc
+		Weight 15
+	}
+	{
+		// Золотая ложка (Supply Item)
+		Guid 245f016acb0441e3b656aebe5931c0c4
+		Weight 2
+	}
+	{
+		// Кружка Килла (Supply Item)
+		Guid cfe8caf0ec6a451ab611dff23ef6bcad
+		Weight 1
+	}
+]

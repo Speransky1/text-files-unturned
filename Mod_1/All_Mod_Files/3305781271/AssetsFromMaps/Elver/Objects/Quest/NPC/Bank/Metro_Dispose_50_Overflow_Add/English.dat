@@ -1,0 +1,5 @@
+Name Metro Bank Dispose 50 Overflow Add
+
+Interact Deposit 50 [{0}]
+
+Interactability_Condition_1 Complete <color=#B522B7>Punisher Part 3</color>

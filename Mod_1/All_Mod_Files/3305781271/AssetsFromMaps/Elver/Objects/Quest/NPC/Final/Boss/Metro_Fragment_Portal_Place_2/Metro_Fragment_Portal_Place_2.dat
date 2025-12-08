@@ -1,0 +1,34 @@
+GUID 557184159f044600b8a2c09e99a1d4ca
+
+Type Small
+Has_Clip_Prefab false
+ID 58159
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 57144
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 57085
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 3
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57144
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 57085
+Interactability_Reward_1_Value True
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 57087
+Interactability_Reward_2_Value 1
+Interactability_Reward_2_Modification Increment
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Final/Boss/Metro_Fragment_Portal_Place

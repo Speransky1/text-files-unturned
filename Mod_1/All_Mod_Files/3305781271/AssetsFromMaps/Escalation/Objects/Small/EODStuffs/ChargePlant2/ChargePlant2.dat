@@ -1,0 +1,22 @@
+GUID bef245409bb34d29900e9ae0186aa821
+Type Small
+ID 51000
+
+Conditions 3
+Condition_0_Type Flag_Bool
+Condition_0_ID 52556
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Quest
+Condition_1_ID 52583
+Condition_1_Status None
+Condition_1_Logic Not_Equal
+Condition_2_Type Quest
+Condition_2_ID 52583
+Condition_2_Status Completed
+Condition_2_Logic Not_Equal
+
+Has_Clip_Prefab false
+
+Master_Bundle_Override pbs.masterbundle
+Bundle_Override_Path /Objects/Small/EODStuffs/ChargePlant

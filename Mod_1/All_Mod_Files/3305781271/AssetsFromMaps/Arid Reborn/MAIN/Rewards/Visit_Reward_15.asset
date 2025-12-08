@@ -1,0 +1,8 @@
+GUID 23f59dcc4c9d4ee5b9a98b786d4b5661
+Type RewardsList
+
+//Visit Shalaal Water Station
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22636
+Reward_0_Value True

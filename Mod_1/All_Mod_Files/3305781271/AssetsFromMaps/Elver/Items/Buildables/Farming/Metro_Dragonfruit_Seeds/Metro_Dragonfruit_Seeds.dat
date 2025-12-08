@@ -1,0 +1,29 @@
+GUID 8915ca906f4c4046b32fdf4ca2282192
+
+Type Farm
+Rarity Epic
+Useable Barricade
+Build Farm
+ID 57538 
+
+Size_X 1
+Size_Y 1
+Size_Z 0.19
+
+Health 1
+Range 4
+Radius 0.3
+Offset 0.35
+
+Growth 1200
+Grow 57537
+
+Explosion 43
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 57537 
+Blueprint_0_Product 57538 
+Blueprint_0_Products 1
+Blueprint_0_Build 27

@@ -1,0 +1,38 @@
+GUID 58944417502a4c07b306025c6b7b8b88
+Type Magazine
+Rarity Mythical
+ID 10605
+
+Size_X 3
+Size_Y 2
+Size_Z 0.175
+
+Amount 200
+
+Calibers 1
+Caliber_0 18839
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 19130
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 19131
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 19236
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_3_ID 19009
+Blueprint_1_Supply_3_Amount 3
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 10605
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Tool 19003
+Blueprint_1_Build 27

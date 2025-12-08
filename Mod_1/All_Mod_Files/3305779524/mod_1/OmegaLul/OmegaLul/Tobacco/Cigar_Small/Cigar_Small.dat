@@ -1,0 +1,22 @@
+GUID 85a7f479d9dd4b3991b0143407059a3e
+
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 58103
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Quality_Min 50
+Quality_Max 100
+
+Food 5
+Water 5
+Health 15
+Virus 4
+
+
+
+Asset_Bundle_Version 3

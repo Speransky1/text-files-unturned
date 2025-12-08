@@ -1,0 +1,67 @@
+﻿// Made in NPC Maker by BowieD
+GUID d0d88700d44c480892192092763df891
+Type Dialogue
+ID 12059
+Messages 1
+Message_0_Pages 1
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Bool
+Message_0_Reward_0_ID 17001
+Message_0_Reward_0_Value True
+
+Responses 5
+Response_0_Dialogue 12060
+Response_0_Quest 14029
+Response_0_Conditions 2
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 14030
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Ignore_NPC False
+
+Response_0_Condition_1_Type Quest
+Response_0_Condition_1_ID 14029
+Response_0_Condition_1_Status Ready
+Response_0_Condition_1_Logic Equal
+Response_0_Condition_1_Ignore_NPC False
+Response_0_Condition_1_Reset 
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 17001
+Response_0_Reward_0_Value True
+
+Response_1_Dialogue 12062
+Response_1_Quest 14030
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 14030
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC False
+Response_1_Condition_0_Reset 
+
+Response_2_Dialogue 12063
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 14031
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC False
+
+Response_2_Condition_1_Type Quest
+Response_2_Condition_1_ID 14030
+Response_2_Condition_1_Status Completed
+Response_2_Condition_1_Logic Equal
+Response_2_Condition_1_Ignore_NPC False
+
+Response_3_Dialogue 12064
+Response_3_Quest 14031
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 14031
+Response_3_Condition_0_Status Ready
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC False
+Response_3_Condition_0_Reset 
+

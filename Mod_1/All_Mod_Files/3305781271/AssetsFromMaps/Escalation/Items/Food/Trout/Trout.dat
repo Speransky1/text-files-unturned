@@ -1,0 +1,17 @@
+GUID e5e1ba68d74449248e0df38924ffdd33
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 51495
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+Size2_Z 0.35
+
+Food 30
+Virus 30
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3
+
+
+Use_Auto_Stat_Descriptions false

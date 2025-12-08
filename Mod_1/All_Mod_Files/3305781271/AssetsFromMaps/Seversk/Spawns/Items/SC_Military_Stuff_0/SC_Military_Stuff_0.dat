@@ -1,0 +1,117 @@
+﻿GUID 894b2044b5734b81981faa03c85ecd59
+Type Spawn
+ID 41447
+
+Tables
+[
+	{
+		// Military Knife (Melee Item)
+		LegacyAssetId 41660
+		Weight 60
+	}
+	{
+		// Military Knife (Melee Item)
+		LegacyAssetId 41661
+		Weight 60
+	}
+	{
+		// Pack of Pistol Ammo (Supply Item)
+		LegacyAssetId 41685
+		Weight 40
+	}
+	{
+		// RDG-2 White (Throwable Item)
+		LegacyAssetId 41371
+		Weight 40
+	}
+	{
+		// RDG-2 Black (Throwable Item)
+		LegacyAssetId 41372
+		Weight 40
+	}
+	{
+		// Safety Glasses (Glasses Item)
+		LegacyAssetId 41551
+		Weight 40
+	}
+	{
+		// Flashbang Grenade "Zarya" (Throwable Item)
+		LegacyAssetId 41567
+		Weight 40
+	}
+	{
+		// Safety Glasses (Glasses Item)
+		LegacyAssetId 41553
+		Weight 40
+	}
+	{
+		// Safety Glasses (Glasses Item)
+		LegacyAssetId 41554
+		Weight 40
+	}
+	{
+		// Canteen (Refill Item)
+		LegacyAssetId 41684
+		Weight 40
+	}
+	{
+		// Safety Glasses (Glasses Item)
+		LegacyAssetId 41550
+		Weight 40
+	}
+	{
+		// RGD-5 Frag Grenade (Throwable Item)
+		LegacyAssetId 41564
+		Weight 35
+	}
+	{
+		// RGN Impact Grenade (Throwable Item)
+		LegacyAssetId 41565
+		Weight 35
+	}
+	{
+		// Binoculars (Optic Item)
+		LegacyAssetId 41653
+		Weight 30
+	}
+	{
+		// Ammo Pouch (Supply Item)
+		LegacyAssetId 41582
+		Weight 30
+	}
+	{
+		// Geiger Counter (Supply Item)
+		LegacyAssetId 41798
+		Weight 24
+	}
+	{
+		// Pack of Rifle Ammo (Supply Item)
+		LegacyAssetId 41713
+		Weight 23
+	}
+	{
+		// Military Battery (Barricade Item)
+		LegacyAssetId 41369
+		Weight 20
+	}
+	{
+		// Tactical Compass (Map Item)
+		LegacyAssetId 41803
+		Weight 15
+	}
+	{
+		// Military Radio (Barricade Item)
+		LegacyAssetId 41361
+		Weight 10
+	}
+	{
+		// Military Generator (Generator Item)
+		LegacyAssetId 41433
+		Weight 5
+	}
+	{
+		// Waveform Generator (Barricade Item)
+		LegacyAssetId 41365
+		Weight 4
+	}
+]

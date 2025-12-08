@@ -1,0 +1,14 @@
+GUID e0f2d567b732415c9846e469948b11ee
+
+Type Small
+Has_Clip_Prefab false
+ID 58115
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57131
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Objects/Quest/NPC/Final/Boss/Metro_AreaC_Capsule_Placed

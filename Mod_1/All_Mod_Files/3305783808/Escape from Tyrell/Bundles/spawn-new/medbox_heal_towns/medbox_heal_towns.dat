@@ -1,0 +1,42 @@
+GUID 34e592339e6649c3b23ad06d4e721fe2
+Type Spawn
+ID 10156
+
+Tables
+[
+	{
+		// Бинт (Medical Item)
+		Guid 08a4754954fc4bb2afdd382948f22ec1
+		Weight 155
+	}
+	{
+		// Йод 5/5 (Medical Item)
+		Guid 77090e65fbd4406c8e7c46d8b858af5c
+		Weight 25
+	}
+	{
+		// Шина из аптечки первой помощи (Medical Item)
+		Guid c658ec65ce354fe68ee8d84c68fcab22
+		Weight 25
+	}
+	{
+		// Cough Syrup (Medical Item)
+		Guid f4d5b2d41b434c399817bf395ad1a508
+		Weight 25
+	}
+	{
+		// Purification Tablets (Medical Item)
+		Guid 3dca37c8a4834a989ef9e5a2f8060ecd
+		Weight 20
+	}
+	{
+		// Обезболивающие (Medical Item)
+		Guid 9e31df205156404488e385ca671713c1
+		Weight 18
+	}
+	{
+		// Морфий (Medical Item)
+		Guid c27475876e42451eae4a4e5c19a88c2d
+		Weight 10
+	}
+]

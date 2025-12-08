@@ -1,0 +1,18 @@
+GUID 72520fc5da9743348965b654acdc6529
+
+Type Small
+ID 38886
+
+Interactability Quest
+Interactability_Effect 38806
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 38800
+Interactability_Reward_0_Value True
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 38800
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset

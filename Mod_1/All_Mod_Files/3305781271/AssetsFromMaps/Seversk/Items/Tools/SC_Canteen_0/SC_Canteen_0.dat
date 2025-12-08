@@ -1,0 +1,41 @@
+﻿GUID 92ed6caa4d99473a93c1b3ca834192c6
+Type Refill
+Rarity Uncommon
+Useable Refill
+ID 41684
+
+Size_X 1
+Size_Y 2
+Size_Z 0.35
+
+Clean_Water 30
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems "3dca37c8a4834a989ef9e5a2f8060ecd" // Purification Tablets
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "edc4d492616c4bfa841f8a8a1c58df1e x 4" // Plastic Fragments
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+ConsumeAudioClip Sounds/Drink_Swallow_0.ogg
+InventoryAudio Sounds/Inventory/WaterShaking/Water_Shaking.asset
+Use_Auto_Stat_Descriptions False
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

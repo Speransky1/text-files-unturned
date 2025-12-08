@@ -1,0 +1,31 @@
+GUID 1e185f1ae8c0473ba4be338c5ded0822
+Type Grip
+Rarity Legendary
+ID 10669
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 2
+Caliber_0 11998
+Caliber_1 20907
+
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10669
+Blueprint_0_State_Transfer
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 10668
+Blueprint_0_Build 27
+
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 0
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Раскрыть сошки
+Action_0_Tooltip Раскрыть

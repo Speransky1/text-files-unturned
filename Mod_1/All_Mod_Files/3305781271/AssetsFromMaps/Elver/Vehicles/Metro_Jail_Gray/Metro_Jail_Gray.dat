@@ -1,0 +1,43 @@
+GUID 5197117611c2476f87fb43e31f6fd8d8
+
+Type Vehicle
+Has_Clip_Prefab false
+Rarity Epic
+ID 57031
+
+Speed_Min -22
+Speed_Max 22
+
+Steer_Min 32
+Steer_Max 48
+
+Brake 64
+
+Fuel_Min 500
+Fuel_Max 750
+Fuel 3000
+
+Health_Min 400
+Health_Max 500
+Health 1400
+
+Traction
+
+Tires_Invulnerable
+
+Cam_Follow_Distance 7.5
+
+Wheel_Collider_Mass_Override 5
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 6
+
+Physics_Profile ece2cc1ec6ea45e385a3c133641c7f16
+
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging
+
+Explosion 20

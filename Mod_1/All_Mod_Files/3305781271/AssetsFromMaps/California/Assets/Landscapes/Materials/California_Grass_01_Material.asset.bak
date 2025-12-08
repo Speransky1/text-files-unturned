@@ -1,0 +1,33 @@
+"Metadata"
+{
+	"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "california.content"
+		"Path" "assets/game/bundles/terrain/california_content/materials/grass_01.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "FOLIAGE_STATIC"
+	"Foliage"
+	{
+		"GUID" ""7d917a435cfb415bbe8d131a1e8022a5""
+	}
+	"Use_Auto_Slope" "false"
+	"Auto_Min_Angle_Begin" "0"
+	"Auto_Min_Angle_End" "0"
+	"Auto_Max_Angle_Begin" "0"
+	"Auto_Max_Angle_End" "0"
+	"Use_Auto_Foundation" "false"
+	"Auto_Ray_Radius" "0"
+	"Auto_Ray_Length" "0"
+	"Auto_Ray_Mask" "0"
+}

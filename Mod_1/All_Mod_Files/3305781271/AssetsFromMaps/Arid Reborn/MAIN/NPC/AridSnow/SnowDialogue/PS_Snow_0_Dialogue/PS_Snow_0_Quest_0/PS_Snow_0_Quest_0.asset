@@ -1,0 +1,28 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "0d2c74baf1c64a069b7e160086a9a0dd"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions" "1"
+	"Condition_0_Type" "KILLS_ZOMBIE"
+	"Condition_0_Reset" ""
+	"Condition_0_ID" "19389"
+	"Condition_0_Value" "1000"
+	"Condition_0_Zombie" "NONE"
+	"Condition_0_Spawn_Quantity" "1"
+	"Condition_0_Nav" "255"
+	"Condition_0_Radius" "512"
+	"Condition_0_MinRadius" "0"
+	"Rewards" "1"
+	"Reward_0_Type" "ITEM"
+	"Reward_0_ID" "19664"
+	"Reward_0_Amount" "1"
+	"Reward_0_Auto_Equip" "false"
+	"Reward_0_Origin" "CRAFT"
+	"AbandonmentRewards" "0"
+	"ID" "19385"
+	"Asset_Bundle_Version" "1"
+}

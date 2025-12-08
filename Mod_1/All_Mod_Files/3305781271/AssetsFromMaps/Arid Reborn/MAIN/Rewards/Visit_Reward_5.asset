@@ -1,0 +1,8 @@
+GUID bc5cbb25c1124cbda8b0785c706bdc86
+Type RewardsList
+
+//Visit Kahramaan Military Airfield
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22626
+Reward_0_Value True

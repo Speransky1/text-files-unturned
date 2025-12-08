@@ -1,0 +1,59 @@
+﻿GUID f5772f7a771348fda4267e8d196fce80
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 41422
+
+Size_X 2
+Size_Y 2
+Size_Z 0.66
+
+Health 400
+Range 4
+Radius 0.1
+Offset 1.2
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.6
+Explosion 41330
+Can_Be_Damaged true
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem f5772f7a771348fda4267e8d196fce80
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Metal Parts
+				Amount 6
+			}
+			{
+				ID "ad7a88dea0eb455d9d6b772c93776e31" // Bolts
+				Amount 3
+			}
+			{
+				ID "28302cbb580641738db43ae62a045dbe" // Insulating Tape
+				Amount 2
+			}
+			{
+				ID "aa51e7a26f784d448afd98c95e74e73f" // Blowtorch
+				Delete false
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+PlacementAudioClip Sounds/Placement_2.ogg
+Has_Clip_Prefab false

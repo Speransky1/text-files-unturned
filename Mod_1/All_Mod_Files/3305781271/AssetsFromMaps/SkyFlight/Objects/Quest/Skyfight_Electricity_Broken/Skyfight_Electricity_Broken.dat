@@ -1,0 +1,29 @@
+GUID ce5ad766f5604a8282c27cd413f83816
+
+Type Medium
+ID 38902
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 38805
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 38807
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 38806
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Interactability_Rewards 1
+Interactability_Effect 38807
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 38807
+Interactability_Reward_0_Value True
+

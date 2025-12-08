@@ -1,0 +1,20 @@
+GUID 465e155da6c648dcb878d3adba1cb62c
+
+
+Type Medical
+Rarity Legendary
+Useable Consumeable
+ID 62872
+
+Size_X 2
+Size_Y 2
+Size_Z 0.42
+
+Health 75
+Disinfectant 20
+Aid
+
+Amount 1
+Count_Min 1
+Count_Max 1
+

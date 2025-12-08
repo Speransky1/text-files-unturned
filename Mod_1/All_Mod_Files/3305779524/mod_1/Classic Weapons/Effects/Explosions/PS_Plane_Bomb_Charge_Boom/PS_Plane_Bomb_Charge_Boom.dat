@@ -1,0 +1,9 @@
+GUID f2117f1faa8f4b4196a56a9b3a902964
+Type Effect
+ID 30023
+
+Lifetime 0.1
+
+Relevant_Distance 500
+
+Spawn_On_Dedicated_Server

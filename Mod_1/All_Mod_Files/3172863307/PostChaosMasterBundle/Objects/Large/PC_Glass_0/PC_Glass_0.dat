@@ -1,0 +1,11 @@
+GUID ad935ba56dcb4c34916a8c0d86f8c7a1
+ID 
+Type Large
+
+Has_Clip_Prefab false
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 10
+Interactability_Effect 64
+Has_Clip_Prefab false

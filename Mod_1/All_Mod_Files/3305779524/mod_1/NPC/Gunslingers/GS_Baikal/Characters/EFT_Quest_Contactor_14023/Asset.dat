@@ -1,0 +1,24 @@
+﻿// Made in NPC Maker by BowieD
+GUID ac2badc817f145249d8d413ab38d2172
+ID 14023
+Type NPC
+Shirt 17006
+Pants 59433
+Mask 59118
+Hat 59106
+Primary 30117
+Equipped Primary
+Face 3
+Beard 0
+Hair 0
+Color_Skin #9D886B
+Color_Hair #000000
+Pose Stand
+Dialogue 12059
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17004
+Condition_0_Value True
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Reset 
+

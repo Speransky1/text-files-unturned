@@ -1,0 +1,59 @@
+GUID 5912dea690614e5895e8b801d906b30e
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab False
+Build Barricade
+ID 10801
+Use_Water_Height_Transparent_Sort
+SalvageItem 5912dea690614e5895e8b801d906b30e
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 98c5460816a74b25befc79269af0d647
+
+Size_X 2
+Size_Y 2
+Size_Z 0.42
+
+Health 50
+Range 4
+Radius 0.13
+Offset 0.15
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementPreviewPrefab Items/Barricades/PS_Propellant_Stack/Placement.prefab
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Bypass_Pickup_Ownership True
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10801
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 19680
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19680
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 10801
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Unstack
+Action_0_Tooltip Uncompactify.

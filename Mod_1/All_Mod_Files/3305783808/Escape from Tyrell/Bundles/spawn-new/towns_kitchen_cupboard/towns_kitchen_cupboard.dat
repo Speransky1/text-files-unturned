@@ -1,0 +1,77 @@
+GUID eb80f95b34414f17b7c09aac0af8d8e5
+Type Spawn
+ID 10122
+
+Tables
+[
+	{
+		// Нож для масла (Supply Item)
+		Guid 7dae322392734b5caee888eed9d6e872
+		Weight 18
+	}
+	{
+		// Ложка (Supply Item)
+		Guid d77de18dc5be4b7eb705e1a2a0ba99eb
+		Weight 18
+	}
+	{
+		// Вилка (Supply Item)
+		Guid 784db250ee874521806496b99756b8c5
+		Weight 18
+	}
+	{
+		// Кружка (Tank Item)
+		Guid 80e582ac69af465b84d97f0bbbf64097
+		Weight 16
+	}
+	{
+		// Тарелка (Storage Item)
+		Guid 518990b3f21343a2b8157fab2f66a4ed
+		Weight 16
+	}
+	{
+		// Бумажные полотенца (Supply Item)
+		Guid 498768c7a572493aa82bbe6706635c5d
+		Weight 16
+	}
+	{
+		// Форма для выпечки (Supply Item)
+		Guid 576d9323c2db457bb0c43b19caec5a3d
+		Weight 16
+	}
+	{
+		// Кофейный котелок (Storage Item)
+		Guid d99c09e4d80f42b69779021d18ca187e
+		Weight 14
+	}
+	{
+		// Тёрка (Supply Item)
+		Guid 519e382576b04990adaf9319ec2d7994
+		Weight 14
+	}
+	{
+		// Скалка (Melee Item)
+		Guid 8044db3fba5b47fda462df0faad74186
+		Weight 14
+	}
+	{
+		// Спорк (Supply Item)
+		Guid 4e9ec4a7723e441cad34d9436244d598
+		Weight 14
+	}
+	{
+		// Котелок (Storage Item)
+		Guid 57c8e81161bc470aa36cf43846ff2822
+		Weight 12
+	}
+	{
+		// Золотая ложка (Supply Item)
+		Guid 245f016acb0441e3b656aebe5931c0c4
+		Weight 1
+	}
+	{
+		// Кружка Килла (Supply Item)
+		Guid cfe8caf0ec6a451ab611dff23ef6bcad
+		Weight 1
+	}
+]

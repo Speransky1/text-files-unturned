@@ -1,0 +1,8 @@
+GUID aba434c15c794229b726e0330c4e4f71
+Type RewardsList
+
+//Visit Overpass
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22633
+Reward_0_Value True

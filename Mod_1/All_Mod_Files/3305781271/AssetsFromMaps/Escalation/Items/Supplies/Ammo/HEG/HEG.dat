@@ -1,0 +1,19 @@
+GUID 31bd8ac06b544fd1b4220912cc642acf
+
+Type Magazine
+Rarity Legendary
+ID 51044
+Explosion 51014
+Explosive
+Size_X 1
+Size_Y 1
+Size_Z 0
+Amount 1
+Projectile_Blast_Radius_Multiplier 0.5
+Projectile_Damage_Multiplier 1.2
+Calibers 1
+Caliber_0 20
+
+
+
+Use_Auto_Stat_Descriptions false

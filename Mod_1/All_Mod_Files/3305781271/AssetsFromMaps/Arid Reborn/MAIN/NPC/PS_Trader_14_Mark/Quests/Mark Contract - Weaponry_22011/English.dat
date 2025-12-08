@@ -1,0 +1,5 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Mark Contract - Weaponry
+Description Bring me 1x <color=#964BFA>Tank Memory Module</color>, mark Destroyed Tank near Kahramaan & kill 4000x zombies.
+Condition_1 {0}/{1} Planted Markers
+Condition_2 {0}/{1} Zombies

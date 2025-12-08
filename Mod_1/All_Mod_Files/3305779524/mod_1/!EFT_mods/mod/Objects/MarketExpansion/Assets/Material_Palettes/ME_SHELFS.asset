@@ -1,0 +1,56 @@
+"Metadata"
+{
+	"GUID" "4761db9c8f70473eb025a0a4dd04d6ba"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_00.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_01.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_02.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_03.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_04.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_05.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_06.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_07.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_08.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_09.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SHELFS/ME_SHELF_10.mat"
+		}
+	]
+}

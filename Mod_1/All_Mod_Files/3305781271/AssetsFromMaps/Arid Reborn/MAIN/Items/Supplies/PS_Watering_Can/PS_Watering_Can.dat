@@ -1,0 +1,29 @@
+GUID 7af6e967d693451cbb9ea89bb76cefaa
+
+Type Tank
+Rarity Common
+Useable Barricade
+Build Tank
+ID 59237
+
+Size_X 2
+Size_Y 2
+Size_Z 0.475
+
+Health 30
+Range 4
+Radius 0.2
+Offset 0.23
+
+Explosion 36
+Vulnerable
+
+Source Water
+Resource 3
+
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True

@@ -1,0 +1,32 @@
+﻿Metadata
+{
+	GUID ee4ea8bf5434470cae56d0bad6772aca
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Metal_Sheet_0/Metal_Sheet_0.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Metal_Sheet_0/Metal_Sheet_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Metal_Sheet_0/Metal_Sheet_2.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Metal_Sheet_0/Metal_Sheet_3.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Metal_Sheet_0/Metal_Sheet_4.mat
+		}
+	]
+}

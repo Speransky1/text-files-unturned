@@ -1,0 +1,12 @@
+GUID d6ae1c4f78584c87a7836af15afec2c7
+Type Spawn
+ID 41481
+
+Tables
+[
+	{
+		// Wooden Stick (Supply Item)
+		LegacyAssetId 41313
+		Weight 100
+	}
+]

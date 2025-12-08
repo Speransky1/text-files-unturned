@@ -1,0 +1,8 @@
+GUID aae2fda2a73c4103afe372ffc97b3d31
+Type Large
+ID 4684
+
+Material_Palette 3987063d60df43e2ac4ca66fe91880f1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Medic_2

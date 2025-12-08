@@ -1,0 +1,41 @@
+GUID 7ad0b6eac51a4df197140d12a033e29e
+Type Magazine
+Rarity Epic
+ID 31141
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Amount 20
+Count_Min 10
+Count_Max 20
+
+Calibers 1
+Caliber_0 18800
+
+Delete_Empty
+
+Tracer 48
+
+Blueprints 4
+//Tracer Ammunition
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31141
+Blueprint_0_Build 30
+//AR Mag Tracer
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31140
+Blueprint_1_Build 30
+//Zolash Mag Tracer
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31142
+Blueprint_2_Build 30
+//Zolash Mag Tracer (Plastic)
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31143
+Blueprint_3_Build 30

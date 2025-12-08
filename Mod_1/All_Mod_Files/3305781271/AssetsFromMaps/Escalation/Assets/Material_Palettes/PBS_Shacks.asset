@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "7814bcbc2b9b40a5be43802c40c4db98"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Shacks/PBS_Shack_Red.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Shacks/PBS_Shack_Grey.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Shacks/PBS_Shack_Green.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Shacks/PBS_Shack_Blue.mat"
+		}
+	]
+}

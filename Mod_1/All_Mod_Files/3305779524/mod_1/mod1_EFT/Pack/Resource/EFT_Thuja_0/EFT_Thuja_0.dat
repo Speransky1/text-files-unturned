@@ -1,0 +1,21 @@
+GUID 224f0c2a00ba442ab0234e40e215a8f4
+
+Type Resource
+ID 43720
+
+Health 1000
+Radius 5
+Scale 0.1
+
+Explosion 22
+
+Vertical_Offset -0.01
+
+Reset 6
+
+Auto_Skybox
+
+
+Asset_Bundle_Version 3
+
+Has_Clip_Prefab false

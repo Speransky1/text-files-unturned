@@ -1,0 +1,10 @@
+GUID 5f53bfdc536544969e6265e9a28eb518
+Type Small
+ID 20045
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 1
+Interactability_Effect 58
+
+Material_Palette 7b45bcc6ffc5494595b3a57241352da3

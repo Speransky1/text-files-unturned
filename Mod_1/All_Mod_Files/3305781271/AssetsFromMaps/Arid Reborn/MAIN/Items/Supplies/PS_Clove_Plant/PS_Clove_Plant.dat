@@ -1,0 +1,23 @@
+GUID ea2f4b00984248a386e8de1abddb8849
+
+Type Supply
+Rarity Uncommon
+ID 59905
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59905
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59370
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Output_1_ID 59903
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59005
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

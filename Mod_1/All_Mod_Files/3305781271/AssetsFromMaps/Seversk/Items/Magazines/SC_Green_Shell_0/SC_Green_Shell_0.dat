@@ -1,0 +1,45 @@
+﻿GUID 5d33dc07d76c4ef5bab21dfb1d3af788
+Type Magazine
+Rarity Uncommon
+ID 41705
+
+Size_X 1
+Size_Y 1
+Size_Z 0.083
+
+Amount 2
+Count_Min 2
+Count_Max 2
+
+Calibers 1
+Caliber_0 43007
+
+Pellets 6
+InventoryAudio Sounds/Inventory/ShellRustle/Shell_Rustle.asset
+Use_Auto_Stat_Descriptions false
+Use_Auto_Icon_Measurements false
+Blueprints
+[
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems this
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		Name Salvage
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+				Prioritization LowestAmount
+				CountEmptyAsOne true
+			}
+		]
+		OutputItems "4f9fb8c83c494e2486329e494674813c" // Metal_Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+Delete_Empty
+Add_Default_Actions false

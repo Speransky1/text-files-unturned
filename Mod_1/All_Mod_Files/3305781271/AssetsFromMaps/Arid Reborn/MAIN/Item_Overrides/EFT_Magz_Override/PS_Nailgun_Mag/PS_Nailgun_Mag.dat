@@ -1,0 +1,25 @@
+GUID 851368852a554086864c2844fbdaec15
+
+Type Magazine
+Rarity Rare
+ID 21955
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Other/PS_Nailgun_Mag
+Amount 30
+Count_Min 5
+Count_Max 10
+
+Calibers 1
+Caliber_0 18836
+
+Tracer 19067
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 21955
+Blueprint_0_Build 30

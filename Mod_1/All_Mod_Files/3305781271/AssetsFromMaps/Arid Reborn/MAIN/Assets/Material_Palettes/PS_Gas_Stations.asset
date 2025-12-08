@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "554a49c294f74a0dbc2f08c5f9de001e"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Gas/Gas_Station_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Gas/Gas_Station_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Materials/Gas/Gas_Station_2.mat"
+		}
+	]
+}

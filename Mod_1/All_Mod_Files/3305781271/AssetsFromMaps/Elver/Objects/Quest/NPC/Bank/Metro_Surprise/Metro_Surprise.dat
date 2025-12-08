@@ -1,0 +1,65 @@
+GUID bade46955352414e82d6f5238066c69f
+
+Type Small
+Has_Clip_Prefab false
+ID 58034
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 7
+Interactability_Reward_0_Type Flag_Short_Random
+Interactability_Reward_0_ID 57306
+Interactability_Reward_0_Min_Value 1
+Interactability_Reward_0_Max_Value 3
+Interactability_Reward_0_Modification Assign
+
+Interactability_Reward_1_Type Flag_Short_Random
+Interactability_Reward_1_ID 57307
+Interactability_Reward_1_Min_Value 1
+Interactability_Reward_1_Max_Value 3
+Interactability_Reward_1_Modification Assign
+
+Interactability_Reward_2_Type Flag_Short_Random
+Interactability_Reward_2_ID 57308
+Interactability_Reward_2_Min_Value 1
+Interactability_Reward_2_Max_Value 3
+Interactability_Reward_2_Modification Assign
+
+Interactability_Reward_3_Type Flag_Short
+Interactability_Reward_3_ID 57309
+Interactability_Reward_3_Value 1
+Interactability_Reward_3_Modification Assign
+
+Interactability_Reward_4_Type Flag_Short
+Interactability_Reward_4_ID 57310
+Interactability_Reward_4_Value 2
+Interactability_Reward_4_Modification Assign
+
+Interactability_Reward_5_Type Flag_Short
+Interactability_Reward_5_ID 57311
+Interactability_Reward_5_Value 3
+Interactability_Reward_5_Modification Assign
+
+Interactability_Reward_6_Type Flag_Short
+Interactability_Reward_6_ID 57312
+Interactability_Reward_6_Value 1
+Interactability_Reward_6_Modification Assign
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 57468
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 57367
+Interactability_Condition_1_Value True
+Interactability_Condition_1_Logic Equal
+
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 57308
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset

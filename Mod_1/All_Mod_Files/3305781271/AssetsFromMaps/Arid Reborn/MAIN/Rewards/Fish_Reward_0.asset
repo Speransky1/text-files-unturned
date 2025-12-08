@@ -1,0 +1,14 @@
+GUID 7f64d8e76e46405889319d474fbfc71b
+Type RewardsList
+
+Conditions 1
+Condition_0_Type Currency
+Condition_0_GUID 93d96a0d15804130bfe41228bd2eda13
+Condition_0_Value 1
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Reset
+
+Rewards 1
+Reward_0_Type Item_Random
+Reward_0_ID 19224
+Reward_0_Amount 1

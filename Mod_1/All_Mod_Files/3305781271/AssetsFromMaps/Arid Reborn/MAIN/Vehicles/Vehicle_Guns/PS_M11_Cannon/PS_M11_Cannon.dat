@@ -1,0 +1,52 @@
+GUID 94ef00cf4795496d8e316ae93c454a88
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 19134
+
+Should_Delete_Empty_Magazines False
+
+Sight 19116
+
+Auto
+
+Caliber 19022
+
+Firerate 129
+Action Rocket
+
+Player_Damage 100
+Zombie_Damage 150
+Animal_Damage 150
+Barricade_Damage 270
+Structure_Damage 350
+Vehicle_Damage 3000
+Resource_Damage 1000
+Object_Damage 2000
+Projectile_Explosion_Launch_Speed 40
+
+Gunshot_Rolloff_Distance 500
+
+Range 10
+Explosion 19092
+
+Aim_In_Duration 0.3
+Spread_Aim 0.2
+Spread_Hip 0.05
+
+Ballistic_Force 4500
+
+Recoil_Min_X -3
+Recoil_Min_Y 3
+Recoil_Max_X 3
+Recoil_Max_Y 5
+
+Recover_X 1
+Recover_Y 1
+
+Muzzle 19090
+Shell 0
+
+Reload_Time 2.4
+Turret

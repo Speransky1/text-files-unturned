@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID 246fb49c23c04c26b0fb6042f1b7392d
+	Type SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Texture
+	{
+		Name sovcore.masterbundle
+		Path Terrain/Materials/Snow.png
+	}
+	Mask
+	{
+		Name core.masterbundle
+		Path Terrain/Materials/Yukon/Snow_mask_00.png
+	}
+	Physics_Material Sov_Snow
+	Foliage
+	{
+		GUID dbac8612b5564a909e3586406899e95f
+	}
+}

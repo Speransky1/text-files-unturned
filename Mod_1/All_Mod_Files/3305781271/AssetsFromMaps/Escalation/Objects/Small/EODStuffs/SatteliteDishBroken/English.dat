@@ -1,0 +1,6 @@
+Name PBS EOD Sattelite Dish Broken (QUEST)
+
+Interactability_Condition_0 Looks to be broken.
+Interactability_Condition_1 Missing Circuitboard
+
+Interact Repair sattelite dish [{0}]

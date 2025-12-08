@@ -1,0 +1,35 @@
+GUID 83eaf58bc24a4c78a473c9038f6c4ca8
+
+Type Small
+Has_Clip_Prefab false
+ID 57631
+
+
+//Horde must be sacrificed
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 57102
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+//Greet
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 58000
+Interactability_Reward_0_Value True
+
+Conditions 2
+//Disappears after interacted
+Condition_0_Type Flag_Bool
+Condition_0_ID 58000
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+//Appears after final quest
+Condition_1_Type Flag_Bool
+Condition_1_ID 58100
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Asset_Bundle_Version 3

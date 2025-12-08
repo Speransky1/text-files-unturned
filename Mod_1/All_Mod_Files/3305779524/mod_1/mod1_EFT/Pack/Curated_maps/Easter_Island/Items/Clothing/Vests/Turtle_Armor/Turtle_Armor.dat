@@ -1,0 +1,45 @@
+GUID dfd9cb4262d1431eb3d03d0b87ba9741
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 6653
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 4
+Height 4
+
+Armor .65
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 516
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 6652
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 66
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 64
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Build 32
+Blueprint_0_Map Easter Island
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 516
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 6652
+Blueprint_1_Supply_1_Amount 3
+Blueprint_1_Supply_2_ID 64
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Build 32
+Blueprint_1_Map Easter Island
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 6653
+Blueprint_2_Product 6652
+Blueprint_2_Products 3
+Blueprint_2_Build 27
+Blueprint_2_Map Easter Island

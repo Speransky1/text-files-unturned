@@ -1,0 +1,21 @@
+GUID 9f5ec5990a9d41d59470b699a31e7f3f
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 37439
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.75
+Armor_Explosion 0.7
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 37354
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27

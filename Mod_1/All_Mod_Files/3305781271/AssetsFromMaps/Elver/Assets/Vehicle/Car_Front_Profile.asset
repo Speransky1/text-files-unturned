@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "4e4d62f4efa2484bbbe019bbb1f425c6"
+	"Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Wheel_Suspension_Damper" "13",
+	"Wheel_Drive_Model" "All",
+	"Carjack_Force_Multiplier" "5"
+	"Wheel_Friction_Sideways"
+	{
+		"Extremum_Slip" "0.5"
+		"Extremum_Value" "1.5"
+		"Asymptote_Slip" "2"
+		"Asymptote_Value" "0.5"
+		"Stiffness" "1.3"
+	}
+}

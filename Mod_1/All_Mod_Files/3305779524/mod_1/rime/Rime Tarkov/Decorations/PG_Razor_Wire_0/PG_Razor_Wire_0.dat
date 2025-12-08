@@ -1,0 +1,30 @@
+GUID 206419fd1bc64c44bf7084d1f6e82e55
+
+Type Trap
+Rarity Rare
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Wire
+ID 36510
+
+Size_X 4
+Size_Y 2
+Size_Z 0.7
+
+Range 3
+Radius 0.10
+Offset 0.3
+
+Player_Damage 43
+
+Explosion 36
+
+Unrepairable
+
+Unpickupable
+
+Proof_Explosion
+
+Can_Be_Damaged False

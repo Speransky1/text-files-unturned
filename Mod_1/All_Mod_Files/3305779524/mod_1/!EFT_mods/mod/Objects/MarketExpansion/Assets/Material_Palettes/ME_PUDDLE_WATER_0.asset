@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "0372d290d2174aa6b891ece86d97bf10"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PUDDLE_WATER_0/ME_PUDDLE_WATER_00.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PUDDLE_WATER_0/ME_PUDDLE_WATER_01.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PUDDLE_WATER_0/ME_PUDDLE_WATER_02.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PUDDLE_WATER_0/ME_PUDDLE_WATER_03.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PUDDLE_WATER_0/ME_PUDDLE_WATER_04.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PUDDLE_WATER_0/ME_PUDDLE_WATER_05.mat"
+		}
+	]
+}

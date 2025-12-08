@@ -1,0 +1,62 @@
+GUID 03c9196cf5614c01a544b0e325bca476
+
+Type Magazine
+Rarity Rare
+ID 63325
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/PS_Pistol_Box
+
+Size_X 2
+Size_Y 2
+Size_Z 0.325
+
+Amount 80
+Count_Min 15
+Count_Max 50
+
+Calibers 1
+Caliber_0 19999
+
+Tracer 48
+
+Blueprints 8
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 63999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63325
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63326
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 63331
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 63407
+Blueprint_4_Supply_0_Critical
+Blueprint_4_Build 30
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 63798
+Blueprint_5_Supply_0_Critical
+Blueprint_5_Build 30
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 63891
+Blueprint_6_Supply_0_Critical
+Blueprint_6_Build 30
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 19250
+Blueprint_7_Supply_0_Critical
+Blueprint_7_Build 30

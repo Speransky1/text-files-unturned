@@ -1,0 +1,5 @@
+Name PS Base Door #4 [Оружейная]
+
+Interactability_Condition_0 Требуется ключ от Оружейной
+
+Interact Открыть [{0}]

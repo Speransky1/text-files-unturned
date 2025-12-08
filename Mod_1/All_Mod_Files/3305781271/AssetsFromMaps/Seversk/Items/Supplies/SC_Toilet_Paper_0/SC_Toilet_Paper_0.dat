@@ -1,0 +1,33 @@
+﻿GUID 379673b72ec44414bdc85ae98fe697d1
+Type Supply
+ID 41797
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset
+Use_Auto_Icon_Measurements False
+Blueprints
+[
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems
+		[
+			{
+				ID this
+			}
+		]
+		OutputItems
+		[
+			"159e927969ea4946a24602eaa05e3273 x 2" // Fabric Cloth
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

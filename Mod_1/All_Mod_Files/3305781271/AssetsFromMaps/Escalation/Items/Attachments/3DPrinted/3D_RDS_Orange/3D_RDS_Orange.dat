@@ -1,0 +1,39 @@
+GUID 84026237671640b6ad22642f304455f0
+Type Sight
+Rarity Rare
+ID 51372
+
+Zoom_Using_Eyes True
+Zoom 1.2
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Holographic
+
+Paintable
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 51008
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 51029
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 51017
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 51000
+Blueprint_0_Tool_Critical
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51372
+Blueprint_0_Output_0_Amount 1
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51372
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 51028
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_0_Build 27
+Blueprint_1_Build 27

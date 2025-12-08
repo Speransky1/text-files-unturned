@@ -1,0 +1,5 @@
+Name Marked Door Echo Enter #4
+
+Interactability_Condition_0 Нужен ключ от закрытой комнаты Эхо
+
+Interact Открыть [{0}]

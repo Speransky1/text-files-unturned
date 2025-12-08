@@ -1,0 +1,10 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Introduction
+Description Complete previous quests.
+Condition_0 Complete Arsenal IV
+Condition_1 Complete Reinforcements IV
+Condition_2 Complete Armor IV
+Condition_3 Complete Consumable IV
+Reward_2 Dominga <color=#C832FA>Legendary</color> Random Quests
+Reward_3 Roland Quests
+Reward_4 Mark Contracts

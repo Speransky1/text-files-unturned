@@ -1,0 +1,11 @@
+GUID 6c8d4dbc3924453194752573a4beab40
+
+Type Decal
+ID 38835
+
+Decal_X 3
+Decal_Y 3
+
+Is_Gore true
+
+Has_Clip_Prefab false

@@ -1,0 +1,23 @@
+GUID 04fe40c0d9d34937af898d050b444c9c
+
+Type Tactical
+Rarity Rare
+ID 31100
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Spread 0.45
+
+Calibers 5
+Caliber_0 18902
+Caliber_1 18903
+Caliber_2 18904
+Caliber_3 18905
+Caliber_4 18906
+
+
+Use_Auto_Icon_Measurements False
+
+Laser

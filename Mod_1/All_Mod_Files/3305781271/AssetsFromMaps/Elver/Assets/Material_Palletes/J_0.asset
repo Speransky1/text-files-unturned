@@ -1,0 +1,64 @@
+"Metadata"
+{
+	"GUID" "053e438c1ebf40adb6ac0a78c1c180c3"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_0.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_1.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_2.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_3.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_4.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_5.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_6.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_7.mat"
+		}
+				{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_8.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_9.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_10.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_11.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/J_0/Material_12.mat"
+		}
+	]
+}

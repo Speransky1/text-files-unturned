@@ -1,0 +1,28 @@
+GUID 507444ba280545a2bcb12f014076b1cc
+
+Type Storage
+Rarity Mythical
+Build Storage
+ID 57216
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Health 3331
+
+Storage_X 7
+Storage_Y 10
+
+Explosion 36
+Vulnerable
+Unrepairable
+Unpickupable
+Unsaveable
+Offset 1
+
+Display
+
+Should_Close_When_Outside_Range true
+
+Asset_Bundle_Version 3

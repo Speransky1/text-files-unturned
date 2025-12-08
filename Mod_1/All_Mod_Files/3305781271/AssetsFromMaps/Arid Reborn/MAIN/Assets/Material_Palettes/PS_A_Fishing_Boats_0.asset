@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "820afd2b234e4660b05aa3d317a447b9"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Fishing_Boats_0/Fishing_Boat_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Fishing_Boats_0/Fishing_Boat_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Fishing_Boats_0/Fishing_Boat_2.mat"
+		}
+	]
+}

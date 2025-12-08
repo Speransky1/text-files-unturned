@@ -1,0 +1,56 @@
+GUID 68b0d47185b54a0b95907a7e4f6fd841
+
+Type Small
+Has_Clip_Prefab false
+ID 58036
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 5
+Interactability_Reward_0_Type Item
+Interactability_Reward_0_ID 57469
+Interactability_Reward_0_Amount 1
+
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 57306
+Interactability_Reward_1_Value 0
+Interactability_Reward_1_Modification Assign
+
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 57307
+Interactability_Reward_2_Value 0
+Interactability_Reward_2_Modification Assign
+
+Interactability_Reward_3_Type Flag_Short
+Interactability_Reward_3_ID 57308
+Interactability_Reward_3_Value 0
+Interactability_Reward_3_Modification Assign
+
+Interactability_Reward_4_Type Flag_Short
+Interactability_Reward_4_ID 57312
+Interactability_Reward_4_Value 0
+Interactability_Reward_4_Modification Assign
+
+
+Conditions 3
+Condition_0_Type Compare_Flags
+Condition_0_A_ID 57306
+Condition_0_B_ID 57307
+Condition_0_Logic Equal
+Condition_0_Reset
+
+Condition_1_Type Compare_Flags
+Condition_1_A_ID 57307
+Condition_1_B_ID 57308
+Condition_1_Logic Equal
+Condition_1_Reset
+
+Condition_2_Type Compare_Flags
+Condition_2_A_ID 57308
+Condition_2_B_ID 57310
+Condition_2_Logic Equal
+Condition_2_Reset
+
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_Win_1000

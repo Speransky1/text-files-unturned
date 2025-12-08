@@ -1,0 +1,43 @@
+GUID 3434763810674b9c80c3637b96f2093a
+
+Type Magazine
+Rarity Epic
+ID 63655
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/PS_AR_Tracer
+
+Size_X 1
+Size_Y 2
+Size_Z 0.255
+
+Amount 30
+Count_Min 1
+Count_Max 30
+
+Calibers 1
+Caliber_0 19260
+
+Tracer 19042
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Spread 0.9
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 63999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63655
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63660
+Blueprint_2_Build 30

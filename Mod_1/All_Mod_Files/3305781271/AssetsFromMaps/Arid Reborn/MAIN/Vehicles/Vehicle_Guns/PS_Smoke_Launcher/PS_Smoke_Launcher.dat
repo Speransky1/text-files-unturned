@@ -1,0 +1,59 @@
+GUID 4d03e9ff26b84f4290e57ad5bc796862
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 19145
+
+Should_Delete_Empty_Magazines False
+
+Spawn_Explosion_On_Dedicated_Server
+
+Sight 19116
+Magazine 19412
+
+Ammo_Min 8
+Ammo_Max 8
+
+Semi
+
+Caliber 19412
+
+Firerate 16
+Action Rocket
+
+Ammo_Per_Shot 4
+
+Gunshot_Rolloff_Distance 150
+
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Range 10
+Explosion 19091
+
+Aim_In_Duration 0.1
+Spread_Aim 0
+Spread_Hip 0
+
+Ballistic_Force 0
+
+Recoil_Min_X -3
+Recoil_Min_Y 3
+Recoil_Max_X 3
+Recoil_Max_Y 5
+
+Recover_X 1
+Recover_Y 1
+
+Muzzle 19016
+Shell 0
+
+Reload_Time 9.1
+Turret

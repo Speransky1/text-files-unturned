@@ -1,0 +1,6 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Arsenal III
+Description Mark 3 technical vehicles with <color=#1f871f>Marking Flares</color>.
+Condition_0 {0}/{1} Planted Markers
+Reward_1 More purchase options.
+Reward_2 More barters.

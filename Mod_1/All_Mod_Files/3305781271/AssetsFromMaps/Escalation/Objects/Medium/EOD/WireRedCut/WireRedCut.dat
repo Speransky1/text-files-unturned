@@ -1,0 +1,17 @@
+GUID 4147682e021149c9b4d4f86642f8d1ad
+Type Medium
+ID 51000
+
+Has_Clip_Prefab false
+
+Interactability Quest
+Interactability_Effect 61
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 51062
+Interactability_Condition_0_Amount 1
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 52578
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign

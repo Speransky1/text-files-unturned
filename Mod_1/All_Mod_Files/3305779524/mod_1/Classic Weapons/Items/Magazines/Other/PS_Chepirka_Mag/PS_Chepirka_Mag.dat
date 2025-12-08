@@ -1,0 +1,23 @@
+GUID 97ed498e4c5e4d3dacec38a1a9461119
+Type Magazine
+Rarity Legendary
+ID 31160
+
+Size_X 3
+Size_Y 2
+Size_Z 0.5
+
+Amount 4
+Count_Min 1
+Count_Max 4
+
+Calibers 1
+Caliber_0 25061
+
+Delete_Empty
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31160
+Blueprint_0_Build 30

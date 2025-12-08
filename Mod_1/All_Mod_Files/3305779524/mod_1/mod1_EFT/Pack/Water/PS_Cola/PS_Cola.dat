@@ -1,0 +1,22 @@
+GUID f07f46af63f445a1a0a9f14e22eae062
+Type Water
+Rarity Uncommon
+Useable Consumeable
+ID 11127
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Water 60
+Energy 50
+
+Quality_Min 100
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59561
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Сладенько))0
+Quest_Reward_1_Duration 1

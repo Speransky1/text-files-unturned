@@ -1,0 +1,30 @@
+GUID ccd909c15ca74216bc42279e48426a96
+Type Magazine
+Rarity Rare
+ID 31167
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 20
+Count_Min 10
+Count_Max 20
+
+Recoil_X 2
+Recoil_Y 2
+Shake 2
+Ballistic_Damage_Multiplier 1.4
+
+Calibers 1
+Caliber_0 25056
+
+Tracer 30057
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31167
+Blueprint_0_Build 30
+
+Delete_Empty

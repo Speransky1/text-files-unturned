@@ -1,0 +1,34 @@
+GUID f988223b90814e6cab34bb4df4e8cd88
+Type Magazine
+Rarity Mythical
+ID 31169
+
+Size_X 2
+Size_Y 2
+Size_Z 0.255
+
+Amount 16
+Count_Min 8
+Count_Max 16
+
+Calibers 1
+Caliber_0 25055
+
+Tracer 30058
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31169
+Blueprint_0_Build 30
+
+Range 2
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Explosion 30030
+Explosive
+
+Explosion_Launch_Speed 0
+
+Delete_Empty

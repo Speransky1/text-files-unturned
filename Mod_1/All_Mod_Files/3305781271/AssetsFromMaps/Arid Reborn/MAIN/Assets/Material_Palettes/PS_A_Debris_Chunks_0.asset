@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "ed5ae7a4d5354bea9cad8982d8ad289e"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Debris_Chunks_0/Debris_Chunks_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Debris_Chunks_0/Debris_Chunks_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Debris_Chunks_0/Debris_Chunks_2.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Debris_Chunks_0/Debris_Chunks_3.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Debris_Chunks_0/Debris_Chunks_4.mat"
+		}
+	]
+}

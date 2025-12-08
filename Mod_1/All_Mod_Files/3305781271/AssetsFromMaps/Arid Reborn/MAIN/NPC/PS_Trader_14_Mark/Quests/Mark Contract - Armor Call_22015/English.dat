@@ -1,0 +1,5 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Mark Contract - Armor Call
+Description Bring me 2x <color=#4B64FA>Walkie Talkie</color>, mark Laundry in Abu Al-Kaba'er & kill 300x zombies.
+Condition_1 {0}/{1} Planted Markers
+Condition_2 {0}/{1} Zombies

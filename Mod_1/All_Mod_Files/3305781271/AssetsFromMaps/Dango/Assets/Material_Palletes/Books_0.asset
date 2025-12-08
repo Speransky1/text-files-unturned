@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "945e7f80f1274b34968373151a676250"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "sky.masterbundle"
+			"Path" "Sky/Material_Palletes/Books_0/Material_0.mat"
+		}
+		{
+			"Name" "sky.masterbundle"
+			"Path" "Sky/Material_Palletes/Books_0/Material_1.mat"
+		}
+		{
+			"Name" "sky.masterbundle"
+			"Path" "Sky/Material_Palletes/Books_0/Material_2.mat"
+		}
+		{
+			"Name" "sky.masterbundle"
+			"Path" "Sky/Material_Palletes/Books_0/Material_3.mat"
+		}
+		{
+			"Name" "sky.masterbundle"
+			"Path" "Sky/Material_Palletes/Books_0/Material_4.mat"
+		}
+		{
+			"Name" "sky.masterbundle"
+			"Path" "Sky/Material_Palletes/Books_0/Material_5.mat"
+		}
+	]
+}

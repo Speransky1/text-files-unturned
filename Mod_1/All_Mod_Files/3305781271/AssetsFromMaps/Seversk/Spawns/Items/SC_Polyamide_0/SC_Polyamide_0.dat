@@ -1,0 +1,12 @@
+GUID ae78a10a2264489eb1125bc31181b82d
+Type Spawn
+ID 41484
+
+Tables
+[
+	{
+		// Aramid Fabric (Supply Item)
+		LegacyAssetId 41804
+		Weight 100
+	}
+]

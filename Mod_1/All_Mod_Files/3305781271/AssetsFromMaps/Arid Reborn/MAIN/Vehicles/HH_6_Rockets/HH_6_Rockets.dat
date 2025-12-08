@@ -1,0 +1,110 @@
+GUID 458641eaf02f4c5eabf8c73ebb9cea96
+Type Vehicle
+
+IgnitionAudioClip Vehicles/HH_6/Ignition.mp3
+
+Has_Clip_Prefab False
+
+Rarity Legendary
+ID 19037
+
+//////////////////////////////////////////////////////////Balance Stats
+
+Passenger_Explosion_Armor 0.9
+
+Melee_Damage_Multiplier 1
+
+Speed_Min -15
+Speed_Max 45
+
+Steer_Min 20
+Steer_Max 40
+
+Brake 60
+
+Fuel_Min 5000
+Fuel_Max 5500
+Fuel 7000
+
+Health_Min 1200
+Health_Max 1600
+Health 1700
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 10
+
+Fuel_Burn_Rate 5
+
+///////////////////////////////////////////////////////////////////////
+
+Exit 4
+
+Lift 2
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+
+Cam_Follow_Distance 22
+
+Air_Turn_Responsiveness 1.3
+Air_Steer_Min 16
+Air_Steer_Max 24
+
+Explosion 19021
+
+
+Tires_Invulnerable
+
+Pitch_Drive 0.01
+
+Valid_Speed_Horizontal 300
+
+
+Default_Battery a9c5e916c29646fdba9d08f6a7ce02b6
+Battery_Burn_Rate 4
+Battery_Charge_Rate 2
+BatteryMode_Headlights Burn
+BatteryMode_Sirens Burn
+BatteryMode_Driving Charging
+BatteryMode_Empty None
+
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 10737
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 85
+Turret_0_Pitch_Max 180
+
+DefaultPaintColors
+[
+	"#373737" // Black
+]
+
+PaintableSections
+[
+    {
+        Path Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Model_1
+        MaterialIndex 0
+    }
+
+]
+
+ExplosionBurnMaterialSections
+[
+    {
+        Path Model_0
+		AllMaterials true
+    }
+    {
+        Path Model_1
+		AllMaterials true
+    }
+]

@@ -1,0 +1,18 @@
+GUID 71660a4c14ab47d5b7d8ad1bd6e74573
+
+Type Magazine
+Rarity Legendary
+ID 51045
+Explosion 51013
+Explosive
+Size_X 1
+Size_Y 1
+Size_Z 0
+Projectile_Damage_Multiplier 0.9
+Amount 1
+
+Calibers 1
+Caliber_0 20
+
+
+Use_Auto_Stat_Descriptions false

@@ -1,0 +1,19 @@
+GUID eb48e6562ab343eeb7bbad4fd692db08
+
+Type Small
+Has_Clip_Prefab false
+ID 58156
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57228
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint ChurchFinal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Final/Metro_TP_Final_FX

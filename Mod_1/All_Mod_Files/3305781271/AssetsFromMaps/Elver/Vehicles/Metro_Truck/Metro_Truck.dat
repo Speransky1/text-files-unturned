@@ -1,0 +1,43 @@
+GUID 643d4975fb5a4d58a57f2af29b011a9b
+
+Type Vehicle
+Has_Clip_Prefab false
+Rarity Common
+ID 57022
+
+Speed_Min -4
+Speed_Max 8
+
+Steer_Min 24
+Steer_Max 32
+
+Brake 24
+
+Fuel_Min 500
+Fuel_Max 750
+Fuel 2000
+
+Health_Min 400
+Health_Max 500
+Health 750
+
+Traction
+
+Tires_Invulnerable
+
+Cam_Follow_Distance 7.5
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Physics_Profile ece2cc1ec6ea45e385a3c133641c7f16
+
+Can_Be_Locked False
+
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging
+
+Explosion 20

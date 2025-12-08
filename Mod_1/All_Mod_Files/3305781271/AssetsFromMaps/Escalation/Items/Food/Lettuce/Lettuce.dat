@@ -1,0 +1,40 @@
+GUID dbea58a1b17e470480393a22a7d7228a
+Type Food
+Useable Consumeable
+ID 51474
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+Size2_Z 0.35
+
+Food 10
+Water 30
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3
+
+Quest_Rewards 2
+Quest_Reward_0_Type Rewards_List_Asset
+Quest_Reward_0_GUID dc71be756f984f68adb51b5e8cb887bc
+Quest_Reward_1_Type Rewards_List_Asset
+Quest_Reward_1_GUID 3892f8f3d6d140e88e8c5f9004f6e54e
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Source 51627
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Purify ▲
+Action_1_Tooltip Purify to remove impurities.
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 51416
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Use_Auto_Stat_Descriptions false

@@ -1,0 +1,19 @@
+GUID 81212dfbdc524d98803bd700782432a0
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 19405
+Use_Auto_Icon_Measurements False
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 700
+Range 5
+Radius 0
+Offset 0.05
+
+UseAudioClip vintagecars.masterbundle:Bundle/Sounds/Vehicle_Spraypaint.mp3
+Has_Clip_Prefab false

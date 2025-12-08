@@ -1,0 +1,22 @@
+GUID aee7a4c8b74f4c99ab13b2ff425e9ff9
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 37458
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.7
+Armor_Explosion 0.88
+Movement_Speed_Multiplier 0.97
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 37353
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27

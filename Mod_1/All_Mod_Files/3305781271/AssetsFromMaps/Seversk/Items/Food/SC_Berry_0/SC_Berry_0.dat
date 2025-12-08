@@ -1,0 +1,16 @@
+﻿GUID 51d3bffd7d2747f69a6773d8bae5c181
+
+Type Food
+Useable Consumeable
+ID 41332
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Energy 20
+Food 15
+Water 25
+ConsumeAudioClip Sounds/Eating_0.ogg
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/LeavesRustle/Leaves_Rustle.asset

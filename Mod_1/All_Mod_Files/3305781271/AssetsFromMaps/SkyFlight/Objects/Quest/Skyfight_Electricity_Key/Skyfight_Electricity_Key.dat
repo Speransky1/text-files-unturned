@@ -1,0 +1,31 @@
+GUID d811d316eb3545e687edfa6ff0fbd5c1
+
+Type Medium
+ID 38900
+
+Master_Bundle_Override skyfight.masterbundle
+Bundle_Override_Path Objects/Quest/Skyfight_Electricity_Close
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 38803
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 38805
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 38804
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Interactability_Rewards 1
+Interactability_Effect 38809
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 38805
+Interactability_Reward_0_Value True

@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "dbc7e193b99e4dcebf9c9d107693d643"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Store/Store_0.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Store/Store_1.mat"
+		}
+		{
+			"Name" "Ireland.masterbundle"
+			"Path" "terrain/Material_Pallete/Store/Store_2.mat"
+		}
+	]
+}

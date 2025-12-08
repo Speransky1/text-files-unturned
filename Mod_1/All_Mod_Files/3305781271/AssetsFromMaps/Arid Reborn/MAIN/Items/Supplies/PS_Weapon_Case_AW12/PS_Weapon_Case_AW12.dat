@@ -1,0 +1,20 @@
+GUID 7ee5f7e85a134874bd943d0743e882d0
+Type Food
+Rarity Legendary
+Useable Consumeable
+ID 19938
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Quest_Rewards 3
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 19930
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 19929
+Quest_Reward_1_Amount 1
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 10011
+Quest_Reward_2_Amount 1

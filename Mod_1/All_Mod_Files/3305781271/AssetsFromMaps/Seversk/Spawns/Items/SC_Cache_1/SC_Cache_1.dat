@@ -1,0 +1,183 @@
+GUID 3080f6ae06c24113bc7d62b5a22ae35d
+Type Spawn
+ID 41437
+
+Tables
+[
+	{
+		// Grenade Fuse (Supply Item)
+		LegacyAssetId 41568
+		Weight 30
+	}
+	{
+		// Geiger Counter (Supply Item)
+		LegacyAssetId 41798
+		Weight 28
+	}
+	{
+		// Metal Sheet (Supply Item)
+		LegacyAssetId 41344
+		Weight 25
+	}
+	{
+		// Gunpowder (Supply Item)
+		LegacyAssetId 41458
+		Weight 25
+	}
+	{
+		// Fabric Mesh (Supply Item)
+		LegacyAssetId 41562
+		Weight 25
+	}
+	{
+		// Broken Walkie Talkie (Supply Item)
+		LegacyAssetId 41510
+		Weight 23
+	}
+	{
+		// Polyamide Fabric (Supply Item)
+		LegacyAssetId 41804
+		Weight 23
+	}
+	{
+		// SR-1MP (Gun Item)
+		LegacyAssetId 41905
+		Weight 20
+	}
+	{
+		// SR-1MP Magazine (Magazine Item)
+		LegacyAssetId 41906
+		Weight 26
+	}
+	{
+		// OTS-14 (Gun Item)
+		LegacyAssetId 41862
+		Weight 18
+	}
+	{
+		// OTS-12 Maggazine (Magazine Item)
+		LegacyAssetId 41772
+		Weight 24
+	}
+	{
+		// OTS-14 Muzzle Handle (Barrel Item)
+		LegacyAssetId 41864
+		Weight 30
+	}
+	{
+		// OTS-14 Suppressor (Barrel Item)
+		LegacyAssetId 41863
+		Weight 20
+	}
+	{
+		// PO4X34 (Scope Item)
+		LegacyAssetId 41865
+		Weight 20
+	}
+	{
+		// Tactical Flashlight 1 (Tactical Item)
+		LegacyAssetId 41908
+		Weight 23
+	}
+	{
+
+		// Tactical Laser 0 (Tactical Item)
+		LegacyAssetId 41909
+		Weight 20
+	}
+	{
+		// Tactical Laser 0 (Tactical Item)
+		LegacyAssetId 41907
+		Weight 27
+	}
+	{
+		// Protective Visor (Supply Item)
+		LegacyAssetId 41866
+		Weight 23
+	}
+	{
+		// Bag of Cement (Supply Item)
+		Guid fd985f2853364ca5964365ccfef22dd6
+		Weight 22
+	}
+	{
+		// Canteen (Refill Item)
+		LegacyAssetId 41684
+		Weight 22
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41652
+		Weight 21
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41649
+		Weight 21
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41650
+		Weight 21
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41651
+		Weight 21
+	}
+	{
+		// Armor Plate (Supply Item)
+		LegacyAssetId 41320
+		Weight 20
+	}
+	{
+		// Fragmentation Projectile (Supply Item)
+		LegacyAssetId 41796
+		Weight 20
+	}
+	{
+		// Military Radio (Barricade Item)
+		LegacyAssetId 41361
+		Weight 18
+	}
+	{
+		// Gun Parts (Supply Item)
+		LegacyAssetId 41316
+		Weight 18
+	}
+	{
+		// Sodium Perchlorate (Supply Item)
+		LegacyAssetId 41506
+		Weight 15
+	}
+	{
+		// Aramid Fabric (Supply Item)
+		LegacyAssetId 41319
+		Weight 14
+	}
+	{
+		// Gun Parts Stack (Barricade Item)
+		LegacyAssetId 41324
+		Weight 13
+	}
+	{
+		// Gunpowder Stack (Barricade Item)
+		LegacyAssetId 41815
+		Weight 12
+	}
+	{
+		// Survival Knife (Melee Item)
+		LegacyAssetId 41664
+		Weight 10
+	}
+	{
+		// Armor Plate Stack (Barricade Item)
+		LegacyAssetId 41331
+		Weight 10
+	}
+	{
+		// Military Battery (Barricade Item)
+		LegacyAssetId 41369
+		Weight 10
+	}
+]

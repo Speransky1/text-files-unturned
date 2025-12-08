@@ -1,0 +1,11 @@
+GUID 0d2d93709ca64b11ac4ed09ef35a9d05
+
+Type Small
+ID 38919
+
+Master_Bundle_Override skyfight.masterbundle
+Bundle_Override_Path Objects/Small/Skyfight_Note_0
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 1

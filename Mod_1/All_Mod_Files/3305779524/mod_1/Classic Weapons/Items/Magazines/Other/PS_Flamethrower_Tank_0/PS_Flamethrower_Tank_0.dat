@@ -1,0 +1,19 @@
+GUID 33440483080241f3bdeb8549a794ca04
+Type Magazine
+Rarity Mythical
+ID 31162
+
+Size_X 3
+Size_Y 2
+Size_Z 0.175
+
+Amount 200
+
+Calibers 1
+Caliber_0 25059
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31162
+Blueprint_0_Build 30

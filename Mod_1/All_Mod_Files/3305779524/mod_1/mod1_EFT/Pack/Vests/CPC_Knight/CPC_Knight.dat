@@ -1,0 +1,28 @@
+GUID 229324b9e0dd469ab45b93a9e3f78eb8
+
+
+Type Vest
+Rarity Legendary
+Useable Clothing
+ID 56219
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 7
+Height 3
+
+Armor 0.55
+Armor_Explosion 0.75
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+Quality_Min 55
+Quality_Max 65
+

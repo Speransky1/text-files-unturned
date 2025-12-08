@@ -1,0 +1,13 @@
+GUID c198c1dad43841c79dc89824180a8dab
+
+Type Large
+Has_Clip_Prefab false
+ID 58033
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Vault_Exit
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_Vault

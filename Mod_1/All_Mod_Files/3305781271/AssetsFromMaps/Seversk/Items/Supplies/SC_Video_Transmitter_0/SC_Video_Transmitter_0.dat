@@ -1,0 +1,54 @@
+﻿GUID 9caf145b825b42ffa533f36b6c50f8ce
+
+Type Barricade
+Useable Barricade
+Build Barricade
+Rarity Rare
+ID 41373
+Health 30
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Bypass_Pickup_Ownership true
+Allow_Placement_On_Vehicle false
+Range 3
+Radius 0.1
+Offset 0.11
+Salvage_Duration_Multiplier 0.1
+Vulnerable
+Can_Be_Damaged true
+SalvageItem 1ffcf6be5661420a9c2e4d3f71bffc12
+Explosion 41329
+
+
+
+
+
+Blueprints
+[
+	{
+		CategoryTag "cdb2df24b76d4c6e9d8411c940d8337f" // Gear
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "615a4030662e4ea7abad12b5a4e9a675" // Screwdriver
+				Delete false
+			}
+		]
+		OutputItems "fc66e44ca92f49d0b8d4fca4bd512190 x 3" // Electronic Fragments
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+PlacementAudioClip Sounds/Placement_2.ogg
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

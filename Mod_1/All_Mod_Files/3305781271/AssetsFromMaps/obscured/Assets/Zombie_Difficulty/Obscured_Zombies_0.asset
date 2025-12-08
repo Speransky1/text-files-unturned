@@ -1,0 +1,22 @@
+"Metadata"
+{
+	"GUID" "314f648a0f4d4eec836e0003b8e748af"
+	"Type" "SDG.Unturned.ZombieDifficultyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Overrides_Spawn_Chance" "false"
+	"Crawler_Chance" "0"
+	"Sprinter_Chance" "0"
+	"Flanker_Chance" "0"
+	"Burner_Chance" "0"
+	"Acid_Chance" "0"
+	"Boss_Electric_Chance" "0"
+	"Boss_Wind_Chance" "0"
+	"Boss_Fire_Chance" "0"
+	"Spirit_Chance" "0"
+	"Mega_Stun_Threshold" "1000"
+	"Normal_Stun_Threshold" "100"
+	"Allow_Horde_Beacon" "false"
+}

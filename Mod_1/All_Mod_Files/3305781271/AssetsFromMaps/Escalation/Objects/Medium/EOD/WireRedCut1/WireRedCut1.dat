@@ -1,0 +1,22 @@
+GUID 56848aee5fa94be0bd345ab863b6daf8
+Type Medium
+ID 51000
+
+Has_Clip_Prefab false
+
+Interactability Quest
+Interactability_Effect 61
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 51062
+Interactability_Condition_0_Amount 1
+Interactability_Rewards 2
+Interactability_Reward_0_Type Event
+Interactability_Reward_0_ID EODBOMB2
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 52579
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Assign
+
+Master_Bundle_Override pbs.masterbundle
+Bundle_Override_Path /Objects/Medium/EOD/WireRedCut

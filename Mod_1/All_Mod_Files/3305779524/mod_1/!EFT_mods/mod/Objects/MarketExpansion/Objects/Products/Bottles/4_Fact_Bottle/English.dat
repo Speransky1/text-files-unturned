@@ -1,0 +1,5 @@
+Name ME Soda Bottle #4
+
+Interactability_Condition_0 Requires <color=#4E5D8E>5$</color> 
+
+Interact Purchase Fact for <color=#4E5D8E>5$</color>  [{0}]

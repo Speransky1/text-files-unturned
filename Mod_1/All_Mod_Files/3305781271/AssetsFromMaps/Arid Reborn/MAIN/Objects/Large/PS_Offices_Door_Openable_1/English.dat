@@ -1,0 +1,5 @@
+Name PS Offices Door Openable #2 [Офиса]
+
+Interactability_Condition_0 Требуется ключ от Офиса
+
+Interact Открыть [{0}]

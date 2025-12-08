@@ -1,0 +1,22 @@
+GUID bf96bc75a8b3428896c3dc0f38b6086d
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 54544
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 5
+
+Armor 0.8
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

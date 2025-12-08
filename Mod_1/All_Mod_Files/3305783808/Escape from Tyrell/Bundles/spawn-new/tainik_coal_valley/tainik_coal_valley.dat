@@ -1,0 +1,46 @@
+GUID 953b69286d90400e93d9e2374a9959c1
+Type Spawn
+ID 10160
+
+Roots
+[
+	{
+		// medbox_heal_deadzone+military (Spawn)
+		Guid 884a718c0be44e0dbe3ca95bc93835da
+		Weight 2
+	}
+	{
+		// tainik_ammo (Spawn)
+		Guid 9a39df1be0df4367968cc843782baac1
+		Weight 2
+	}
+	{
+		// tainik_proper (Spawn)
+		Guid 1120a4f8114c4a31bf5c7600464d1b21
+		Weight 4
+	}
+]
+
+Tables
+[
+	{
+		// tainik_supply (Spawn)
+		Guid e35222914e7044fb9950b47d00dd4954
+		Weight 6
+	}
+	{
+		// tainik_proper (Spawn)
+		Guid 1120a4f8114c4a31bf5c7600464d1b21
+		Weight 4
+	}
+	{
+		// medbox_heal_deadzone+military (Spawn)
+		Guid 884a718c0be44e0dbe3ca95bc93835da
+		Weight 2
+	}
+	{
+		// tainik_ammo (Spawn)
+		Guid 9a39df1be0df4367968cc843782baac1
+		Weight 2
+	}
+]

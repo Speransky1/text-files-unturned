@@ -1,0 +1,37 @@
+GUID 8ded4efec460415f847a2415e9cb6edb
+Type Spawn
+ID 10505
+
+Tables
+[
+	{
+		// tainik_proper (Spawn)
+		Guid 1120a4f8114c4a31bf5c7600464d1b21
+		Weight 15
+	}
+	{
+		// Mercs_Deadzone_Guns (Spawn)
+		Guid 7be788f984674ca0aa50b7808a89f723
+		Weight 15
+	}
+	{
+		// Marked_Rooms_Supply (Spawn)
+		Guid 19300632eaaa4d5699ecf826b1a6133b
+		Weight 15
+	}
+	{
+		// Набор гуманитарной помощи при ЧС (Supply Item)
+		Guid f2f0825dd3d8418f8f2d8ad3a3db7059
+		Weight 10
+	}
+	{
+		// Marked_Rooms_Docs (Spawn)
+		Guid 5c719669d6b0402fa33e2ad724f62560
+		Weight 3
+	}
+	{
+		// Marked_Rooms_Barters (Spawn)
+		Guid f61ea2f79c3e4f218fa4c2e4c7146987
+		Weight 1
+	}
+]

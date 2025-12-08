@@ -1,0 +1,24 @@
+﻿GUID 199df8a6814b47d49e34de8b44641384
+
+Type Supply
+ID 41340
+Size_X 1
+Size_Y 2
+Size_Z 0.56
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Icon_Measurements False
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "4f9fb8c83c494e2486329e494674813c x 2" // Metal Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]

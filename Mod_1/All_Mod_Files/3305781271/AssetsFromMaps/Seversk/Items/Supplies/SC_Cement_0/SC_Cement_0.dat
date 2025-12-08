@@ -1,0 +1,34 @@
+﻿GUID fd985f2853364ca5964365ccfef22dd6
+
+Type Supply
+Rarity Uncommon
+ID 41877
+Size_X 2
+Size_Y 3
+Size_Z 0.7
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset
+Use_Auto_Icon_Measurements true
+
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "365315eadce745c1911379f3b3d6d074 x 3" // Paper
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

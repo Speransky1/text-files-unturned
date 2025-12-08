@@ -1,0 +1,25 @@
+GUID 4e5f709582284d7e812010382fa04114
+Type Magazine
+Rarity Legendary
+ID 31161
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Speed 0.7
+
+Calibers 1
+Caliber_0 25060
+
+Tracer 30059
+
+Use_Auto_Icon_Measurements False
+
+Range 4
+Explosion 19019
+Explosive
+
+Delete_Empty

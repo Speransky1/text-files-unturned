@@ -1,0 +1,25 @@
+GUID 337c847adf774348ad8ab89633026d00
+
+Type Large
+Has_Clip_Prefab false
+ID 58032
+
+Interactability Quest
+Interactability_Conditions 2
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 57102
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 57367
+Interactability_Condition_1_Value True
+Interactability_Condition_1_Logic Equal
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Vault_Inside
+
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_Vault

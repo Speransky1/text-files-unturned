@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID 66dd1b431698483c8900993f87c0bd42
+	Type SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Texture
+	{
+		Name sovcore.masterbundle
+		Path Terrain/Materials/Stone.png
+	}
+	Mask
+	{
+		Name
+		Path
+	}
+	Physics_Material GRAVEL_STATIC
+	Foliage
+	{
+		GUID 8d35c58dd0984de4a65745f8ac17c478
+	}
+}

@@ -1,0 +1,12 @@
+GUID c6259a76e2f148a3b316eb4a214e380c
+Type Spawn
+ID 41487
+
+Tables
+[
+	{
+		// Brick (Supply Item)
+		LegacyAssetId 41878
+		Weight 100
+	}
+]

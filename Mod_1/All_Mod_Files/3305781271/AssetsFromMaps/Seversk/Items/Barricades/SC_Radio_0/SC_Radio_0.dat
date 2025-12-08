@@ -1,0 +1,69 @@
+﻿GUID 2fcb9ee50a24401fb290c685859266e3
+
+Type Barricade
+Useable Barricade
+Rarity Uncommon
+Build Stereo
+ID 41360
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 50
+Range 3
+Radius 0.2
+Offset 0.3
+Bypass_Pickup_Ownership true
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.2
+Explosion 41329
+Vulnerable
+Can_Be_Damaged true
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem 2fcb9ee50a24401fb290c685859266e3
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			"e3b8a5017cc446aaa349c19e2905f64e" // Foil
+			"fc66e44ca92f49d0b8d4fca4bd512190 x 3" // Electronic Fragments
+			"8951a76fd8b84d139953a15a52b31022 x 2" // Battery
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "615a4030662e4ea7abad12b5a4e9a675" // Screwdriver
+				Delete false
+			}
+		]
+		OutputItems "fc66e44ca92f49d0b8d4fca4bd512190 x 3" // Electronic Fragments
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 2
+Action_0_Blueprint_1_Index 1
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+PlacementAudioClip Sounds/Placement_2.ogg
+Has_Clip_Prefab false

@@ -1,0 +1,38 @@
+GUID 72229e001e364cda9fd815d4eafe7076
+
+Type Sight
+Rarity Rare
+ID 32111
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+Zoom 1.35
+Zoom_Using_Eyes True
+Holographic
+
+Calibers 2
+Caliber_0 18904
+Caliber_1 23905
+
+Blueprints 1
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 32111
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 32112
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Сменить цвет
+Action_0_Tooltip Сменить на <color=#FF3321>красный</color>.

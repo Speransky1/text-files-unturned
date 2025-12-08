@@ -1,0 +1,14 @@
+﻿Metadata
+{
+	GUID 4eaa5d53f3ca40d0b6ece823b144c7fa
+	Type SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	Carjack_Force_Multiplier 2
+	Wheel_Suspension_Damper 12
+	Wheel_Damping_Rate 1
+	Brake_Torque_Multiplier 15
+	Wheel_Drive_Model All
+	Root_Mass 2.2
+}

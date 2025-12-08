@@ -1,0 +1,27 @@
+GUID 5ad3e1db83b34cf5bc4d5dc87163d240
+Type Supply
+Rarity Common
+ID 10607
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10607
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59571
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Упаковать
+Action_0_Tooltip Сложить
+

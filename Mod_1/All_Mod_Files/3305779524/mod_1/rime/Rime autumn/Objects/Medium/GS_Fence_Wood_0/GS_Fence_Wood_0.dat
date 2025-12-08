@@ -1,0 +1,9 @@
+GUID d505c91225ca43dabd391eda6ba4b111
+
+Type Medium
+Has_Clip_Prefab false
+
+Material_Palette 094641245f17469c9045e0440687f01b
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Fences/Fence_Wood_2

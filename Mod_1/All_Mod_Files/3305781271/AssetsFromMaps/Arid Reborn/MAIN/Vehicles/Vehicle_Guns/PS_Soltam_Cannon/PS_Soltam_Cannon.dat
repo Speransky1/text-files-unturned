@@ -1,0 +1,60 @@
+GUID 5133d01eec074645bcc7d3ab6d649da7
+Type Gun
+Useable Gun
+Slot Primary
+ID 10235
+
+Size_X 1
+Size_Y 1
+Size_Z 0.5
+Size2_Z 0.5
+
+Sight 1301
+
+Safety
+Semi
+
+Caliber 10235
+
+Gunshot_Rolloff_Distance 750
+
+Firerate 40
+Action Rocket
+
+Player_Damage 150
+Zombie_Damage 150
+Animal_Damage 150
+Barricade_Damage 945
+Structure_Damage 1260
+Vehicle_Damage 3000
+Resource_Damage 1000
+Object_Damage 2000
+Projectile_Explosion_Launch_Speed 40
+
+Range 20
+Explosion 19010
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Recoil_Min_X -2
+Recoil_Min_Y -1
+Recoil_Max_X 2
+Recoil_Max_Y 3
+
+Recover_X 0.1
+Recover_Y 0.1
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.003
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.003
+Shake_Max_Z -0.02
+
+Turret
+Spawn_Explosion_On_Dedicated_Server
+Reload_Time 5
+Durability 0.1
+Wear 3
+Ballistic_Force 2000

@@ -1,0 +1,98 @@
+﻿// Made in NPC Maker by BowieD
+GUID 8005ba3ec9dd427ab7a0fd0ff0d156b0
+Type Vendor
+ID 13018
+Selling 11
+Selling_0_ID 48700
+Selling_0_Cost 7500
+Selling_1_ID 48701
+Selling_1_Cost 25000
+Selling_1_Conditions 1
+Selling_1_Condition_0_Type Quest
+Selling_1_Condition_0_ID 14025
+Selling_1_Condition_0_Status Completed
+Selling_1_Condition_0_Logic Equal
+Selling_1_Condition_0_Ignore_NPC False
+
+Selling_2_ID 48702
+Selling_2_Cost 54000
+Selling_2_Conditions 1
+Selling_2_Condition_0_Type Quest
+Selling_2_Condition_0_ID 14028
+Selling_2_Condition_0_Status Completed
+Selling_2_Condition_0_Logic Equal
+Selling_2_Condition_0_Ignore_NPC False
+
+Selling_3_ID 48721
+Selling_3_Cost 65000
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Quest
+Selling_3_Condition_0_ID 14032
+Selling_3_Condition_0_Status Completed
+Selling_3_Condition_0_Logic Equal
+Selling_3_Condition_0_Ignore_NPC False
+
+Selling_4_ID 48703
+Selling_4_Cost 82000
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Quest
+Selling_4_Condition_0_ID 14034
+Selling_4_Condition_0_Status Completed
+Selling_4_Condition_0_Logic Equal
+Selling_4_Condition_0_Ignore_NPC False
+
+Selling_5_ID 48704
+Selling_5_Cost 172000
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Quest
+Selling_5_Condition_0_ID 14036
+Selling_5_Condition_0_Status Completed
+Selling_5_Condition_0_Logic Equal
+Selling_5_Condition_0_Ignore_NPC False
+
+Selling_6_ID 48705
+Selling_6_Cost 190000
+Selling_6_Conditions 1
+Selling_6_Condition_0_Type Quest
+Selling_6_Condition_0_ID 14040
+Selling_6_Condition_0_Status Completed
+Selling_6_Condition_0_Logic Equal
+Selling_6_Condition_0_Ignore_NPC False
+
+Selling_7_ID 48723
+Selling_7_Cost 215000
+Selling_7_Conditions 1
+Selling_7_Condition_0_Type Quest
+Selling_7_Condition_0_ID 14035
+Selling_7_Condition_0_Status Completed
+Selling_7_Condition_0_Logic Equal
+Selling_7_Condition_0_Ignore_NPC False
+
+Selling_8_ID 56722
+Selling_8_Cost 340000
+Selling_8_Conditions 1
+Selling_8_Condition_0_Type Quest
+Selling_8_Condition_0_ID 14038
+Selling_8_Condition_0_Status Completed
+Selling_8_Condition_0_Logic Equal
+Selling_8_Condition_0_Ignore_NPC False
+
+Selling_9_ID 48809
+Selling_9_Cost 375000
+Selling_9_Conditions 1
+Selling_9_Condition_0_Type Quest
+Selling_9_Condition_0_ID 14042
+Selling_9_Condition_0_Status Completed
+Selling_9_Condition_0_Logic Equal
+Selling_9_Condition_0_Ignore_NPC False
+
+Selling_10_ID 48706
+Selling_10_Cost 450000
+Selling_10_Conditions 1
+Selling_10_Condition_0_Type Quest
+Selling_10_Condition_0_ID 14043
+Selling_10_Condition_0_Status Completed
+Selling_10_Condition_0_Logic Equal
+Selling_10_Condition_0_Ignore_NPC False
+
+Disable_Sorting

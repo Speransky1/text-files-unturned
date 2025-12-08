@@ -1,0 +1,9 @@
+GUID e5559c82abf349918877a7211c01182d
+
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Rubble
+Interactability_Reset 180
+Interactability_Health 15
+Interactability_Effect 39100

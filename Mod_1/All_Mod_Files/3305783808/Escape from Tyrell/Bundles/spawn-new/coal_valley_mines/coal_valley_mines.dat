@@ -1,0 +1,36 @@
+GUID 041fa35707094cceb33f6b163cd681cb
+Type Spawn
+ID 10143
+
+Roots
+[
+	{
+		// coal_valley_mines_ores (Spawn)
+		Guid 69ac0856957346b3a937507fc3340691
+		Weight 4
+	}
+	{
+		// toolbox_metal_tools (Spawn)
+		Guid 4ac21923d0b544b9a36c4cb40929a223
+		Weight 2
+	}
+]
+
+Tables
+[
+	{
+		// coal_valley_mines_ores (Spawn)
+		Guid 69ac0856957346b3a937507fc3340691
+		Weight 4
+	}
+	{
+		// towns_scrap (Spawn)
+		Guid 195ba294c79b4908866478a5168ed89b
+		Weight 3
+	}
+	{
+		// toolbox_metal_tools (Spawn)
+		Guid 4ac21923d0b544b9a36c4cb40929a223
+		Weight 3
+	}
+]

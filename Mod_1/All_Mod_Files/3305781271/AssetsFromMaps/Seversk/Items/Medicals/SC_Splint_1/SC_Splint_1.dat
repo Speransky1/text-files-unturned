@@ -1,0 +1,15 @@
+﻿GUID fb9c25f2196645ff8272c50e6f1bd8a1
+
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 41619
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions False
+Size_X 1
+Size_Y 1
+Size_Z 0.33
+
+Aid
+Bones_Modifier Heal
+Health 20

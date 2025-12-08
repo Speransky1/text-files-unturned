@@ -1,0 +1,28 @@
+﻿Metadata
+{
+	GUID 6e4c1b492c6245918a0e3764b382da0b
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Bag_1/Biohazard_Bag_0.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Bag_1/Biohazard_Bag_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Bag_1/Biohazard_Bag_2.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Bag_1/Biohazard_Bag_3.mat
+		}
+	]
+}

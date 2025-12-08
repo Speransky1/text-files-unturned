@@ -1,0 +1,232 @@
+GUID 0e870a207d03470fb3c3ceefd4261aaa
+Type Spawn
+ID 41454
+
+Tables
+[
+	{
+		// Military Knife (Melee Item)
+		LegacyAssetId 41660
+		Weight 60
+	}
+	{
+		// Military Knife (Melee Item)
+		LegacyAssetId 41661
+		Weight 60
+	}
+	{
+		// Canteen (Refill Item)
+		LegacyAssetId 41684
+		Weight 40
+	}
+	{
+		// Safety Glasses (Glasses Item)
+		LegacyAssetId 41554
+		Weight 40
+	}
+	{
+		// Safety Glasses (Glasses Item)
+		LegacyAssetId 41551
+		Weight 40
+	}
+	{
+		// Military Bottom (Pants Item)
+		LegacyAssetId 41595
+		Weight 40
+	}
+	{
+		// Military Ushanka (Hat Item)
+		LegacyAssetId 41572
+		Weight 40
+	}
+	{
+		// Safety Glasses (Glasses Item)
+		LegacyAssetId 41553
+		Weight 40
+	}
+	{
+		// Military Bottom (Pants Item)
+		Guid 894df4ca10ba48819456db1389ac408f
+		Weight 40
+	}
+	{
+		// Safety Glasses (Glasses Item)
+		LegacyAssetId 41550
+		Weight 40
+	}
+	{
+		// Pack of Pistol Ammo (Supply Item)
+		LegacyAssetId 41685
+		Weight 40
+	}
+	{
+		// RDG-2 White (Throwable Item)
+		LegacyAssetId 41371
+		Weight 40
+	}
+	{
+		// Military Top (Shirt Item)
+		Guid 6f33ecdb48ea4b748e32f79028f324c5
+		Weight 40
+	}
+	{
+		// Military Top (Shirt Item)
+		LegacyAssetId 41594
+		Weight 40
+	}
+	{
+		// RDG-2 Black (Throwable Item)
+		LegacyAssetId 41372
+		Weight 40
+	}
+	{
+		// Ammo Pouch (Supply Item)
+		LegacyAssetId 41582
+		Weight 30
+	}
+	{
+		// Binoculars (Optic Item)
+		LegacyAssetId 41653
+		Weight 30
+	}
+	{
+		// Military Battery (Barricade Item)
+		LegacyAssetId 41369
+		Weight 28
+	}
+	{
+		// Geiger Counter (Supply Item)
+		LegacyAssetId 41798
+		Weight 25
+	}
+	{
+		// Military Protective Helmet (Hat Item)
+		LegacyAssetId 41605
+		Weight 25
+	}
+	{
+		// Officer's Peaked Hat (Hat Item)
+		LegacyAssetId 41579
+		Weight 25
+	}
+	{
+		// Field Sack (Backpack Item)
+		LegacyAssetId 41598
+		Weight 23
+	}
+	{
+		// Field Sack (Backpack Item)
+		LegacyAssetId 41598
+		Weight 23
+	}
+	{
+		// Military Top (Shirt Item)
+		LegacyAssetId 41573
+		Weight 20
+	}
+	{
+		// Officer's Uniform Top (Shirt Item)
+		LegacyAssetId 41577
+		Weight 20
+	}
+	{
+		// Officer's Formal Shirt (Shirt Item)
+		LegacyAssetId 41576
+		Weight 20
+	}
+	{
+		// Military Bottom (Pants Item)
+		LegacyAssetId 41575
+		Weight 20
+	}
+	{
+		// Officer's Uniform Bottom (Pants Item)
+		LegacyAssetId 41578
+		Weight 20
+	}
+	{
+		// Flashbang Grenade "Zarya" (Throwable Item)
+		LegacyAssetId 41567
+		Weight 20
+	}
+	{
+		// Pack of Rifle Ammo (Supply Item)
+		LegacyAssetId 41713
+		Weight 20
+	}
+	{
+		// Military Helmet (Hat Item)
+		LegacyAssetId 41604
+		Weight 20
+	}
+	{
+		// Fragmentation Projectile (Supply Item)
+		LegacyAssetId 41796
+		Weight 19
+	}
+	{
+		// Military Top (Shirt Item)
+		LegacyAssetId 41574
+		Weight 15
+	}
+	{
+		// Military Radio (Barricade Item)
+		LegacyAssetId 41361
+		Weight 15
+	}
+	{
+		// Military Backpack (Backpack Item)
+		LegacyAssetId 41596
+		Weight 12
+	}
+	{
+		// Military Backpack (Backpack Item)
+		LegacyAssetId 41597
+		Weight 12
+	}
+	{
+		// Military Generator (Generator Item)
+		LegacyAssetId 41433
+		Weight 10
+	}
+	{
+		// RGD-5 Frag Grenade (Throwable Item)
+		LegacyAssetId 41564
+		Weight 10
+	}
+	{
+		// Military Body Armor (Vest Item)
+		LegacyAssetId 41580
+		Weight 10
+	}
+	{
+		// RGN Impact Grenade (Throwable Item)
+		LegacyAssetId 41565
+		Weight 10
+	}
+	{
+		// Military Titan Helmet (Hat Item)
+		LegacyAssetId 41614
+		Weight 10
+	}
+	{
+		// Military Titan Helmet (Hat Item)
+		LegacyAssetId 41613
+		Weight 10
+	}
+	{
+		// Waveform Generator (Barricade Item)
+		LegacyAssetId 41365
+		Weight 8
+	}
+	{
+		// Military Rig (Vest Item)
+		LegacyAssetId 41583
+		Weight 5
+	}
+	{
+		// Military Rig (Vest Item)
+		LegacyAssetId 41584
+		Weight 5
+	}
+]

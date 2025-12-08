@@ -1,0 +1,8 @@
+GUID c11e7e7e53a54d9daa4e2c43b473b369
+Type RewardsList
+
+//Visit Abu Al-Kaba'er
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22635
+Reward_0_Value True

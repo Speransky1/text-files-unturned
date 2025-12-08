@@ -1,0 +1,84 @@
+"Metadata"
+{
+	"GUID" "9378a4109f4e40c880c630ed550cd02f"
+	"Type" "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			"Asset"
+			{
+				// Pine 1
+				"GUID" "9211e6f840254d9fa769092f99466c44"
+			}
+			"Weight" "4"
+		}
+		{
+			"Asset"
+			{
+				// Pine 2
+				"GUID" "91da481d816342848f86b848fccefba9"
+			}
+			"Weight" "0.2"
+		}
+		{
+			"Asset"
+			{
+				// Pine 3
+				"GUID" "50fa5fef72b14d5287851f2cb92890e1"
+			}
+			"Weight" "0.2"
+		}
+		{
+			"Asset"
+			{
+				// Pine 3
+				"GUID" "7ee87436dd05454db5304654045d417a"
+			}
+			"Weight" "0.2"
+		}
+		{
+			"Asset"
+			{
+				// Pine 3
+				"GUID" "0f6823409bd3471381d1229d931cdd9d"
+			}
+			"Weight" "0.2"
+		}
+		{
+			"Asset"
+			{
+				// Pine 3
+				"GUID" "b44511a7ec5045cca263e1c20d333a3b"
+			}
+			"Weight" "0.2"
+		}
+		{
+			"Asset"
+			{
+				// bush 2
+				"GUID" "c3a938090fc445109933cc733f6f6c10"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// bush 6
+				"GUID" "dd2069207873447e80eb971a38733c12"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				// Pine 3
+				"GUID" "6d7296ffdd314b14b96fc71749d6165c"
+			}
+			"Weight" "2"
+		}
+	]
+}

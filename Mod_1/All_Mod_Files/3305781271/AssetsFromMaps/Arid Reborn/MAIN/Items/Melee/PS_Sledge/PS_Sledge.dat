@@ -1,0 +1,51 @@
+GUID 6533f38207a848498f26b98694d00324
+Type Melee
+Rarity Uncommon
+Useable Melee
+Slot Any
+ID 59169
+
+Size_X 1
+Size_Y 3
+Size_Z 0.78
+
+Range 2.25
+BladeID 2
+Strength 1.5
+Weak 0.5
+Strong 0.47
+Stamina 25
+
+Player_Damage 45
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 80
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.6
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 80
+Animal_Leg_Multiplier 0.7
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.5
+
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 0
+Resource_Damage 40
+Object_Damage 80
+
+Quality_Min 100
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59000
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

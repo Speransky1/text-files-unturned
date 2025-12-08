@@ -1,0 +1,60 @@
+"Metadata"
+{
+	"GUID" "540c129a1990470a97492040292f02df"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_0.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_1.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_2.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_3.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_4.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_5.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_6.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_7.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_8.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_9.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_10.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/record_covers_0/cover_11.mat"
+		}
+	]
+}

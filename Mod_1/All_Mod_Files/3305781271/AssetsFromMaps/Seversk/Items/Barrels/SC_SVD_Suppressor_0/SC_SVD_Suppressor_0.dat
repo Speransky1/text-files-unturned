@@ -1,0 +1,45 @@
+﻿GUID 21ef7347747549a9bea7122a454d98fc
+Type Barrel
+Rarity Epic
+ID 41825
+
+Size_X 3
+Size_Y 1
+Size_Z 0.11
+
+Calibers 1
+Caliber_0 43032
+Spread 0.8
+Quality_Min 100
+Quality_Max 100
+Braked
+Silenced
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems "4f9fb8c83c494e2486329e494674813c x 3" // Metal Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Salvage
+Action_0_Tooltip Salvage to <color=#uncommon>Metal Parts</color>
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/Default/Default.asset

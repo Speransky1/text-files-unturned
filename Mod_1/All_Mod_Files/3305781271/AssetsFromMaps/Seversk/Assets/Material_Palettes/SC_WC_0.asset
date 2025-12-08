@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID 74f123f4063b45358695898782a86349
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_WC_0/WC_0.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_WC_0/WC_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_WC_0/WC_2.mat
+		}
+	]
+}

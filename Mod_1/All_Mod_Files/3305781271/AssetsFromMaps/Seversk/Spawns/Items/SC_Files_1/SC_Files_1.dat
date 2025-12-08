@@ -1,0 +1,157 @@
+GUID 33b1eb777ac743f094fe9c9f4f7ef3b0
+Type Spawn
+ID 41433
+
+Tables
+[
+	{
+		// Pocket Knife (Melee Item)
+		LegacyAssetId 41666
+		Weight 70
+	}
+	{
+		// Screwdriver (Melee Item)
+		LegacyAssetId 41343
+		Weight 60
+	}
+	{
+		// Hammer (Melee Item)
+		LegacyAssetId 41348
+		Weight 50
+	}
+	{
+		// Pen (Supply Item)
+		LegacyAssetId 41674
+		Weight 50
+	}
+	{
+		// Bolts (Supply Item)
+		LegacyAssetId 41341
+		Weight 40
+	}
+	{
+		// Telephone (Supply Item)
+		LegacyAssetId 41677
+		Weight 40
+	}
+	{
+		// Pen (Supply Item)
+		LegacyAssetId 41673
+		Weight 40
+	}
+	{
+		// Scissors (Supply Item)
+		LegacyAssetId 41340
+		Weight 38
+	}
+	{
+		// Glue (Supply Item)
+		LegacyAssetId 41352
+		Weight 37
+	}
+	{
+		// Duct Tape (Supply Item)
+		LegacyAssetId 41325
+		Weight 36
+	}
+	{
+		// Light Bulb (Supply Item)
+		LegacyAssetId 41338
+		Weight 30
+	}
+	{
+		// Toilet Paper (Supply Item)
+		LegacyAssetId 41797
+		Weight 30
+	}
+	{
+		// Pen (Supply Item)
+		LegacyAssetId 41672
+		Weight 30
+	}
+	{
+		// Empty Bottle (Supply Item)
+		LegacyAssetId 41508
+		Weight 30
+	}
+	{
+		// Plastic Tube (Supply Item)
+		LegacyAssetId 41676
+		Weight 30
+	}
+	{
+		// Amplifier (Supply Item)
+		LegacyAssetId 41349
+		Weight 30
+	}
+	{
+		// Nails (Supply Item)
+		LegacyAssetId 41334
+		Weight 30
+	}
+	{
+		// Power Supply (Supply Item)
+		LegacyAssetId 41675
+		Weight 30
+	}
+	{
+		// Matches (Supply Item)
+		LegacyAssetId 41367
+		Weight 30
+	}
+	{
+		// Insulating Tape (Supply Item)
+		LegacyAssetId 41326
+		Weight 29
+	}
+	{
+		// Handsaw (Supply Item)
+		LegacyAssetId 41347
+		Weight 25
+	}
+	{
+		// Gunpowder (Supply Item)
+		LegacyAssetId 41458
+		Weight 23
+	}
+	{
+		// Sodium Perchlorate (Supply Item)
+		LegacyAssetId 41506
+		Weight 22
+	}
+	{
+		// Bleach (Supply Item)
+		LegacyAssetId 41351
+		Weight 20
+	}
+	{
+		// Twine (Supply Item)
+		LegacyAssetId 41346
+		Weight 20
+	}
+	{
+		// Foil (Supply Item)
+		LegacyAssetId 41315
+		Weight 20
+	}
+	{
+		// Battery (Supply Item)
+		LegacyAssetId 41339
+		Weight 20
+	}
+	{
+		// Bottle of Chemicals (Supply Item)
+		LegacyAssetId 41799
+		Weight 17
+	}
+	{
+		// Tactical Compass (Map Item)
+		LegacyAssetId 41803
+		Weight 15
+	}
+	{
+		// Box of Papers (Barricade Item)
+		LegacyAssetId 41802
+		Weight 14
+	}
+]

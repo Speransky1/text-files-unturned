@@ -1,0 +1,21 @@
+GUID e5edcdcdc0434f55a2c8efa9fd3db518
+Type Magazine
+Rarity Rare
+ID 31179
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Speed 0.7
+
+Calibers 1
+Caliber_0 25074
+
+Tracer 30059
+
+Use_Auto_Icon_Measurements False
+
+Delete_Empty

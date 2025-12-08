@@ -1,0 +1,24 @@
+GUID 86b174e7cbc449e695b437adb977207b
+
+Type Supply
+Rarity Epic
+ID 32268
+
+Size_X 3
+Size_Y 2
+Size_Z 0.2
+
+Amount 20
+Count_Min 15
+Count_Max 20
+
+Calibers 1
+Caliber_0
+
+Tracer 48
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 
+Blueprint_0_Build 30

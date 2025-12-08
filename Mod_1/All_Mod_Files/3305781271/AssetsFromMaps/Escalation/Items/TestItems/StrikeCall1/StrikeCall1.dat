@@ -1,0 +1,35 @@
+GUID 1ce5f7e0970a4cf082a5d6f3587a0ed8
+Type Magazine
+Rarity Legendary
+ID 51097
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Magazines/Military_Explosive_20
+Delete_Empty_Magazines
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+Spawn_Explosion_On_Dedicated_Server True
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 0
+
+Tracer 55
+Spread 1.15
+
+Range 3
+Player_Damage 0
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 51094
+// Explosion 51099
+Explosive
+
+Delete_Empty

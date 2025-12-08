@@ -1,0 +1,23 @@
+GUID e2069844ca214a7caeb41c22b4739660
+
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 39148
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Aid
+Health 55
+Disinfectant 35
+Energy 32
+
+Use_Auto_Icon_Measurements false
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Should_Delete_After_Use False

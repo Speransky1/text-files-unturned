@@ -1,0 +1,112 @@
+GUID f37d0441bef54b88b52f77c5cc0d7ddf
+Type Spawn
+ID 10106
+
+Tables
+[
+	{
+		// Бревно (Supply Item)
+		Guid 4d9490a1d97546ef8fa9c5c912ec6d92
+		Weight 40
+	}
+	{
+		// Болван (Supply Item)
+		Guid 8a85c7180bc343e79fefa7570a649efd
+		Weight 40
+	}
+	{
+		// Связка бревен (Barricade Item)
+		Guid 021fbd132a0e4d35ab98419649454580
+		Weight 35
+	}
+	{
+		// Сломанная кирка (Supply Item)
+		Guid 68a884fc7eb64a6eb47f1105d5c5cf67
+		Weight 30
+	}
+	{
+		// Бутерброд с джемом (Food Item)
+		Guid 1fc347d9086f43c18c20fecdd9c02b39
+		Weight 25
+	}
+	{
+		// Брага (Water Item)
+		Guid c6198d57e6284cffb2fc2444ea05c354
+		Weight 25
+	}
+	{
+		// Картофель (Food Item)
+		Guid 041a5e5e62a946d89b61daae7b9e93d5
+		Weight 25
+	}
+	{
+		// Помипидор (Food Item)
+		Guid 6e1a6ecba2fa4332a65bf77935f25832
+		Weight 25
+	}
+	{
+		// Молоко (Water Item)
+		Guid f6085bb7094040708743f2e3d25d54f5
+		Weight 25
+	}
+	{
+		// Перец чили (Food Item)
+		Guid a406d191ae4f4ec9b912700c93917b2a
+		Weight 25
+	}
+	{
+		// Консервированные помидоры (Food Item)
+		Guid 7ca5b7c169714692a93e7c64719c8d7a
+		Weight 25
+	}
+	{
+		// Натуральное удобрение (Grower Item)
+		Guid 971de5771821409fbf1cac9e5708b920
+		Weight 25
+	}
+	{
+		// Консервированная спаржа (Food Item)
+		Guid 8052b67356a74c5c92db73e13f55aea7
+		Weight 25
+	}
+	{
+		// towns_scrap (Spawn)
+		Guid 195ba294c79b4908866478a5168ed89b
+		Weight 25
+	}
+	{
+		// Шланг (Supply Item)
+		Guid ca8bf39855a04f24a8b765cb557c3cde
+		Weight 20
+	}
+	{
+		// Грабли (Melee Item)
+		Guid 435e5c61865846bba8c44d5d89b884d1
+		Weight 20
+	}
+	{
+		// Кисть (Melee Item)
+		Guid 9ecc9f9346af4e95881428c98a18a46c
+		Weight 20
+	}
+	{
+		// Удобрение с присадками (Grower Item)
+		Guid 69832cd3053d4c709055e826e107e929
+		Weight 15
+	}
+	{
+		// Молоток (Melee Item)
+		Guid 4f6621da2d624b0589316dfc6ff98553
+		Weight 15
+	}
+	{
+		// Топор (Melee Item)
+		Guid a1a9955693334d57b1649363e1c806c2
+		Weight 10
+	}
+	{
+		// Лопата (Melee Item)
+		Guid 8fe5dc233a8340ca9b89646cd6d39cd5
+		Weight 10
+	}
+]

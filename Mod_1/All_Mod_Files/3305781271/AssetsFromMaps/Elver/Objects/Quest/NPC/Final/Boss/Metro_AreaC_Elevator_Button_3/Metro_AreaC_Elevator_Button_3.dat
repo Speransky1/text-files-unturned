@@ -1,0 +1,22 @@
+GUID 285b86acd925462ea9e927374518810f
+
+Type Small
+Has_Clip_Prefab false
+ID 58182
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57196
+Interactability_Reward_0_Value True
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57196
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Objects/Quest/NPC/Final/Boss/Metro_AreaC_Elevator_Button

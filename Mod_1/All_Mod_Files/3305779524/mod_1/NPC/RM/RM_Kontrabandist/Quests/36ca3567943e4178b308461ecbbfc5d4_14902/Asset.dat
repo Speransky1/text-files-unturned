@@ -1,0 +1,28 @@
+﻿// Made in NPC Maker by BowieD
+GUID 36ca3567943e4178b308461ecbbfc5d4
+Type Quest
+ID 14902
+Conditions 2
+Condition_0_Type Item
+Condition_0_ID 50205
+Condition_0_Amount 1
+Condition_0_Reset 
+
+Condition_1_Type Item
+Condition_1_ID 59400
+Condition_1_Amount 1
+Condition_1_Reset 
+
+Rewards 3
+Reward_0_Type Flag_Bool
+Reward_0_ID 18002
+Reward_0_Value True
+
+Reward_1_Type Item
+Reward_1_ID 59534
+Reward_1_Amount 0
+Reward_1_Auto_Equip False
+
+Reward_2_Type Hint
+Reward_2_Duration 8
+

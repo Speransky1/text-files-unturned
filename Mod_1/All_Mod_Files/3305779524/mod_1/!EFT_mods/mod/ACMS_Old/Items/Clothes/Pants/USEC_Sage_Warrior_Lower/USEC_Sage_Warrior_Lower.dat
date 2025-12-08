@@ -1,0 +1,19 @@
+GUID 4680a7452e2242d593c6c46a1aea7454
+Type Pants
+Rarity Rare
+Useable Clothing
+ID 37511
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 3
+Height 4
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

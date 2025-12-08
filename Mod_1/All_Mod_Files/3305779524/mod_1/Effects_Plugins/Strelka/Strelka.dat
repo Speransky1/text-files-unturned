@@ -1,0 +1,9 @@
+GUID f62aed08ff464c9885936ad62fbe591f
+
+Type Effect
+ID 60999
+
+Lifetime 64000
+
+Exclude_From_Master_Bundle
+Asset_Bundle_Version 3

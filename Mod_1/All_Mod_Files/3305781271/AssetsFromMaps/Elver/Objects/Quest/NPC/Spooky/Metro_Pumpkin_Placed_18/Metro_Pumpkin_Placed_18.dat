@@ -1,0 +1,22 @@
+GUID ed83fdd8ad4641a0ab2a6fd7d9ae775a
+
+Type Small
+Has_Clip_Prefab false
+ID 57881
+
+Conditions 2
+
+//If planted, appears
+Condition_0_Type Flag_Bool
+Condition_0_ID 57288
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 57245
+Condition_1_Value True
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Spooky/Metro_Pumpkin_Placed

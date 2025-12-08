@@ -1,0 +1,18 @@
+GUID 7a489d1c1e274aaaa25ddc7e02264daf
+
+Type Water
+Rarity Legendary
+Useable Consumeable
+ID 28021
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Water 100
+Disinfectant 20
+Food 20
+Energy 10
+Vision 21
+
+Asset_Bundle_Version 2	

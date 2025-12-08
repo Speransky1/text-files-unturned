@@ -1,0 +1,5 @@
+Name Marked Door Bravo Enter #1
+
+Interactability_Condition_0 Нужен ключ от закрытой комнаты Браво
+
+Interact Открыть [{0}]

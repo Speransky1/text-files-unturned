@@ -1,0 +1,76 @@
+GUID e578e17205e947a1926978a69d966efc
+Type Spawn
+ID 10133
+
+Roots
+[
+	{
+		// medbox_heal_deadzone+military (Spawn)
+		Guid 884a718c0be44e0dbe3ca95bc93835da
+		Weight 35
+	}
+]
+
+Tables
+[
+	{
+		// medbox_heal_deadzone+military (Spawn)
+		Guid 884a718c0be44e0dbe3ca95bc93835da
+		Weight 55
+	}
+	{
+		// Низкокачественные оружейные детали (Supply Item)
+		Guid f6b306766237448ab6bfc4f67e4f7900
+		Weight 50
+	}
+	{
+		// Медный провод (Supply Item)
+		Guid 2132f791a6d64c9d8c306b6c7ccbfd6b
+		Weight 50
+	}
+	{
+		// ИРП Армии США (Food Item)
+		Guid 8523cc36e8c34c628d6c61b24d11b294
+		Weight 35
+	}
+	{
+		// Бронещит (Supply Item)
+		Guid 44c5118b832f4576bc3c6d072ee82a8f
+		Weight 15
+	}
+	{
+		// Белый предохранитель (Supply Item)
+		Guid 8db351dc3bb44d109d5e68dde8a0b869
+		Weight 15
+	}
+	{
+		// Зашифрованный передатчик (Supply Item)
+		Guid f9da3d6aeaa141eda1a5bf6ed28278ca
+		Weight 10
+	}
+	{
+		// Сломанное радио (Supply Item)
+		Guid 8ae25545de0d4d29995313b42ec3926a
+		Weight 8
+	}
+	{
+		// Набор для починки оружия (Supply Item)
+		Guid f21c6335f64a40d6abb12ae104ac0d74
+		Weight 5
+	}
+	{
+		// Телефонная трубка (Supply Item)
+		Guid e08834f746a041b79a5c33417ca11b03
+		Weight 5
+	}
+	{
+		// Защищенная папка (Supply Item)
+		Guid f92c17b4f04942a395564f7d88fa53f1
+		Weight 2
+	}
+	{
+		// Спутниковый телефон (Supply Item)
+		Guid 56c9cdde2e0d4c7f9e13cfa1a9790d08
+		Weight 1
+	}
+]

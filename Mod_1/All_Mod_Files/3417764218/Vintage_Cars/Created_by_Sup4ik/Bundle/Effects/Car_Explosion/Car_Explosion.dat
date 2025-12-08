@@ -1,0 +1,7 @@
+GUID d739c4d35a634be7b2e30458c07beb7f
+ID 19500
+Type Effect
+Asset_Bundle_Version 5
+CameraShake_Radius 12
+CameraShake_MagnitudeDegrees 10
+Blast 137

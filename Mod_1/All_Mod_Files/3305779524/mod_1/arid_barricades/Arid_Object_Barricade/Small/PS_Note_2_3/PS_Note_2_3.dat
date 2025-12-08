@@ -1,0 +1,24 @@
+GUID 68f48c005d0a48d596289417a0808cfb
+
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Note
+ID 62921
+
+Should_Close_When_Outside_Range true
+Salvage_Duration_Multiplier 0.25
+Bypass_Claim
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Health 5200
+Range 4
+Radius 0.45
+Offset 0.05
+
+Explosion 19
+
+eblan

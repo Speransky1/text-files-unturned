@@ -1,0 +1,47 @@
+﻿GUID 4eed358b053741fa9fab9eee0bc0dc5b
+Type Vehicle
+Rarity Rare
+ID 41507
+Speed_Min -9
+Speed_Max 30
+Steer_Min 10
+Steer_Max 25
+Brake 32
+Valid_Speed_Horizontal 80
+
+Fuel_Min 1500
+Fuel_Max 4000
+Fuel 6000
+Health_Min 600
+Health_Max 900
+Health 1200
+Trunk_Storage_X 12
+Trunk_Storage_Y 14
+Explosion 41325
+IgnitionAudioClip Sounds/Truck_Ignition.ogg
+HornAudioClip Sounds/Car_Horn.ogg
+Has_Clip_Prefab false
+Carjack_Force_Multiplier 2
+Explosion_Force_Multiplier 2
+Drops_Table_ID 41486
+Drops_Min 3
+Drops_Max 5
+Melee_Damage_Multiplier 0.7
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging
+Fuel_Burn_Rate 1.5
+Cam_Follow_Distance 9
+Tires_Invulnerable
+Explosion_Min_Force_Y 2
+Explosion_Max_Force_Y 4
+Explosion_Min_Force_X -2
+Explosion_Max_Force_X 4
+Explosion_Min_Force_Z -2
+Explosion_Max_Force_Z 4
+Exit 3
+Traction
+
+Physics_Profile f57f112fdb2e4ea78207fcab7ea81fa7

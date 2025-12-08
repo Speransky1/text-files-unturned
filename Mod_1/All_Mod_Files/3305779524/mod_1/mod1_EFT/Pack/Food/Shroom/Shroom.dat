@@ -1,0 +1,15 @@
+GUID a3ba4b1e4f4f4e449a604d54c0eca42c
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 19510
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Health 3
+Food 5
+Virus 15
+Vision 7

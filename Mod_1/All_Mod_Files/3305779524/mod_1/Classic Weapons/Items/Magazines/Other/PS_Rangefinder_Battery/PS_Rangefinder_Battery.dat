@@ -1,0 +1,15 @@
+GUID 3614acd3bb4046958969513457fcd3e2
+Type Magazine
+Rarity Epic
+ID 31170
+
+Size_X 18
+Size_Y 18
+Size_Z 18
+
+Amount 100
+Count_Min 1
+Count_Max 100
+
+Calibers 1
+Caliber_0 25064

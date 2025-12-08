@@ -1,0 +1,26 @@
+GUID 503cdd865f2f4a2da79a5acf48a31b44
+Type Storage
+Rarity Epic
+Build Storage
+ID 51694
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Health 600
+
+Storage_X 12
+Storage_Y 12
+
+Explosion 19
+Vulnerable
+Unrepairable
+Unpickupable
+Unsaveable
+
+Should_Close_When_Outside_Range true
+Has_Clip_Prefab false
+
+
+Master_Bundle_Override pbs.masterbundle
+Bundle_Override_Path /Items/Barricades/Airdrop

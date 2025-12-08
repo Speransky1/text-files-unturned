@@ -1,0 +1,11 @@
+GUID adb2783a73a24dc7a3db70ed45e88832
+
+
+
+
+Type Effect
+ID 51023
+CameraShake_Radius 12
+CameraShake_MagnitudeDegrees 32
+Spawn_On_Dedicated_Server
+Lifetime 6

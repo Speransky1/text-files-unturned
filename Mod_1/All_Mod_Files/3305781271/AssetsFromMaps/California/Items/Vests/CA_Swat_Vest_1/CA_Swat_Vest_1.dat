@@ -1,0 +1,22 @@
+GUID 2e53f6feea4c41c0a88bdec150191bb3
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 4037
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 5
+Height 2
+
+Armor 0.8
+Armor_Explosion 0.3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Build 32

@@ -1,0 +1,23 @@
+GUID 521febf6cce842a2ade49f59b53a606a
+
+Type Water
+Rarity Epic
+Useable Consumeable
+ID 57117 
+
+Size_X 1
+Size_Y 2
+Size_Z 0.6
+
+Virus 80
+Food 10
+Water 10
+Vision 20
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 57117
+Blueprint_0_Product 75
+Blueprint_0_Products 1
+Blueprint_0_Build 27

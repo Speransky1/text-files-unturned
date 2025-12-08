@@ -1,0 +1,19 @@
+GUID 0a2c6aa5b861488ea7f1e9d8cb6bb2b1
+
+Type Small
+Has_Clip_Prefab false
+ID 57633
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 57102
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Binary_State
+Interactability_Reset 1
+Interactability_Hint Use
+
+Asset_Bundle_Version 3
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Metro_Cannon_Confetti

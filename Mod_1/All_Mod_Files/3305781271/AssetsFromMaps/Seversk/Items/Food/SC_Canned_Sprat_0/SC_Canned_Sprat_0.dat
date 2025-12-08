@@ -1,0 +1,26 @@
+﻿GUID 04e4cff430a8419898092b99d67a14e8
+
+Type Food
+Useable Consumeable
+ID 41630
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Health 5
+Food 40
+Water 10
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/CanRustle/Can_Rustle.asset
+ConsumeAudioClip Sounds/Eating_2.ogg
+Quality_Min 40
+Quality_Max 70
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 41456
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Empty Can Received
+Quest_Reward_1_Duration 1

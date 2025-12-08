@@ -1,0 +1,25 @@
+GUID bdb6688abad54704beb580a37d327fed
+
+Type Barrel
+Rarity Rare
+ID 51077
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Aim_Duration_Multiplier 1.25
+Ballistic_Damage_Multiplier 1.0
+Ballistic_Drop 1.1
+
+Recoil_X .75
+Recoil_Y .75
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51077
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51017
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Build 27

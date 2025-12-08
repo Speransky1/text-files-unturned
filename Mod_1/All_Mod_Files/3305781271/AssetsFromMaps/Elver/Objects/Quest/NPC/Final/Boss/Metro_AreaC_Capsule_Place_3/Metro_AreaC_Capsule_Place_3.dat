@@ -1,0 +1,26 @@
+GUID 29448a1ec0554fa9823f96b4dd8229ab
+
+Type Small
+Has_Clip_Prefab false
+ID 58111
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 57127
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 57131
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57131
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Objects/Quest/NPC/Final/Boss/Metro_AreaC_Capsule_Place

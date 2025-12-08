@@ -1,0 +1,18 @@
+"Metadata"
+{
+	"GUID" "bf8d0df794dd411e8afeeb1b11d50d98"
+	"Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Root_Angular_Drag_Multiplier" "1",
+	"Carjack_Force_Multiplier" "2"
+	"Wheel_Friction_Sideways"
+	{
+		"Extremum_Slip" "25"
+		"Extremum_Value" "25"
+		"Asymptote_Slip" "25"
+		"Asymptote_Value" "25"
+		"Stiffness" "25"
+	}
+}

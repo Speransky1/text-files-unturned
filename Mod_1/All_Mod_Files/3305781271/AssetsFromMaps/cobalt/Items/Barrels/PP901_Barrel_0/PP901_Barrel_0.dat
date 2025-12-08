@@ -1,0 +1,14 @@
+GUID 212f18ba034849988b8ab92e516b2534
+
+Type Barrel
+ID 17031
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Silenced
+Volume 0.75
+
+Calibers 1
+Caliber_0 17105

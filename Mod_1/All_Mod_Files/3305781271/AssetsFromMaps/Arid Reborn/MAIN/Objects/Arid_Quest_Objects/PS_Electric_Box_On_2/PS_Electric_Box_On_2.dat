@@ -1,0 +1,16 @@
+GUID e62b5987e0b84fa7aadbdbb4aae6358e
+Type Medium
+
+Has_Clip_Prefab False
+
+
+Conditions 1
+
+//If activated, appears
+Condition_0_Type Flag_Bool
+Condition_0_ID 20063
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Smol/PS_Electric_Box_On

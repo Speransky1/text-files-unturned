@@ -1,0 +1,14 @@
+GUID e47f68c8f0fe4681987db0ca0839307a
+Type Large
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 19549
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability Binary_State
+Interactability_Delay 50
+Interactability_Hint Use
+
+Has_Clip_Prefab false

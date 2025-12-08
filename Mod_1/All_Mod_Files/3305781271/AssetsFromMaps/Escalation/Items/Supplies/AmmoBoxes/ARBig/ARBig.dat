@@ -1,0 +1,28 @@
+GUID cd6275ba582b47509581114b5fbeee35
+Type Supply
+Rarity Epic
+ID 51945
+
+Size_X 3
+Size_Y 2
+Size_Z 0.5
+
+Amount 250
+Count_Min 200
+Count_Max 250
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51943
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51944
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 51945
+Blueprint_2_Build 30
+
+InventoryAudio core.masterbundle:Sounds/Inventory/SmallGunAttachment.asset

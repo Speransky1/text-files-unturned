@@ -1,0 +1,225 @@
+GUID 038070ec9b1746568e3a6e63bba923df
+Type Vehicle
+ID 19017
+Rarity Uncommon
+
+Physics_Profile a638bb600df440218ff184bebe0fa981
+
+HornAudioClip aridreborn.masterbundle:Sounds/Vehicular/Horn_ZUK.wav
+
+//////////////////////////////////////////////////////////Balance Stats
+
+Passenger_Explosion_Armor 1
+
+Melee_Damage_Multiplier 1
+
+Speed_Min -20
+Speed_Max 25
+
+Steer_Min 25
+Steer_Max 25
+
+Brake 60
+
+Fuel_Min 1700
+Fuel_Max 2000
+Fuel 4000
+
+Health_Min 800
+Health_Max 1200
+Health 1300
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 10
+
+Fuel_Burn_Rate 2
+
+///////////////////////////////////////////////////////////////////////
+
+Exit 1.5
+
+Zip
+Traction
+Crawler
+
+Explosion 19021
+
+Should_Spawn_Seat_Capsules true
+
+Default_Battery a9c5e916c29646fdba9d08f6a7ce02b6
+Battery_Burn_Rate 4
+Battery_Charge_Rate 2
+BatteryMode_Headlights Burn
+BatteryMode_Sirens Burn
+BatteryMode_Driving Charging
+BatteryMode_Empty None
+
+Has_Clip_Prefab false
+
+Carjack_Force_Multiplier 2
+Explosion_Force_Multiplier 2
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+	}
+]
+
+WheelBalancing_ForceMultiplier 30
+WheelBalancing_UprightExponent 0.7
+Steering_LeaningForceMultiplier 10
+RollAngularVelocityDamping 2
+
+Pitch_Drive 0.015
+
+
+
+Tires_Invulnerable
+Bumper_Invulnerable
+
+Valid_Speed_Horizontal 200
+
+Turrets 1
+Turret_0_Seat_Index 2
+Turret_0_Item_ID 19167
+Turret_0_Yaw_Min -36
+Turret_0_Yaw_Max 36
+Turret_0_Pitch_Min 70
+Turret_0_Pitch_Max 111
+
+DefaultPaintColors
+[
+	"#827868" // Desert
+	"#5b5b3f" // Forest
+]
+
+
+PaintableSections
+[
+    {
+        Path Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Model_3
+        MaterialIndex 0
+    }
+    {
+        Path Model_4
+        MaterialIndex 0
+    }
+    {
+        Path Model_5
+        MaterialIndex 0
+    }
+    {
+        Path Objects/Front
+        MaterialIndex 0
+    }
+    {
+        Path Objects/Front_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_0/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_0/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_1/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_1/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_2/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_2/Model_1
+        MaterialIndex 0
+    }
+]
+
+
+
+ExplosionBurnMaterialSections
+[
+    {
+        Path Model_0
+        AllMaterials true
+    }
+    {
+        Path Model_3
+        AllMaterials true
+    }
+    {
+        Path Model_4
+        AllMaterials true
+    }
+    {
+        Path Model_5
+        AllMaterials true
+    }
+    {
+        Path Objects/Front
+        AllMaterials true
+    }
+    {
+        Path Objects/Front_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_0/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_0/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_1/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_1/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_2/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_2/Model_1
+        AllMaterials true
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Pitch/Model_0
+		AllMaterials true
+    }
+]
+

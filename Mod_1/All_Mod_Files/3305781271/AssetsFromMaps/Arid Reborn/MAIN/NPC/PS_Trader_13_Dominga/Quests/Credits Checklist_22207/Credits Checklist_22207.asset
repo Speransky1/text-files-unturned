@@ -1,0 +1,18 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "c36b49806c0840809321bd7ba2257b07"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions" "1"
+	"Condition_0_Type" "FLAG_SHORT"
+	"Condition_0_Logic" "GREATER_THAN_OR_EQUAL_TO"
+	"Condition_0_ID" "22210"
+	"Condition_0_Value" "32767"
+	"Rewards" "0"
+	"AbandonmentRewards" "0"
+	"ID" "22207"
+	"Asset_Bundle_Version" "1"
+}

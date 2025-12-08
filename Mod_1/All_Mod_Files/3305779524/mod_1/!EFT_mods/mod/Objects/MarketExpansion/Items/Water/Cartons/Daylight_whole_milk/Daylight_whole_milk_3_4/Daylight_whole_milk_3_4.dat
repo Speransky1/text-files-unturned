@@ -1,0 +1,17 @@
+GUID d4a3ef711f3248f6a068c9035c0c1c22
+Type Water
+Useable Consumeable
+ID 45186
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Quality_Max 70
+
+Water 15
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 45187
+Quest_Reward_0_Amount 1 

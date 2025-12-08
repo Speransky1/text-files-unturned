@@ -1,0 +1,318 @@
+25k
+
+
+Sight: Rail Mounted (Halotech) - 18911 - 25200
+
+Sight: Rail Mounted (2x-6x) - 18911 - 25201
+
+Sight: Rail Mounted (8x) - 18911 - 25202
+
+Sight: Dovetail Mounted - 18912 - 25001 - 25203
+
+Sight: Rifle Mounted - 18914 - 25002 - 25204
+
+Sight: Pistol Mounted - 18913 - 25003 - 25205
+
+
+
+Tacticals: Rail-С Mounted  - 18922 - 25004
+
+Tacticals: Barrel Mointed  - 18922 - 25008
+
+
+
+Barrel: AR Сompatible - 18923 - 25005
+
+Barrel: Zolash Compatible - 18924 - 25006
+
+Barrel: Pistol Compatible - 18925 - 25007
+
+Barrel: Shotgun Compatible - 18927 - 25009
+
+Barrel: SMG Compatible - 18938 - 25011
+
+Barrel: Heavy Compatible - 18928- 25108
+
+
+
+Grip: Rail Bipods - 25109
+
+Grip: Rail Horizontal - 25110
+
+Grip: Rail Vertical - 18930 - 25012
+
+
+
+Grip: Zolash Compatible - 18934 - 25013
+
+Grip: Integrated Compatible - 18929 - 25014
+
+Grip: Integrated Compatible (Close) - 18932 - 25016
+
+Grip: AMR Compatible - 18931 - 25015
+
+Grip: # - 18933
+
+
+
+Ammo Boxes - 18800 - 25020
+
+Magazine: Zolash-С Compatible - 18801 - 25021
+
+Magazine: Zolash Compatible - 18802 - 25022
+
+Magazine: AR-С Compatible - 18803 - 25023
+
+Magazine: AR Compatible - 18804 - 25024
+
+Magazine: Target Compatible - 18805 - 25025
+
+Magazine: SMG Compatible - 18806 - 25026
+
+Magazine: SMG-M Compatible - 18807 - 25027
+
+Magazine: Pass Compatible - 18808 - 25028
+
+Magazine: Revovler Compatible - 18809 - 25029
+
+Magazine: Covert Compatible - 18810 - 25030
+
+Magazine: Pistol Compatible - 18811 - 25031
+
+Magazine: Shotgun Compatible - 18812 - 25032
+
+Magazine: Double-Barrel Compatible - 18813 (Gun Pack) - 25033
+
+Magazine: AW-12 Compatible - 18814 - 25034
+
+Magazine: PRO Compatible - 18815 - 25035
+
+Magazine: Clip Compatible - 18816 - 25036
+
+Magazine: WKM Compatible - 18817 - 25037
+
+Magazine: Recon Compatible - 18818 - 25038
+
+Magazine: Moderate Compatible - 18819 - 25039
+
+Magazine: Honey Bee Compatible - 18820 - 25040
+
+Magazine: Precision Compatible - 18821 - 25041
+
+Magazine: Sabot Compatible - 18822 - 25042
+
+Magazine: MKP Compatible - 18823 - 25043
+
+Magazine: Drachenzahn Compatible - 18824 - 25044
+
+Magazine: K249 Compatible - 18825  - 25045
+
+Magazine: M90 Compatible - 18826 (Gun Pack) - 25046
+
+Magazine: Serna Compatible - 18827 (Gun Pack) - 25047
+
+Magazine: Drakonov Compatible - 18828 - 25048
+
+Magazine: Bozar Compatible - 18829 - 25049
+
+Magazine: Nemesis Compatible - 18830 - 25050
+
+Magazine: C99 Compatible - 18831 - 25051
+
+Magazine: DMR Compatible - 18832 - 25052
+
+Magazine: Minigun Compatible - 18833 - 25053
+
+Magazine: RPG Compatible - 18834 - 25054
+
+Magazine: Railgun Compatible - 18835 - 25055
+
+Magazine: Nailgun Compatible - 18836 - 25056
+
+Magazine: Helicon Compatible - 18837 - 25057
+
+Magazine: Focus Rifle Compatible - 18838 - 25058
+
+Magazine: Flamethrower Compatible - 18839 - 25059
+
+Magazine: DRTP Compatible - 18840 - 25060
+
+Magazine: Chepirka Compatible - 18841 - 25061
+
+Magazine: Anti-Vehicle Rocket Compatible - 18842 (Unobtainable) - 25062
+
+Magazine: Rangefinder Compatible - 18844 (Unobtainable) - 25064
+
+Magazine: Kaban Compatible - 18845 (Gun Pack) - 25065
+
+Magazine: Shpagin Compatible - 18846 (Gun Pack) - 25066
+
+Magazine: AMR Compatible - 18847 - 25067
+
+Magazine: GROM-C Nades (1x) Compatible - 18848 - 25068
+
+Magazine: GROM Nades (6x) Compatible - 18849 - 25069
+
+Magazine: MGL-C Nades (1x) Compatible - 18850 - 25070
+
+Magazine: MGL Nades (6x) Compatible - 18851 - 25071
+
+Magazine: Zolakov Compatible - 18852 - 25072
+
+Magazine: Arrows Compatible - 25073
+
+Magazine: Musket Compatible - 25074
+
+Magazine: Precission Disk Compatible - 25075
+
+Magazine: Mustang Compatible - 25076
+
+Magazine: GP11 Compatible - 25077
+
+Magazine: Shadowstalker Compatible - 25078
+
+
+
+/////////////////////////////////////////////Other
+
+DF Mounted - 18915 - 25100
+
+Win Mounted - 18916 - 25101
+
+Sentinel Mounted - 18917 - 25102
+
+MX Mounted - 18918 - 25103
+
+RPG Mounted - 18908 - 25104
+
+FoxHound Mounted - 18919 - 25105
+
+Groza Mounted - 18920 - 25106
+
+UP Mounted - 18921 - 25107
+
+
+
+/////////////////////////////////////////////Irons
+
+AR-16 Iron Sight - 18900 - 25125
+
+AR-20 Iron Sight - 18901 - 25126
+
+AR Grip Iron Sight - 18902 - 25127
+
+Auger Iron Sight - 18903 - 25128
+
+Commando Iron Sight - 18936 - 25129
+
+HoneyBee Iron Sight - 18904 - 25130
+
+LSR556 Iron Sight - 18905 - 25131
+
+Maplestrike Iron Sight - 18906 - 25132
+
+PDW Iron Sight - 18907 - 25133
+
+PMX Iron Sight - 18937 - 25134
+
+Scailo Iron Sight - 18909 - 25135
+
+Scorpion Iron Sight - 18937 - 25136
+
+Sterling Iron Sight - 18910 - 25137
+
+TX45 Sight - 18937 - 25138
+
+Zolash-12 Sight - 18937 - 25139
+
+Crossbow Sight - 18938 - 25140
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+EFFECTS UNNOTAIBLE
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Cases
+
+Pistol Case - 19003 - 25000
+Shotgun Case - 19064 - 25001
+Stinger - 10904 - 25002
+Rifle Case - 19004 - 25003
+AR Case - 19018 - 25004
+AMR Case - 19015 - 25005
+Sniper Case - 19005 - 25006
+Zolash Case - 25066
+
+Explosions
+
+Brick - 19060 - 25007
+C4 - 19046 - 25008
+Flame - 10510 - 25009
+Frag12 - 19065 - 25010
+Frag - 19044 - 25011
+Frag Ammo Boom - 19035 - 25012
+Thermobaric - 19048 - 25013
+Smoke - 19230 - 25014
+Homemade Charge - 19011 - 25015
+Homemade Mine - 19061 - 25016
+Incediary - 19062 - 25017
+Landmine - 19010 - 25018
+Law - 19075 - 25019
+MGL HE - 19027 - 25020
+MGL Rubb - 19029 - 25021
+Panzer - 10838 - 25022
+Plane - 19096 - 25023
+RPG - 19020 - 25024
+Smoke - 19091 - 25025
+Stick Boom - 19038 - 25026
+Stick Boom - 19039 - 25027
+Stick Boom - 19098 - 25028
+Stinger - 10903 - 25029
+Subb - 19059 - 25030
+Toxic - 18012 - 25031
+Shadow - 25064
+Gas - 30065
+
+Muzzles
+
+Focus - 19072 - 25032
+Law - 19068 - 25033
+Pistol - 19000 - 25034
+Pistol - 19023 - 25035
+Railgun - 19036 - 25036
+Rifle - 19001 - 25037
+Rifle - 19014 - 25038
+Rifle - 19016 - 25039
+Rifle - 19026 - 25040
+Rifle - 19058 - 25041
+Rifle - 19066 - 25042
+RPG - 19019 - 25043
+Tikhiy - 19022 - 25044
+Stiger - 10905 - 25045
+
+Trace
+
+GL - 19028 - 25046
+GL - 19030 - 25047
+RPG Trace - 12100 - 25048
+RPG Trace F - 12101 - 25049
+RPG Trace Frag - 12102 - 25050
+RPG Trace T - 12103 - 25051
+Default - 19002 - 25052
+Focus - 19071 - 25053
+Frag - 19043 - 25054
+Frag12 - 32932 - 25055
+Green - 19013 - 25056
+Nail - 19067 - 25057
+Railgun - 19037 - 25058
+Red - 19042 - 25059
+Slava - 19073 - 25060
+Sniper - 19040 - 25061
+Arrow - 25062
+Mustang - 25063
+
+

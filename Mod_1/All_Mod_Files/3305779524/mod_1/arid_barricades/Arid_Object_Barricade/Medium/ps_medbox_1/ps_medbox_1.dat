@@ -1,0 +1,26 @@
+GUID 0fd80ed6a0a146ee8e51c7d29f8bb70c
+
+
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Storage_Wall
+ID 62961
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 300
+Range 4
+Offset 0.11
+
+Storage_X 4
+Storage_Y 4
+
+Invulnerable
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.25
+Use_Auto_Stat_Descriptions false

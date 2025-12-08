@@ -1,0 +1,5 @@
+Name ME Beverage Cans #3
+
+Interactability_Condition_0 Requires <color=#4E5D8E>3$</color> 
+
+Interact Purchase Corncola Zero for <color=#4E5D8E>3$</color>  [{0}]

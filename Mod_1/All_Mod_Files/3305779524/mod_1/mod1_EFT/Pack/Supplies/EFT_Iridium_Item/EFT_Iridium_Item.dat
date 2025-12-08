@@ -1,0 +1,29 @@
+GUID ffc677a2c0154215bcfa0d1a49697082
+
+Type Supply
+Rarity Legendary
+ID 22502
+
+Size_X 1
+Size_Y 1
+Size_Z 0.42
+
+Blueprints 1
+
+
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 22502
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 22505
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Собрать
+Action_0_Tooltip Compactify.

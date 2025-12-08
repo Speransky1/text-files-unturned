@@ -1,0 +1,15 @@
+GUID d71bda61d1004132b8551bcfbd30c1cf
+
+Type Barricade
+Has_Clip_Prefab false
+Useable Barricade
+Build Torch
+ID 57708
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Health 50
+Range 4
+Offset 0.3

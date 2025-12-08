@@ -1,0 +1,19 @@
+GUID 5fa4a83771c14b68a5aac17ebb5e1710
+Type Supply
+Rarity Rare
+ID 19777
+
+Size_X 2
+Size_Y 2
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19777
+Blueprint_0_Product 19315
+Blueprint_0_Products 4
+Blueprint_0_Build 27
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Magbox_1

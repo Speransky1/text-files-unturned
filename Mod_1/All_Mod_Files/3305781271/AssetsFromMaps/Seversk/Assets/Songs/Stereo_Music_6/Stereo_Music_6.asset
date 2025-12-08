@@ -1,0 +1,15 @@
+﻿Metadata
+{
+	GUID 0a936e720e3d4f0481f9cf05a65df6b5
+	Type SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	Song
+	{
+		MasterBundle sovcore.masterbundle
+		AssetPath Music/StereoMusic_6.ogg
+	}
+	Link_URL https://soundcloud.com/odinnathdsath/konecz-solnechnyx-dnej-vse
+	Is_Loop true
+}

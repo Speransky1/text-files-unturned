@@ -1,0 +1,17 @@
+GUID b2554e8a4e874cbab5837fb165202b98
+
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 39102
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

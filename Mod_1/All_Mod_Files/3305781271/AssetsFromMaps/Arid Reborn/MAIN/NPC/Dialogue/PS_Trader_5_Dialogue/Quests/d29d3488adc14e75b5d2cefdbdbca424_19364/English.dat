@@ -1,0 +1,4 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Eirik Contract - Tanker
+Description Bring me 3x <color=#ffffff>Oil</color> & kill 150x zombies.
+Condition_1 {0}/{1} Zombies

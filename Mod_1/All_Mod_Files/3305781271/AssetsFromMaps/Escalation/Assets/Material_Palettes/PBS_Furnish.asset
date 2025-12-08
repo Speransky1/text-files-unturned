@@ -1,0 +1,27 @@
+"Metadata"
+{
+	"GUID" "6a5ccb06c7ac4e22a574856d2d271e3a"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Furnish/Furnish_1.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Furnish/Furnish_2.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Furnish/Furnish_3.mat"
+			
+
+		
+		}
+	]
+}

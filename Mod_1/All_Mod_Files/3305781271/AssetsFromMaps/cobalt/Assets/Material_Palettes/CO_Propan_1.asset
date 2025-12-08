@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "5d295e9df9a941d08270b4baa8a3292b"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Propan_1/Propan_1_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Propan_1/Propan_2_M.mat"
+		}
+	]
+}

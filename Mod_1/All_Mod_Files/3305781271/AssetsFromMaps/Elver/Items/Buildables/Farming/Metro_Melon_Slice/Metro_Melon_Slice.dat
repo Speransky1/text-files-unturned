@@ -1,0 +1,34 @@
+GUID 4ce70c04d8324444aff11d53b0901cea
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 57186
+
+Size_X 1
+Size_Y 1
+Size_Z 0.55
+
+Food 10
+Water 30
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 57185
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 57186 
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supply_0_ID 57200
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 57184
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Key Craft_Seed
+
+Asset_Bundle_Version 2

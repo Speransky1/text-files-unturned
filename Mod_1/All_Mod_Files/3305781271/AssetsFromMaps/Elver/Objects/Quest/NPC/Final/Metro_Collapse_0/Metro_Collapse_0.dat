@@ -1,0 +1,20 @@
+GUID c8ec6e2f00f04a09a4b4bfd75224073b
+
+Type Small
+Has_Clip_Prefab false
+ID 57633
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 58001
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 58002
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Asset_Bundle_Version 3
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Metro_Box_Text

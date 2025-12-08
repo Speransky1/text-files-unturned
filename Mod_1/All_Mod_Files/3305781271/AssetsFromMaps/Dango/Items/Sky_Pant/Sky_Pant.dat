@@ -1,0 +1,14 @@
+GUID 74ac9233736245cdbf171685bd7b0f3a
+
+Type Pants
+Useable Clothing
+ID 44032
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 10
+Height 10
+
+Should_Drop_On_Death False

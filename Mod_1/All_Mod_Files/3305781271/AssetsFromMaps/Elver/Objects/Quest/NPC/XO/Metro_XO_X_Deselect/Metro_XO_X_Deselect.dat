@@ -1,0 +1,21 @@
+GUID 189a61fd956045eab44a9468ab70a117
+
+Type Small
+Has_Clip_Prefab false
+ID 57570
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57302
+Interactability_Reward_0_Value False
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57302
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/XO/Metro_XO_X_Select

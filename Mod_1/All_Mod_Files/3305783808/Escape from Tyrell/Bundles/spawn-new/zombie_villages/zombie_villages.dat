@@ -1,0 +1,41 @@
+GUID 15da6c6d65f6448289eeedfe21d89513
+Type Spawn
+ID 10137
+
+Roots
+[
+	{
+		// water (Spawn)
+		Guid 55a8e69c66f64094a7f38877e7978f3d
+		Weight 2
+	}
+	{
+		// food_canned (Spawn)
+		Guid a09a148543524a6786aff7c470a0bb70
+		Weight 2
+	}
+	{
+		// villages_stuff (Spawn)
+		Guid f37d0441bef54b88b52f77c5cc0d7ddf
+		Weight 3
+	}
+]
+
+Tables
+[
+	{
+		// villages_stuff (Spawn)
+		Guid f37d0441bef54b88b52f77c5cc0d7ddf
+		Weight 3
+	}
+	{
+		// food_canned (Spawn)
+		Guid a09a148543524a6786aff7c470a0bb70
+		Weight 2
+	}
+	{
+		// water (Spawn)
+		Guid 55a8e69c66f64094a7f38877e7978f3d
+		Weight 2
+	}
+]

@@ -1,0 +1,11 @@
+GUID b209bb960e1440118c2838c6c8e302dc
+Type Small
+ID 66304
+
+Material_Palette fff469281d9a4632bf26761adfc50b98
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 1
+Rubble_Effect 58
+Rubble_Editor Dead

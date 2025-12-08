@@ -1,0 +1,13 @@
+GUID 7f10713126974c83936d42b6fd55967c
+
+Type Small
+Has_Clip_Prefab false
+ID 57518
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57102
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Asset_Bundle_Version 3

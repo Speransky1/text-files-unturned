@@ -1,0 +1,59 @@
+﻿GUID ccbc7d642f904c6295a86027c2208425
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 41406
+
+Size_X 3
+Size_Y 3
+Size_Z 0.45
+
+Health 700
+Range 4
+Radius 0.5
+Offset 1.25
+
+Storage_X 14
+Storage_Y 12
+
+Explosion 41302
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.8
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem ccbc7d642f904c6295a86027c2208425
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "2a5d04428b8b444ebc84e49e1c9d89d9" // Plastic Crate
+				Amount 4
+			}
+			{
+				ID "edc4d492616c4bfa841f8a8a1c58df1e" // Plastic Fragments
+				Amount 6
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 4
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/Placement_1.ogg
+Has_Clip_Prefab false

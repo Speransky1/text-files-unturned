@@ -1,0 +1,29 @@
+GUID 9e9571c636cd45e6b4cf8f84f897a427
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Rare
+Useable Structure
+Construct Floor
+ID 19459
+
+SalvageItem 9e9571c636cd45e6b4cf8f84f897a427
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy af6c9d2f278b420da3485f57fba9326e
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 5000
+Range 6
+
+Explosion 36
+
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.6

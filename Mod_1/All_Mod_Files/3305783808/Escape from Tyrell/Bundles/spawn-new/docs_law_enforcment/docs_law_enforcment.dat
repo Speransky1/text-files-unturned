@@ -1,0 +1,47 @@
+GUID 7114833c9c694eab9ae8feb3ccdf95cc
+Type Spawn
+ID 10146
+
+Tables
+[
+	{
+		// Старая газета (Supply Item)
+		Guid 82d0e966bb884d27bc77d1175678a05c
+		Weight 45
+	}
+	{
+		// Шариковая ручка (Supply Item)
+		Guid 0f2eff80707c485a85a25fe5955e3456
+		Weight 40
+	}
+	{
+		// Полотенце (Supply Item)
+		Guid 14a9077d163d431581d9456252949f53
+		Weight 35
+	}
+	{
+		// Техническая документация (Supply Item)
+		Guid 06f52f54965e4e58821457fad812b6d2
+		Weight 8
+	}
+	{
+		// Защищенная папка (Supply Item)
+		Guid f92c17b4f04942a395564f7d88fa53f1
+		Weight 5
+	}
+	{
+		// Рапорт TPD от 26.08.2022 (Supply Item)
+		Guid f370254efecd4bbeb4e7a6e0998ab0a2
+		Weight 4
+	}
+	{
+		// Отчет от 15.09.2022 Миротворческого Контингента ООН. (Supply Item)
+		Guid 4b8479ed19c44fda8ec52d39073f3818
+		Weight 2
+	}
+	{
+		// Рапорт Национальной гвардии от 6.09.2022 (Supply Item)
+		Guid 6f1e8ace207941799a0e729ff479b17e
+		Weight 1
+	}
+]

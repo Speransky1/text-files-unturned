@@ -1,0 +1,13 @@
+GUID 2cfc9038acab4c0bb720dd4bfc3eb42a
+
+Type Food
+Rarity Legendary
+Useable Consumeable
+ID 54711
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Should_Delete_After_Use false
+Use_Auto_Stat_Descriptions false

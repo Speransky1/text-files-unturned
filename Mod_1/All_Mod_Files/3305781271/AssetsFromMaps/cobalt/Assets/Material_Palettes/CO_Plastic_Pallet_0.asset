@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "499cc56dcd614fd9982cbeb1059ad9fa"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_0_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_1_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_2_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_3_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_4_M.mat"
+		}
+	]
+}

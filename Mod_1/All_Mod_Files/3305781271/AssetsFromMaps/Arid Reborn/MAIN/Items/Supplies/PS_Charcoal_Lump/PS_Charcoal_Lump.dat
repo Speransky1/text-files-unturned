@@ -1,0 +1,16 @@
+GUID fde237713488468c8107f7d14b70172e
+
+Type Supply
+Rarity Uncommon
+ID 59795
+
+Size_X 1
+Size_Y 1
+Size_Z 0.62
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59529
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27

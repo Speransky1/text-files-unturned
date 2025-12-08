@@ -1,0 +1,30 @@
+GUID b2de9f3665b048f4ad50a9afc08f80a2
+Type Tactical
+Rarity Legendary
+ID 31234
+
+Size_X 1
+Size_Y 1
+Size_Z 0.275
+
+Spread 0.975
+
+Light
+SpotLight_Range 50
+SpotLight_Angle 65
+SpotLight_Intensity 0.01
+SpotLight_Color_R 165
+SpotLight_Color_G 162
+SpotLight_Color_B 155
+
+Calibers 1
+Caliber_0 25004
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31234
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

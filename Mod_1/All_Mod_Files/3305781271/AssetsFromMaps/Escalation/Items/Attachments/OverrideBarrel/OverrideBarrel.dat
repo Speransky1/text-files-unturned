@@ -1,0 +1,16 @@
+GUID 6bd2c38a1e84451abff03b70eabb894c
+Type Barrel
+Rarity Rare
+ID 52015
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Firerate -2
+Spread 1
+Recoil_X 1
+Recoil_Y 1
+
+Master_Bundle_Override pbs.masterbundle
+Bundle_Override_Path /Items/Attachments/HeavyBarrel

@@ -1,0 +1,16 @@
+﻿GUID d3e7b116bac541168c31f7bafbe8d7e6
+
+Type Small
+Has_Clip_Prefab false
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 43600
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+Interactability Quest
+Interactability_Effect 41341
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 43600
+Interactability_Reward_0_Value True

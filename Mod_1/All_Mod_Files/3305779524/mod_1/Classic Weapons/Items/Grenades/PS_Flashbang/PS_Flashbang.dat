@@ -1,0 +1,19 @@
+GUID a72e009b493943e4af24ca3b85aa9f1e
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 31501
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Boost_Throw_Force_Multiplier 1
+
+Flash
+
+Strong_Throw_Force 2000
+
+Weak_Throw_Force 1400
+
+Fuse_Length 1.1

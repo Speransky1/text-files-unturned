@@ -1,0 +1,62 @@
+GUID 1120a4f8114c4a31bf5c7600464d1b21
+Type Spawn
+ID 10159
+
+Tables
+[
+	{
+		// Компас (Map Item)
+		Guid 7b642b004a8d48279a3c4995dbca0d20
+		Weight 50
+	}
+	{
+		// Контрабандные части оружия (Supply Item)
+		Guid 785dbb3800de4f7dbc9eddd959397d4d
+		Weight 50
+	}
+	{
+		// Ноутбук (Barricade Item)
+		Guid 4f33ccd05fcf4bbb867393ad48b83572
+		Weight 8
+	}
+	{
+		// Егермейстер (Supply Item)
+		Guid 5b95dac08db7448291dca1eddb3a97ac
+		Weight 8
+	}
+	{
+		// Огненная вода (Barricade Item)
+		Guid fa7ff11502704750be464f7d7788b90a
+		Weight 5
+	}
+	{
+		// Доллары (Barricade Item)
+		Guid 83602cc6166d43f8bfd8654879843a6d
+		Weight 3
+	}
+	{
+		// Золотистый перепел (Supply Item)
+		Guid 0f42176b957c419d9d3a6525677ace5a
+		Weight 2
+	}
+	{
+		// Родиевая монета (Supply Item)
+		Guid 8e18102142cd4fd5af64b137a352b08b
+		Weight 2
+	}
+	{
+		// Золотая монета (Supply Item)
+		Guid bb43eb9aa18b46c288dfe66dd4475527
+		Weight 2
+	}
+	{
+		// Золотой слиток (Supply Item)
+		Guid 4fb4bee8de8142fdb001a940035d6fa2
+		Weight 2
+	}
+	{
+		// Необработанный алмаз (Supply Item)
+		Guid 89ce748b107d49ddab588fc8272b3b53
+		Weight 1
+	}
+]

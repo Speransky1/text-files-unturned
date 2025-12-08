@@ -1,0 +1,60 @@
+GUID 2323cc7d727f4f128ff696dd72ae8d19
+Type Magazine
+Rarity Epic
+ID 31178
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Amount 1
+
+Range 8
+Player_Damage 24
+Zombie_Damage 48
+Animal_Damage 48
+Barricade_Damage 24
+Structure_Damage 21
+Vehicle_Damage 24
+Resource_Damage 48
+Object_Damage 48
+Explosion 30013
+Explosive
+
+Calibers 1
+Caliber_0 25073
+
+Tracer 30062
+
+Stuck 5
+
+Blueprints
+[
+	{
+		CategoryTag "cdb2df24b76d4c6e9d8411c940d8337f" // Gear
+		InputItems
+		[
+			"9640ec856d814531837b092a29bfb158" // Arrow
+			"8c25cf28c76a4634855f404c8972c0ae" // Tape
+			"8ce5c560166545499432d6e01ce399cc x 2" // Raw Explosives
+		]
+		OutputItems this
+		Skill Craft
+		Skill_Level 2
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems
+		[
+			{
+				ID this
+				Prioritization LowestAmount
+				CountEmptyAsOne true
+			}
+		]
+		OutputItems "8ce5c560166545499432d6e01ce399cc" // Raw Explosives
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]

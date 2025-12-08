@@ -1,0 +1,13 @@
+GUID 8df11c3f69134c89b07a390db946241c
+
+Type Large
+Has_Clip_Prefab false
+ID 58203
+
+Interactability Quest
+
+Interactability_Rewards 2
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Sky
+Interactability_Reward_1_Type Achievement 
+Interactability_Reward_1_ID Elver_FinalBoss

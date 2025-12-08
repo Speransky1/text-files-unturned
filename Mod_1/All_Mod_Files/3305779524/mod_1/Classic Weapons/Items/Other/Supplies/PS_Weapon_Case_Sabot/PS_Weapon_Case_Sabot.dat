@@ -1,0 +1,23 @@
+GUID dc3a891063d14627b13e9aae703b4e72
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 31629
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Quest_Rewards 3
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 30504
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 31175
+Quest_Reward_1_Amount 1
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 31580
+Quest_Reward_2_Amount 1
+
+Master_Bundle_Override classicweapons.masterbundle
+Bundle_Override_Path /Items/Other/Supplies/PS_Weapon_Case_CARG

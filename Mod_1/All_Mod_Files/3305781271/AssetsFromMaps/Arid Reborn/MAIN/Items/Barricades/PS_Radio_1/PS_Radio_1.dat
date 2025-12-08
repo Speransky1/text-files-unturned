@@ -1,0 +1,27 @@
+GUID 02452b4b45264bf89c2ae63be3828cb0
+Type Barricade
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Stereo
+Rarity Mythical
+ID 19922
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 6000
+Range 4
+Radius 0.17
+Offset 0.2
+
+Explosion 36
+Vulnerable
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+Can_Be_Damaged False
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Barricades/PS_Radio_0

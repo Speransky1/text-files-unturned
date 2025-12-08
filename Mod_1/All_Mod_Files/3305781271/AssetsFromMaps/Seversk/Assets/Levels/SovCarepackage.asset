@@ -1,0 +1,17 @@
+﻿Metadata
+{
+	GUID bd219df9a64d47169c92635ea43a8f8d
+	Type SDG.Unturned.AirdropAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	Landed_Barricade
+	{
+		GUID 46d53753201b4734bfc0caafbbfdd3ef
+	}
+	Carepackage_Prefab
+	{
+		MasterBundle sovcore.masterbundle
+		AssetPath Level/Carepackage.prefab
+	}
+}

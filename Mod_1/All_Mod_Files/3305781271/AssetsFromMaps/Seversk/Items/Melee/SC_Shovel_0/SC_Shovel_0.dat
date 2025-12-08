@@ -1,0 +1,88 @@
+﻿GUID d5f4905fbbc9401f9f520dfacd231435
+
+Type Melee
+Useable Melee
+Rarity Uncommon
+ID 41659
+Slot Any
+
+Size_X 1
+Size_Y 3
+Size_Z 1
+
+Range 2
+Strength 1.5
+Weak 0.5
+Strong 0.4
+Stamina 10
+
+Player_Damage 30
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 35
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.7
+Zombie_Spine_Multiplier 0.9
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 35
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 10
+Resource_Damage 10
+Object_Damage 15
+
+Quality_Min 20
+Quality_Max 40
+
+Wear 1
+Should_Delete_At_Zero_Quality False
+Durability 0.4
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			"c2370e1ae60a4d81be3d4984f1c8c19b x 2" // Duct Tape
+			"8ae387a91c1c4964be2a12be7aeabfb9 x 2" // Wooden Stick
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 3" // Metal Parts
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+AttackAudioClip Sounds/Melee_Attack_0.ogg
+Use_Auto_Stat_Descriptions False
+Use_Auto_Icon_Measurements False
+InventoryAudio Sounds/Inventory/Default/Default.asset
+BladeIDs 2
+BladeID_0 0
+BladeID_1 3
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

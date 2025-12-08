@@ -1,0 +1,25 @@
+GUID a356203d75384d55bda59d220950d7d6
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 
+
+Size_X 3
+Size_Y 2
+Size_Z 0.5
+
+Health 200
+Range 4
+Radius 0.17
+Offset 0.21
+
+Explosion 36
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True

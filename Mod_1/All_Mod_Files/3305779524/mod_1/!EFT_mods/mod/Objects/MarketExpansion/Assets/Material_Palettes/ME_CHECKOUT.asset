@@ -1,0 +1,52 @@
+"Metadata"
+{
+	"GUID" "47ba230eacab4148a17125275c5fff41"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_00.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_01.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_02.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_03.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_04.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_05.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_06.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_07.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_08.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/ME_CHECKOUT_0/ME_CHECKOUT_09.mat"
+		}
+	]
+}

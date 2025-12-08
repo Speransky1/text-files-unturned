@@ -1,0 +1,344 @@
+ManifestFileVersion: 0
+CRC: 3207316921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97b45e51403b72a5c4fcecb04100a616
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db5690d4546dbc1f1c49d80c00719c0b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Polygone/Trees/PG_Pine_4/Resource.prefab
+- Assets/Polygone/M_Pallettes/Wooden_Palletes/Wooden_Pallet_Material_2.mat
+- Assets/Polygone/Trees/PG_Pine_5/Stump.prefab
+- Assets/Polygone/Clothes/PG_AH12_Helmet_Closed_0/Hat.prefab
+- Assets/Polygone/Clothes/PG_AH12_Helmet_Opened_0/Animations.prefab
+- Assets/Polygone/Decorations/PG_Tiger_Door_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Cabel_Pallet_Full_0/Object.prefab
+- Assets/Polygone/Objects/PG_TOPOLM_1/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Tiger_Wheel_0/Object.prefab
+- Assets/Polygone/Loot/PG_Loot_Crate_Tier_1/Object.prefab
+- Assets/Polygone/Objects/PG_Road_Gate_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Road_Fence_1/Nav.prefab
+- Assets/Polygone/Objects/PG_Typhoon_Back_1/Skybox.prefab
+- Assets/Polygone/Objects/PG_Boulder_2/Object.prefab
+- Assets/Polygone/Objects/PG_Boulder_1/Nav.prefab
+- Assets/Polygone/Decorations/PG_Pipe_Fence_1/Nav.prefab
+- Assets/Polygone/Trees/PG_Pine_1/Skybox_Old.prefab
+- Assets/Polygone/M_Pallettes/Barrels/Barrel_Logo_Material_1.mat
+- Assets/Polygone/Decorations/PG_Tiger_Door_Inverted_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_7/Decal.png
+- Assets/Polygone/Decorations/PG_Wooden_Pallet_0/Object.prefab
+- Assets/Polygone/Objects/PG_Boulder_6/Nav.prefab
+- Assets/Polygone/Decorations/PG_Barbed_Wire_0/Barricade.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_6/Decal.png
+- Assets/Polygone/Trees/PG_Pine_5/Resource.prefab
+- Assets/Polygone/Objects/PG_Boulder_6/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Barbed_Wire_0/Animations.prefab
+- Assets/Polygone/Decorations/PG_Flag_0/Nav.prefab
+- Assets/Polygone/Objects/PG_Typhoon_Back_1/Object.prefab
+- Assets/Polygone/Clothes/PG_AH12_Helmet_Opened_0/Item.prefab
+- Assets/Polygone/M_Pallettes/Barrels/Barrel_Material_2.mat
+- Assets/Polygone/Decorations/PG_Typhoon_Wheel_0/Nav.prefab
+- Assets/Polygone/Terrain/Foliage/Flowers_0.png
+- Assets/Polygone/Terrain/Meshes/Wheat_Mesh_1.fbx
+- Assets/Polygone/Objects/PG_Tiger_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_0/New Material.mat
+- Assets/Polygone/Decorations/PG_Typhoon_Door_0/Object.prefab
+- Assets/Polygone/Objects/PG_Military_Tent_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Soviet_Wall_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Loot_Crate_Lid_0/Object.prefab
+- Assets/Polygone/Objects/PG_Tiger_0/Skybox.prefab
+- Assets/Polygone/Loot/PG_Loot_Crate_Tier_1/Loot Crate Handle.mp3
+- Assets/Polygone/Decorations/PG_Road_Fence_0/Object.prefab
+- Assets/Polygone/Clothes/PG_FRB_Tactical_Vest_0/Item.prefab
+- Assets/Polygone/Objects/PG_Boulder_4/Nav.prefab
+- Assets/Polygone/M_Pallettes/Plastic_Palletes/Plastic_Pallet_Material_4.mat
+- Assets/Polygone/Terrain/Foliage/Grass_3.png
+- Assets/Polygone/Terrain/Materials/Sand.png
+- Assets/Polygone/Objects/PG_Boulder_1/Skybox.prefab
+- Assets/Polygone/M_Pallettes/Tire_Rubbers/Tire_Rubber_Material_2.mat
+- Assets/Polygone/Decorations/PG_Soviet_Wall_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_1/Decal.png
+- Assets/Polygone/Decorations/PG_Flag_1/Object.prefab
+- Assets/Polygone/Decorations/PG_Plastic_Pallet_0/Nav.prefab
+- Assets/Polygone/Trees/PG_Pine_3/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Typhoon_Steer_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Metal_Sheet_Fence_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Military_Bed_Empty_0/Object.prefab
+- Assets/Polygone/Objects/PG_Boulder_3/Object.prefab
+- Assets/Polygone/Decorations/PG_Razor_Wire_0/Item.prefab
+- Assets/Polygone/Decorations/PG_Rusty_Gate_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Concrete_Block_0/Object.prefab
+- Assets/Polygone/Objects/PG_Boulder_0/Object.prefab
+- Assets/Polygone/Terrain/Foliage/Grass_2_M.mat
+- Assets/Polygone/Trees/PG_Pine_0/Skybox.prefab
+- Assets/Polygone/Clothes/PG_SCBackpack_0/Backpack.prefab
+- Assets/Polygone/Decorations/PG_Barrel_Lid_0/Object.prefab
+- Assets/Polygone/Terrain/Foliage/Wheat_1_M.mat
+- Assets/Polygone/Trees/PG_Pine_2/Skybox_Old.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_9/Decal.png
+- Assets/Polygone/Trees/PG_Pine_4/Rustle_Leaves.ogg
+- Assets/Polygone/Trees/PG_Pine_4/Skybox_Old.prefab
+- Assets/Polygone/Objects/PG_Boulder_5/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Street_Lamp_0/Nav.prefab
+- Assets/Polygone/Objects/PG_TOPOLM_1/Object.prefab
+- Assets/Polygone/M_Pallettes/Tire_Rubbers/Tire_Rubber_Material_3.mat
+- Assets/Polygone/Decorations/PG_Concrete_Wall_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_13/Decal.png
+- Assets/Polygone/Decorations/PG_Plastic_Pallet_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Block_Road_0/Object.prefab
+- Assets/Polygone/Trees/PG_Pine_5/Rustle_Leaves.ogg
+- Assets/Polygone/Clothes/PG_Bandana_0/Animations.prefab
+- Assets/Polygone/Trees/PG_Pine_0/Rustle_Leaves.ogg
+- Assets/Polygone/Decorations/PG_Road_Gate_Door_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Soviet_Wall_2/Nav.prefab
+- Assets/Polygone/Terrain/Foliage/Grass_0_M.mat
+- Assets/Polygone/Decorations/PG_Graffiti_4/Decal.png
+- Assets/Polygone/Decorations/PG_Block_Road_1/Nav.prefab
+- Assets/Polygone/Clothes/PG_FRB_Tactical_Vest_0/Animations.prefab
+- Assets/Polygone/Decorations/PG_Tiger_Steer_0/Object.prefab
+- Assets/Polygone/Objects/PG_Boulder_2/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Loot_Crate_Base_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Pipe_1/Nav.prefab
+- Assets/Polygone/Terrain/Materials/Stone.png
+- Assets/Polygone/Decorations/PG_Tiger_Steer_0/Nav.prefab
+- Assets/Polygone/Trees/PG_Pine_1/Stump.prefab
+- Assets/Polygone/Terrain/Foliage/Wheat_2.png
+- Assets/Polygone/Decorations/PG_Traffic_Sign_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Power_Line_0/Object.prefab
+- Assets/Polygone/Terrain/Meshes/Leaf_Mesh.fbx
+- Assets/Polygone/Objects/PG_Typhoon_Back_0/Object.prefab
+- Assets/Polygone/M_Pallettes/Cabel_Palletes/Cabel_Pallet_Material_2.mat
+- Assets/Polygone/Trees/PG_Stump_0/Resource.prefab
+- Assets/Polygone/Decorations/PG_Typhoon_Wheel_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Concrete_Block_0/Nav.prefab
+- Assets/Polygone/Clothes/PG_AH12_Helmet_Closed_0/Animations.prefab
+- Assets/Polygone/M_Pallettes/Wooden_Palletes/Wooden_Pallet_Material_1.mat
+- Assets/Polygone/Decorations/PG_Block_Road_0/Nav.prefab
+- Assets/Polygone/Objects/PG_Military_Tent_0/Object.prefab
+- Assets/Polygone/Trees/PG_Pine_2/Resource.prefab
+- Assets/Polygone/Decorations/PG_Pipe_Fence_0/Nav.prefab
+- Assets/Polygone/M_Pallettes/Metal_Pipes/Metal_Pipe_Material_2.mat
+- Assets/Polygone/Objects/PG_Boulder_5/Nav.prefab
+- Assets/Polygone/Decorations/PG_Tire_Rubber_0/Object.prefab
+- Assets/Polygone/M_Pallettes/Plastic_Palletes/Plastic_Pallet_Material_2.mat
+- Assets/Polygone/Decorations/PG_Military_Bed_Full_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Cargo_Cloth_1/Object.prefab
+- Assets/Polygone/Decorations/PG_Loot_Crate_Base_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Sewer_Cover_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Traffic_Sign_0/Object.prefab
+- Assets/Polygone/Terrain/Foliage/Wheat_1.png
+- Assets/Polygone/M_Pallettes/Plastic_Palletes/Plastic_Pallet_Material_1.mat
+- Assets/Polygone/Clothes/PG_FRB_Tactical_Vest_0/Vest.prefab
+- Assets/Polygone/Decorations/PG_Pipeline_Pillar_0/Object.prefab
+- Assets/Polygone/Clothes/PG_SCBackpack_1/Item.prefab
+- Assets/Polygone/Decorations/PG_Barrel_Logo_0/Object.prefab
+- Assets/Polygone/Objects/PG_Boulder_4/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_10/Decal.png
+- Assets/Polygone/Decorations/PG_Pipeline_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Military_Bed_Empty_0/Nav.prefab
+- Assets/Polygone/Objects/PG_Typhoon_Back_0/Skybox.prefab
+- Assets/Polygone/Objects/PG_Typhoon_Back_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Old_Gate_0/Object.prefab
+- Assets/Polygone/M_Pallettes/Wooden_Palletes/Wooden_Pallet_Material_0.mat
+- Assets/Polygone/Decorations/PG_UN_Sign_0/Nav.prefab
+- Assets/Polygone/Objects/PG_Road_Gate_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Barrel_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Metal_Ladder_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Loot_Crate_Lid_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Power_Line_0/Nav.prefab
+- Assets/Polygone/M_Pallettes/Cabel_Palletes/Cabel_Pallet_Material_0.mat
+- Assets/Polygone/Objects/PG_TOPOLM_0/Object.prefab
+- Assets/Polygone/M_Pallettes/Cabel_Palletes/Cabel_Pallet_Material_1.mat
+- Assets/Polygone/Terrain/Foliage/Grass_1.png
+- Assets/Polygone/Terrain/Foliage/Grass_2.png
+- Assets/Polygone/Terrain/Foliage/Wheat_0_M.mat
+- Assets/Polygone/Decorations/PG_Graffiti_2/Decal.png
+- Assets/Polygone/Terrain/Foliage/Grass_1_M.mat
+- Assets/Polygone/Decorations/PG_Cabel_Pallet_Full_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Road_Gate_Door_0/Object.prefab
+- Assets/Polygone/Objects/PG_Billboard_0/Nav.prefab
+- Assets/Polygone/Objects/PG_Typhoon_Base_0/Object.prefab
+- Assets/Polygone/Trees/PG_Pine_4/Stump.prefab
+- Assets/Polygone/Decorations/PG_Pipe_Fence_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Typhoon_Steer_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Pipe_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Road_Fence_0/Nav.prefab
+- Assets/Polygone/Terrain/Materials/Gravel.png
+- Assets/Polygone/Clothes/PG_Bandana_0/Mask.prefab
+- Assets/Polygone/Decorations/PG_Wooden_Plane_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Military_Bed_Full_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Block_Road_2/Object.prefab
+- Assets/Polygone/Decorations/PG_Wooden_Crate_0/Nav.prefab
+- Assets/Polygone/Terrain/Pebbles/Pebble_0_M.mat
+- Assets/Polygone/Terrain/Pebbles/Pebble_1_M.mat
+- Assets/Polygone/Decorations/PG_Cargo_Cloth_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Pipeline_Cinderblock_0/Nav.prefab
+- Assets/Polygone/Trees/PG_Pine_0/Stump.prefab
+- Assets/Polygone/Decorations/PG_Billboard_Part_0/Object.prefab
+- Assets/Polygone/Objects/PG_TOPOLM_1/Nav.prefab
+- Assets/Polygone/Terrain/Pebbles/Pebble_1_Mesh.fbx
+- Assets/Polygone/Terrain/Foliage/Flowers_1.png
+- Assets/Polygone/M_Pallettes/Billboards/Billboard_Material_2.mat
+- Assets/Polygone/Decorations/PG_Power_Line_1/Object.prefab
+- Assets/Polygone/Objects/PG_Typhoon_Back_1/Nav.prefab
+- Assets/Polygone/Terrain/Foliage/Fern_0_M.mat
+- Assets/Polygone/Decorations/PG_Razor_Wire_0/Use.mp3
+- Assets/Polygone/Decorations/PG_Wooden_Plane_0/Nav.prefab
+- Assets/Polygone/M_Pallettes/Tire_Rubbers/Tire_Rubber_Material_1.mat
+- Assets/Polygone/Trees/PG_Pine_3/Stump.prefab
+- Assets/Polygone/Objects/PG_Boulder_4/Object.prefab
+- Assets/Polygone/Objects/PG_Typhoon_Base_0/Nav.prefab
+- Assets/Polygone/Terrain/Pebbles/Pebble_0_Mesh.fbx
+- Assets/Polygone/Trees/PG_Pine_2/Rustle_Leaves.ogg
+- Assets/Polygone/M_Pallettes/Metal_Pipes/Metal_Pipe_Material_1.mat
+- Assets/Polygone/Decorations/PG_Barbed_Wire_0/Item.prefab
+- Assets/Polygone/Decorations/PG_Barbed_Wire_0/Use.mp3
+- Assets/Polygone/Decorations/PG_Pipeline_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Metal_Shelf_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_5/Decal.png
+- Assets/Polygone/Decorations/PG_Barrel_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Old_Gate_Door_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Pipe_1/Object.prefab
+- Assets/Polygone/Objects/PG_TOPOLM_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Soviet_Wall_2/Object.prefab
+- Assets/Polygone/Decorations/PG_Street_Lamp_Transmission_Line_0/Object.prefab
+- Assets/Polygone/Terrain/Meshes/Wheat_Mesh_2.fbx
+- Assets/Polygone/M_Pallettes/Barrels/Barrel_Logo_Material_0.mat
+- Assets/Polygone/M_Pallettes/Barrels/Barrel_Material_1.mat
+- Assets/Polygone/Decorations/PG_Metal_Pipe_0/Object.prefab
+- Assets/Polygone/M_Pallettes/Billboards/Billboard_Material_1.mat
+- Assets/Polygone/Terrain/Foliage/Grass_0.png
+- Assets/Polygone/Trees/PG_Pine_2/Stump.prefab
+- Assets/Polygone/Decorations/PG_Old_Gate_Door_0/Object.prefab
+- Assets/Polygone/Terrain/Foliage/Fern_0.png
+- Assets/Polygone/Decorations/PG_Street_Lamp_0/Object.prefab
+- Assets/Polygone/M_Pallettes/Metal_Pipes/Metal_Pipe_Material_0.mat
+- Assets/Polygone/Trees/PG_Stump_1/Resource.prefab
+- Assets/Polygone/Decorations/PG_Pipeline_1/Nav.prefab
+- Assets/Polygone/Decorations/PG_Newspapers_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Tiger_Door_Back_0/Object.prefab
+- Assets/Polygone/Terrain/Materials/Grass.png
+- Assets/Polygone/Decorations/PG_Pipe_0/Object.prefab
+- Assets/Polygone/Objects/PG_Billboard_0/Object.prefab
+- Assets/Polygone/Trees/PG_Pine_3/Resource.prefab
+- Assets/Polygone/Clothes/PG_SCBackpack_0/Animations.prefab
+- Assets/Polygone/Decorations/PG_Soviet_Wall_1/Object.prefab
+- Assets/Polygone/Clothes/PG_SCBackpack_1/Animations.prefab
+- Assets/Polygone/Clothes/PG_AH12_Helmet_Closed_0/Item.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_11/Decal.png
+- Assets/Polygone/Decorations/PG_Pipeline_Pillar_0/Nav.prefab
+- Assets/Polygone/Objects/PG_Boulder_2/Nav.prefab
+- Assets/Polygone/Decorations/PG_Pipe_Fence_1/Object.prefab
+- Assets/Polygone/Objects/PG_Boulder_0/Nav.prefab
+- Assets/Polygone/Trees/PG_Pine_1/Resource.prefab
+- Assets/Polygone/M_Pallettes/Plastic_Palletes/Plastic_Pallet_Material_0.mat
+- Assets/Polygone/Decorations/PG_Road_Fence_1/Object.prefab
+- Assets/Polygone/Objects/PG_Billboard_0/Skybox.prefab
+- Assets/Polygone/Terrain/Meshes/Grass_Mesh_0.fbx
+- Assets/Polygone/Decorations/PG_Tire_Rubber_0/Nav.prefab
+- Assets/Polygone/Objects/PG_Boulder_1/Object.prefab
+- Assets/Polygone/Objects/PG_Military_Tent_0/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Block_Road_2/Nav.prefab
+- Assets/Polygone/Decorations/PG_Block_Road_1/Object.prefab
+- Assets/Polygone/Decorations/PG_Old_Gate_0/Nav.prefab
+- Assets/Polygone/M_Pallettes/Barrels/Barrel_Material_0.mat
+- Assets/Polygone/Decorations/PG_Pipeline_1/Object.prefab
+- Assets/Polygone/Trees/PG_Pine_0/Resource.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_12/Decal.png
+- Assets/Polygone/Decorations/PG_Street_Lamp_Transmission_0/Object.prefab
+- Assets/Polygone/Clothes/PG_SCBackpack_1/Backpack.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_0/Decal.png
+- Assets/Polygone/Decorations/PG_Razor_Wire_0/Barricade.prefab
+- Assets/Polygone/Decorations/PG_Soviet_Wall_1/Nav.prefab
+- Assets/Polygone/Objects/PG_Boulder_6/Object.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_8/Decal.png
+- Assets/Polygone/Objects/PG_TOPOLM_0/Skybox.prefab
+- Assets/Polygone/Clothes/PG_Bandana_0/Item.prefab
+- Assets/Polygone/Terrain/Meshes/Fern_Mesh_0.fbx
+- Assets/Polygone/Decorations/PG_Concrete_Wall_0/Nav.prefab
+- Assets/Polygone/Clothes/PG_AH12_Helmet_Opened_0/Hat.prefab
+- Assets/Polygone/Decorations/PG_Metal_Pipe_0/Nav.prefab
+- Assets/Polygone/M_Pallettes/Tire_Rubbers/Tire_Rubber_Material_0.mat
+- Assets/Polygone/Terrain/Foliage/Flowers_0_M.mat
+- Assets/Polygone/Decorations/PG_UN_Sign_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Pipeline_Cinderblock_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Metal_Ladder_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Rusty_Gate_0/Nav.prefab
+- Assets/Polygone/Terrain/Foliage/Flowers_1_M.mat
+- Assets/Polygone/M_Pallettes/Plastic_Palletes/Plastic_Pallet_Material_3.mat
+- Assets/Polygone/Decorations/PG_Metal_Sheet_Fence_1/Object.prefab
+- Assets/Polygone/Decorations/PG_Graffiti_3/Decal.png
+- Assets/Polygone/Clothes/PG_SCBackpack_0/Item.prefab
+- Assets/Polygone/Decorations/PG_Power_Line_Transmission_Line_0/Object.prefab
+- Assets/Polygone/Terrain/Foliage/Grass_3_M.mat
+- Assets/Polygone/Decorations/PG_Plastic_Barrel_0/Object.prefab
+- Assets/Polygone/Objects/PG_Boulder_3/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Metal_Shelf_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Wooden_Pallet_0/Nav.prefab
+- Assets/Polygone/Decorations/PG_Power_Line_1/Nav.prefab
+- Assets/Polygone/Trees/PG_Pine_5/Skybox_Old.prefab
+- Assets/Polygone/Decorations/PG_Razor_Wire_0/Animations.prefab
+- Assets/Polygone/Objects/PG_Boulder_5/Object.prefab
+- Assets/Polygone/Trees/PG_Pine_1/Rustle_Leaves.ogg
+- Assets/Polygone/Decorations/PG_Flag_0/Ambience.ogg
+- Assets/Polygone/Decorations/PG_Cabel_Pallet_Empty_0/Nav.prefab
+- Assets/Polygone/Objects/PG_Boulder_3/Nav.prefab
+- Assets/Polygone/Decorations/PG_Tiger_Wheel_0/Nav.prefab
+- Assets/Polygone/Terrain/Materials/Road.png
+- Assets/Polygone/Objects/PG_Typhoon_Base_0/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Flag_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Plastic_Barrel_0/Nav.prefab
+- Assets/Polygone/Terrain/Foliage/Wheat_0.png
+- Assets/Polygone/Decorations/PG_Cabel_Pallet_Empty_0/Object.prefab
+- Assets/Polygone/Decorations/PG_Flag_1/Nav.prefab
+- Assets/Polygone/Decorations/PG_Wooden_Crate_0/Object.prefab
+- Assets/Polygone/Objects/PG_Boulder_0/Skybox.prefab
+- Assets/Polygone/Decorations/PG_Pipeline_Pillar_1/Object.prefab
+- Assets/Polygone/Loot/PG_Loot_Crate_Tier_1/Nav.prefab
+- Assets/Polygone/Terrain/Foliage/Wheat_2_M.mat
+- Assets/Polygone/Objects/PG_Tiger_0/Object.prefab
+- Assets/Polygone/Trees/PG_Pine_3/Rustle_Leaves.ogg
+- Assets/Polygone/Terrain/Meshes/Wheat_Mesh_0.fbx
+- Assets/Polygone/Decorations/PG_Pipeline_Pillar_1/Nav.prefab
+Dependencies: []

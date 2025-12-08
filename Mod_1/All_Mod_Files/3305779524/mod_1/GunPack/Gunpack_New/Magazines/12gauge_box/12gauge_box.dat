@@ -1,0 +1,21 @@
+GUID 941c33ecb9564b178a0b2d7010d8a28e
+
+Type Supply
+Rarity Rare
+ID 32270
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+
+Tracer 48
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 32270
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 33126
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Build 30

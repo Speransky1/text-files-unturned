@@ -1,0 +1,60 @@
+﻿GUID 3824c581765c46aab57da63e9bebea8a
+
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 41566
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Player_Damage 100
+Zombie_Damage 350
+Animal_Damage 350
+Barricade_Damage 120
+Structure_Damage 100
+Vehicle_Damage 100
+Resource_Damage 500
+Object_Damage 200
+InventoryAudio Sounds/Inventory/NailsRustle/Nails_Rustle.asset
+Range 12
+Strong_Throw_Force 1200
+Weak_Throw_Force 600
+Explosion_Launch_Speed 6
+Fuse_Length 1
+Explosion 41353
+Explosive
+Use_Auto_Icon_Measurements False
+Use_Auto_Stat_Descriptions false
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID "f1bd4c22507544e9bf9558eef0ea4548" // Metal Can
+			}
+			{
+				ID "022caafdda4e4937804a7cf79157dd91" // Nails
+				Amount 6
+			}
+			{
+				ID "58b45f8f7807426289e372b7341d10d2" // Gunpowder
+				Amount 2
+			}
+			{
+				ID "f1ab9fc753384336be9642e18c2c825a" // Grenade Fuse
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]

@@ -1,0 +1,50 @@
+GUID 59643a08b6ea49d5895f930fa74853d7
+
+Type Magazine
+Rarity Uncommon
+ID 63251
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Target_Ammo/PS_T22_30
+
+Size_X 1
+Size_Y 2
+Size_Z 0.225
+
+Amount 35
+Count_Min 0
+Count_Max 35
+
+Calibers 1
+Caliber_0 19250
+
+Speed 0.8
+
+Tracer 19002
+
+Blueprints 5
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63246
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63251
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 63250
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 63252
+Blueprint_4_Supply_0_Critical
+Blueprint_4_Build 30

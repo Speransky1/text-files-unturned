@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "8a84ddccd9764091abbd75f8b31bf512"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/pallet_jacks/Pallet_Jack_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/pallet_jacks/Pallet_Jack_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/pallet_jacks/Pallet_Jack_2.mat"
+		}
+	]
+}

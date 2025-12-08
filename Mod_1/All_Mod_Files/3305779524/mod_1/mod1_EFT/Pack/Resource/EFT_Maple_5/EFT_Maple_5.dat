@@ -1,0 +1,17 @@
+GUID 401fdfe098df46c89e10b6f7da7b80bf
+
+Type Resource
+ID 43725
+
+Health 1000
+Radius 5
+Scale 0.2
+
+Explosion 22
+
+Reset 6
+
+
+
+Has_Clip_Prefab false
+Asset_Bundle_Version 3

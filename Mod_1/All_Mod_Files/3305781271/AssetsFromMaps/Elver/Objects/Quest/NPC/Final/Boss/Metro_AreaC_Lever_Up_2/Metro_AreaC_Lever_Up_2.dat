@@ -1,0 +1,25 @@
+GUID 2cbb2553f1b7429c9c3995c798a97d5e
+
+Type Small
+Has_Clip_Prefab false
+ID 58130
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57134
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57134
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 57135
+Interactability_Reward_1_Value False
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Objects/Quest/NPC/Final/Boss/Metro_AreaC_Lever_Up

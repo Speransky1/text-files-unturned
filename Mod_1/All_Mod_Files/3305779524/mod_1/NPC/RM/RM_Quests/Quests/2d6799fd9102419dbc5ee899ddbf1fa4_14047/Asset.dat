@@ -1,0 +1,59 @@
+﻿// Made in NPC Maker by BowieD
+GUID 2d6799fd9102419dbc5ee899ddbf1fa4
+Type Quest
+ID 14047
+Conditions 4
+Condition_0_Type Flag_Bool
+Condition_0_ID 17048
+Condition_0_Value True
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 17049
+Condition_1_Value True
+Condition_1_Logic Greater_Than_Or_Equal_To
+
+Condition_2_Type Flag_Bool
+Condition_2_ID 17050
+Condition_2_Value True
+Condition_2_Logic Greater_Than_Or_Equal_To
+
+Condition_3_Type Flag_Bool
+Condition_3_ID 17051
+Condition_3_Value True
+Condition_3_Logic Greater_Than_Or_Equal_To
+
+Rewards 7
+Reward_0_Type Experience
+Reward_0_Value 1000
+
+Reward_1_Type Item
+Reward_1_ID 29115
+Reward_1_Amount 1
+Reward_1_Auto_Equip True
+
+Reward_2_Type Item
+Reward_2_ID 33101
+Reward_2_Amount 2
+Reward_2_Auto_Equip False
+
+Reward_3_Type Item
+Reward_3_ID 59535
+Reward_3_Amount 0
+Reward_3_Auto_Equip False
+
+Reward_4_Type Item
+Reward_4_ID 48710
+Reward_4_Amount 0
+Reward_4_Auto_Equip False
+
+Reward_5_Type Item
+Reward_5_ID 52457
+Reward_5_Amount 0
+Reward_5_Auto_Equip False
+
+Reward_6_Type Flag_Short
+Reward_6_ID 54301
+Reward_6_Value 100
+Reward_6_Modification Increment
+

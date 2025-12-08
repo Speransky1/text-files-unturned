@@ -1,0 +1,5 @@
+Name ME Furniture #5
+
+Interactability_Condition_0 Requires <color=#4E5D8E>3000$</color> 
+
+Interact Purchase Couch for <color=#4E5D8E>3000$</color>  [{0}]

@@ -1,0 +1,33 @@
+GUID 48aaa80ca74d435d90a362c4aa16c273
+Rarity Rare
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 10566
+
+SalvageItem 48aaa80ca74d435d90a362c4aa16c273
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy c66338f6038740a7832a1cb8b886cadd
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Size_X 2
+Size_Y 3
+Size_Z 0.75
+
+Health 800
+Range 4
+Radius 0.6
+Offset 0.75
+
+Proof_Explosion
+
+PlacementPreviewPrefab Items/Barricades/PS_Mili_Shelfs_0/Placement.prefab
+
+Salvage_Duration_Multiplier 0.2
+
+Explosion 19
+Invulnerable
+
+Has_Clip_Prefab false

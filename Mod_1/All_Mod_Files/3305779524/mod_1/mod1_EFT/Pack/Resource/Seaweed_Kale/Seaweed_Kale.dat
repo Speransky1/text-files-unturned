@@ -1,0 +1,17 @@
+GUID 12618ae687a845ac8890d9248670b4df
+
+Type Resource
+ID 58039
+
+Health 10
+Radius 3
+Scale 0.1
+
+Vertical_Offset 0.01
+
+Explosion 43
+
+Log 58137
+Forage
+Reset 1200
+Has_Clip_Prefab false

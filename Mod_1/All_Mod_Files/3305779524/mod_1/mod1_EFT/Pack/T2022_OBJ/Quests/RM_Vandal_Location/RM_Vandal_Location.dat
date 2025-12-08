@@ -1,0 +1,26 @@
+GUID 067e3f9e258a470faf6f820bb88e2e8e
+
+Type Medium
+ID 62194
+
+Conditions 1
+//исчезает при взятии
+Condition_0_Type Flag_Bool
+Condition_0_ID 17048
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Reset
+
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 19762
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17048
+Interactability_Reward_0_Value true

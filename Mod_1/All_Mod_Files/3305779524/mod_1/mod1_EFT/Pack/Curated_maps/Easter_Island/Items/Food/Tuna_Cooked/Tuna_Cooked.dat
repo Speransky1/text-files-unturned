@@ -1,0 +1,12 @@
+GUID 24a14a7dad0443c79744778f9d4ad5f1
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 6629
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Food 30
+Bypass_ID_Limit

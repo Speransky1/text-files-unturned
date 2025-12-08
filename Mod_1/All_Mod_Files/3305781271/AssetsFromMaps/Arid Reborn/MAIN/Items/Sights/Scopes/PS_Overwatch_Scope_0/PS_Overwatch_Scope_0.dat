@@ -1,0 +1,36 @@
+GUID 3a0fb7eec1604076a7212ccc1fe0160f
+Type Sight
+Rarity Epic
+ID 19999
+
+Size_X 2
+Size_Y 1
+Size_Z 0.165
+
+Sway 1.5
+Zoom 5
+Aim_Duration_Multiplier 1.1
+
+Calibers 1
+Caliber_0 18911
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19999
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 19000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 19001
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Scrap
+Action_0_Tooltip Turn into components.

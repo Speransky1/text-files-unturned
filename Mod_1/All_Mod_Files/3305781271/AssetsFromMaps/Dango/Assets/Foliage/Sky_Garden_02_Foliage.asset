@@ -1,0 +1,60 @@
+"Metadata"
+{
+	"GUID" "741e51ce7a8b40639d6d1cbf33605e65"
+	"Type" "SDG.Framework.Foliage.FoliageInstancedMeshInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Density" "0.25"
+	"Min_Normal_Position_Offset" "0"
+	"Max_Normal_Position_Offset" "0"
+	"Normal_Rotation_Offset"
+	{
+		"X" "0"
+		"Y" "0"
+		"Z" "0"
+	}
+	"Normal_Rotation_Alignment" "1"
+	"Min_Weight" "1"
+	"Max_Weight" "1"
+	"Min_Angle" "0"
+	"Max_Angle" "60"
+	"Min_Rotation"
+	{
+		"X" "-180"
+		"Y" "0"
+		"Z" "0"
+	}
+	"Max_Rotation"
+	{
+		"X" "-180"
+		"Y" "360"
+		"Z" "0"
+	}
+	"Min_Scale"
+	{
+		"X" "1.3"
+		"Y" "1.3"
+		"Z" "1.3"
+	}
+	"Max_Scale"
+	{
+		"X" "1.5"
+		"Y" "1.5"
+		"Z" "1.5"
+	}
+	"Mesh"
+	{
+		"Name" "sky.masterbundle"
+		"Path" "sky/foliage/garden_02_mesh.fbx"
+	}
+	"Material"
+	{
+		"Name" "sky.masterbundle"
+		"Path" "sky/foliage/garden_02_material.mat"
+	}
+	"Cast_Shadows" "false"
+	"Tile_Dither" "true"
+	"Draw_Distance" "-1"
+}

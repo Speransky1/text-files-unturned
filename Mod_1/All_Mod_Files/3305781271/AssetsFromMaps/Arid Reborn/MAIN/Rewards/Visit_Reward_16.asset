@@ -1,0 +1,8 @@
+GUID 0aad3b3c64ae4164b0c3d406a58099b3
+Type RewardsList
+
+//Visit Fort Knell
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22637
+Reward_0_Value True

@@ -1,0 +1,52 @@
+﻿GUID e682b3b506cc42c9a19f9e25423edba9
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 41327
+Health 20
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+Bypass_Pickup_Ownership true
+Allow_Placement_On_Vehicle false
+Range 3
+Radius 0.1
+Offset 0.25
+Salvage_Duration_Multiplier 0.1
+Vulnerable
+Explosion 41344
+Unrepairable
+Can_Be_Damaged true
+Has_Clip_Prefab false
+PlacementAudioClip Sounds/Placement_1.ogg
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem e682b3b506cc42c9a19f9e25423edba9
+Min_Items_Dropped_On_Destroy 3
+Max_Items_Dropped_On_Destroy 6
+Item_Dropped_On_Destroy 989d087ce2db457986ded54cf5c1b4e7
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "c2370e1ae60a4d81be3d4984f1c8c19b x 12" // Duct Tape
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Unstack
+Action_0_Tooltip Spread out items for specific use.
+Add_Default_Actions false

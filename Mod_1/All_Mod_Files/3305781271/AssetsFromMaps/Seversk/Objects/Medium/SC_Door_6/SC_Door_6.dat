@@ -1,0 +1,11 @@
+﻿GUID f17df6a98eb945348831e8237cc4c3ad
+
+Type Medium
+Has_Clip_Prefab false
+Master_Bundle_Override sovcore.masterbundle
+Bundle_Override_Path /Objects/Medium/SC_Door_4
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint S2_Exit_0

@@ -1,0 +1,32 @@
+GUID 4e5b78814669433ca847beab70796d73
+
+Type Magazine
+Rarity Rare
+ID 17013
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Amount 5
+Count_Min 5
+Count_Max 5
+
+Calibers 1
+Caliber_0 17103
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17013
+Blueprint_0_Build 30
+
+
+
+Pellets 6
+
+Tracer 17009
+
+Use_Auto_Stat_Descriptions false
+
+Delete_Empty

@@ -1,0 +1,20 @@
+GUID df2d36a0da4b45fdac211d9102261b3c
+
+Type Magazine
+Rarity Epic
+ID 39162
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Amount 25
+Count_Min 25
+Count_Max 25
+
+Calibers 1
+Caliber_0 39205
+
+Tracer 39114
+
+Use_Auto_Stat_Descriptions false

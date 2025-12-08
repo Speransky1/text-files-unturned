@@ -1,0 +1,17 @@
+﻿GUID 7abe4df7653c4261af41f443ad466397
+
+Type Medium
+Has_Clip_Prefab false
+Master_Bundle_Override sovcore.masterbundle
+Bundle_Override_Path /Objects/Medium/SC_Door_7
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 43602
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Value True
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint S2_Exit_1

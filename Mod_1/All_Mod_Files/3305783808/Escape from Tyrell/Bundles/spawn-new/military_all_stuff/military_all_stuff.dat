@@ -1,0 +1,167 @@
+GUID a10b27c2e6a849d7bbaa5d505b6d5737
+Type Spawn
+ID 10104
+
+Tables
+[
+	{
+		// Низкокачественные оружейные детали (Supply Item)
+		Guid f6b306766237448ab6bfc4f67e4f7900
+		Weight 95
+	}
+	{
+		// Высококачественные оружейные детали (Supply Item)
+		Guid ee1142f8610b40a8ad3cf84ab557b3a1
+		Weight 90
+	}
+	{
+		// Контрабандные части оружия (Supply Item)
+		Guid 785dbb3800de4f7dbc9eddd959397d4d
+		Weight 90
+	}
+	{
+		// Телефонная трубка (Supply Item)
+		Guid e08834f746a041b79a5c33417ca11b03
+		Weight 90
+	}
+	{
+		// Магнифер (Supply Item)
+		Guid 0a01986608a84acbaf186fad171f0e5b
+		Weight 80
+	}
+	{
+		// Зашифрованный диск (Supply Item)
+		Guid 4c918a5f31654c4cb65414e4aef5b6f4
+		Weight 80
+	}
+	{
+		// 1/4 часть пороха (Supply Item)
+		Guid d204dc69bdd34bde9b92315e6efa559f
+		Weight 75
+	}
+	{
+		// ИРП Армии США (Food Item)
+		Guid 8523cc36e8c34c628d6c61b24d11b294
+		Weight 70
+	}
+	{
+		// Красная печатная плата (Supply Item)
+		Guid 3c754892fc924452b257d63db7b4b454
+		Weight 70
+	}
+	{
+		// Набор для починки оружия (Supply Item)
+		Guid f21c6335f64a40d6abb12ae104ac0d74
+		Weight 65
+	}
+	{
+		// Набор для починки брони (Supply Item)
+		Guid b1b1b47558104746a4260773260852b4
+		Weight 55
+	}
+	{
+		// Зашифрованный передатчик (Supply Item)
+		Guid f9da3d6aeaa141eda1a5bf6ed28278ca
+		Weight 50
+	}
+	{
+		// Банка пороха (Supply Item)
+		Guid 4e8a6d5beb7043b1966fc92d23cf4b28
+		Weight 50
+	}
+	{
+		// Селитра (Supply Item)
+		Guid b260b6d86d344fa589ba90e9a2dd9e4d
+		Weight 40
+	}
+	{
+		// Терминал (Barricade Item)
+		Guid 5bf1e4670fe34f9f9b991d88a23dd1d5
+		Weight 40
+	}
+	{
+		// Рулон свинца (Supply Item)
+		Guid bf5a3266d1644ad285b8dff19b2ec45c
+		Weight 40
+	}
+	{
+		// Бронещит (Supply Item)
+		Guid 44c5118b832f4576bc3c6d072ee82a8f
+		Weight 38
+	}
+	{
+		// Компонент взрывчатки (Supply Item)
+		Guid be4f328bd4984b619b541f1e9258902b
+		Weight 35
+	}
+	{
+		// Взрыватель (Supply Item)
+		Guid 921c75bddb8f42f2bc1fb503837a5c4b
+		Weight 35
+	}
+	{
+		// ИК-прожектор (Barricade Item)
+		Guid a0fe3681ec384b54a46ce339327e5d95
+		Weight 35
+	}
+	{
+		// Самодельная взрывчатка (Supply Item)
+		Guid 006a66810d95443e8990ca20420fb63c
+		Weight 35
+	}
+	{
+		// Передатчик (Barricade Item)
+		Guid 6700f0da61ee470eb296ba380169caba
+		Weight 32
+	}
+	{
+		// Осколочная мина  (Magazine Item)
+		Guid 5a27892542c8447d8b6299d4b931e3ee
+		Weight 30
+	}
+	{
+		// Компас (Map Item)
+		Guid 7b642b004a8d48279a3c4995dbca0d20
+		Weight 30
+	}
+	{
+		// Зажигательная мина (Supply Item)
+		Guid c3886aa27a9f4a5aba0ab352aec6ed63
+		Weight 28
+	}
+	{
+		// Сломанный ПНВ (Supply Item)
+		Guid be207d904a3e42169ef94365ae4ec817
+		Weight 25
+	}
+	{
+		// Фотокатод (Supply Item)
+		Guid a168ccb5b0cb4036b22ee862dbb400e3
+		Weight 25
+	}
+	{
+		// Фотоумножительные трубки (Supply Item)
+		Guid 43d6a8718ac9446b8d49a4cbbdc55781
+		Weight 22
+	}
+	{
+		// Ключ-карта (Supply Item)
+		Guid 7d470758ba544a9b940c72b9bf4f4100
+		Weight 5
+	}
+	{
+		// Спутниковый телефон (Supply Item)
+		Guid 56c9cdde2e0d4c7f9e13cfa1a9790d08
+		Weight 2
+	}
+	{
+		// АКБ фирмы DEXP (Supply Item)
+		Guid 5fa18a9dec264cc6ae26430d367b3cb8
+		Weight 1
+	}
+	{
+		// Беспроводной передатчик сигналов (Supply Item)
+		Guid 6692a6e6787142bcbf7b5355ed9c8f3f
+		Weight 1
+	}
+]

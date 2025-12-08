@@ -1,0 +1,14 @@
+GUID 7ec3d3bb13b740adbc746e44e377e99f
+Type Effect
+ID 19095
+
+Blast 137
+
+Lifetime 15
+
+Relevant_Distance 3000
+
+CameraShake_Radius 64
+CameraShake_MagnitudeDegrees 123
+
+Spawn_On_Dedicated_Server

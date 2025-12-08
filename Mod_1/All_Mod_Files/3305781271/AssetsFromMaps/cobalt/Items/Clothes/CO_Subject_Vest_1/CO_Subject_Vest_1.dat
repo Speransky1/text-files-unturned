@@ -1,0 +1,20 @@
+GUID 53848da7c7424ce9a9631e1f1a34ee80
+
+Type Vest
+Rarity Uncommon
+Useable Clothing
+ID 17025
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 4
+Height 3
+
+Armor 0.85
+Use_Auto_Stat_Descriptions false
+
+
+Quality_Min 100
+Quality_Max 100

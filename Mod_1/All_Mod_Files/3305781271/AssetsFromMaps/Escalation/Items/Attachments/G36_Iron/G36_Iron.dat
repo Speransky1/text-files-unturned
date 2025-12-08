@@ -1,0 +1,17 @@
+GUID ee6c0ad73eff4fa7b737066d49f0dcaf
+Type Sight
+Rarity Rare
+
+ID 51364
+
+Zoom_Using_Eyes True
+Zoom 1.1
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51364
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51017
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

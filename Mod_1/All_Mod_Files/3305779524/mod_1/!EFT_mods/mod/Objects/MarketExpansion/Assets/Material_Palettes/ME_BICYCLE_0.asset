@@ -1,0 +1,44 @@
+"Metadata"
+{
+	"GUID" "ff06217de4cd43ca8707a9b606b24cd4"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_BICYCLE_0/ME_BICYCLE_00.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_BICYCLE_0/ME_BICYCLE_01.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_BICYCLE_0/ME_BICYCLE_02.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_BICYCLE_0/ME_BICYCLE_03.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_BICYCLE_0/ME_BICYCLE_04.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_BICYCLE_0/ME_BICYCLE_05.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_BICYCLE_0/ME_BICYCLE_06.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_BICYCLE_0/ME_BICYCLE_07.mat"
+		}
+	]
+}

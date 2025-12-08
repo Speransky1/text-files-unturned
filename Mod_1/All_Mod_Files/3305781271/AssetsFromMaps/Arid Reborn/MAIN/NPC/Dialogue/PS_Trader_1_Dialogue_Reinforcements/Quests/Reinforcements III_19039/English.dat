@@ -1,0 +1,7 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Reinforcements III
+Description Mark big fuel tanks in the city's police station, city's steel mill, radar station and west PMC camp.
+Condition_0 {0}/{1} Planted Markers
+Reward_1 Compact Generator
+Reward_2 Compact Generator Blueprint Unlocked
+Reward_3 More purchase options.

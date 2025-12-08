@@ -1,0 +1,48 @@
+GUID a90493fe50fc46d593c14323d9703226
+Type Barricade
+Useable Barricade
+Has_Clip_Prefab False
+Build Barricade
+Rarity Epic
+ID 10580
+
+Size_X 4
+Size_Y 1
+Size_Z 0.4
+
+SalvageItem a90493fe50fc46d593c14323d9703226
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 51a9a3fbedd3464791d100d83916cc06
+
+
+Use_Auto_Icon_Measurements False
+
+Health 100
+Range 4
+Radius 0.2
+Offset 0.39
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10580
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 19378
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 19680
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 19627
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Output_3_ID 19000
+Blueprint_0_Output_3_Amount 3
+Blueprint_0_Tool 19375
+Blueprint_0_Build 27

@@ -1,0 +1,20 @@
+GUID 7c0ad9678bbd48be831eb414f1e9a139
+
+Type Resource
+Has_Clip_Prefab False
+ID 19026
+
+Health 400
+Radius 4
+Scale 0
+
+Explosion 19052
+Reward_ID 19029
+Reward_XP 0
+Reward_Min 0
+Reward_Max 0
+
+BladeID 6
+
+No_Debris
+Reset 1260

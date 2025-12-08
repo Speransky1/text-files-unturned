@@ -1,0 +1,8 @@
+﻿GUID d6fc183e58c04472b13e5634812ce185
+
+Type Small
+Has_Clip_Prefab false
+Rubble Destroy
+Rubble_Reset 120
+Rubble_Health 5
+Rubble_Effect 41304

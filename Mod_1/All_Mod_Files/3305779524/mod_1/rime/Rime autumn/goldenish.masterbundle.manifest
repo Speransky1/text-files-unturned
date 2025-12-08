@@ -1,0 +1,685 @@
+ManifestFileVersion: 0
+CRC: 2390569813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e245794f9d42e3950e9be9efade163d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a2501a56de6927d61f28185b84a8b09
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 75
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc5dcd01db1ebec4d8f143d933b00964, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 192
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/GSMB/Objects/Large/GS_Mobile_Container_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Container_0/Container_0_M.mat
+- Assets/GSMB/Trees/GS_Pine1_2/Stump.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Chair_0/Nav.prefab
+- Assets/GSMB/Objects/Decals/GS_Decal_2/Decal.png
+- Assets/GSMB/Material_Palettes/GS_Coil_0/Coil_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Barbed_Wire_0/Animations.prefab
+- Assets/GSMB/Terrain/Foliage/Juice_Box_2_M.mat
+- Assets/GSMB/Trees/GS_Pine0_1/Resource.prefab
+- Assets/GSMB/Trees/GS_Pine2_1/Stump.prefab
+- Assets/GSMB/Objects/Medium/GS_Pharmacy_Text_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Crate_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Soda_0.png
+- Assets/GSMB/Material_Palettes/GS_Book_0/Book_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Mobile_Light_0/Ambience.ogg
+- Assets/GSMB/Trees/GS_Pine1_0/Skybox.prefab
+- Assets/GSMB/Terrain/Foliage/Sticks_0_M.mat
+- Assets/GSMB/Material_Palettes/GS_Mixer_0/Mixer_0_M.mat
+- Assets/GSMB/Objects/Large/GS_Library_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Mobile_Container_0/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Mesh_Fence_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Leaf_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Wooden_Shelf_1/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Air_Condition_0/Object.prefab
+- Assets/GSMB/Sounds/Clothes/Clothing_Wear.ogg
+- Assets/GSMB/Trees/GS_Pine2_0/Skybox.prefab
+- Assets/GSMB/Effects/Ambience/GS_Inside_Buildings_0/Inside_Building_Ambience.ogg
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_1/Nav.prefab
+- Assets/GSMB/Trees/GS_Pine4_1/Stump.prefab
+- Assets/GSMB/Terrain/Foliage/Newspapers_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Gun_Store_Text_0/Object.prefab
+- Assets/GSMB/Trees/GS_Pine2_0/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Files_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Shelf_1/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Apartment_1/Skybox.prefab
+- Assets/GSMB/Terrain/Foliage/Cardboard_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Mixer_0/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Crate_0/Crate_2_M.mat
+- Assets/GSMB/Trees/GS_Pine3_1/Resource.prefab
+- Assets/GSMB/Objects/Small/GS_Book_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Book_0/Book_4_M.mat
+- Assets/GSMB/Objects/Medium/GS_Plant_1/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Newspapers_Junk_Mesh_0.fbx
+- Assets/GSMB/Trees/GS_Maple0_1/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Roundabout_Sign_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Shop_Shelf_1/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Sedan_0/Sedan_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Fence_Road_1/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Bottle_0.png
+- Assets/GSMB/Terrain/Materials/Grass.png
+- Assets/GSMB/Material_Palettes/GS_Mobile_Container_0/Mobile_Container_1_M.mat
+- Assets/GSMB/Effects/Explosions/GS_Leaves_Explosion_0/Effect.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Juice_Box_1.png
+- Assets/GSMB/Trees/GS_Pine3_0/Skybox.prefab
+- Assets/GSMB/Trees/GS_Pine2_2/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Radio_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Container_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Plant_1/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Trashcan_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Files_0/Files_Handle.ogg
+- Assets/GSMB/Terrain/Foliage/Textures/Leaf_1.png
+- Assets/GSMB/Material_Palettes/GS_Palette_0/Palette_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Block_Road_2/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_Halloween_1/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Cup_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Pile_Leaves_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Juice_Box_1_M.mat
+- Assets/GSMB/Clothes/Pants/GS_Nurse_Bottom_0/Material.mat
+- Assets/GSMB/Objects/Large/GS_Boulder_4/Skybox.prefab
+- Assets/GSMB/Objects/Large/GS_Library_0/Skybox.prefab
+- Assets/GSMB/Material_Palettes/GS_Trashcan_1/Plastic_Trashcan_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Radio_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Washing_Machine_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Coat_0/Object.prefab
+- Assets/GSMB/Trees/GSC_Maple_1/Resource.prefab
+- Assets/GSMB/Clothes/Pants/GS_Nurse_Bottom_0/Pants.png
+- Assets/GSMB/Terrain/Foliage/Textures/Newspapers_3.png
+- Assets/GSMB/Trees/GS_Pine4_2/Resource.prefab
+- Assets/GSMB/Trees/GS_Maple1_2/Resource.prefab
+- Assets/GSMB/Trees/GS_Bush1_1/Resource.prefab
+- Assets/GSMB/Terrain/Foliage/Soda_0_M.mat
+- Assets/GSMB/Terrain/Foliage/Cinderblock_2_M.mat
+- Assets/GSMB/Trees/GS_Pine0_2/Stump.prefab
+- Assets/GSMB/Objects/Medium/GS_Dumpster_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Microwave_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Table_Small_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Washing_Machine_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Shop_Shelf_0/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Grass_1.png
+- Assets/GSMB/Objects/Medium/GS_Wooden_Shelf_0/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Palette_0/Palette_2_M.mat
+- Assets/GSMB/Material_Palettes/GS_Palette_0/Palette_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_City_Sign_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Office_Chair_0/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Couch_0/Couch_3_M.mat
+- Assets/GSMB/Terrain/Meshes/Juice_Box_Junk_Mesh_0.fbx
+- Assets/GSMB/Objects/Medium/GS_Library_Text_0/Object.prefab
+- Assets/GSMB/Trees/GS_Pine2_1/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Block_Road_1/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Book_0/Book_6_M.mat
+- Assets/GSMB/Material_Palettes/GS_Container_0/Container_5_M.mat
+- Assets/GSMB/Objects/Large/GS_Gun_Store_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Grocery_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Sedan_0/Sedan_4_M.mat
+- Assets/GSMB/Trees/GSC_Pine_4/Resource.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_3/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Egg_Tray_0_M.mat
+- Assets/GSMB/Terrain/Foliage/Egg_Tray_2_M.mat
+- Assets/GSMB/Terrain/Foliage/Newspapers_1_M.mat
+- Assets/GSMB/Trees/GS_Pine0_0/Skybox.prefab
+- Assets/GSMB/Material_Palettes/GS_Cardboard_0/Cardboard2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Counter_4/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_Halloween_0/Nav.prefab
+- Assets/GSMB/Clothes/Shirts/GS_Nurse_Top_0/Material.mat
+- Assets/GSMB/Trees/GS_Pine1_1/Skybox.prefab
+- Assets/GSMB/Trees/GS_Pine4_1/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Shop_Shelf_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Stand_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Grocery_0/Nav.prefab
+- Assets/GSMB/Objects/Small/GS_Cardboard_1/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Leaf_2.png
+- Assets/GSMB/Objects/Large/GS_Boulder_1/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_0/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Home_Lamp_0 1/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Mobile_Container_0/Mobile_Container_3_M.mat
+- Assets/GSMB/Objects/Medium/GS_Dryer_1/Object.prefab
+- Assets/GSMB/Clothes/Shirts/GS_Nurse_Top_0/Shirt.png
+- Assets/GSMB/Objects/Medium/GS_Door_0/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Grass_1_M.mat
+- Assets/GSMB/Material_Palettes/GS_Bench_0/Bench_2_M.mat
+- Assets/GSMB/Objects/Large/GS_Boulder_3/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Metal_Chair_0/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Bottle_3_M.mat
+- Assets/GSMB/Objects/Large/GS_Post_0/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Tree_Trunk_0_M.mat
+- Assets/GSMB/Effects/Explosions/GS_Trashcan_Explosion_0/Trashcan_Explode.ogg
+- Assets/GSMB/Trees/GS_Pine1_0/Stump.prefab
+- Assets/GSMB/Material_Palettes/GS_Bed_0/Bed_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Oven_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Street_Light_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Standing_Table_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_4/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Mesh_Fence_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Shelf_2/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Couch_0/Couch_2_M.mat
+- Assets/GSMB/Terrain/Foliage/Leaf_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Tree_Pot_1/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Dishwasher_0/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Grass_0.png
+- Assets/GSMB/Objects/Medium/GS_Pile_Leaves_0/Nav.prefab
+- Assets/GSMB/Trees/GSC_Pine_1/Resource.prefab
+- Assets/GSMB/Terrain/Foliage/Soda_2_M.mat
+- Assets/GSMB/Clothes/Shirts/GS_Plaid_Shirt_0/Item.prefab
+- Assets/GSMB/Objects/Medium/GS_Counter_3/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Dumpster_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Dryer_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Container_Door_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_2/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Door_0/Door_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Palette_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_House_1/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Couch_1/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Door_1/Object.prefab
+- Assets/GSMB/Objects/Large/GS_House_1/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Newspapers_0.png
+- Assets/GSMB/Objects/Medium/GS_Crosswalk_Sign_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Construction_Site_Fence_1/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Coat_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Barrel_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Pride_Flag_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Counter_2/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Office_Chair_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Shop_Shelf_1/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Picture_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Library_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Mobile_Light_0/Nav.prefab
+- Assets/GSMB/Terrain/Materials/Road.png
+- Assets/GSMB/Objects/Large/GS_Boulder_6/Nav.prefab
+- Assets/GSMB/Trees/GS_Bush0_2/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_0/Nav.prefab
+- Assets/GSMB/Trees/GS_Pine2_2/Skybox.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_2/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Block_Road_1/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Computer_2/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Computer_2/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Power_Line_E_0/Object.prefab
+- Assets/GSMB/Trees/GS_Pine1_2/Resource.prefab
+- Assets/GSMB/Trees/GS_Pine3_1/Skybox.prefab
+- Assets/GSMB/Terrain/Materials/Stone.png
+- Assets/GSMB/Objects/Large/GS_Apartment_0/Nav.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_2/Nav.prefab
+- Assets/GSMB/Terrain/Meshes/Flower_Mesh_1.fbx
+- Assets/GSMB/Objects/Medium/GS_Couch_0/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Door_0/Door_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Wooden_Shelf_3/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Trashcan_2/Nav.prefab
+- Assets/GSMB/Trees/GSC_Pine_1/Stump.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Cardboard_0.png
+- Assets/GSMB/Trees/GS_Pine4_0/Stump.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Plank_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Flag_1/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Coil_0/Nav.prefab
+- Assets/GSMB/Objects/Large/GS_Apartment_1/Nav.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_0/Object.prefab
+- Assets/GSMB/Trees/GSC_Bush_1/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Door_0/Object.prefab
+- Assets/GSMB/Trees/GS_Pine4_0/Skybox.prefab
+- Assets/GSMB/Terrain/Meshes/Fern_Mesh_0.fbx
+- Assets/GSMB/Clothes/Pants/GS_Black_Jeans_0/Item.prefab
+- Assets/GSMB/Objects/Medium/GS_Couch_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Mixer_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Egg_Tray_0.png
+- Assets/GSMB/Objects/Large/GS_Excavator_0/Nav.prefab
+- Assets/GSMB/Objects/Large/GS_Gun_Store_0/Nav.prefab
+- Assets/GSMB/Objects/Large/GS_Mobile_Container_1/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Table_1/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Metal_Shelf_1/Nav.prefab
+- Assets/GSMB/Trees/GS_Maple0_2/Skybox.prefab
+- Assets/GSMB/Clothes/Pants/GS_Gown_0/Pants.png
+- Assets/GSMB/Terrain/Foliage/Textures/Egg_Tray_2.png
+- Assets/GSMB/Material_Palettes/GS_Bed_0/Bed_0_M.mat
+- Assets/GSMB/Trees/GSC_Pine_4/Stump.prefab
+- Assets/GSMB/Terrain/Meshes/Bottle_Junk_Mesh_0.fbx
+- Assets/GSMB/Material_Palettes/GS_Couch_0/Couch_1_M.mat
+- Assets/GSMB/Material_Palettes/GS_Dumpster_0/Dumpster_4_M.mat
+- Assets/GSMB/Objects/Medium/GS_Grocery_Text_0/Object.prefab
+- Assets/GSMB/Objects/Small/GS_Register_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Flowers_0_M.mat
+- Assets/GSMB/Trees/GS_Pine4_1/Resource.prefab
+- Assets/GSMB/Trees/GS_Pine1_1/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Office_Table_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Construction_Site_Fence_1/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Barrel_0/Barrel_3_M.mat
+- Assets/GSMB/Objects/Large/GS_Mobile_Container_1/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Egg_Tray_1_M.mat
+- Assets/GSMB/Trees/GS_Maple0_0/Skybox.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_1/Skybox.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Cardboard_1.png
+- Assets/GSMB/Material_Palettes/GS_Fridge_0/Fridge_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Plant_0/Nav.prefab
+- Assets/GSMB/Objects/Small/GS_Cardboard_2/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Sticks_Mesh_0.fbx
+- Assets/GSMB/Trees/GSC_Pine_0/Resource.prefab
+- Assets/GSMB/Material_Palettes/GS_Garbage_Bag_0/Garbage_Bag_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Home_Lamp_0 1/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Cardboard_0/Cardboard1_M.mat
+- Assets/GSMB/Objects/Large/GS_Excavator_2/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Coil_2/Object.prefab
+- Assets/GSMB/Trees/GS_Maple1_0/Resource.prefab
+- Assets/GSMB/Material_Palettes/GS_Metal_Chair_0/Metal_Chair_2_M.mat
+- Assets/GSMB/Objects/Large/GS_House_0/Skybox.prefab
+- Assets/GSMB/Trees/GSC_Pine_1/Skybox.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Snow_Grass_0.png
+- Assets/GSMB/Objects/Medium/GS_Counter_0/Counter_Handle.ogg
+- Assets/GSMB/Trees/GS_Maple1_0/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Construction_Site_Fence_0/Object.prefab
+- Assets/GSMB/Effects/Explosions/GS_Pine_Explosion_0/Effect.prefab
+- Assets/GSMB/Objects/Medium/GS_Metal_Fence_0/Nav.prefab
+- Assets/GSMB/Trees/GS_Pine4_2/Stump.prefab
+- Assets/GSMB/Terrain/Foliage/Flowers_1_M.mat
+- Assets/GSMB/Objects/Large/GS_Mobile_Container_0/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Trashcan_1/Plastic_Trashcan_2_M.mat
+- Assets/GSMB/Objects/Large/GS_Power_Line_0/Nav.prefab
+- Assets/GSMB/Objects/Decals/GS_Decal_1/Decal.png
+- Assets/GSMB/Objects/Medium/GS_Heating_0/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Bottle_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Wardrobe_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Computer_1/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Door_2/Nav.prefab
+- Assets/GSMB/Trees/GS_Maple0_1/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Air_Condition_1/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Newspapers_3_M.mat
+- Assets/GSMB/Terrain/Meshes/Egg_Tray_Junk_Mesh_0.fbx
+- Assets/GSMB/Trees/GS_Pine3_1/Stump.prefab
+- Assets/GSMB/Objects/Large/GS_Mobile_Container_1/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Mobile_Container_0/Mobile_Container_0_M.mat
+- Assets/GSMB/Trees/GS_Pine0_0/Resource.prefab
+- Assets/GSMB/Material_Palettes/GS_Door_0/Door_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Coil_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Shelf_2/Nav.prefab
+- Assets/GSMB/Terrain/Meshes/Plastic_Cup_Junk_Mesh_0.fbx
+- Assets/GSMB/Trees/GSC_Pine_4/Skybox.prefab
+- Assets/GSMB/Material_Palettes/GS_Bench_0/Bench_1_M.mat
+- Assets/GSMB/Objects/Large/GS_House_0/Nav.prefab
+- Assets/GSMB/Trees/GSC_Pine_2/Stump.prefab
+- Assets/GSMB/Objects/Large/GS_Pharmacy_0/Object.prefab
+- Assets/GSMB/Effects/Explosions/GS_Trashcan_Explosion_0/Effect.prefab
+- Assets/GSMB/Objects/Medium/GS_Home_Lamp_0 1/Lamp_Turn_On.ogg
+- Assets/GSMB/Objects/Large/GS_Excavator_2/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Book_0/Book_1_M.mat
+- Assets/GSMB/Material_Palettes/GS_Container_0/Container_3_M.mat
+- Assets/GSMB/Terrain/Foliage/Textures/Soda_2.png
+- Assets/GSMB/Terrain/Foliage/Fern_1_M.mat
+- Assets/GSMB/Clothes/Shirts/GS_Plaid_Shirt_0/Animations.prefab
+- Assets/GSMB/Objects/Medium/GS_Office_Table_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Wheel_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Barrel_0/Barrel_4_M.mat
+- Assets/GSMB/Objects/Medium/GS_Shop_Shelf_2/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Stand_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Tree_Pot_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Construction_Site_Fence_0/Construction_Fence_3_M.mat
+- Assets/GSMB/Trees/GS_Pine4_0/Resource.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_5/Skybox.prefab
+- Assets/GSMB/Terrain/Meshes/Cardboard_Junk_Mesh_1.fbx
+- Assets/GSMB/Objects/Medium/GS_Door_2/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Chair_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Bottle_4_M.mat
+- Assets/GSMB/Trees/GSC_Pine_3/Stump.prefab
+- Assets/GSMB/Effects/Explosions/GS_Pine_Explosion_1/Effect.prefab
+- Assets/GSMB/Trees/GS_Maple0_2/Resource.prefab
+- Assets/GSMB/Trees/GS_Pine3_2/Resource.prefab
+- Assets/GSMB/Material_Palettes/GS_Office_Chair_0/Office_Chair_0_M.mat
+- Assets/GSMB/Objects/Large/GS_Grocery_0/Skybox.prefab
+- Assets/GSMB/Clothes/Shirts/GS_Plaid_Shirt_0/Material.mat
+- Assets/GSMB/Material_Palettes/GS_Fence_Wood_0/Fence_Wood_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Crosswalk_Sign_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Dishwasher_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Roundabout_Sign_0/Object.prefab
+- Assets/GSMB/Effects/Explosions/GS_Pine_Explosion_2/Effect.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Egg_Tray_1.png
+- Assets/GSMB/Objects/Small/GS_Home_Lamp_Small_0/Object.prefab
+- Assets/GSMB/Trees/GS_Pine0_0/Stump.prefab
+- Assets/GSMB/Trees/GS_Pine4_2/Skybox.prefab
+- Assets/GSMB/Objects/Large/GS_Excavator_2/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Trashcan_1/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Soda_Junk_Mesh_0.fbx
+- Assets/GSMB/Terrain/Foliage/Textures/Bottle_2.png
+- Assets/GSMB/Objects/Medium/GS_Bed_0/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Bottle_Junk_Mesh_1.fbx
+- Assets/GSMB/Objects/Large/GS_Boulder_6/Skybox.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Snow_Grass_1.png
+- Assets/GSMB/Trees/GSC_Maple_0/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_1/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Post_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_Halloween_2/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Shelf_0/Shelf_Handle.ogg
+- Assets/GSMB/Objects/Medium/GS_Metal_Shelf_1/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Pebbles/Pebble_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Counter_4/Nav.prefab
+- Assets/GSMB/Terrain/Meshes/Grass_Mesh_1.fbx
+- Assets/GSMB/Objects/Medium/GS_Bed_1/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Tree_Pot_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Radio_0/Ambience.ogg
+- Assets/GSMB/Objects/Medium/GS_Picture_2/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Building_Glass_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Air_Condition_3/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_3/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Pride_Flag_1/Object.prefab
+- Assets/GSMB/Trees/GS_Pine2_0/Stump.prefab
+- Assets/GSMB/Objects/Medium/GS_Couch_1/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Metal_Chair_0/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Sticks_Mesh_1.fbx
+- Assets/GSMB/Material_Palettes/GS_Mixer_0/Mixer_3_M.mat
+- Assets/GSMB/Objects/Medium/GS_Oven_0/Object.prefab
+- Assets/GSMB/Trees/GS_Pine0_2/Skybox.prefab
+- Assets/GSMB/Effects/Explosions/GS_Leaves_Explosion_0/Leaves_Explode.ogg
+- Assets/GSMB/Objects/Medium/GS_Fence_Road_1/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Street_Light_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Juice_Box_2.png
+- Assets/GSMB/Terrain/Foliage/Wheat_0_M.mat
+- Assets/GSMB/Trees/GS_Pine1_2/Skybox.prefab
+- Assets/GSMB/Trees/GS_Pine3_0/Stump.prefab
+- Assets/GSMB/Trees/GS_Bush1_0/Resource.prefab
+- Assets/GSMB/Terrain/Foliage/Fern_0_M.mat
+- Assets/GSMB/Trees/GSC_Pine_0/Skybox.prefab
+- Assets/GSMB/Trees/GSC_Pine_2/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Table_Small_0/Nav.prefab
+- Assets/GSMB/Objects/Large/GS_House_1/Skybox.prefab
+- Assets/GSMB/Objects/Small/GS_Construction_Sign_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Metal_Shelf_0/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Fern_1.png
+- Assets/GSMB/Objects/Medium/GS_Cargo_Cloth_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Dumpster_0/Dumpster_1_M.mat
+- Assets/GSMB/Objects/Large/GS_Excavator_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Excavator_1/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Dryer_0/Nav.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_4/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Metal_Shelf_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Cardboard_0/Cardboard0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Fridge_0/Ambience.ogg
+- Assets/GSMB/Terrain/Foliage/Cup_2_M.mat
+- Assets/GSMB/Material_Palettes/GS_Couch_0/Couch_0_M.mat
+- Assets/GSMB/Terrain/Foliage/Textures/Flowers_1.png
+- Assets/GSMB/Objects/Medium/GS_Container_Door_1/Nav.prefab
+- Assets/GSMB/Trees/GS_Maple1_1/Resource.prefab
+- Assets/GSMB/Trees/GS_Pine0_1/Stump.prefab
+- Assets/GSMB/Clothes/Pants/GS_Nurse_Bottom_0/Item.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_1/Nav.prefab
+- Assets/GSMB/Clothes/Pants/GS_Black_Jeans_0/Pants.png
+- Assets/GSMB/Material_Palettes/GS_Bench_0/Bench_0_M.mat
+- Assets/GSMB/Objects/Large/GS_Pharmacy_0/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Picture_1/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Trashcan_1/Plastic_Trashcan_0_M.mat
+- Assets/GSMB/Terrain/Materials/Gravel.png
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_Halloween_2/Nav.prefab
+- Assets/GSMB/Trees/GS_Maple0_0/Resource.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Newspapers_2.png
+- Assets/GSMB/Material_Palettes/GS_Coil_0/Coil_0_M.mat
+- Assets/GSMB/Objects/Large/GS_Excavator_0/Skybox.prefab
+- Assets/GSMB/Objects/Decals/GS_Decal_3/Decal.png
+- Assets/GSMB/Terrain/Foliage/Juice_Box_0_M.mat
+- Assets/GSMB/Material_Palettes/GS_Barrel_0/Barrel_0_M.mat
+- Assets/GSMB/Material_Palettes/GS_Container_0/Container_7_M.mat
+- Assets/GSMB/Objects/Medium/GS_Container_Door_1/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Power_Line_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Cardboard_1_M.mat
+- Assets/GSMB/Material_Palettes/GS_Mobile_Container_0/Mobile_Container_2_M.mat
+- Assets/GSMB/Trees/GS_Pine1_0/Resource.prefab
+- Assets/GSMB/Material_Palettes/GS_Dumpster_0/Dumpster_3_M.mat
+- Assets/GSMB/Objects/Medium/GS_Coffee_Machine_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Cup_0.png
+- Assets/GSMB/Effects/Ambience/GS_Inside_Buildings_0/Effect.prefab
+- Assets/GSMB/Objects/Medium/GS_Barbed_Wire_0/Use.mp3
+- Assets/GSMB/Trees/GSC_Pine_2/Skybox.prefab
+- Assets/GSMB/Objects/Large/GS_Pharmacy_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Counter_0/Nav.prefab
+- Assets/GSMB/Objects/Small/GS_Cardboard_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Fern_0.png
+- Assets/GSMB/Trees/GS_Pine3_0/Resource.prefab
+- Assets/GSMB/Material_Palettes/GS_Sedan_0/Sedan_0_M.mat
+- Assets/GSMB/Terrain/Foliage/Grass_2_M.mat
+- Assets/GSMB/Trees/GS_Bush1_2/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Fridge_0/Fridge_Handle.ogg
+- Assets/GSMB/Objects/Large/GS_Boulder_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Computer_1/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Bottle_1_M.mat
+- Assets/GSMB/Effects/Explosions/GS_Pine_Explosion_0/Tree_Timber.ogg
+- Assets/GSMB/Terrain/Meshes/Grass_Mesh_0.fbx
+- Assets/GSMB/Objects/Medium/GS_Counter_1/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Pebble_Mesh_1.fbx
+- Assets/GSMB/Trees/GS_Maple1_1/Skybox.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Wheat_0.png
+- Assets/GSMB/Objects/Medium/GS_Counter_2/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Car_Steer_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Bottle_1.png
+- Assets/GSMB/Terrain/Foliage/Newspapers_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Fence_Road_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Sedan_0/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Cinderblock_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Light_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Heating_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Office_Chair_0/Office_Chair_2_M.mat
+- Assets/GSMB/Clothes/Pants/GS_Black_Jeans_0/Material.mat
+- Assets/GSMB/Objects/Medium/GS_Wheelbarrow_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Metal_Chair_0/Metal_Chair_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Wooden_Shelf_3/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Garbage_Bag_0/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Log_Mesh_0.fbx
+- Assets/GSMB/Terrain/Meshes/Leaf_Mesh_0.fbx
+- Assets/GSMB/Terrain/Foliage/Textures/Flowers_2.png
+- Assets/GSMB/Objects/Medium/GS_Television_0/Object.prefab
+- Assets/GSMB/Clothes/Pants/GS_Gown_0/Material.mat
+- Assets/GSMB/Clothes/Shirts/GS_Nurse_Top_0/Animations.prefab
+- Assets/GSMB/Objects/Medium/GS_Clock_0/Object.prefab
+- Assets/GSMB/Clothes/Pants/GS_Nurse_Bottom_0/Animations.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Pine_Trunk_0.png
+- Assets/GSMB/Terrain/Foliage/Soda_1_M.mat
+- Assets/GSMB/Terrain/Foliage/Textures/Leaf_0.png
+- Assets/GSMB/Trees/GSC_Maple_1/Skybox.prefab
+- Assets/GSMB/Material_Palettes/GS_Metal_Chair_0/Metal_Chair_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Trashcan_1/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Radio_0/Radio_Button.ogg
+- Assets/GSMB/Objects/Medium/GS_Air_Condition_2/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Construction_Site_Fence_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Mobile_Light_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Home_Lamp_0/Lamp_Turn_On.ogg
+- Assets/GSMB/Material_Palettes/GS_Bed_0/Bed_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Sedan_0/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Flower_Mesh_0.fbx
+- Assets/GSMB/Terrain/Meshes/Pebbles/Pebble_0_M.mat
+- Assets/GSMB/Material_Palettes/GS_Garbage_Bag_0/Garbage_Bag_0_M.mat
+- Assets/GSMB/Material_Palettes/GS_Garbage_Bag_0/Garbage_Bag_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Door_1/Nav.prefab
+- Assets/GSMB/Terrain/Meshes/Wheat_Mesh_0.fbx
+- Assets/GSMB/Trees/GS_Pine1_1/Stump.prefab
+- Assets/GSMB/Trees/GS_Maple1_2/Skybox.prefab
+- Assets/GSMB/Trees/GSC_Pine_0/Stump.prefab
+- Assets/GSMB/Trees/GS_Bush0_0/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Bench_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Car_Fuel_Cap_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Trashcan_2/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Juice_Box_0.png
+- Assets/GSMB/Objects/Medium/GS_Wooden_Table_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Bed_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Barbed_Wire_0/Item.prefab
+- Assets/GSMB/Objects/Medium/GS_Coffee_Machine_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Shop_Shelf_2/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Tree_Pot_1/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Bed_1/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Container_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Shelf_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Barrel_0/Barrel_2_M.mat
+- Assets/GSMB/Objects/Decals/GS_Decal_0/Decal.png
+- Assets/GSMB/Terrain/Meshes/Cardboard_Junk_Mesh_0.fbx
+- Assets/GSMB/Objects/Medium/GS_Fridge_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Plant_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Bench_0/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Cup_1.png
+- Assets/GSMB/Objects/Medium/GS_Home_Lamp_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Construction_Site_Fence_2/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Files_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_2/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Wardrobe_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_6/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Cup_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Fridge_0/Nav.prefab
+- Assets/GSMB/Trees/GS_Pine0_1/Skybox.prefab
+- Assets/GSMB/Terrain/Foliage/Bottle_1_M 1.mat
+- Assets/GSMB/Terrain/Foliage/Flowers_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Pharmacy_Logo_0/Object.prefab
+- Assets/GSMB/Terrain/Meshes/Pebble_Mesh_0.fbx
+- Assets/GSMB/Trees/GS_Pine3_2/Skybox.prefab
+- Assets/GSMB/Material_Palettes/GS_Barrel_0/Barrel_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Container_Door_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Post_Text_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Dryer_1/Nav.prefab
+- Assets/GSMB/Terrain/Foliage/Grass_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Coil_2/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Container_0/Container_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Excavator_Glass_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Counter_1/Nav.prefab
+- Assets/GSMB/Terrain/Meshes/Flower_Mesh_2.fbx
+- Assets/GSMB/Material_Palettes/GS_Book_0/Book_3_M.mat
+- Assets/GSMB/Objects/Medium/GS_Television_0/Nav.prefab
+- Assets/GSMB/Trees/GS_Bush0_1/Resource.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Table_1/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Construction_Site_Fence_0/Construction_Fence_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Crate_0/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Book_0/Book_5_M.mat
+- Assets/GSMB/Material_Palettes/GS_Container_0/Container_4_M.mat
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_Halloween_1/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Metal_Chair_0/Metal_Chair_3_M.mat
+- Assets/GSMB/Objects/Medium/GS_Block_Road_2/Object.prefab
+- Assets/GSMB/Trees/GS_Pine3_2/Stump.prefab
+- Assets/GSMB/Objects/Decals/GS_Decal_4/Decal.png
+- Assets/GSMB/Material_Palettes/GS_Crate_0/Crate_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Counter_3/Nav.prefab
+- Assets/GSMB/Trees/GS_Pine0_2/Resource.prefab
+- Assets/GSMB/Material_Palettes/GS_Sedan_0/Sedan_3_M.mat
+- Assets/GSMB/Objects/Medium/GS_Mobile_Toilet_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Textures/Flowers_0.png
+- Assets/GSMB/Terrain/Foliage/Textures/Newspapers_1.png
+- Assets/GSMB/Material_Palettes/GS_Fridge_0/Fridge_1_M.mat
+- Assets/GSMB/Material_Palettes/GS_Trashcan_1/Plastic_Trashcan_3_M.mat
+- Assets/GSMB/Trees/GSC_Pine_3/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Pumpkin_Halloween_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Garbage_Bag_0/Garbage_Bag_3_M.mat
+- Assets/GSMB/Objects/Medium/GS_Toaster_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Office_Chair_0/Office_Chair_1_M.mat
+- Assets/GSMB/Objects/Medium/GS_Standing_Table_0/Nav.prefab
+- Assets/GSMB/Clothes/Shirts/GS_Nurse_Top_0/Item.prefab
+- Assets/GSMB/Objects/Medium/GS_City_Sign_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Barrel_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Power_Line_0/Skybox.prefab
+- Assets/GSMB/Terrain/Foliage/Cinderblock_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Mobile_Toilet_0/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Sedan_0/Sedan_2_M.mat
+- Assets/GSMB/Clothes/Shirts/GS_Plaid_Shirt_0/Shirt.png
+- Assets/GSMB/Terrain/Foliage/Grass_3_M.mat
+- Assets/GSMB/Objects/Medium/GS_Fence_Road_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Car_Seat_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Post_0/Skybox.prefab
+- Assets/GSMB/Clothes/Pants/GS_Gown_0/Item.prefab
+- Assets/GSMB/Material_Palettes/GS_Container_0/Container_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Home_Lamp_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Dumpster_0/Dumpster_2_M.mat
+- Assets/GSMB/Material_Palettes/GS_Crate_0/Crate_1_M.mat
+- Assets/GSMB/Terrain/Foliage/Textures/Cup_2.png
+- Assets/GSMB/Terrain/Foliage/Textures/Soda_1.png
+- Assets/GSMB/Material_Palettes/GS_Book_0/Book_7_M.mat
+- Assets/GSMB/Material_Palettes/GS_Mixer_0/Mixer_2_M.mat
+- Assets/GSMB/Objects/Medium/GS_Coil_1/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Office_Chair_0/Office_Chair_3_M.mat
+- Assets/GSMB/Objects/Medium/GS_Flag_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Apartment_1/Object.prefab
+- Assets/GSMB/Clothes/Pants/GS_Black_Jeans_0/Animations.prefab
+- Assets/GSMB/Objects/Large/GS_Apartment_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_5/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Excavator_1/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Air_Condition_1/Object.prefab
+- Assets/GSMB/Trees/GS_Pine2_1/Resource.prefab
+- Assets/GSMB/Trees/GSC_Bush_0/Resource.prefab
+- Assets/GSMB/Clothes/Pants/GS_Gown_0/Animations.prefab
+- Assets/GSMB/Objects/Large/GS_House_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Coil_1/Object.prefab
+- Assets/GSMB/Trees/GS_Pine2_2/Stump.prefab
+- Assets/GSMB/Objects/Medium/GS_Wooden_Table_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Palette_0/Nav.prefab
+- Assets/GSMB/Trees/GSC_Maple_0/Skybox.prefab
+- Assets/GSMB/Terrain/Meshes/Cinderblock_Junk_Mesh_0.fbx
+- Assets/GSMB/Objects/Large/GS_Gun_Store_0/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Air_Condition_4/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Flower_Vase_0/Object.prefab
+- Assets/GSMB/Objects/Medium/GS_Trashcan_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Wheelbarrow_0/Nav.prefab
+- Assets/GSMB/Objects/Medium/GS_Metal_Fence_0/Object.prefab
+- Assets/GSMB/Terrain/Foliage/Leaf_1_M.mat
+- Assets/GSMB/Material_Palettes/GS_Book_0/Book_0_M.mat
+- Assets/GSMB/Objects/Medium/GS_Barbed_Wire_0/Barricade.prefab
+- Assets/GSMB/Objects/Medium/GS_Block_Road_0/Nav.prefab
+- Assets/GSMB/Objects/Large/GS_Excavator_1/Nav.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_5/Nav.prefab
+- Assets/GSMB/Material_Palettes/GS_Dumpster_0/Dumpster_0_M.mat
+- Assets/GSMB/Trees/GSC_Pine_3/Resource.prefab
+- Assets/GSMB/Objects/Large/GS_Apartment_0/Skybox.prefab
+- Assets/GSMB/Material_Palettes/GS_Container_0/Container_6_M.mat
+- Assets/GSMB/Objects/Medium/GS_Counter_0/Object.prefab
+- Assets/GSMB/Objects/Large/GS_Boulder_2/Skybox.prefab
+- Assets/GSMB/Objects/Medium/GS_Block_Road_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Mixer_0/Mixer_1_M.mat
+- Assets/GSMB/Objects/Small/GS_Computer_0/Object.prefab
+- Assets/GSMB/Material_Palettes/GS_Coil_0/Coil_2_M.mat
+Dependencies: []

@@ -1,0 +1,21 @@
+GUID 6212da47cd2b47a683c58d58654a989d
+Type Vehicle_Paint_Tool
+Rarity Epic
+Useable Vehicle_Paint
+ID 19762
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+UseAudioClip core.masterbundle:Sounds/Vehicle_Spraypaint.wav
+
+PaintColor #444444
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 19626
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Получено: пустой болончик краски
+Quest_Reward_1_Duration 1

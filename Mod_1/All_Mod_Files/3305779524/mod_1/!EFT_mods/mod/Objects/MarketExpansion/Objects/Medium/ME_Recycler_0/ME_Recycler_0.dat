@@ -1,0 +1,16 @@
+GUID 0383b1c830e34b3795b5761072fa9712
+Type Medium
+ID 45153
+
+Interactability Quest
+Interactability_Effect 6
+Interactability_Conditions 1
+Interactability_Condition_0_Type Currency
+Interactability_Condition_0_Value 10
+Interactability_Condition_0_GUID afbd9a99a1234201bc4c8c6ab86d0fcb
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+Interactability_Rewards 1
+Interactability_Reward_0_Type Item
+Interactability_Reward_0_ID 45011
+Interactability_Reward_0_Amount 1

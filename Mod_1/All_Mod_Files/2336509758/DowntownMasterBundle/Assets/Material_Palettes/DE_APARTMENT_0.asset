@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "ac794ccb84994beb96cb1cfdea3620a1"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_APARTMENT_0/DE_APARTMENT_0_00.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_APARTMENT_0/DE_APARTMENT_0_01.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_APARTMENT_0/DE_APARTMENT_0_02.mat"
+		}		
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_APARTMENT_0/DE_APARTMENT_0_03.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_APARTMENT_0/DE_APARTMENT_0_04.mat"
+		}
+	]
+}

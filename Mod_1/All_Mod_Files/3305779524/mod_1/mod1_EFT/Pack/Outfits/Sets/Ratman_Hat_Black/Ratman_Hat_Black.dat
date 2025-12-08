@@ -1,0 +1,25 @@
+GUID 57cd0f1c5ad9475797b588dd9a8938b8
+
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 54695
+
+Size_X 3
+Size_Y 3
+Size_Z 0.65
+
+Beard
+
+Armor 0.75
+Armor_Explosion 0.8
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+Quality_Min 55
+Quality_Max 65

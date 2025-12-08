@@ -1,0 +1,18 @@
+GUID b369486dba324877ae34936dfde6f5fb
+
+Type Tactical
+Rarity Rare
+ID 39155
+
+Size_X 1
+Size_Y 1
+Size_Z 0.073
+
+Light
+
+Use_Auto_Icon_Measurements True
+Use_Auto_Stat_Descriptions false
+Should_Drop_On_Death False
+Spotlight_Enabled false
+
+Spread 0.7

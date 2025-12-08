@@ -1,0 +1,52 @@
+﻿GUID 0c09c5fd6f3a435ebfbec188691a4fd3
+Type Tactical
+Rarity Rare
+ID 41909
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+Recoil_X 0.7
+Recoil_Y 0.6
+Spread 0.6
+Light
+SpotLight_Angle 0
+SpotLight_Intensity 0
+SpotLight_Range 0
+Calibers 1
+Caliber_0 43050
+Use_Auto_Icon_Measurements false
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Screwdriver
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 2" // Metal Parts
+			"fc66e44ca92f49d0b8d4fca4bd512190 x 3" // Electronic Fragments
+			"6cf962ee942941efa9d5b19ff8d85e6d x 1" // Light Bulb
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

@@ -1,0 +1,19 @@
+﻿Metadata
+{
+	GUID 8d35c58dd0984de4a65745f8ac17c478
+	Type SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Foliage
+	[
+		{
+			Asset
+			{
+				GUID 1fa342a6a2e34b69b4edec843acc64e4
+			}
+			Weight 1
+		}
+	]
+}

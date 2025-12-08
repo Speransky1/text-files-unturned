@@ -1,0 +1,107 @@
+GUID 02e463dc0b154723b27503b11259a786
+Type Spawn
+ID 10102
+
+Tables
+[
+	{
+		// Клавиатура (Supply Item)
+		Guid 8325f69756f4452abcefc56275f8271d
+		Weight 70
+	}
+	{
+		// Зеленая дискета (Supply Item)
+		Guid 0f4793fdbb9742bb8825811a36a0eac6
+		Weight 65
+	}
+	{
+		// Синяя дискета (Supply Item)
+		Guid c00d56e6f7174d1f9a227246cf6709b7
+		Weight 65
+	}
+	{
+		// Красная дискета (Supply Item)
+		Guid 9b9f9988cf7d448bbe44afcbb2fa619e
+		Weight 65
+	}
+	{
+		// Компьютерная мышь (Supply Item)
+		Guid 236dc23acfe543518f6f2812fabcc14d
+		Weight 65
+	}
+	{
+		// Материнская плата (Supply Item)
+		Guid 64d7dca1933f4ff698a30dd4d5e9c53a
+		Weight 60
+	}
+	{
+		// Материнская плата (Supply Item)
+		Guid 7a97333384f5415ab434e22fa1e68c90
+		Weight 55
+	}
+	{
+		// Черная дискета (Supply Item)
+		Guid 5fa9f2efe33d47018804ebdf82db378b
+		Weight 55
+	}
+	{
+		// HDD  (Supply Item)
+		Guid 99420843052240b19db4fed765685214
+		Weight 50
+	}
+	{
+		// Сломанные электронные часы (Supply Item)
+		Guid 4687c559e8fe4d3692a0258bde7308f1
+		Weight 45
+	}
+	{
+		// Медный провод (Supply Item)
+		Guid 2132f791a6d64c9d8c306b6c7ccbfd6b
+		Weight 40
+	}
+	{
+		// Медная катушка (Supply Item)
+		Guid 438bd50cfc6648f48b0fbe8943b09fa3
+		Weight 35
+	}
+	{
+		// Набор проводов (Supply Item)
+		Guid af7b1190229f4272a4632c4df0800b81
+		Weight 30
+	}
+	{
+		// Сломанное радио (Supply Item)
+		Guid 8ae25545de0d4d29995313b42ec3926a
+		Weight 27
+	}
+	{
+		// Видеоприемник (Supply Item)
+		Guid 9e76073531284b94922902ed853fb242
+		Weight 25
+	}
+	{
+		// Джойстик для радиоуправления (Supply Item)
+		Guid 754d641451674133a874e8047afe1dc8
+		Weight 23
+	}
+	{
+		// Старая видеокарта (Supply Item)
+		Guid e73e7d787fd24c598c9f7013cff7785e
+		Weight 15
+	}
+	{
+		// USB-накопитель (Supply Item)
+		Guid fc0121594a3048eb9e0d9566e5de6487
+		Weight 10
+	}
+	{
+		// SSD (Supply Item)
+		Guid b45d22f0e9b145238b6c845a1038fd96
+		Weight 2
+	}
+	{
+		// Набор батареек Cockler (Supply Item)
+		Guid 5735da1524e343778478292fc4dfc10c
+		Weight 1
+	}
+]

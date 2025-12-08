@@ -1,0 +1,72 @@
+"Metadata"
+{
+	"GUID" "3987063d60df43e2ac4ca66fe91880f1"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_0.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_1.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_2.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_3.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_4.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_5.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_6.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_7.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_8.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_9.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_10.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_11.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_12.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_13.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/residential_0/residential_14.mat"
+		}
+	]
+}

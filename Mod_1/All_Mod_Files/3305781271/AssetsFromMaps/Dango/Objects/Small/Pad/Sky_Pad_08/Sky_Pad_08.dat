@@ -1,0 +1,10 @@
+GUID 4964ee3245194f0694b21eb034bb0ad7
+
+Type Small
+ID 44083
+
+Interactability Binary_State
+Interactability_Reset 1
+Interactability_Hint Use
+
+Asset_Bundle_Version 2

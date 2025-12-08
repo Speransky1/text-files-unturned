@@ -1,0 +1,90 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "cbb7438f415646efbb33690e65295341"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Items"
+	"Entries"
+	[
+		{
+			"Item" "d9864441a2fa485d946ab19f2457d062"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "fd0fa022edad45c38ba5c37319bd2675"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "30caaa2d8cb04b79a8c1ea3e4ab7bc9c"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "25e8aa3684064169bc3fc225247f96f9"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "10fa098dc00f44ea99f1077f8c90278c"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "a5f35f32d87e47b7b7f9d7fa5ea64654"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "7cd61992c3774f47bab9c145ac84b000"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "04bed3d6ecd444159aa4c2a79e307ee0"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "2ba29e19e09b400d95934dd40ad61eca"
+			"Value" "2"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "797bae33c4cb44548f2c380c5b3d86ee"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "ddd41d14bce44be6aeff1606cc27c047"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "7912a16da28148e697786b77147ca02e"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "613a77ecc54348dfb40157d4654f6a55"
+			"Value" "2"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "0d2be16e66d04f0db53cd0294f7c3719"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "3e7aabafe8ed4c458254fd566e6c5370"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+	]
+	"ID" "0"
+	"Asset_Bundle_Version" "1"
+}

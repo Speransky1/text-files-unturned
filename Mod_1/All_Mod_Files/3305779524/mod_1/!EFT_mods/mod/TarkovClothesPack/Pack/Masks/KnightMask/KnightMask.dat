@@ -1,0 +1,17 @@
+GUID 339db5ccdf8347b4b4568b934e4dd876
+
+Type Mask
+Rarity Mythical
+Useable Clothing
+ID 48579
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

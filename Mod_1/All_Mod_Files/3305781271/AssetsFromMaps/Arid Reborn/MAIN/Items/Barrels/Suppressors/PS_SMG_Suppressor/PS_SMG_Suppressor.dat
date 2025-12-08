@@ -1,0 +1,41 @@
+GUID 8ba163e95d404d27b0f23e901cfbb9ce
+Type Barrel
+Rarity Rare
+ID 19928
+
+Size_X 2
+Size_Y 1
+Size_Z 1
+
+Calibers 1
+Caliber_0 18938
+
+Recoil_X 0.90
+Recoil_Y 0.90
+Shake 0.96
+Ballistic_Drop 1.1
+
+Gunshot_Rolloff_Distance_Multiplier 0.75
+Silenced 
+Volume 0.5
+
+Quality_Min 100
+Quality_Max 100
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19928
+Blueprint_0_Product 19000
+Blueprint_0_Products 2
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Scrap
+Action_0_Tooltip Turn into <color=#ffffff>Metal</color>.

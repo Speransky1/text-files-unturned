@@ -1,0 +1,72 @@
+"Metadata"
+{
+	"GUID" "f62f6e9a9adb40419eb64709beb8c983"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_00.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_01.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_02.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_03.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_04.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_05.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_06.mat"
+		}
+			{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_07.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_08.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_09.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_10.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_11.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_12.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_13.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_SIGN_ROOF_0/ME_SIGN_ROOF_14.mat"
+		}
+	]
+}

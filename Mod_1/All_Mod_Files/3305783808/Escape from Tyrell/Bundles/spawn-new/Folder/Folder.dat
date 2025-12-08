@@ -1,0 +1,13 @@
+GUID 828f97dc38bb4f2cbcb6ac74f9303a8b
+Type Spawn
+ID 10600
+
+Tables
+[
+	{
+		// Paпорт Национальной гвардии от 6.09.2022 (Supply Item)
+		Guid fdf9a1b7e80c4f00a6316813a3d38652
+		Weight 1
+	}
+]
+

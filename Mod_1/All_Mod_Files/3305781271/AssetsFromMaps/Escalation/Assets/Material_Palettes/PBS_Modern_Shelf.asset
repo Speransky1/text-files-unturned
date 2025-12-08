@@ -1,0 +1,25 @@
+"Metadata"
+{
+	"GUID" "5ee338739ab849b78aaba720d6483168"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Modern_Shelf/PBS_Shelf_Wood.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Modern_Shelf/PBS_Shelf_Black.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Modern_Shelf/PBS_Shelf_White.mat"
+		
+		}
+	]
+}

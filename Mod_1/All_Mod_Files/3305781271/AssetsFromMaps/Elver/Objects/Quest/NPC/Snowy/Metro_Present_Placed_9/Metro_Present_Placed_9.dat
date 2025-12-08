@@ -1,0 +1,22 @@
+GUID f332d75f53f04376b32137254c632a07
+
+Type Small
+Has_Clip_Prefab false
+ID 57954
+
+Conditions 2
+
+//If planted, appears
+Condition_0_Type Flag_Bool
+Condition_0_ID 57360
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 57335
+Condition_1_Value True
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Snowy/Metro_Present_3_Placed

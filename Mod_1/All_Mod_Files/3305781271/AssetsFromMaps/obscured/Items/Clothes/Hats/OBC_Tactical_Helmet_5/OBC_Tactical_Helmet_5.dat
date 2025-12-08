@@ -1,0 +1,21 @@
+GUID 0a02be59b38c4e2d8cfbb6b85fee9f34
+
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 39146
+
+Size_X 2
+Size_Y 2
+Size_Z 0.24
+
+Armor 0.7
+
+Beard
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

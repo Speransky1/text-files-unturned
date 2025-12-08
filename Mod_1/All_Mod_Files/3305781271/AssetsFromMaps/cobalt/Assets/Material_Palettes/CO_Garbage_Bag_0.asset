@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "4bfd341b882c4a5c8a8636e919ed26d5"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Garbage_Bag_0/Garbage_Bag_0_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Garbage_Bag_0/Garbage_Bag_1_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Garbage_Bag_0/Garbage_Bag_2_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Garbage_Bag_0/Garbage_Bag_3_M.mat"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "2d39a3ae4e464d4a97854c47fbc20bc9"
+	"Type" "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Dropship"
+	{
+		"MasterBundle" "metro.masterbundle"
+		"AssetPath" "Level/Dropship.prefab"
+	}
+	"Airdrop"
+	{
+		"GUID" "edb71201e4e948c4b161a384955fcf7c"
+	}
+	
+	"Crafting_Blacklists"
+	[
+		{"GUID" "617e7148f168458da661bb0a0f44a8c7"}
+	]
+}
+

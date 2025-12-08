@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+GUID 3e332e9e3e3a4e5899e9c906ffa4994c
+Type Vendor
+ID 13050
+Selling 2
+Selling_0_ID 54702
+Selling_0_Cost 1500
+Selling_1_ID 54717
+Selling_1_Cost 400

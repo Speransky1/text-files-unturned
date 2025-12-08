@@ -1,0 +1,19 @@
+GUID 5d036578953542fb9235f8456f499249
+Type Medium
+ID 51000
+
+Has_Clip_Prefab false
+
+Interactability Quest
+Interactability_Effect 61
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 51062
+Interactability_Condition_0_Amount 1
+Interactability_Rewards 2
+Interactability_Reward_0_Type Event
+Interactability_Reward_0_ID EODBOMB1
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 52578
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Assign

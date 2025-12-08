@@ -1,0 +1,22 @@
+GUID 1d4f4ce8c6dc4c61b791c22e0fbb1d20
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 62706
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 18003
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Delta_Enter
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Bunker_Door_1

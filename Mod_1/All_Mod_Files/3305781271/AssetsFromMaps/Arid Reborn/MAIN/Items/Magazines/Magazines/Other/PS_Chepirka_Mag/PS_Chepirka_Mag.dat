@@ -1,0 +1,23 @@
+GUID ab30782a9bc9429bb520b56ac37fc92a
+Type Magazine
+Rarity Legendary
+ID 10574
+
+Size_X 3
+Size_Y 2
+Size_Z 0.5
+
+Amount 4
+Count_Min 1
+Count_Max 4
+
+Calibers 1
+Caliber_0 18841
+
+Delete_Empty
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10574
+Blueprint_0_Build 30

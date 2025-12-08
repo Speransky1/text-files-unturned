@@ -1,0 +1,15 @@
+GUID 56bfbeb4204146bf9d68bef4624e81e6
+Type Supply
+Rarity Uncommon
+ID 19176
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 19176
+Blueprint_0_Product 19002
+Blueprint_0_Products 2
+Blueprint_0_Build 32

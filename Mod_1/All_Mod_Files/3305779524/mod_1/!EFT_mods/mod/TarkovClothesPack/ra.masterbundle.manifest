@@ -1,0 +1,363 @@
+ManifestFileVersion: 0
+CRC: 4096113246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6d8e8a760d51473f6ac0e622e3ddab2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 65450bab43a9098c5d0a3df63b48c896
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundleHelm/Pack/Shirts/USEC_VEKTOR_TOP/Item.prefab
+- Assets/BundleHelm/Pack/Pants/Boss_knight_bottom/Pants.png
+- Assets/BundleHelm/Pack/Hats/Altyn_Open/Hat.prefab
+- Assets/BundleHelm/Pack/Pants/BEAR_GorkaSSO/Pants.mat
+- Assets/BundleHelm/Pack/Hats/Maska-1SH_Open/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Urban_Responder_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/Group99_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Borei_Top/Item.prefab
+- Assets/BundleHelm/Pack/Vests/Boss_Knight_CPC/Vest.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Sumrak/Material.mat
+- Assets/BundleHelm/Pack/Pants/USEC_Gen.2_Khyber_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Gen.2_Khyber_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Shirts/Boss_Knight_Top/Item.prefab
+- Assets/BundleHelm/Pack/Vests/TV-110/Vest.prefab
+- Assets/BundleHelm/Pack/Pants/Boss_knight_bottom/Item.prefab
+- Assets/BundleHelm/Pack/Hats/Maska-1SH/Hat.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_CommandoLower/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/ECLiPSE RBAV-AF/Vest.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M/Hat.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Urban_Responder_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Shirts/BigPipeTop/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_WD_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Hats/Vulkan_Open/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Taclife_Terrain_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Shirts/USEC_Commando/Shirt.mat
+- Assets/BundleHelm/Pack/Vests/Ars_Arma_CPC_MOD2/Vest.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M_Open/Hat.prefab
+- Assets/BundleHelm/Pack/Pants/BEAR_GorkaSSO/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Sumrak/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/Eagle Industries MMAC/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/Group99_Top/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/BEAR_Black_Lynx/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Wolf/Material.mat
+- Assets/BundleHelm/Pack/Masks/Zryachiy/Item.prefab
+- Assets/BundleHelm/Pack/Pants/TIger_BEAR_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Pants/USEC_Urban_Responder_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Shirts/Boss_Knight_Top/Shirt.png
+- Assets/BundleHelm/Pack/Vests/Eagle Industries MMAC/Vest.prefab
+- Assets/BundleHelm/Pack/Vests/M1/Item.prefab
+- Assets/BundleHelm/Pack/Vests/M2/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/Grizzly_Top_BEAR/Material.mat
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_1/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/Zaslon_Top/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Wolf/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_ Agressor_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_1/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/BEAR_Borei_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/Grizzly_Top_BEAR/Item.prefab
+- Assets/BundleHelm/Pack/Pants/SRVV_Bottom_BEAR/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/FSB_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Pants/BEAR_Coyote/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Telnik/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/BirdEye_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Backpacks/BirdEye_Backpack/Backpack.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_CommandoLower/Item.prefab
+- Assets/BundleHelm/Pack/Backpacks/BirdEye_Backpack/Animations.prefab
+- Assets/BundleHelm/Pack/Masks/BigPipeBandana/Hat.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M_Open/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_sandstone/Shirt.png
+- Assets/BundleHelm/Pack/Pants/Boss_knight_bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_WD_InfLower/Item.prefab
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_2/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_Russia/Material.mat
+- Assets/BundleHelm/Pack/Shirts/FSB_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_2/Shirt.png
+- Assets/BundleHelm/Pack/Vests/NPP KlASS Bagariy/Item.prefab
+- Assets/BundleHelm/Pack/Vests/FirstSpear Strandhogg/Vest.prefab
+- Assets/BundleHelm/Pack/Masks/Birdeye_shemagh/Animations.prefab
+- Assets/BundleHelm/Pack/Masks/Zryachiy/Mask.prefab
+- Assets/BundleHelm/Pack/Vests/NPP KlASS Bagariy/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/BEAR_Old_School/Pants.png
+- Assets/BundleHelm/Pack/Shirts/Zaslon_Top/Shirt.png
+- Assets/BundleHelm/Pack/Pants/TIger_BEAR_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/M2/Item.prefab
+- Assets/BundleHelm/Pack/Vests/Ars_Arma_CPC_MOD2/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/Adik_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Masks/KnightMask/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/FSB_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/Zaslon_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/Ars_Arma_CPC_MOD2/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/BigPipeBottom/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_PMC/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Wolf/Shirt.png
+- Assets/BundleHelm/Pack/Vests/AVS/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/Adik_Top/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BirdEye_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_1/Material.mat
+- Assets/BundleHelm/Pack/Shirts/USEC_Urban_Responder_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/Ars_Arma_A18_Skanda/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Taclife_Terrain_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Tiger_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Shirts/USEC_sandstone/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_1/Item.prefab
+- Assets/BundleHelm/Pack/Pants/Boss_knight_bottom/Pants.mat
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_1/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Ranger_Jeans_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Pants/USEC_K4/Pants.png
+- Assets/BundleHelm/Pack/Supply/Chexol_ZSH-1-2M/Item.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M_Open/Item.prefab
+- Assets/BundleHelm/Pack/Hats/Altyn/Item.prefab
+- Assets/BundleHelm/Pack/Pants/BEAR_Warrior/Pants.mat
+- Assets/BundleHelm/Pack/Pants/USEC_Urban_Responder_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_TACRES_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_2/Pants.png
+- Assets/BundleHelm/Pack/Pants/USEC_WD_InfLower/Pants.png
+- Assets/BundleHelm/Pack/Pants/BEAR_GorkaSSO/Pants.png
+- Assets/BundleHelm/Pack/Pants/BEAR_Old_School/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/Grizzly_Top_BEAR/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/Eagle Industries MMAC/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Sumrak/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/USEC_Cereum/Item.prefab
+- Assets/BundleHelm/Pack/Vests/AVS/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_WD_InfLower/Pants.mat
+- Assets/BundleHelm/Pack/Hats/Altyn/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/BEAR_Warrior/Item.prefab
+- Assets/BundleHelm/Pack/Pants/SRVV_Bottom_BEAR/Pants.png
+- Assets/BundleHelm/Pack/Vests/AVS MBAV/Vest.prefab
+- Assets/BundleHelm/Pack/Pants/BEAR_Warrior/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Chameleon/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/Striker_BEAR_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/Adik_Top/Shirt.png
+- Assets/BundleHelm/Pack/Pants/TIger_BEAR_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Shirts/BEAR_Telnik/Item.prefab
+- Assets/BundleHelm/Pack/Pants/BirdEye_pants/Item.prefab
+- Assets/BundleHelm/Pack/Pants/BEAR_Warrior/Pants.png
+- Assets/BundleHelm/Pack/Pants/BEAR_Coyote/Item.prefab
+- Assets/BundleHelm/Pack/Hats/Ris-T_Open/Hat.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Adaptive_Combat_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Shirts/USEC_Chameleon/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_2/Material.mat
+- Assets/BundleHelm/Pack/Shirts/USEC_VEKTOR_TOP/Shirt.png
+- Assets/BundleHelm/Pack/Pants/BirdEye_pants/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/Boss_BigPipe_AR_SS/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/Boss_Knight_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_DeepRecon/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Wolf/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M/Item.prefab
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_1/Pants.mat
+- Assets/BundleHelm/Pack/Pants/Zaslon_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Taclife_Terrain_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Shirts/BEAR_Rashgard/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/TIger_BEAR_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Hats/Altyn_Open/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BigPipeTop/Shirt.png
+- Assets/BundleHelm/Pack/Hats/Maska-1SH (Killa)/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/FSB_Top/Shirt.png
+- Assets/BundleHelm/Pack/Hats/Vulkan/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Taclife_Terrain_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_Russia/Item.prefab
+- Assets/BundleHelm/Pack/Vests/Boss_Knight_CPC/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Urban_Responder_Top/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BirdEye_Top/Item.prefab
+- Assets/BundleHelm/Pack/Hats/Ris-T_Open/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/Vulkan/Hat.prefab
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_2/Pants.mat
+- Assets/BundleHelm/Pack/Shirts/Grizzly_Top_BEAR/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_1/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/BigPipeBottom/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/TV-110/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_2/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_sandstone/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/M1/Vest.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M_C/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Urban_Responder_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Pants/USEC_DesOps/Pants.png
+- Assets/BundleHelm/Pack/Vests/Boss_BigPipe_AR_SS/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_TACRES_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Pants/USEC_DeepRecon/Pants.mat
+- Assets/BundleHelm/Pack/Hats/Maska-1SH (Killa)/Hat.prefab
+- Assets/BundleHelm/Pack/Pants/Striker_BEAR_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_Russia/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Rashgard/Material.mat
+- Assets/BundleHelm/Pack/Vests/NPP KlASS Bagariy/Vest.prefab
+- Assets/BundleHelm/Pack/Pants/BirdEye_pants/Pants.png
+- Assets/BundleHelm/Pack/Shirts/USEC_ PCU_Ironsight_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Gen.2_Khyber_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Adaptive_Combat_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Tiger_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M_C_Open/Hat.prefab
+- Assets/BundleHelm/Pack/Vests/Ars_Arma_A18_Skanda/Vest.prefab
+- Assets/BundleHelm/Pack/Pants/BEAR_Old_School/Pants.mat
+- Assets/BundleHelm/Pack/Shirts/Zaslon_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Masks/Birdeye_shemagh/Mask.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_PMC/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Commando/Shirt.png
+- Assets/BundleHelm/Pack/Pants/Zaslon_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Vests/AVS MBAV/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_softshell/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/USEC_ PCU_Ironsight_Top/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/USEC_Adaptive_Combat_Top/Item.prefab
+- Assets/BundleHelm/Pack/Vests/ECLiPSE RBAV-AF/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_WD_InfLower/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/Maska-1SH (Killa)_Open/Hat.prefab
+- Assets/BundleHelm/Pack/Shirts/Adik_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Sumrak/Item.prefab
+- Assets/BundleHelm/Pack/Vests/FirstSpear Strandhogg/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_Russia/Shirt.png
+- Assets/BundleHelm/Pack/Vests/Ars_Arma_A18_Skanda/Item.prefab
+- Assets/BundleHelm/Pack/Pants/Group99_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/Zaslon_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Shirts/BigPipeTop/Shirt.mat
+- Assets/BundleHelm/Pack/Pants/SRVV_Bottom_BEAR/Material.mat
+- Assets/BundleHelm/Pack/Vests/M1/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_K4/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Black_Lynx/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Chameleon/Shirt.png
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M_C/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_K4/Pants.mat
+- Assets/BundleHelm/Pack/Shirts/Group99_Top/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Commando/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Commando/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_K4/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M_C_Open/Item.prefab
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_2/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/Maska-1SH_Open/Hat.prefab
+- Assets/BundleHelm/Pack/Pants/Striker_BEAR_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Ranger_Jeans_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_softshell/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Borei_Top/Shirt.png
+- Assets/BundleHelm/Pack/Hats/Altyn_Open/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/ECLiPSE RBAV-AF/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_3/Pants.mat
+- Assets/BundleHelm/Pack/Pants/USEC_DesOps/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/Maska-1SH (Killa)_Open/Item.prefab
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_1/Pants.png
+- Assets/BundleHelm/Pack/Shirts/BEAR_Rashgard/Item.prefab
+- Assets/BundleHelm/Pack/Pants/FSB_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Black_Lynx/Shirt.mat
+- Assets/BundleHelm/Pack/Pants/USEC_TACRES_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/Ris-T/Hat.prefab
+- Assets/BundleHelm/Pack/Shirts/BigPipeTop/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_ PCU_Ironsight_Top/Item.prefab
+- Assets/BundleHelm/Pack/Masks/BigPipeBandana/Item.prefab
+- Assets/BundleHelm/Pack/Hats/Maska-1SH/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_sandstone/Shirt.mat
+- Assets/BundleHelm/Pack/Shirts/USEC_Cereum/Shirt.mat
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_3/Pants.png
+- Assets/BundleHelm/Pack/Shirts/BEAR_Rashgard/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/USEC_softshell/Shirt.mat
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M_C/Hat.prefab
+- Assets/BundleHelm/Pack/Vests/AVS/Vest.prefab
+- Assets/BundleHelm/Pack/Masks/BigPipeBandana/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/SRVV_Bottom_BEAR/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_ Agressor_Top/Item.prefab
+- Assets/BundleHelm/Pack/Vests/FirstSpear Strandhogg/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/SCAV_Top_2/Animations.prefab
+- Assets/BundleHelm/Pack/Masks/KnightMask/Mask.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_softshell/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/Zaslon_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_WD_Top/Shirt.png
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_3/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Cereum/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_WD_Top/Item.prefab
+- Assets/BundleHelm/Pack/Pants/Group99_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_DeepRecon/Pants.png
+- Assets/BundleHelm/Pack/Vests/AVS MBAV/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Telnik/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_WD_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/Ris-T/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Borei_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Shirts/USEC_Cereum/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/Boss_Knight_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Shirts/BEAR_PMC/Material.mat
+- Assets/BundleHelm/Pack/Pants/Group99_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Pants/USEC_Ranger_Jeans_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Pants/FSB_Bottom/Item.prefab
+- Assets/BundleHelm/Pack/Vests/TV-110/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_CommandoLower/Pants.mat
+- Assets/BundleHelm/Pack/Shirts/BirdEye_Top/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/BEAR_Tiger_Top/Shirt.png
+- Assets/BundleHelm/Pack/Hats/Maska-1SH (Killa)_Open/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/Ris-T_Open/Item.prefab
+- Assets/BundleHelm/Pack/Pants/BirdEye_pants/Pants.mat
+- Assets/BundleHelm/Pack/Shirts/USEC_VEKTOR_TOP/Animations.prefab
+- Assets/BundleHelm/Pack/Masks/KnightMask/Item.prefab
+- Assets/BundleHelm/Pack/Backpacks/BirdEye_Backpack/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_ Agressor_Top/Shirt.png
+- Assets/BundleHelm/Pack/Hats/Vulkan_Open/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_Gen.2_Khyber_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Pants/BEAR_Old_School/Item.prefab
+- Assets/BundleHelm/Pack/Pants/BEAR_GorkaSSO/Item.prefab
+- Assets/BundleHelm/Pack/Hats/ZSH-1-2M_C_Open/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/Vulkan/Animations.prefab
+- Assets/BundleHelm/Pack/Hats/Ris-T/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_PMC/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/USEC_Chameleon/Shirt.mat
+- Assets/BundleHelm/Pack/Vests/Boss_Knight_CPC/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Tiger_Top/Item.prefab
+- Assets/BundleHelm/Pack/Vests/Boss_BigPipe_AR_SS/Vest.prefab
+- Assets/BundleHelm/Pack/Hats/Maska-1SH_Open/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/SCAV_Pants_3/Animations.prefab
+- Assets/BundleHelm/Pack/Vests/M2/Vest.prefab
+- Assets/BundleHelm/Pack/Masks/Zryachiy/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/BigPipeBottom/Pants.mat
+- Assets/BundleHelm/Pack/Shirts/Group99_Top/Shirt.mat
+- Assets/BundleHelm/Pack/Pants/USEC_Ranger_Jeans_Bottom/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_Adaptive_Combat_Top/Shirt.png
+- Assets/BundleHelm/Pack/Pants/USEC_DesOps/Item.prefab
+- Assets/BundleHelm/Pack/Hats/Altyn/Hat.prefab
+- Assets/BundleHelm/Pack/Masks/Birdeye_shemagh/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/BEAR_Black_Lynx/Shirt.png
+- Assets/BundleHelm/Pack/Shirts/BEAR_Telnik/Material.mat
+- Assets/BundleHelm/Pack/Shirts/USEC_Urban_Responder_Top/Shirt.png
+- Assets/BundleHelm/Pack/Hats/Maska-1SH (Killa)/Animations.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_VEKTOR_TOP/Shirt.mat
+- Assets/BundleHelm/Pack/Pants/BEAR_Coyote/Pants.mat
+- Assets/BundleHelm/Pack/Pants/Group99_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Hats/Vulkan_Open/Hat.prefab
+- Assets/BundleHelm/Pack/Hats/Maska-1SH/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/Striker_BEAR_Bottom/Pants.mat
+- Assets/BundleHelm/Pack/Pants/BigPipeBottom/Pants.png
+- Assets/BundleHelm/Pack/Pants/USEC_DeepRecon/Item.prefab
+- Assets/BundleHelm/Pack/Shirts/USEC_ Agressor_Top/Animations.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_CommandoLower/Pants.png
+- Assets/BundleHelm/Pack/Pants/FSB_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Pants/BEAR_Coyote/Pants.png
+- Assets/BundleHelm/Pack/Pants/USEC_DesOps/Pants.mat
+- Assets/BundleHelm/Pack/Shirts/FSB_Top/Item.prefab
+- Assets/BundleHelm/Pack/Pants/USEC_TACRES_Bottom/Pants.png
+- Assets/BundleHelm/Pack/Shirts/USEC_ PCU_Ironsight_Top/Shirt.mat
+Dependencies: []

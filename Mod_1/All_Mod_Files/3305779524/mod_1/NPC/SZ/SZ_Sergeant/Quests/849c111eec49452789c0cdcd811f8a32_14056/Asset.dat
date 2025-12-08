@@ -1,0 +1,19 @@
+﻿// Made in NPC Maker by BowieD
+GUID 849c111eec49452789c0cdcd811f8a32
+Type Quest
+ID 14056
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17074
+Condition_0_Value True
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Reset 
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 400
+
+Reward_1_Type Flag_Bool
+Reward_1_ID 17076
+Reward_1_Value True
+

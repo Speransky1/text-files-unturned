@@ -1,0 +1,99 @@
+GUID c10fc7ce954e4616abd7c060684a1f0d
+Type Magazine
+Rarity Legendary
+ID 10524
+
+Size_X 1
+Size_Y 2
+Size_Z 0.36
+
+Amount 30
+Count_Min 20
+Count_Max 30
+
+Speed 0.9
+
+Calibers 1
+Caliber_0 18810
+
+Tracer 19073
+
+Blueprints 15
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//Ranger Ammo Package
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10831
+Blueprint_1_Build 30
+//Ranger Ammo Box
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 10830
+Blueprint_2_Build 30
+//Covert Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 19990
+Blueprint_3_Build 30
+//Covert Mag Extended
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 10524
+Blueprint_4_Build 30
+//Drachenzahn Box
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 10696
+Blueprint_5_Build 30
+//MKP Box
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 19424
+Blueprint_6_Build 30
+//Recon Mag
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 19800
+Blueprint_7_Build 30
+//Zolash Mag (20)
+Blueprint_8_Type Ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 10540
+Blueprint_8_Build 30
+//Zolash Drum
+Blueprint_9_Type Ammo
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 19858
+Blueprint_9_Build 30
+//Zolash Drum (Gold)
+Blueprint_10_Type Ammo
+Blueprint_10_Supplies 1
+Blueprint_10_Supply_0_ID 10661
+Blueprint_10_Build 30
+//Zolash Mag Extended
+Blueprint_11_Type Ammo
+Blueprint_11_Supplies 1
+Blueprint_11_Supply_0_ID 19859
+Blueprint_11_Build 30
+//Zolash Mag Extended (100)
+Blueprint_12_Type Ammo
+Blueprint_12_Supplies 1
+Blueprint_12_Supply_0_ID 10541
+Blueprint_12_Build 30
+//Zolash Mag
+Blueprint_13_Type Ammo
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 19315
+Blueprint_13_Build 30
+//Zolakov Mag
+Blueprint_14_Type Ammo
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 10934
+Blueprint_14_Build 30

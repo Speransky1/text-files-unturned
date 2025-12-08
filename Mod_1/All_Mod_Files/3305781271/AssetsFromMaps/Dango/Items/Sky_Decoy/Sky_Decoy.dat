@@ -1,0 +1,26 @@
+GUID 4ac83bc739304af9aebe25765a7c454c
+
+Rarity Rare
+Type Throwable
+Useable Throwable
+ID 44050
+
+Size_X 1
+Size_Y 1
+Size_Z 0.275
+
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Range 0
+Explosion 44007
+
+Explosive
+
+Asset_Bundle_Version 2

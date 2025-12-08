@@ -1,0 +1,69 @@
+﻿GUID b0b78f1af0d348eb99679f132c6c38aa
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 41836
+
+Size_X 3
+Size_Y 2
+Size_Z 0.47
+
+Health 150
+Range 4
+Radius 0.05
+Offset 0.14
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.3
+Explosion 41330
+Bypass_Pickup_Ownership true
+Can_Be_Damaged true
+PlacementAudioClip Sounds/Placement_0.ogg
+InventoryAudio Sounds/Inventory/ToolboxRustle/Toolbox_Rustle.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem b0b78f1af0d348eb99679f132c6c38aa
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "c4f3449e46f944ae8f8ca9ae54623a1b" // Gun Parts
+				Amount 5
+			}
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Metal Parts
+				Amount 4
+			}
+			{
+				ID "615a4030662e4ea7abad12b5a4e9a675" // Screwdriver
+				Amount 3
+			}
+			{
+				ID "aa51e7a26f784d448afd98c95e74e73f" // Blowtorch
+				Amount 1
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Amount 1
+			}
+			{
+				ID "28302cbb580641738db43ae62a045dbe" // Insulating Tape
+				Amount 2
+			}
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Has_Clip_Prefab false
+
+PlaceableProvidesCraftingTags
+[
+	80356db46b6a42bdb79daf902a769c7b
+]

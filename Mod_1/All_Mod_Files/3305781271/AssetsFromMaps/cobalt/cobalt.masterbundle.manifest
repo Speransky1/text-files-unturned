@@ -1,0 +1,475 @@
+ManifestFileVersion: 0
+CRC: 691926931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b89d424b4a296967c9bd29977dc6c025
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 28dcf712a8e8fd6b85799530bbcfabfa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d3c3df49e59fcd4ea3dd3c42d431959, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85a5d0868251006b07efe6d496b8db05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f12379735a496f49aba15992fc51ec2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 183
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 1773428102
+  Script: {instanceID: 0}
+- Class: 1818360609
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Propan_1/Propan_1_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Container_0/Container_0_M.mat
+- Assets/CobaltMasterBundle/Items/Barrels/PP901_Barrel_0/Shoot.ogg
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_1_M.mat
+- Assets/CobaltMasterBundle/Objects/Large/CO_Tunguska_1/Nav.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Bench_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Screens_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AUR_0/Hammer.ogg
+- Assets/CobaltMasterBundle/Objects/Large/CO_Generator_0/Ambience.ogg
+- Assets/CobaltMasterBundle/Items/Guns/BS135/Reload.ogg
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_1/Decal.png
+- Assets/CobaltMasterBundle/Items/Magazines/PP20_Magazine_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_2/Material.mat
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_22/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Coil_2/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Writeboard_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Beanie_0/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Guns/PP901/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Missile_2/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/F91/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Vendor_Machine_0/Vendor_Machine_1_M.mat
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_19/Decal.png
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Subject_Vest_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Hoodie_0/Shirt.png
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_2_M.mat
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_21/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Biohazard_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Junk_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Shelf_2/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/F91/Shake.anim
+- Assets/CobaltMasterBundle/Effects/Muzzles/CO_Muzzle_Flash_1/Effect.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Bed_1/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Cap_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/KSV93/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Palett_0/Palett_1_M.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Beanie_0/Hat.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Shirt_1/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_1/Hammer.ogg
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Coil_0/Coil_0_M.mat
+- Assets/CobaltMasterBundle/Items/Magazines/AUR_Magazine_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/KSV93/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/KSV93_Magazine_0/Magazine.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_23/Decal.png
+- Assets/CobaltMasterBundle/Items/Magazines/F91_Magazine_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Throwables/CO_Flashbang_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_2/Decal.png
+- Assets/CobaltMasterBundle/Items/Guns/KSV93/Hammer.ogg
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_15/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Weapon_Box_2/Crate_Opening.ogg
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Subject_Vest_1/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Palett_0/Palett_2_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Palett_0/Palett_0_M.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_3/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/PP901/Reload.ogg
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Cap_1/Animations.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Files_2/Files_5_M.mat
+- Assets/CobaltMasterBundle/Items/Throwables/CO_Flashbang_0/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Guns/F91/Reload.ogg
+- Assets/CobaltMasterBundle/Items/Throwables/CO_Flashbang_0/Use.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Missile_1/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Container_0/Container_5_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Missile_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Hoodie_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Medicals/CO_Antibiotics_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Files_0/Object.prefab
+- Assets/CobaltMasterBundle/Effects/Ambient/CO_Complex_Ambience_0/Complex_Ambience.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Weapon_Box_3/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_2/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Hesco_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Extinguisher_0/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Junk_0/Junk_0_M.mat
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_14/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Table_0/Object.prefab
+- Assets/CobaltMasterBundle/Effects/Cases/CO_Gun_Case_3/Effect.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/KSV93_Magazine_0/Item.prefab
+- Assets/CobaltMasterBundle/Effects/Explosions/CO_Complex_Light_0/Effect.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Berezka_0/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Lifter_0/Lifter_2_M.mat
+- Assets/CobaltMasterBundle/Items/Barrels/KSV93_Barrel_0/Shoot.ogg
+- Assets/CobaltMasterBundle/Items/Barrels/PP901_Barrel_0/Item.prefab
+- Assets/CobaltMasterBundle/Effects/Muzzles/CO_Muzzle_Flash_0/Effect.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Debris_2/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Water_Tank_0/Water_Tank_1_M.mat
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_1/Shoot.ogg
+- Assets/CobaltMasterBundle/Items/Sights/Dot_Scope_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Complex_Light_2/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Coil_0/Coil_1_M.mat
+- Assets/CobaltMasterBundle/Items/Throwables/CO_Flashbang_0/Bang.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Debris_1/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Shirt_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Cardboard_Junk_3/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Groza_0/Shoot.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Dumpster_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/AUR_Magazine_0/Magazine.prefab
+- Assets/CobaltMasterBundle/Items/Throwables/CO_Flare_0/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AKM_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_0/Hammer.ogg
+- Assets/CobaltMasterBundle/Objects/Large/CO_BVP_1/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Berezka_0/Material.mat
+- Assets/CobaltMasterBundle/Objects/Large/CO_Kamaz_3/Object.prefab
+- Assets/CobaltMasterBundle/Items/Sights/Dot_Scope_0/Sight.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Cloth_1/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Junk_0/Junk_2_M.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Subject_Vest_2/Vest.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Files_2/Files_3_M.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Subject_Vest_0/Animations.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Lifter_0/Lifter_0_M.mat
+- Assets/CobaltMasterBundle/Objects/Large/CO_Generator_0/Nav.prefab
+- Assets/CobaltMasterBundle/Items/Throwables/CO_Flashbang_0/Throwable.prefab
+- Assets/CobaltMasterBundle/Items/Guns/PP20/Reload.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Weapon_Box_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Map_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Complex_Light_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Shirt_0/Animations.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Computer_0/Computer_1_M.mat
+- Assets/CobaltMasterBundle/Items/Barrels/PP901_Barrel_0/Barrel.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Cardboard_Junk_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_11/Decal.png
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_3_M.mat
+- Assets/CobaltMasterBundle/Items/Guns/BS135/Shoot.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Container_Door_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Clock_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Cap_0/Animations.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Barrel_0/Barrel_3_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Bed_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Coil_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Complex_Light1_2/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Forklift_1/Nav.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/AKM_Magazine_0/Magazine.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_0/Shoot.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Complex_Light_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Propan_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Weapon_Box_0/Case_Opening.ogg
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Subject_Vest_2/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/PP20/ShakeShader.shader
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Berezka_0/Shirt.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Water_Tank_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Shirt_0/Material.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Garbage_Bag_0/Garbage_Bag_1_M.mat
+- Assets/CobaltMasterBundle/Effects/Tracers/CO_Gun_Tracer_0/Effect.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AKM_0/Reload.ogg
+- Assets/CobaltMasterBundle/Items/Throwables/CO_Flare_0/Use.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Locker_1/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Shirt_1/Material.mat
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_0/Reload.ogg
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Chair_0/Metal_Chair_2_M.mat
+- Assets/CobaltMasterBundle/Items/Guns/PP20/ReloadShake.anim
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Chair_2/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Coil_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_AC_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Propan_1/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_3/Material.mat
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_0/Item.prefab
+- Assets/CobaltMasterBundle/Sounds/MeleeAttack_0.ogg
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_1/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Junk_0/Junk_3_M.mat
+- Assets/CobaltMasterBundle/Items/Magazines/PP901_Magazine_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Ladder0_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/Groza_Magazine_0/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Crate_0/Crate_2_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Dumpster_0/Dumpster_2_M.mat
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_17/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Cloth_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_1/Material.mat
+- Assets/CobaltMasterBundle/Items/Throwables/CO_Flare_0/Throwable.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AKM_0/Hammer.ogg
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_13/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Cart_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Cardboard_Junk_5/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Radio_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Tunguska_0/Nav.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_0/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Subject_Vest_1/Vest.prefab
+- Assets/CobaltMasterBundle/Items/Guns/F91/Shoot.ogg
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Container_0/Container_3_M.mat
+- Assets/CobaltMasterBundle/Items/Guns/PP20/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Barrel_0/Barrel_4_M.mat
+- Assets/CobaltMasterBundle/Items/Melee/Folding_Knife_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_BVP_0/Nav.prefab
+- Assets/CobaltMasterBundle/Effects/Tracers/CO_Gun_Tracer_1/Effect.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_8/Decal.png
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_12/Decal.png
+- Assets/CobaltMasterBundle/Items/Melee/Folding_Knife_0/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Guns/BS135/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Medicals/CO_Antibiotics_0/Use.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Planboard_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Complex_Light1_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Tunguska_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Fence_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Cap_1/Item.prefab
+- Assets/CobaltMasterBundle/Items/Throwables/CO_Flare_0/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Paint_Bucket_0/Paint_Bucket_2_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Shelf_3/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_1/Reload.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Weapon_Box_2/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Propan_1/Propan_2_M.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Beanie_1/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/PP20/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Complex_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Cardboard_Junk_1/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Shirt_0/Shirt.png
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_3/Pants.png
+- Assets/CobaltMasterBundle/Items/Guns/BS135/Hammer.ogg
+- Assets/CobaltMasterBundle/Items/Guns/PP20/Shoot.ogg
+- Assets/CobaltMasterBundle/Items/Magazines/12Gauge_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AUR_0/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_5/Decal.png
+- Assets/CobaltMasterBundle/Objects/Large/CO_Fuel_Tank_0/Nav.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AUR_0/Shoot.ogg
+- Assets/CobaltMasterBundle/Items/Magazines/Starykov_Magazine_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Debris_3/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/PP20/Hammer.ogg
+- Assets/CobaltMasterBundle/Items/Magazines/12Gauge_0/Magazine.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Berezka_0/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Radio_0/Ambience.ogg
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Coil_0/Coil_2_M.mat
+- Assets/CobaltMasterBundle/Effects/Cases/CO_Gun_Case_4/Effect.prefab
+- Assets/CobaltMasterBundle/Items/Sights/Kobra_Sight_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_0/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Starykov_1/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_BVP_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Door0_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Chair_0/Object.prefab
+- Assets/CobaltMasterBundle/Effects/Cases/CO_Gun_Case_1/Effect.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Paint_Bucket_0/Paint_Bucket_3_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_4_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Plastic_Pallet_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Files_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_9/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Medic_Box_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Sights/PSO_0/Sight.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Shelf_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Pebbles_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Tunguska_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Weapon_Box_4/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Vendor_Machine_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Pebbles_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/F91/Hammer.ogg
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Control_2/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Wardrobe_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Sights/OKP_Sight_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/PP20_Magazine_0/Magazine.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_18/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Crate_1/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Water_Tank_0/Water_Tank_2_M.mat
+- Assets/CobaltMasterBundle/Objects/Small/CO_Fluid_Bag_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Pallet_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Junk_2/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AUR_0/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Computer_0/Computer_0_M.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_0/Pants.png
+- Assets/CobaltMasterBundle/Items/Barrels/KSV93_Barrel_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Control_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/F91_Magazine_0/Magazine.prefab
+- Assets/CobaltMasterBundle/Items/Medicals/CO_Antibiotics_0/Animations.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Vendor_Machine_0/Vendor_Machine_0_M.mat
+- Assets/CobaltMasterBundle/Objects/Large/CO_Fuel_Tank_0/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Dumpster_0/Dumpster_1_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Barrel_0/Barrel_0_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Container_0/Container_7_M.mat
+- Assets/CobaltMasterBundle/Objects/Large/CO_Forklift_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Blueprint_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_20/Decal.png
+- Assets/CobaltMasterBundle/Items/Guns/F91/Animations.prefab
+- Assets/CobaltMasterBundle/Effects/Ambient/CO_Complex_Ambience_0/Effect.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Groza_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_3/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Door1_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AKM_0/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Beanie_0/Item.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Crate_0/Crate_0_M.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Subject_Vest_0/Vest.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AUR_0/Reload.ogg
+- Assets/CobaltMasterBundle/Effects/Cases/CO_Gun_Case_0/Effect.prefab
+- Assets/CobaltMasterBundle/Items/Guns/BS135/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/PP901/Hammer.ogg
+- Assets/CobaltMasterBundle/Objects/Small/CO_Cardboard_Junk_2/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_7/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Container_Door_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Complex_Light1_0/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Chair_0/Metal_Chair_1_M.mat
+- Assets/CobaltMasterBundle/Items/Sights/PSO_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AUR_0/ReloadShake.anim
+- Assets/CobaltMasterBundle/Items/Sights/OKP_Sight_0/Sight.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Junk_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Small/CO_Files_2/Object.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/Groza_Magazine_0/Magazine.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Lifter_0/Lifter_1_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Note_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/F91/Shoot.anim
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Chair_0/Metal_Chair_0_M.mat
+- Assets/CobaltMasterBundle/Objects/Small/CO_Cardboard_Junk_4/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Garbage_Bag_0/Garbage_Bag_0_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Garbage_Bag_0/Garbage_Bag_2_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Junk_0/Junk_1_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Fluid_Stand_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Radiator_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Kamaz_0/Nav.prefab
+- Assets/CobaltMasterBundle/Items/Barrels/KSV93_Barrel_0/Barrel.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Forklift_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Kamaz_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Garbage_Bag_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Control_3/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Beanie_1/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_16/Decal.png
+- Assets/CobaltMasterBundle/Items/Sights/Pistol_Sight_0/Sight.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_4/Decal.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Crate_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/KSV93/Reload.ogg
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_2/Pants.png
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Barrel_0/Barrel_2_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Paint_Bucket_0/Paint_Bucket_0_M.mat
+- Assets/CobaltMasterBundle/Effects/Muzzles/CO_Muzzle_Flash_2/Effect.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Barrel_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_3/Decal.png
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_6/Decal.png
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_2/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/PP20/Shake.mat
+- Assets/CobaltMasterBundle/Objects/Large/CO_BVP_1/Nav.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Sign_0/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Dumpster_0/Dumpster_3_M.mat
+- Assets/CobaltMasterBundle/Items/Guns/Groza_0/Reload.ogg
+- Assets/CobaltMasterBundle/Items/Magazines/PP901_Magazine_0/Magazine.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/Starykov_Magazine_0/Magazine.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Barrel_0/Barrel_1_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Panel_0/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Crate_0/Crate_1_M.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Shirt_1/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Lifter_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Hoodie_0/Material.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_1/Pants.png
+- Assets/CobaltMasterBundle/Items/Guns/AKM_0/Shoot.ogg
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Container_0/Container_1_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Paint_Bucket_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Groza_0/Hammer.ogg
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Shirt_1/Shirt.png
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Chair_1/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Dumpster_0/Dumpster_0_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Water_Tank_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Generator_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Screens_1/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Container_0/Container_4_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Chair_0/Metal_Chair_3_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Scaffholding_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Sights/Pistol_Sight_0/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Debris_4/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Locker_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Cap_1/Hat.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Garbage_Bag_0/Garbage_Bag_3_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Paint_Bucket_0/Paint_Bucket_1_M.mat
+- Assets/CobaltMasterBundle/Objects/Large/CO_Kamaz_2/Nav.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Computer_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/PP901/Item.prefab
+- Assets/CobaltMasterBundle/Items/Guns/Groza_0/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Flag_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Subject_Vest_2/Animations.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Container_0/Container_2_M.mat
+- Assets/CobaltMasterBundle/Items/Sights/Kobra_Sight_0/Sight.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_0/Material.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Plastic_Pallet_0/Plastic_Pallet_0_M.mat
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_1/Animations.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Container_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Kamaz_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Shelf_1/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Kamaz_2/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Beanie_1/Hat.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Cap_0/Hat.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_10/Decal.png
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Subject_Vest_1/Animations.prefab
+- Assets/CobaltMasterBundle/Items/Magazines/AKM_Magazine_0/Item.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Hoodie_0/Animations.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Lifter_0/Lifter_3_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Water_Tank_0/Water_Tank_0_M.mat
+- Assets/CobaltMasterBundle/Objects/Large/CO_Complex_0/Nav.prefab
+- Assets/CobaltMasterBundle/Objects/Decals/CO_Decal_0/Decal.png
+- Assets/CobaltMasterBundle/Objects/Large/CO_Kamaz_1/Nav.prefab
+- Assets/CobaltMasterBundle/Effects/Cases/CO_Gun_Case_2/Effect.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Files_2/Files_2_M.mat
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Files_2/Files_4_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Debris_0/Object.prefab
+- Assets/CobaltMasterBundle/Items/Clothes/CO_Military_Bottom_1/Item.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Forklift_0/Nav.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Vendor_Machine_0/Vendor_Machine_2_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Shell_Crate_0/Object.prefab
+- Assets/CobaltMasterBundle/Material_Palettes/CO_Container_0/Container_6_M.mat
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Weapon_Box_0/Object.prefab
+- Assets/CobaltMasterBundle/Objects/Large/CO_Kamaz_3/Nav.prefab
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Control_1/Object.prefab
+- Assets/CobaltMasterBundle/Items/Guns/AUR_0/Fire.anim
+- Assets/CobaltMasterBundle/Objects/Medium/CO_Ladder0_1/Object.prefab
+Dependencies: []

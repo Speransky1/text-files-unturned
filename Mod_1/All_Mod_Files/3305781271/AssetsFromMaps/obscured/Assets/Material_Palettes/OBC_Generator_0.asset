@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "6ab6dbe1a816467194977a515e3cbe2e"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Generator_0/Generator_0.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Generator_0/Generator_1.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Generator_0/Generator_2.mat"
+		}
+	]
+}

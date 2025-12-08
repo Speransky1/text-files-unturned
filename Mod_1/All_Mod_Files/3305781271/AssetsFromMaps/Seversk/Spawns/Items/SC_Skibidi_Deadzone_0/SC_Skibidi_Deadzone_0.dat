@@ -1,0 +1,337 @@
+GUID 26519a1a092f4fa0b6e3ef915a4350c6
+Type Spawn
+ID 41452
+
+Tables
+[
+	{
+		// Pack of Rifle Ammo (Supply Item)
+		LegacyAssetId 41713
+		Weight 45
+	}
+	{
+		// 6L18 Magazine (Magazine Item)
+		LegacyAssetId 41756
+		Weight 40
+	}
+	{
+		// 6L18 Magazine (Magazine Item)
+		LegacyAssetId 41755
+		Weight 40
+	}
+	{
+		// AKMN Extended Magazine (Magazine Item)
+		LegacyAssetId 41717
+		Weight 40
+	}
+	{
+		// Military Protective Helmet (Hat Item)
+		LegacyAssetId 41605
+		Weight 40
+	}
+	{
+		// PSO-1 Scope (Sight Item)
+		LegacyAssetId 41726
+		Weight 40
+	}
+	{
+		// 6L24 Magazine (Magazine Item)
+		LegacyAssetId 41782
+		Weight 38
+	}
+	{
+		// 6L24 Magazine (Magazine Item)
+		LegacyAssetId 41783
+		Weight 38
+	}
+	{
+		// Plastite-4 (Supply Item)
+		LegacyAssetId 41507
+		Weight 38
+	}
+	{
+		// PBS-1 Suppressor (Barrel Item)
+		LegacyAssetId 41719
+		Weight 35
+	}
+	{
+		// Sb.5 Magazine (Magazine Item)
+		LegacyAssetId 41762
+		Weight 35
+	}
+	{
+		// RPKS-74N (Gun Item)
+		LegacyAssetId 41757
+		Weight 35
+	}
+	{
+		// SVD Magazine (Magazine Item)
+		LegacyAssetId 41818
+		Weight 35
+	}
+	{
+		// Pack of Sniper Ammo (Supply Item)
+		LegacyAssetId 41770
+		Weight 34
+	}
+	{
+		// High-Caliber Flash Hider (Barrel Item)
+		LegacyAssetId 41823
+		Weight 33
+	}
+	{
+		// High-Caliber Muzzle (Barrel Item)
+		LegacyAssetId 41824
+		Weight 33
+	}
+	{
+		// Sodium Perchlorate (Supply Item)
+		LegacyAssetId 41506
+		Weight 30
+	}
+	{
+		// POSP 8x42B Scope (Sight Item)
+		LegacyAssetId 41734
+		Weight 30
+	}
+	{
+		// Protective Visor (Supply Item)
+		LegacyAssetId 41606
+		Weight 30
+	}
+	{
+		// Military Body Armor Mk. II (Vest Item)
+		LegacyAssetId 41581
+		Weight 30
+	}
+	{
+		// AKMN Drum Magazine (Magazine Item)
+		LegacyAssetId 41718
+		Weight 30
+	}
+	{
+		// RPKN (Gun Item)
+		LegacyAssetId 41725
+		Weight 30
+	}
+	{
+		// POSP 8x42B Scope (Sight Item)
+		LegacyAssetId 41734
+		Weight 30
+	}
+	{
+		// Shotgun Muzzle (Barrel Item)
+		LegacyAssetId 41712
+		Weight 30
+	}
+	{
+		// PBS-4 Suppressor (Barrel Item)
+		LegacyAssetId 41759
+		Weight 30
+	}
+	{
+		// Ammo Belt (Magazine Item)
+		Guid 29100ea3365f4ab3a913942af78ef870
+		Weight 28
+	}
+	{
+		// 6L25 Magazine (Magazine Item)
+		LegacyAssetId 41784
+		Weight 28
+	}
+	{
+		// 6L25 Magazine (Magazine Item)
+		LegacyAssetId 41785
+		Weight 28
+	}
+	{
+		// SVD (Gun Item)
+		LegacyAssetId 41822
+		Weight 28
+	}
+	{
+		// Military Backpack Mk. II (Backpack Item)
+		LegacyAssetId 41601
+		Weight 27
+	}
+	{
+		// PKM Box (Magazine Item)
+		Guid 43b7467bf1e04bc2ad278a39b3230b7d
+		Weight 27
+	}
+	{
+		// Military Backpack Mk. II (Backpack Item)
+		LegacyAssetId 41601
+		Weight 27
+	}
+	{
+		// SVDS (Gun Item)
+		LegacyAssetId 41820
+		Weight 26
+	}
+	{
+		// Military Rig Mk. II (Vest Item)
+		LegacyAssetId 41586
+		Weight 25
+	}
+	{
+		// Military Rig Mk. II (Vest Item)
+		LegacyAssetId 41585
+		Weight 25
+	}
+	{
+		// 1PN93 "Malysh" Nightvision Scope (Sight Item)
+		LegacyAssetId 41735
+		Weight 25
+	}
+	{
+		// SR-3M "Vikhr" Magazine (Magazine Item)
+		LegacyAssetId 41788
+		Weight 25
+	}
+	{
+		// VSS "Vintorez" (Gun Item)
+		LegacyAssetId 41789
+		Weight 24
+	}
+	{
+		// RPDN (Gun Item)
+		Guid 2b1ae4c62d634561a4fea56a7ff7ae50
+		Weight 24
+	}
+	{
+		// SR-3M "Vikhr" Suppressor (Barrel Item)
+		LegacyAssetId 41826
+		Weight 23
+	}
+	{
+		// PKMN (Gun Item)
+		Guid 4b3611422c604bf7a78822718a53442a
+		Weight 23
+	}
+	{
+		// RPD Drum (Magazine Item)
+		Guid 2a8919375a014e068c53e02c7ee49f5b
+		Weight 23
+	}
+	{
+		// High-Caliber Suppressor (Barrel Item)
+		LegacyAssetId 41825
+		Weight 22
+	}
+	{
+		// AS-VAL (Gun Item)
+		LegacyAssetId 41791
+		Weight 21
+	}
+	{
+		// 6L26 Magazine (Magazine Item)
+		LegacyAssetId 41787
+		Weight 20
+	}
+	{
+		// PKP "Pecheneg" (Gun Item)
+		Guid db17738accc042b3a41f17541cf62c6e
+		Weight 20
+	}
+	{
+		// Shotgun Sound Moderator (Barrel Item)
+		LegacyAssetId 41711
+		Weight 20
+	}
+	{
+		// SVD Extended Magazine (Magazine Item)
+		LegacyAssetId 41819
+		Weight 20
+	}
+	{
+		// 6L31 Magazine (Magazine Item)
+		LegacyAssetId 41753
+		Weight 20
+	}
+	{
+		// NSPU Nightvision Scope (Sight Item)
+		LegacyAssetId 41727
+		Weight 20
+	}
+	{
+		// Pack of Highcaliber Ammo (Supply Item)
+		LegacyAssetId 41817
+		Weight 20
+	}
+	{
+		// Military Protective Helmet Mk. II (Hat Item)
+		LegacyAssetId 41608
+		Weight 20
+	}
+	{
+		// Saiga 12K (Gun Item)
+		LegacyAssetId 41760
+		Weight 20
+	}
+	{
+		// Protective Visor (Supply Item)
+		LegacyAssetId 41607
+		Weight 20
+	}
+	{
+		// 6L26 Magazine (Magazine Item)
+		LegacyAssetId 41786
+		Weight 20
+	}
+	{
+		// 6L31 Magazine (Magazine Item)
+		LegacyAssetId 41754
+		Weight 20
+	}
+	{
+		// Empty Shell (Supply Item)
+		Guid e29cb398a047413f80b1b84621385978
+		Weight 19
+	}
+	{
+		// Sb.10 Magazine (Magazine Item)
+		LegacyAssetId 41763
+		Weight 18
+	}
+	{
+		// SR-3M "Vikhr" (Gun Item)
+		LegacyAssetId 41793
+		Weight 17
+	}
+	{
+		// Marksman Rucksack (Backpack Item)
+		LegacyAssetId 41599
+		Weight 15
+	}
+	{
+		// Military Rucksack (Backpack Item)
+		LegacyAssetId 41600
+		Weight 15
+	}
+	{
+		// SVD Extended Magazine (Magazine Item)
+		LegacyAssetId 41819
+		Weight 15
+	}
+	{
+		// Military Rucksack (Backpack Item)
+		LegacyAssetId 41603
+		Weight 15
+	}
+	{
+		// PO 3-9X42M Scope (Sight Item)
+		LegacyAssetId 41733
+		Weight 15
+	}
+	{
+		// Sb.20 Drum (Magazine Item)
+		LegacyAssetId 41764
+		Weight 14
+	}
+	{
+		// Military Protective Helmet Mk. II (Hat Item)
+		LegacyAssetId 41610
+		Weight 12
+	}
+]

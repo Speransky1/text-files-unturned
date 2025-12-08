@@ -1,0 +1,16 @@
+GUID cf936c9726d549beaa0e578a14c5d9af
+Type Tactical
+Rarity Epic
+ID 52014
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Firerate -2
+Spread 1
+Recoil_X 1
+Recoil_Y 1
+
+Master_Bundle_Override pbs.masterbundle
+Bundle_Override_Path /Items/Attachments/Greased_Bolt

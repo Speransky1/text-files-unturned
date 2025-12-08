@@ -1,0 +1,8 @@
+GUID 47f29beca88f4bcfb7a62ed63c78ef06
+Type RewardsList
+
+//Visit Point Oscar
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22628
+Reward_0_Value True

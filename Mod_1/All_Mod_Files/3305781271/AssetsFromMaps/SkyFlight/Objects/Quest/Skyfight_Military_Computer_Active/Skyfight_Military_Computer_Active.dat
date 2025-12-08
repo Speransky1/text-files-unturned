@@ -1,0 +1,17 @@
+GUID 8be25cd24bb64feabd0478ecd87a3848
+
+Type Medium
+ID 38910
+
+Master_Bundle_Override skyfight.masterbundle
+Bundle_Override_Path Objects/Quest/Skyfight_Military_Computer_On
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 38809
+Condition_0_Value True
+Condition_0_Logic Equal
+
+
+
+

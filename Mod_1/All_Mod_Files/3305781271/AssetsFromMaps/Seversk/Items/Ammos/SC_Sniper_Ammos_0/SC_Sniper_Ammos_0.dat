@@ -1,0 +1,55 @@
+﻿GUID d2bc8d28fd5a41e0b16997d1c208ee62
+Type Supply
+Rarity Rare
+ID 41770
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Calibers 1
+Caliber_0 43022
+
+Amount 20
+Count_Min 5
+Count_Max 20
+Delete_Empty
+
+Blueprints
+[
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems this
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID "365315eadce745c1911379f3b3d6d074" // Note Paper
+				Amount 4
+			}
+			{
+				ID "58b45f8f7807426289e372b7341d10d2" // Gunpowder
+				Amount 4
+			}
+			{
+				ID "c4f3449e46f944ae8f8ca9ae54623a1b" // Gun Parts
+				Amount 3
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/CasingRustle/Casing_Rustle.asset
+Use_Auto_Icon_Measurements True
+Use_Auto_Stat_Descriptions false

@@ -1,0 +1,29 @@
+GUID f09d4df0b88f4be29c6bc58e03f97600
+
+Type Food
+Useable Consumeable
+ID 57120
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Virus 30
+Food 10
+Water 15
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 57120
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 57118
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supply_0_ID 64
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 66
+Blueprint_1_Products 4
+Blueprint_1_Build 27
+Blueprint_1_Map Elver

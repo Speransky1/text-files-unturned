@@ -1,0 +1,38 @@
+GUID a215c1f21eac42928ec75e00da0b95df
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 31762
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 3
+Height 3
+
+Armor 0.70
+
+Movement_Speed_Multiplier 0.97
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "21ede8ebffb14c5580e8c7ad149e335e x 3" // Metal Scrap
+		Effect "7eceb9f7751d4634b572c8e236355104" // Rip
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems "ad819b3c8df549528c8abce6ea5043f6" // Metal Scrap
+		RequiresNearbyCraftingTags
+		[
+			"2ac5ddc545a848008c0308d21f5d2e6b" // Spinning Wheel
+		]
+		Effect "7eceb9f7751d4634b572c8e236355104" // Rip
+	}
+]

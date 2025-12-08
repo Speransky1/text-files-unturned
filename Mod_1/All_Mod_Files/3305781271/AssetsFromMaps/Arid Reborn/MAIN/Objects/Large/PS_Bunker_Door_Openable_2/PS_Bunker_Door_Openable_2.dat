@@ -1,0 +1,15 @@
+GUID 5e1bdbc7037d405881f2f027f20dd4f0
+Type Large
+Has_Clip_Prefab False
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 19119
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Interactability Binary_State
+Interactability_Delay 4
+Interactability_Hint Use
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Large/PS_Bunker_Door_Openable_0

@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "ab1ee0aa8bbe4822a7c77a6f7d1ca01f"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Cardboard_0/Cardboard0_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Cardboard_0/Cardboard1_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Cardboard_0/Cardboard2_M.mat"
+		}
+	]
+}

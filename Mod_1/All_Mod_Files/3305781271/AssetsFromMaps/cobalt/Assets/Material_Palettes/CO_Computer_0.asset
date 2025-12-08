@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "b6f72ffd57724894b3961fa391def5c8"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Computer_0/Computer_0_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Computer_0/Computer_1_M.mat"
+		}
+	]
+}

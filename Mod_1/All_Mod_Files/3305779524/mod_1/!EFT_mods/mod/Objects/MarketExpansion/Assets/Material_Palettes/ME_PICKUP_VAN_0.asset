@@ -1,0 +1,44 @@
+"Metadata"
+{
+	"GUID" "c605f6c290564b839a6a3ec8700f6a3f"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PICKUP_VAN_0/ME_PICKUP_VAN_00.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PICKUP_VAN_0/ME_PICKUP_VAN_01.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PICKUP_VAN_0/ME_PICKUP_VAN_02.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PICKUP_VAN_0/ME_PICKUP_VAN_03.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PICKUP_VAN_0/ME_PICKUP_VAN_04.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PICKUP_VAN_0/ME_PICKUP_VAN_05.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PICKUP_VAN_0/ME_PICKUP_VAN_06.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_PICKUP_VAN_0/ME_PICKUP_VAN_07.mat"
+		}
+	]
+}

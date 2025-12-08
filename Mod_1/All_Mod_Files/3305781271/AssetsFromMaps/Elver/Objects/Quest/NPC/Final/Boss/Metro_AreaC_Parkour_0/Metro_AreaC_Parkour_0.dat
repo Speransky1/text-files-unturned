@@ -1,0 +1,35 @@
+GUID 99fb33659a024af4aceee142696579fd
+
+Type Medium
+Has_Clip_Prefab false
+ID 58138
+
+Interactability Binary_State
+Interactability_Delay 6
+Interactability_Hint Use
+
+Interactability_Conditions 5
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 57132
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 57133
+Interactability_Condition_1_Value True
+Interactability_Condition_1_Logic Equal
+
+Interactability_Condition_2_Type Flag_Bool
+Interactability_Condition_2_ID 57134
+Interactability_Condition_2_Value True
+Interactability_Condition_2_Logic Equal
+
+Interactability_Condition_3_Type Flag_Bool
+Interactability_Condition_3_ID 57135
+Interactability_Condition_3_Value True
+Interactability_Condition_3_Logic Equal
+
+Interactability_Condition_4_Type Flag_Bool
+Interactability_Condition_4_ID 57136
+Interactability_Condition_4_Value True
+Interactability_Condition_4_Logic Equal

@@ -1,0 +1,26 @@
+GUID 8ebb6e10f7894f5294d5e969f5ae3694
+
+Type Small
+Has_Clip_Prefab false
+ID 57919
+
+Conditions 2
+
+//If planted, appears
+Condition_0_Type Flag_Bool
+Condition_0_ID 57345
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 57335
+Condition_1_Value True
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Emission
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Snowy/Metro_Torus_Placed

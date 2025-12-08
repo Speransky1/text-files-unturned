@@ -1,0 +1,10 @@
+﻿GUID 3ea27850efb64accb7b81f6294e9c65c
+
+Type Small
+Has_Clip_Prefab false
+Rubble Destroy
+Rubble_Reset 100
+Rubble_Health 10
+Rubble_Effect 41333
+Rubble_Reward_ID 41420
+Rubble_Reward_Probability 0.3

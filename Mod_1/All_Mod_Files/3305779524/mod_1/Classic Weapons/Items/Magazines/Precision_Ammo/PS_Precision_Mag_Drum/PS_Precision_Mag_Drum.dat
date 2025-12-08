@@ -1,0 +1,78 @@
+GUID 54fe3267a05748b087af3b6a49aad70e
+Type Magazine
+Rarity Legendary
+ID 31115
+
+Size_X 2
+Size_Y 2
+Size_Z 0.275
+
+Amount 50
+Count_Min 25
+Count_Max 50
+
+Calibers 1
+Caliber_0 25041
+
+Range 4
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 30030
+Explosive
+
+Tracer 30061
+
+Speed 0.9
+
+Blueprints 9
+//Bozar Box
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31110
+Blueprint_0_Build 30
+//M90 Box
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31111
+Blueprint_1_Build 30
+//MKP Box
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31112
+Blueprint_2_Build 30
+//Precision Ammobox
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31113
+Blueprint_3_Build 30
+//Precision Mag
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 31114
+Blueprint_4_Build 30
+//Precision Drum
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 31115
+Blueprint_5_Build 30
+//Precision Disk Mag
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 31116
+Blueprint_6_Build 30
+//Precision Disk Mag
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 31100
+Blueprint_7_Build 30
+//Precision Disk Mag
+Blueprint_8_Type Ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 31102
+Blueprint_8_Build 30

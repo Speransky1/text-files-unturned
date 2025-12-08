@@ -1,0 +1,9 @@
+GUID 25ce8465d62a484facddb260f1af9609
+
+
+
+Type Effect
+ID 51025
+CameraShake_Radius 12
+CameraShake_MagnitudeDegrees 32
+Spawn_On_Dedicated_Server

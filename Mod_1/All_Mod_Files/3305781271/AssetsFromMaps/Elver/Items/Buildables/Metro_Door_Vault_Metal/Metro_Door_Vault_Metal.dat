@@ -1,0 +1,38 @@
+GUID e749907f3bb3413c91183ffefce52ebd
+
+Type Barricade
+Has_Clip_Prefab false
+Rarity Epic
+Useable Barricade
+Build Door
+ID 57271
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 1350
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 57110 
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Elver
+
+Asset_Bundle_Version 3

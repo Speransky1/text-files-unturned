@@ -1,0 +1,8 @@
+GUID dd2d404a62b54db1be086012130af0df
+Type RewardsList
+
+//Visit Point November
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22631
+Reward_0_Value True

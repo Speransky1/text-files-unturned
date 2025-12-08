@@ -1,0 +1,8 @@
+﻿GUID 9ccbe5803d6e4ff4bcaaca0bc2607e4c
+
+Type Medium
+Has_Clip_Prefab false
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Control_Tower_1

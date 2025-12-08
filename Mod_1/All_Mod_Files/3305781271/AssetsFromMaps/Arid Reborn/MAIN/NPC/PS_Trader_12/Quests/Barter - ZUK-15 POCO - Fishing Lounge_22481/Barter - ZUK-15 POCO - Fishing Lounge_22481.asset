@@ -1,0 +1,32 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "484bf2f153c447f2a8fd42cb2172bc54"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions" "3"
+	"Condition_0_Type" "ITEM"
+	"Condition_0_Reset" ""
+	"Condition_0_Logic" "GREATER_THAN_OR_EQUAL_TO"
+	"Condition_0_ID" "19193"
+	"Condition_0_Amount" "3"
+	"Condition_1_Type" "ITEM"
+	"Condition_1_Reset" ""
+	"Condition_1_Logic" "GREATER_THAN_OR_EQUAL_TO"
+	"Condition_1_ID" "19239"
+	"Condition_1_Amount" "2"
+	"Condition_2_Type" "ITEM"
+	"Condition_2_Reset" ""
+	"Condition_2_Logic" "GREATER_THAN_OR_EQUAL_TO"
+	"Condition_2_ID" "19806"
+	"Condition_2_Amount" "1"
+	"Rewards" "1"
+	"Reward_0_Type" "VEHICLE"
+	"Reward_0_ID" "10236"
+	"Reward_0_Spawnpoint" "Fishing"
+	"AbandonmentRewards" "0"
+	"ID" "22481"
+	"Asset_Bundle_Version" "1"
+}

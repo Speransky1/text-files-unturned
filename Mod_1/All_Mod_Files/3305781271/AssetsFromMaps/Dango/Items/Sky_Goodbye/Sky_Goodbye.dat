@@ -1,0 +1,24 @@
+GUID 3b13616e77354f50b4ecf063892d59ce
+
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 44051
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Player_Damage 100
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Range 0.01
+Explosion 44008
+
+Should_Delete_After_Use False

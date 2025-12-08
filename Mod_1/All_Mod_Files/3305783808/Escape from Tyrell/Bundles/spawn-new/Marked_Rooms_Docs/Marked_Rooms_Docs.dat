@@ -1,0 +1,32 @@
+GUID 5c719669d6b0402fa33e2ad724f62560
+Type Spawn
+ID 10501
+
+Tables
+[
+	{
+		// USB-накопитель (Supply Item)
+		Guid fc0121594a3048eb9e0d9566e5de6487
+		Weight 15
+	}
+	{
+		// SSD (Supply Item)
+		Guid b45d22f0e9b145238b6c845a1038fd96
+		Weight 10
+	}
+	{
+		// Рапорт TPD от 26.08.2022 (Supply Item)
+		Guid f370254efecd4bbeb4e7a6e0998ab0a2
+		Weight 4
+	}
+	{
+		// Отчет МК ООН от 15.09.2022 (Supply Item)
+		Guid 4b8479ed19c44fda8ec52d39073f3818
+		Weight 2
+	}
+	{
+		// Рапорт Национальной гвардии от 6.09.2022 (Supply Item)
+		Guid 6f1e8ace207941799a0e729ff479b17e
+		Weight 1
+	}
+]

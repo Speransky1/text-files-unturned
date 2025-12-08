@@ -1,0 +1,16 @@
+GUID aa7716bc41034531aaa3ea02e2cc043a
+Type Mask
+Rarity Uncommon
+Useable Clothing
+ID 37543
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

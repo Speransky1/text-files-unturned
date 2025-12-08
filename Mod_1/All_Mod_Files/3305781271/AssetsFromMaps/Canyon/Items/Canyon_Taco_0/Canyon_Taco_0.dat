@@ -1,0 +1,19 @@
+GUID 8668f7ecbd6f4d18846b7ef6aba10719
+
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 28007
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Aid
+Bleeding
+Broken
+Health 77
+Disinfectant 100
+Food 20
+Water 5
+Energy 1

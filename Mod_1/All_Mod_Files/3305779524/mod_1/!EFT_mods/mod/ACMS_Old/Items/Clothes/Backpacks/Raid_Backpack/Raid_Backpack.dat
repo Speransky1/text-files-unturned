@@ -1,0 +1,19 @@
+GUID 6eb74274ec99471899d93f3268a4706d
+Type Backpack
+Rarity Legendary
+Useable Clothing
+ID 37475
+
+Size_X 3
+Size_Y 3
+Size_Z 0.4
+
+Width 9
+Height 8
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Build 32

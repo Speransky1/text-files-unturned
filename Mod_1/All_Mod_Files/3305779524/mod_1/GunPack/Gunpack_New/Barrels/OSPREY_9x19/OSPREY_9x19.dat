@@ -1,0 +1,22 @@
+GUID bca704be0ebb429eaffe265053f4e2e3
+
+Type Barrel
+Rarity Epic
+ID 34114
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Silenced 
+Volume 0.55
+Gunshot_Rolloff_Distance_Multiplier 0.3
+Calibers 1
+Caliber_0 54904
+
+Muzzle 19022
+
+Recoil_X 0.5
+Recoil_Y 0.6
+
+

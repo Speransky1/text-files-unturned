@@ -1,0 +1,52 @@
+"Metadata"
+{
+	"GUID" "f4e517e3a3b2462e96d130f27d45b9fd"
+	"Type" "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Density" "128"
+	"Min_Normal_Position_Offset" "0"
+	"Max_Normal_Position_Offset" "0"
+	"Normal_Rotation_Offset"
+	{
+		"X" "0"
+		"Y" "0"
+		"Z" "0"
+	}
+	"Normal_Rotation_Alignment" "0"
+	"Min_Weight" "1"
+	"Max_Weight" "1"
+	"Min_Angle" "0"
+	"Max_Angle" "75"
+	"Min_Rotation"
+	{
+		"X" "0"
+		"Y" "0"
+		"Z" "0"
+	}
+	"Max_Rotation"
+	{
+		"X" "0"
+		"Y" "0"
+		"Z" "0"
+	}
+	"Min_Scale"
+	{
+		"X" "1"
+		"Y" "1"
+		"Z" "1"
+	}
+	"Max_Scale"
+	{
+		"X" "1"
+		"Y" "1"
+		"Z" "1"
+	}
+	"Resource"
+	{
+		"GUID" "0a4c69b9f94f49a9b344cab58009933f"
+	}
+	"Obstruction_Radius" "4"
+}

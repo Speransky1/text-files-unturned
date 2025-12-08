@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "d7df597b9094468680733e1e96d5224c"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/weights_0/weights_0.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/weights_0/weights_1.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/weights_0/weights_2.mat"
+		}
+	]
+}

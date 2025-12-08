@@ -1,0 +1,173 @@
+ManifestFileVersion: 0
+CRC: 1699740548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f51608b4dc71f0a99a4c885dd75d275c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b79c805c31b78507bc22941088f6595f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f51608b4dc71f0a99a4c885dd75d275c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ccefcfb92cff8546a6989bf06f6b74d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7b0c7a1890d68343a53b847ecace7a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e854a062516b19e408d34000c8d2104c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/BundlesLol/OmegaLul/Rofls/Effects/Explosions/Flash/Effect.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_3/58118.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_3/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigarette/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigar_Big/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Makeshift_Cigarette/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/Used_Marlboro_Cigarettes_Pack/Equip.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_9/Use.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/Makeshift_Cigarette/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigar_Small/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Paint_Can/Equip.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_5/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_6/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_8/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigar_Big/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_1/58120.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_10/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_10/Use.anim
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Guns/Pepper_Spray_0/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_3/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigarette/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_6/Equip.anim
+- Assets/BundlesLol/OmegaLul/Rofls/Effects/Guns/Pepper_Muzzle_1/Effect.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_1/Equip.anim
+- Assets/BundlesLol/OmegaLul/Rofls/Effects/Guns/Pepper_Muzzle_0/Effect.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Guns/Pepper_Spray_1/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Paint_Can/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_7/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_4/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_6/58115.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Magazines/Spray_0/Magazine.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_5/Equip.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_5/Use.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_10/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_7/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_3/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Makeshift_Cigarette/58104.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Guns/Pepper_Spray_0/Projectile.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Guns/Pepper_Spray_1/Shoot.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/Makeshift_Cigarette/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_3/Equip.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_10/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_2/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/Malboro.mat
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_8/Equip.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigarette/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_7/Use.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigar_Small/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_8/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Guns/Pepper_Spray_0/Shoot.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_2/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_4/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigar_Small/58103.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_7/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_3/Use.anim
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Paint_Can/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_2/58119.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_2/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_1/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_2/Use.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_4/Item.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Guns/Pepper_Spray_1/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_7/58114.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_6/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_4/Use.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_10/Equip.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_8/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigarette/58105.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Magazines/Spray_1/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_9/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_7/Equip.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigar_Small/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_1/Item.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Guns/Pepper_Spray_1/Projectile.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_5/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_1/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_2/Equip.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_8/Use.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_1/Use.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_9/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigar_Big/58102.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Used_Marlboro_Cigarettes_Pack/Item.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Magazines/Spray_0/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_5/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_4/Equip.anim
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Paint_Can/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Cigar_Big/Use.mp3
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_6/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_4/58117.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_9/58112.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Guns/Pepper_Spray_0/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Used_Marlboro_Cigarettes_Pack/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_6/Use.anim
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Magazines/Spray_1/Magazine.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_5/58116.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_8/58113.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/Used_Marlboro_Cigarettes_Pack/Use.anim
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Roller/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/Malboro.png
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_9/Equip.anim
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_9/Item.prefab
+- Assets/BundlesLol/OmegaLul/Tobacco/EFT_Marlboro_Pack/EFT_Marlboro_10/58111.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Roller/Animations.prefab
+- Assets/BundlesLol/OmegaLul/Rofls/Items/Roller/Use.mp3
+Dependencies: []

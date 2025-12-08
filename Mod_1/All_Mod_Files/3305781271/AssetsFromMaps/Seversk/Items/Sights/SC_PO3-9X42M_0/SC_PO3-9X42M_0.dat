@@ -1,0 +1,61 @@
+﻿GUID e127abd571e04c0483c74528ad377c5b
+Type Sight
+Rarity Epic
+ID 41733
+
+Size_X 3
+Size_Y 1
+Size_Z 0.2
+
+Spread 0.75
+Holographic
+Zoom 8
+ThirdPerson_Zoom 1.75
+Calibers 1
+Caliber_0 43013
+Use_Auto_Icon_Measurements true
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "615a4030662e4ea7abad12b5a4e9a675" // Screwdriver
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 5" // Metal Parts
+			"fc66e44ca92f49d0b8d4fca4bd512190 x 3" // Electronic Fragments
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "fe737c19caa84d36894ba093816c0a08" // PO3-9X42M 4x Zoom
+		StateTransfer true
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Change Magnification
+Action_0_Tooltip Switch to <color=#uncommon>4× ZOOM</color>
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Salvage
+Action_1_Tooltip Salvage into component materials.
+Add_Default_Actions false

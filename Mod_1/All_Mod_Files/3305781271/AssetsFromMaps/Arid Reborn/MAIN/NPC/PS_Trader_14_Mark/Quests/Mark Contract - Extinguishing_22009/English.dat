@@ -1,0 +1,5 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Mark Contract - Extinguishing
+Description Bring me 3x <color=#1F871F>Fire Extinguisher</color>, mark Mortar on Point November & kill 125x zombies.
+Condition_1 {0}/{1} Planted Markers
+Condition_2 {0}/{1} Zombies

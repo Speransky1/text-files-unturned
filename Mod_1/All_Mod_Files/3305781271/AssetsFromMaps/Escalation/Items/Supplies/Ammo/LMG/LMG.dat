@@ -1,0 +1,31 @@
+GUID 0b54ee1c68df4cd6800d52a9c86e1a93
+Type Magazine
+Rarity Legendary
+ID 51915
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Speed 0.7
+
+Amount 100
+Count_Min 50
+Count_Max 100
+
+Calibers 1
+Caliber_0 51010
+
+Tracer 51000
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51915
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 32266
+Blueprint_1_Build 30
+
+

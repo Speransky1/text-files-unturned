@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID c0c217d0d682430499f359b685a567fc
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Water_Tank_1/Water_Tank_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Water_Tank_1/Water_Tank_2.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Water_Tank_1/Water_Tank_3.mat
+		}
+	]
+}

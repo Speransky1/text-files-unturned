@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "c954a03b736941eebbf4ddbf47c99f40"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Offices_Desks/Offices_Furniture_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Offices_Desks/Offices_Furniture_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Offices_Desks/Offices_Furniture_2.mat"
+		}
+	]
+}

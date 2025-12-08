@@ -1,0 +1,21 @@
+GUID de8f3650d6f044e7990a4a062d6b01a5
+
+Type Optic
+Rarity Rare
+Useable Optic
+ID 57027
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Zoom 9
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 57027
+Blueprint_0_Product 67
+Blueprint_0_Products 3
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

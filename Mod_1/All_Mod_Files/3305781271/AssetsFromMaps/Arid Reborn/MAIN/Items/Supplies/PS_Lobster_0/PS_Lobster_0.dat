@@ -1,0 +1,20 @@
+GUID 0e9c2bba81554d05878d0eb58396cab7
+
+Type Supply
+Rarity Epic
+ID 59141
+
+Size_X 2
+Size_Y 1
+Size_Z 0.23
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59141
+Blueprint_0_Product 59062
+Blueprint_0_Products 4
+Blueprint_0_Tool 59005
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

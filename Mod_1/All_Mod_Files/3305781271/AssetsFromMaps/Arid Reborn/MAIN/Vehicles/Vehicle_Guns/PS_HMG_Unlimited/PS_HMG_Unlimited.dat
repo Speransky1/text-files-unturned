@@ -1,0 +1,84 @@
+GUID ddae93555311474e8cfa11a4d00112e1
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 10765
+
+Size_X 10
+Size_Y 10
+Size_Z 0.8
+
+Sight 10766
+Magazine 10767
+
+Should_Delete_Empty_Magazines true
+
+Ammo_Min 100
+Ammo_Max 100
+
+Auto
+
+Caliber 10767
+
+Range 400
+Ballistic_Steps 100
+Ballistic_Travel 4
+Ballistic_Drop 0.0005
+
+Damage_Falloff_Range 0.2
+Damage_Falloff_Max_Range 0.66
+Damage_Falloff_Multiplier 0.6
+
+Firerate 8
+Action Minigun
+
+Player_Damage 25
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 50
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 50
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 10
+Resource_Damage 111
+Object_Damage 90
+
+Aim_In_Duration 0.3
+
+Spread_Aim 0.08
+Spread_Hip 0.12
+
+Recoil_Min_X -0.2
+Recoil_Min_Y 0.4
+Recoil_Max_X 0.2
+Recoil_Max_Y 0.6
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Muzzle 9999
+
+Shell 9999
+
+Gunshot_Rolloff_Distance 700
+
+Player_Damage_Bleeding Always
+
+Infinite_Ammo True
+Allow_Magazine_Change False
+
+Reload_Time 8
+Turret

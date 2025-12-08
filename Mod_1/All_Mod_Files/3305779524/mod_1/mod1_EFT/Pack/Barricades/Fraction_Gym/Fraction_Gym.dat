@@ -1,0 +1,23 @@
+GUID 0dcfaf87c1914a4fbae8e4e6156ee282
+
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Barricade
+ID 64802
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 5200
+Range 4
+Radius 0.45
+Offset 0.65
+
+Use_Auto_Stat_Descriptions false
+
+Explosion 19
+
+Salvage_Duration_Multiplier 0.25
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3

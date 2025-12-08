@@ -1,0 +1,15 @@
+GUID 798513201ebd4f598cd063ede4ab3592
+
+Type Water
+Useable Consumeable
+Rarity Epic
+ID 44071
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Water 100
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Water/Bottled_Water

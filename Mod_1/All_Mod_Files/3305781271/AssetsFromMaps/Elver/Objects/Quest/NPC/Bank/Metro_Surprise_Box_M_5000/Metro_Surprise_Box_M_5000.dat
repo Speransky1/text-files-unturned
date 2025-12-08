@@ -1,0 +1,14 @@
+GUID 0c0731e3c9f4426b94f60ae638f4a789
+
+Type Small
+Has_Clip_Prefab false
+ID 58045
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 57307
+Condition_0_Value 3
+Condition_0_Logic Equal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_Surprise_Box_5000

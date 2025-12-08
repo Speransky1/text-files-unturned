@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "a51e52b789194780a2627376dc9c8c87"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/garbage_bags_0/garbage_bags_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/garbage_bags_0/garbage_bags_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/garbage_bags_0/garbage_bags_2.mat"
+		}
+	]
+}

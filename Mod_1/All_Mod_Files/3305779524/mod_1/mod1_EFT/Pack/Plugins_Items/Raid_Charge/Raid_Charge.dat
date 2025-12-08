@@ -1,0 +1,45 @@
+GUID d66d87105ddc47c895463cadf99cc9ab
+
+Type Charge
+Rarity Mythical
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Charge
+ID 54700
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+Use_Auto_Stat_Descriptions false
+
+Health 1
+Range 3
+Radius 0.1
+Offset 0.12
+
+Player_Damage 50
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Explosion_Launch_Speed 100
+
+Range2 10
+Explosion2 19047
+
+Explosion 36
+Invulnerable
+Unrepairable
+Proof_Explosion
+
+Salvage_Duration_Multiplier 2.5
+
+Bypass_Pickup_Ownership True
+
+Allow_Placement_Inside_Clip_Volumes False

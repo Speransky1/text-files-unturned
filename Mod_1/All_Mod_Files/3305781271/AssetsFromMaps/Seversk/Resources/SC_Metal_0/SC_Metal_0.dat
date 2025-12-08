@@ -1,0 +1,15 @@
+﻿GUID 88b09b6682b04c0ba6e9030d761e0591
+Type Resource
+ID 41327
+Health 600
+Radius 4
+Scale 0.3
+Explosion 41327
+Reward_ID 41411
+Reward_XP 0
+Reward_Min 6
+Reward_Max 12
+BladeID 2
+No_Debris
+Reset 1100
+Has_Clip_Prefab false

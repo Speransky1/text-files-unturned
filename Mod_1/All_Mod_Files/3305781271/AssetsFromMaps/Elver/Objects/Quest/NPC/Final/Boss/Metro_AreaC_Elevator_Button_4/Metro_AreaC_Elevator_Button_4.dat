@@ -1,0 +1,15 @@
+GUID b3cea1007a5a458081f8daf9262f2812
+
+Type Small
+Has_Clip_Prefab false
+ID 58183
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57196
+Condition_0_Value True
+Condition_0_Logic Equal
+
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Objects/Quest/NPC/Final/Boss/Metro_AreaC_Elevator_Button

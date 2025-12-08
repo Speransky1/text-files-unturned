@@ -1,0 +1,151 @@
+GUID de83b30a903e4f9e8b7dab576fd5a72d
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary	
+ID 19996
+
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_Honey.wav
+
+Size_X 5
+Size_Y 2
+Size_Z 0.4
+Use_Auto_Icon_Measurements True
+
+Sight 19997
+Grip 10594
+Magazine 19836
+
+Hook_Grip
+Hook_Sight
+Hook_Tactical
+Hook_Barrel
+
+Ammo_Min 5
+Ammo_Max 20
+
+Safety
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 18832
+
+Attachment_Calibers 4
+//Scope
+Attachment_Caliber_0 18911
+//Grip
+Attachment_Caliber_2 18930
+//Tactical
+Attachment_Caliber_1 18922
+//Barrel
+Attachment_Caliber_3 18928
+
+Unplace 0.1
+Replace 0.42
+
+Muzzle 19066
+
+Shell 19018
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Player_Damage_Bleeding Always
+
+Quality_Min 5
+Quality_Max 20
+
+Blueprints 2
+
+//Repair
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19659
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27
+
+//Salvage
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19996
+Blueprint_1_Outputs 1
+//Supply (High Tier Gun Parts)
+Blueprint_1_Output_0_ID 19262
+Blueprint_1_Output_0_Amount 4
+Blueprint_1_Tool 19004
+Blueprint_1_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Repair
+Action_0_Tooltip Repair gun.
+
+////////////////////////////////////////Balance Stats
+
+Range 500
+Ballistic_Steps 50
+Ballistic_Drop 0.00055
+Damage_Falloff_Multiplier 0.6
+Damage_Falloff_Range 0.666
+Damage_Falloff_Max_Range 1
+Gunshot_Rolloff_Distance 1000
+
+Can_Ever_Jam
+Jam_Quality_Threshold 0.5
+Jam_Max_Chance 0.15
+Unjam_Chamber_Anim Jam
+
+Aim_In_Duration 0.4
+
+Firerate 15
+Action Trigger
+
+Player_Damage 49
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.9
+
+Zombie_Damage 98
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.9
+
+Animal_Damage 98
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.9
+
+Barricade_Damage 49
+Structure_Damage 49
+Vehicle_Damage 49
+Resource_Damage 98
+Object_Damage 98
+
+Durability 0.15
+
+Recoil_Min_X -6
+Recoil_Min_Y 30
+Recoil_Max_X 6
+Recoil_Max_Y 35
+
+Recover_X 0.95
+Recover_Y 0.95
+
+Shake_Min_X -0.02
+Shake_Min_Y -0.05
+Shake_Min_Z 0
+Shake_Max_X 0.02
+Shake_Max_Y -0.06
+Shake_Max_Z -0.03
+
+Recoil_Midair 3
+
+Spread_Aim 0.03
+Spread_Hip 0.06
+Spread_Midair 3

@@ -1,0 +1,18 @@
+GUID 7840a52fedaf4d7eb074983350e05a66
+
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 17009
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Use_Auto_Icon_Measurements True
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Should_Delete_After_Use False

@@ -1,0 +1,5 @@
+Name ME Furniture #12
+
+Interactability_Condition_0 Requires <color=#4E5D8E>2000$</color> 
+
+Interact Purchase Shelf for <color=#4E5D8E>2000$</color>  [{0}]

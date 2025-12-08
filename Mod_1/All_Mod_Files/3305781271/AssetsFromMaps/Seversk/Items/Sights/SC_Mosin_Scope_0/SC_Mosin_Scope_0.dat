@@ -1,0 +1,46 @@
+﻿GUID 0c46603308f64c319f1287191e4fc8b1
+Type Sight
+Rarity Uncommon
+ID 41903
+
+Size_X 2
+Size_Y 2
+Size_Z 0.23
+
+Spread 0.8
+Zoom 3.5
+Calibers 1
+Caliber_0 43039
+ThirdPerson_Zoom 1.75
+Use_Auto_Icon_Measurements true
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "615a4030662e4ea7abad12b5a4e9a675" // Screwdriver
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 3" // Metal Parts
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

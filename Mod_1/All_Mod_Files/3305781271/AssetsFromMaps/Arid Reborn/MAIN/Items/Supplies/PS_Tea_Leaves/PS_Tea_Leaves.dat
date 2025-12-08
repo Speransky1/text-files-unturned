@@ -1,0 +1,17 @@
+GUID cf0014e2b461448492fb2f889dfcd4bf
+
+Type Supply
+Rarity Uncommon
+ID 59697
+
+Size_X 1
+Size_Y 1
+Size_Z 0.23
+
+Blueprints 1
+
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 59945
+Blueprint_0_Product 59697
+Blueprint_0_Products 10
+Blueprint_0_Build 27

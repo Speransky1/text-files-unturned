@@ -1,0 +1,237 @@
+GUID 195ba294c79b4908866478a5168ed89b
+Type Spawn
+ID 10100
+
+Tables
+[
+	{
+		// Пустой шприц (Supply Item)
+		Guid a43bacdf158e4852a2067b1f1f0a7439
+		Weight 100
+	}
+	{
+		// Осколки стекла (Supply Item)
+		Guid 9eb2830a79f74cecafa02930a7671811
+		Weight 100
+	}
+	{
+		// Куски металла (Supply Item)
+		Guid 640730beacec4f008a4b880a8086869f
+		Weight 95
+	}
+	{
+		// Консервная банка (Supply Item)
+		Guid d80514bf979c4f5ca52562f17e06f6b4
+		Weight 95
+	}
+	{
+		// Разбитая лампочка (Supply Item)
+		Guid d98f8bf0ae494b6cbb22563ff617606b
+		Weight 95
+	}
+	{
+		// Пластиковые осколки (Supply Item)
+		Guid 29310558ba7d46278ade7d9b522f4f27
+		Weight 95
+	}
+	{
+		// Металлолом (Supply Item)
+		Guid 49929a679ece47ae9f5db2576661fad7
+		Weight 90
+	}
+	{
+		// Лист металла (Supply Item)
+		Guid 91271cb1936749539e06224fff2134b0
+		Weight 85
+	}
+	{
+		// Болты (Supply Item)
+		Guid 5ad3e1db83b34cf5bc4d5dc87163d240
+		Weight 85
+	}
+	{
+		// Гвозди (Supply Item)
+		Guid ba05e3c637854c87af352af550bd55f4
+		Weight 85
+	}
+	{
+		// Ведро (Storage Item)
+		Guid 78ac499537094827b32dc54fda744bee
+		Weight 85
+	}
+	{
+		// Форма для выпечки (Supply Item)
+		Guid 576d9323c2db457bb0c43b19caec5a3d
+		Weight 85
+	}
+	{
+		// Гайки (Supply Item)
+		Guid 078f5574eed241309da9b39d5f23e8ba
+		Weight 85
+	}
+	{
+		// ТВ пульт (Supply Item)
+		Guid f10aa966b50d4535abc890554071ac15
+		Weight 85
+	}
+	{
+		// Крышка воздушного фильтра (Supply Item)
+		Guid 4a93610b049c4faf896d2b6b146f7a4f
+		Weight 85
+	}
+	{
+		// Ключ (Supply Item)
+		Guid d582f48c787040139b43fabc7f884874
+		Weight 85
+	}
+	{
+		// Электрические детали (Supply Item)
+		Guid ace25590f8b54ecf83a15be330d55bdf
+		Weight 80
+	}
+	{
+		// Рулетка (Supply Item)
+		Guid 35ec992360af46d7acc3e80e40aefdd1
+		Weight 80
+	}
+	{
+		// Пропановый балон (Tank Item)
+		Guid 6dd5d46a704e4d799d95c37779ad23ca
+		Weight 75
+	}
+	{
+		// Гантеля (Supply Item)
+		Guid 320108281c774f3c92e36e2097e1ac7f
+		Weight 75
+	}
+	{
+		// Совок (Supply Item)
+		Guid e53fbee8538945fabd965b19bebc9f39
+		Weight 75
+	}
+	{
+		// Гаечный ключ (Supply Item)
+		Guid f427e0b4edb849d0946450dfba824d35
+		Weight 75
+	}
+	{
+		// Пинцет (Supply Item)
+		Guid e7f3fb351cc843f3b37f211c902b215e
+		Weight 70
+	}
+	{
+		// Отвертка (Supply Item)
+		Guid 306849c0a04444c09f59de290bcb6f23
+		Weight 70
+	}
+	{
+		// Лампочка (Supply Item)
+		Guid 4b346f18070d488fa16f6b08aff3e044
+		Weight 65
+	}
+	{
+		// Тёрка (Supply Item)
+		Guid 519e382576b04990adaf9319ec2d7994
+		Weight 65
+	}
+	{
+		// Набор проводов (Supply Item)
+		Guid af7b1190229f4272a4632c4df0800b81
+		Weight 50
+	}
+	{
+		// Огнетушитель (Supply Item)
+		Guid 92647e6e27b1482da6bacb401612ec32
+		Weight 45
+	}
+	{
+		// Шар для боулинга (Barricade Item)
+		Guid 85aec5c8c5474daea5736195f414bf50
+		Weight 45
+	}
+	{
+		// Коробка гвоздей (Supply Item)
+		Guid bdeedcd393914cd39985393d8578190a
+		Weight 45
+	}
+	{
+		// Шурупы (Supply Item)
+		Guid a565e2d6c8c8468eb2f42161dfdfa78d
+		Weight 45
+	}
+	{
+		// Сломаный смартфон "Ophone" (Supply Item)
+		Guid 6cf55be9da4a465cb5ae80fe2d83d2ce
+		Weight 35
+	}
+	{
+		// Коробка болтов (Supply Item)
+		Guid 7c2818370ad74a75a912036574c767a8
+		Weight 35
+	}
+	{
+		// Утюг (Supply Item)
+		Guid c7cbf2ad3e614117a183887648102d82
+		Weight 35
+	}
+	{
+		// Металлическая труба (Supply Item)
+		Guid e0f3b003264f40138e9bc9b53ef959a0
+		Weight 30
+	}
+	{
+		// Вентиляционный фильтр (Supply Item)
+		Guid e5ae90c7b93d4e6bb32761735e4d8aa6
+		Weight 30
+	}
+	{
+		// Стальная сетка (Supply Item)
+		Guid 41a4926bab2b490f9525cd0583901881
+		Weight 25
+	}
+	{
+		// Балончик черной краски (Vehicle Paint Tool Item)
+		Guid 6212da47cd2b47a683c58d58654a989d
+		Weight 25
+	}
+	{
+		// Металлическая пружина (Supply Item)
+		Guid 58cfc475aae04c44b1e2457eeb90cfdc
+		Weight 20
+	}
+	{
+		// Смартфон "Ophone" (Supply Item)
+		Guid 62e8477a159a406eb848ad871ce6e18e
+		Weight 20
+	}
+	{
+		// Камера (Supply Item)
+		Guid fe38afa006194d77b7a5c6cc10cdfe9c
+		Weight 10
+	}
+	{
+		// Электрическая дрель (Supply Item)
+		Guid 9e4327f6a9f549dcb47682c2ecb823a4
+		Weight 10
+	}
+	{
+		// Тяжелый кабель (Supply Item)
+		Guid 8632ca4c1068403ba4174f3384958559
+		Weight 10
+	}
+	{
+		// Лезвие пилы (Supply Item)
+		Guid 963a6bc48fb54fe18d45d0499c486104
+		Weight 5
+	}
+	{
+		// Очень тяжелый кабель (Supply Item)
+		Guid b8b174ac0e35499783a234265a3c1de3
+		Weight 5
+	}
+	{
+		// Сломанная пила (Supply Item)
+		Guid 4ccd94a7a1bc4c8f9bf087c0231c8de3
+		Weight 1
+	}
+]

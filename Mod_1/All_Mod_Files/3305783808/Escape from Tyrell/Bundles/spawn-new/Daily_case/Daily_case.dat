@@ -1,0 +1,112 @@
+GUID 3e48b5d3c801457780e950765c1b864e
+Type Spawn
+ID 10777
+
+Tables
+[
+	{
+		// Фильтр противогаза (Filter Item)
+		Guid 52bfd1dd70f148a28fb5a80e649b1ce9
+		Weight 2
+	}
+	{
+		// Зубочистка (Melee Item)
+		Guid 959681a2610a4f96be6a40064605b9cd
+		Weight 2
+	}
+	{
+		// Тушёнка (Food Item)
+		Guid 0562590236a443c197c5e04156272455
+		Weight 2
+	}
+	{
+		// Серебряная подземная монета (Supply Item)
+		Guid c5bd0e5cabb94274bab59697c22bdcf1
+		Weight 2
+	}
+	{
+		// Мясная бита (Melee Item)
+		Guid bd8582c4f2dd43a3bc3e79aad1e2a0b0
+		Weight 2
+	}
+	{
+		// Гига-гриб (Melee Item)
+		Guid 6dde41f4f71040f888ac9e86093d17cd
+		Weight 2
+	}
+	{
+		// Виски "Грязный Ганс" (Water Item)
+		Guid 71017183b20c43a4990ebc3812791fa2
+		Weight 2
+	}
+	{
+		// зондби рыба (Supply Item)
+		Guid c13ddcd6a6a044f19709458714a7b929
+		Weight 2
+	}
+	{
+		// Рапорт TPD от 26.08.2022 (Supply Item)
+		Guid f370254efecd4bbeb4e7a6e0998ab0a2
+		Weight 2
+	}
+	{
+		// Пожарный топор (Melee Item)
+		Guid 6cdbe993bb8d4f269ca0cfa05a0952bd
+		Weight 2
+	}
+	{
+		// Сгущёнка (Food Item)
+		Guid eb1a3580c8e643caaf8edd95646bde7b
+		Weight 2
+	}
+	{
+		// Брепси (Water Item)
+		Guid b79196ab7c1f49ef87547a99c3134da8
+		Weight 2
+	}
+	{
+		// Водка Smirnoff (Food Item)
+		Guid 2b08598808e242d08260b85ba413475c
+		Weight 2
+	}
+	{
+		// Jack Daniel (Food Item)
+		Guid 7a918243f9f247d790b76b8fc3485483
+		Weight 2
+	}
+	{
+		// USB-накопитель (Supply Item)
+		Guid fc0121594a3048eb9e0d9566e5de6487
+		Weight 2
+	}
+	{
+		// Догекоин (Supply Item)
+		Guid 27f2984ea3674dc889ba468d2227c23c
+		Weight 2
+	}
+	{
+		// Машинный двигатель (Barricade Item)
+		Guid a593946f773244c98c16c7b69430db7e
+		Weight 2
+	}
+	{
+		// Золотистый перепел (Supply Item)
+		Guid 0f42176b957c419d9d3a6525677ace5a
+		Weight 2
+	}
+	{
+		// ИРП Армии США (Food Item)
+		Guid 8523cc36e8c34c628d6c61b24d11b294
+		Weight 2
+	}
+	{
+		// Аптечка медработника (Medical Item)
+		Guid 465e155da6c648dcb878d3adba1cb62c
+		Weight 2
+	}
+	{
+		// Скалка (Melee Item)
+		Guid 8044db3fba5b47fda462df0faad74186
+		Weight 2
+	}
+]

@@ -1,0 +1,52 @@
+GUID a1fdbf32b1684307be1f8aa86cc816fe
+
+Type Magazine
+Rarity Legendary
+ID 63834
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Anti_Material/PS_AMR_Mag
+
+Size_X 2
+Size_Y 2
+Size_Z 0.29
+
+Amount 10
+Count_Min 0
+Count_Max 10
+
+Calibers 1
+Caliber_0 19834
+
+Tracer 19040
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63835
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63834
+Blueprint_2_Build 30
+
+Use_Auto_Icon_Measurements False
+
+Range 4
+Player_Damage 0
+Zombie_Damage 8
+Animal_Damage 8
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 25
+Resource_Damage 25
+Object_Damage 25
+Explosion 19019
+Explosive

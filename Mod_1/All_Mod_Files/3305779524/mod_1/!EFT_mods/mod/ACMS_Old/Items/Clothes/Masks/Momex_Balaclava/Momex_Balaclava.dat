@@ -1,0 +1,16 @@
+GUID 2199c803b63e4ffbbf1c5a65e6be5c59
+Type Mask
+Rarity Common
+Useable Clothing
+ID 37540
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

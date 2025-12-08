@@ -1,0 +1,10 @@
+GUID e11908641e3549fe8163a8acc2dc3f0f
+Type Medium
+Has_Clip_Prefab False
+ID 51000
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 52863
+Condition_0_Value 3
+Condition_0_Logic Equal

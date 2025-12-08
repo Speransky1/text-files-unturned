@@ -1,0 +1,11 @@
+GUID 70a3b91344d8444ba8f62f5ae638b5f5
+
+Type Medium
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 8
+
+Bundle_Override_Path /Objects/Medium/Co_Note_0
+
+Has_Clip_Prefab false

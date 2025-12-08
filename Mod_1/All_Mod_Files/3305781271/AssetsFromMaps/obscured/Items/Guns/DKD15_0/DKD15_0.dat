@@ -1,0 +1,88 @@
+GUID 8eba5419093f4482aabf5195a1af6565
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 39161
+
+Size_X 5
+Size_Y 2
+Size_Z 0.3
+
+Magazine 39162
+
+Ammo_Min 25
+Ammo_Max 25
+
+Auto
+
+Range 400
+Firerate 6
+Action Trigger
+
+Use_Auto_Icon_Measurements true
+Use_Auto_Stat_Descriptions false
+Should_Drop_On_Death False
+
+ThirdPerson_Zoom 1.5
+
+Unplace 0.2
+Replace 0.7
+
+Muzzle 39113
+Shell 39117
+
+Magazine_Calibers 1
+Magazine_Caliber_0 39205
+
+
+
+Player_Damage 47
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 0.95
+Player_Skull_Multiplier 1.17
+
+Zombie_Damage 91
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.77
+Zombie_Spine_Multiplier 0.9
+Zombie_Skull_Multiplier 1.2
+
+Object_Damage 44
+
+Durability 0
+
+Spread_Aim 0.05
+Spread_Hip 0.18
+
+Recoil_Min_X 0.5
+Recoil_Min_Y 4
+Recoil_Max_X 0.7
+Recoil_Max_Y 7
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.003
+Shake_Min_Y 0.004
+Shake_Min_Z -0.02
+Shake_Max_X 0.004
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.03
+
+Aim_In_Duration 0.33
+
+Gunshot_Rolloff_Distance 600
+
+Damage_Falloff_Range 0.06
+Damage_Falloff_Max_Range 1
+Damage_Falloff_Multiplier 0.5
+
+Ballistic_Steps 40
+Ballistic_Travel 10
+Ballistic_Drop 0.006
+
+Alert_Radius 512
+

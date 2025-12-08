@@ -1,0 +1,9 @@
+GUID 4209e23844a74333a6a9603d1d5e2813
+Type Effect
+ID 51089
+Spawn_On_Dedicated_Server
+Randomize_Rotation False
+Relevant_Distance 5000
+Lifetime 40
+Should_Play_Anims_On_Dedicated_Server true
+// Preload 5

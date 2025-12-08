@@ -1,0 +1,22 @@
+GUID 879747478092484b923eb6c5f083b6a0
+
+Type Small
+Has_Clip_Prefab false
+ID 58178
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57194
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57194
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Final/Metro_Key_0

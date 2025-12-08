@@ -1,0 +1,5 @@
+Name ME Beverage Cans #11
+
+Interactability_Condition_0 Requires <color=#4E5D8E>4$</color> 
+
+Interact Purchase Coronado for <color=#4E5D8E>4$</color>  [{0}]

@@ -1,0 +1,26 @@
+GUID 2b8eee1718644ac89a9bf7a36c55f0fd
+
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 48321
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.35
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 48321
+Blueprint_0_Product 48322
+Blueprint_0_Products 1
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Build 32

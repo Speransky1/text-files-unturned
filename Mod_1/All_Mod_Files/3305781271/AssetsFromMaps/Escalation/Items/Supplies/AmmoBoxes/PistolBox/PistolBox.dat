@@ -1,0 +1,28 @@
+GUID cc283a092cd5496a86c2447229eaef03
+Type Supply
+Rarity Uncommon
+ID 51943
+
+Size_X 2
+Size_Y 1
+Size_Z 0.5
+
+Amount 25
+Count_Min 15
+Count_Max 25
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51943
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51944
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 51945
+Blueprint_2_Build 30
+
+InventoryAudio core.masterbundle:Sounds/Inventory/SmallGunAttachment.asset

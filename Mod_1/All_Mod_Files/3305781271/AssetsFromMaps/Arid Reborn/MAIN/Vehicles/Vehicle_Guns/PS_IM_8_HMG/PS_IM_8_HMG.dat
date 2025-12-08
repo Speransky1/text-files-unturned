@@ -1,0 +1,76 @@
+GUID a018afa0ab54467fa32e346899237d76
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 10728
+
+Sight 1301
+Magazine 10030
+
+Should_Delete_Empty_Magazines true
+
+Ammo_Min 0
+Ammo_Max 20
+
+Auto
+
+Caliber 10029
+
+Range 600
+Ballistic_Steps 100
+Ballistic_Travel 6
+Ballistic_Drop 0.0001
+
+Damage_Falloff_Range 0.2
+Damage_Falloff_Max_Range 0.66
+Damage_Falloff_Multiplier 0.6
+
+Firerate 7
+Action Trigger
+
+Player_Damage 50
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 155
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 155
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 10
+Resource_Damage 100
+Object_Damage 80
+
+Aim_In_Duration 0.3
+Spread_Aim 0.01
+Spread_Hip 0.05
+
+Recoil_Min_X -0.2
+Recoil_Min_Y 0.4
+Recoil_Max_X 0.2
+Recoil_Max_Y 0.6
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Muzzle 19016
+
+Shell 19005
+
+Gunshot_Rolloff_Distance 200
+
+Player_Damage_Bleeding Always
+
+Reload_Time 8
+Turret

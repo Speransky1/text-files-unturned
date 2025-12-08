@@ -1,0 +1,33 @@
+GUID f3217ce259e244ae9f5351d6155cc14f
+Type Small
+ID 51006
+
+Has_Clip_Prefab false
+
+Master_Bundle_Override pbs.masterbundle
+Bundle_Override_Path /Objects/Small/Harddrive
+
+Conditions 3
+// Quest E
+Condition_0_Type Quest
+Condition_0_ID 52315 
+Condition_0_Status Active
+Condition_0_Logic Equal
+// Position 1
+Condition_1_Type Flag_Short
+Condition_1_ID 52320
+Condition_1_Value 0
+Condition_1_Logic Equal
+// Drive Picked Up
+Condition_2_Type Flag_Bool
+Condition_2_ID 52321
+Condition_2_Value False
+Condition_2_Logic Equal
+Condition_2_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 52321
+Interactability_Reward_0_Value True

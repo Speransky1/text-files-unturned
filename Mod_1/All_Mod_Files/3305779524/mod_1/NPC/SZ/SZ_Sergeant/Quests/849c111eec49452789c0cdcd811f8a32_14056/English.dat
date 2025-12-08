@@ -1,0 +1,4 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=uncommon>Поисковая операция</color>
+Description Один из Выживших ранее пошел в рейд по заданию <color=legendary>Сержанта</color>, но до сих пор не вернулся. Он отправился в сторону <color=uncommon>Лесопилки</color>, поэтому стоит ее осмотреть
+Condition_0 Найти Выжившего на <color=uncommon>Лесопилке</color>

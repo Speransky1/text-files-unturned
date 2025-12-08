@@ -1,0 +1,16 @@
+GUID c0c6e36c1b17413885e8ab69eba320fd
+
+Type Medium
+
+Has_Clip_Prefab False
+
+
+Material_Palette e25fcfc88236445295b42509d6e24e94
+
+Interactability Dropper
+Interactability_Delay 100
+Interactability_Hint Custom
+Interactability_Reward_ID 20110
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Locker_0

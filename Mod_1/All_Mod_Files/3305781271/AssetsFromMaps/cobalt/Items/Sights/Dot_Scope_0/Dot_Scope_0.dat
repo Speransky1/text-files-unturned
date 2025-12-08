@@ -1,0 +1,19 @@
+GUID 3dd1d0c8ed924e5eba305f8896900ea1
+
+Type Sight
+Rarity Rare
+ID 17046
+
+Size_X 1
+Size_Y 1
+Size_Z 0.135
+
+Holographic
+Zoom 1.5
+Zoom_Using_Eyes True
+ThirdPerson_Zoom 1.5
+
+Calibers 1
+Caliber_0 17111
+
+Use_Auto_Stat_Descriptions false

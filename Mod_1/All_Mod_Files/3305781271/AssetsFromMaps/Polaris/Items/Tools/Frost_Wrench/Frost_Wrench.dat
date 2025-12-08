@@ -1,0 +1,10 @@
+GUID 19341c67ac6c40e1944c32651b70e748
+
+Type Tool
+Useable Housing_Planner
+Rarity Uncommon
+ID 36091
+
+
+Repair
+AttackAudioClip core.masterbundle:Sounds/MeleeAttack_01.mp3

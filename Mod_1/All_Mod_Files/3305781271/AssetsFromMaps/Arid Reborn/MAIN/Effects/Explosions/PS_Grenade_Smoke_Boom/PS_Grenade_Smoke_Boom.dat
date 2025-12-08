@@ -1,0 +1,11 @@
+GUID 1fa1bdaee27843cf820d1fee379671e9
+Type Effect
+ID 19230
+
+Relevant_Distance 600
+
+CameraShake_Radius 5
+CameraShake_MagnitudeDegrees 50
+
+Lifetime 50
+Lifetime_Spread 0

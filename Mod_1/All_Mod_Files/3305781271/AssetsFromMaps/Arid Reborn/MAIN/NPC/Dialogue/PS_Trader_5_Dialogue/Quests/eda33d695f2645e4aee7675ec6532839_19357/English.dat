@@ -1,0 +1,4 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Eirik Contract - Startup
+Description Bring me 5x <color=#ffffff>Stack Of Money</color> & kill 100x zombies.
+Condition_1 {0}/{1} Zombies

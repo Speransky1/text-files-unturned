@@ -1,0 +1,41 @@
+﻿GUID 4b74f6b14f4f414fb8fc80329870e807
+
+Type Supply
+ID 41318
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Icon_Measurements False
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this x 6
+		OutputItems "af9dd73a46df4870aa574370eb9eed8b" // Twine
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this x 3
+		OutputItems "159e927969ea4946a24602eaa05e3273" // Fabric Cloth
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Stack
+Action_0_Tooltip Salvage into component materials.
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text Craft Fabric Cloth
+Action_1_Tooltip Salvage to get <color=#uncommon>Fabric Cloth.</color>
+Add_Default_Actions false

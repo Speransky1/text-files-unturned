@@ -1,0 +1,15 @@
+GUID 05e3eedb2cb94d3a838942fe28b0001c
+
+
+Type Large
+ID 2764
+
+LOD Mesh
+LOD_Center_Z -3
+LOD_Size_Z -6
+
+Asset_Bundle_Version 2 
+
+Material_Palette 3987063d60df43e2ac4ca66fe91880f1
+
+Exclude_From_Master_Bundle

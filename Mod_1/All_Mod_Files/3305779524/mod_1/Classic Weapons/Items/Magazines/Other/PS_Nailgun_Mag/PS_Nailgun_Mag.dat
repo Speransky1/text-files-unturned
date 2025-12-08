@@ -1,0 +1,31 @@
+GUID 147a1a97d5c644169a5d92f3b6db676d
+Type Magazine
+Rarity Rare
+ID 31166
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 30
+Count_Min 5
+Count_Max 10
+
+Calibers 1
+Caliber_0 25056
+
+Tracer 30057
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 71
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31166
+Blueprint_1_Build 30
+
+Delete_Empty

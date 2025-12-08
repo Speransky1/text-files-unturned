@@ -1,0 +1,16 @@
+GUID 1e320cfd7456402c9e5c5f1bd06c4b87
+
+Type Resource
+Has_Clip_Prefab False
+ID 59016
+
+Health 1
+Radius 3
+Scale 0.1
+
+Explosion 43
+
+Log 59903
+Forage
+
+Reset 3000

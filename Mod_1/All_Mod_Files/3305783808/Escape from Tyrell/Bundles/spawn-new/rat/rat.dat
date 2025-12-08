@@ -1,0 +1,17 @@
+GUID 347d38141ffd4037b016cdb6e70be533
+Type Spawn
+ID 10153
+
+Tables
+[
+	{
+		// Хвост крысы (Supply Item)
+		Guid a3bc4ff8e8684816baad3a9580c70c65
+		Weight 5
+	}
+	{
+		// Шкура крысы (Supply Item)
+		Guid 7aeaabe908ae436c9ec7aee8581a0b70
+		Weight 3
+	}
+]

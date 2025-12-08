@@ -1,0 +1,51 @@
+﻿GUID 6318eac7202f4df7973386477e867668
+
+Type Hat
+Rarity Common
+Useable Clothing
+ID 41532
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Beard
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Quality_Min 30
+Quality_Max 60
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "4b74f6b14f4f414fb8fc80329870e807 x 2" // Spool Thread
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]

@@ -1,0 +1,29 @@
+GUID 5a7120ecd33f41b38c48e00b806559a9
+
+Type Small
+ID 62199
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Smol/PS_Marking_Flare_1
+
+Conditions 1
+//исчезает при взятии
+Condition_0_Type Flag_Bool
+Condition_0_ID 17028
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Reset
+
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 59515
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17028
+Interactability_Reward_0_Value true

@@ -1,0 +1,41 @@
+GUID 0672d1f72b7e495fb78722977899ca70
+Type Magazine
+Rarity Uncommon
+ID 31003
+
+Size_X 2
+Size_Y 2
+Size_Z 0.325
+
+Amount 90
+Count_Min 45
+Count_Max 90
+
+Calibers 1
+Caliber_0 18800
+
+Tracer 48
+
+Delete_Empty
+
+Blueprints 4
+//Target Mag
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31000
+Blueprint_0_Build 30
+//Target Extended Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31001
+Blueprint_1_Build 30
+//Target Drum
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31002
+Blueprint_2_Build 30
+//Target Ammo Box
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31003
+Blueprint_3_Build 30

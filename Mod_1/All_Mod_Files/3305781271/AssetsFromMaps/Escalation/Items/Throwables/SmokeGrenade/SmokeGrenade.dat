@@ -1,0 +1,35 @@
+GUID e8c7aa7d3ea6486c885f6520f9ba553c
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 51316
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Player_Damage 10
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 10
+Resource_Damage 10
+Object_Damage 10
+
+Range 4
+Explosion 51015
+
+Explosive
+Fuse_Length 10
+Explode_On_Impact
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51316
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51017
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

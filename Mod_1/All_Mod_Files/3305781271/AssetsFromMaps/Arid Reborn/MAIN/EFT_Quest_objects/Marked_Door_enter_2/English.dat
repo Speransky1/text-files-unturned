@@ -1,0 +1,5 @@
+Name Marked Door Charlie Enter #2
+
+Interactability_Condition_0 Нужен ключ от закрытой комнаты Чарли
+
+Interact Открыть [{0}]

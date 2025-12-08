@@ -1,0 +1,8 @@
+GUID 61f9d3ae782b42ba8a5b5b0bbc710f82
+Type RewardsList
+
+//Visit Armory (Point Lima)
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22639
+Reward_0_Value True

@@ -1,0 +1,48 @@
+GUID 91dbeb9e74f04cd49a3f70b09bad3d60
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Clock
+ID 51210
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1
+Range 4
+
+Offset 0.15
+
+Allow_Placement_Inside_Clip_Volumes True
+Unsalvageable
+Unpickupable
+Unsaveable
+Bypass_Claim
+
+Range2 8
+Explosion2 51007
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
+Allow_Placement_On_Vehicle False
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 51315
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 51307
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 51030
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 51018
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Build 32
+Has_Clip_Prefab false
+
+PlacementPreviewPrefab Items/Barricades/Drill Charge/Placement.prefab

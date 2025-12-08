@@ -1,0 +1,29 @@
+GUID 5ae9092f1dd2496da4b135d9a813b7fb
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Common
+Useable Structure
+Construct Rampart
+ID 19212
+
+SalvageItem 5ae9092f1dd2496da4b135d9a813b7fb
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 882c55cf32b04c5f8a8ae97d7289af63
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Requires_Pillars false
+
+Health 1000
+Range 6
+
+Explosion 19
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

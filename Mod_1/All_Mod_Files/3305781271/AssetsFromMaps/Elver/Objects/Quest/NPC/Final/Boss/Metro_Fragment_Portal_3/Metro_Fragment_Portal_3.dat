@@ -1,0 +1,17 @@
+GUID 673005dbc41e44f690424cc23e2c2f7f
+
+Type Small
+Has_Clip_Prefab false
+ID 58164
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 57086
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Short
+Condition_1_ID 57087
+Condition_1_Value 4
+Condition_1_Logic Not_Equal
+Condition_1_Allow_Unset

@@ -1,0 +1,47 @@
+GUID 3b3535da17144937b33fed05080ff075
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 10001
+
+Has_Clip_Prefab False
+
+Use_Auto_Icon_Measurements False
+
+Size_X 7
+Size_Y 7
+Size_Z 1.8
+
+SalvageItem 3b3535da17144937b33fed05080ff075
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 9a03d0fdd2e7403fb46f949697f7b566
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10001
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 19563
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 19567
+Blueprint_0_Output_1_Amount 4
+Blueprint_0_Output_2_ID 19010
+Blueprint_0_Output_2_Amount 4
+Blueprint_0_Tool 19376
+Blueprint_0_Build 27
+
+Health 1000
+Range 6
+Radius 0.35
+Offset 0.4
+
+Explosion 36
+Vulnerable
+
+Salvage_Duration_Multiplier 1.3
+
+PlacementAudioClip Sounds/AnvilPlacement.mp3
+
+Bypass_Pickup_Ownership True

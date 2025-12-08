@@ -1,0 +1,60 @@
+﻿GUID 3723c3060e0c4b8786d28a1f203f3f1a
+
+Type Melee
+Useable Melee
+Slot Any
+ID 41656
+
+Size_X 1
+Size_Y 3
+Size_Z 0.83
+
+Range 2
+Strength 1
+Weak 0.3
+Strong 0.3
+Stamina 10
+
+Player_Damage 24
+Player_Leg_Multiplier 0.3
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 0.7
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 25
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.7
+Zombie_Spine_Multiplier 0.9
+Zombie_Skull_Multiplier 1
+
+Animal_Damage 25
+Animal_Leg_Multiplier 0.4
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1
+
+Barricade_Damage 4
+Structure_Damage 4
+Vehicle_Damage 10
+Resource_Damage 10
+Object_Damage 20
+
+Durability 0.9
+Wear 1
+Quality_Min 100
+Quality_Max 100
+Should_Delete_At_Zero_Quality True
+Use_Auto_Stat_Descriptions False
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems "8ae387a91c1c4964be2a12be7aeabfb9 x 2" // Wooden Stick
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+AttackAudioClip Sounds/Melee_Attack_0.ogg
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Stun_Zombie_Never

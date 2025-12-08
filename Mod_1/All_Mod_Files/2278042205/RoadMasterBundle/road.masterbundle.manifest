@@ -1,0 +1,189 @@
+ManifestFileVersion: 0
+CRC: 1489112988
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dab3a6e95fe19b6e70ce99025f7cc94c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb21d3b86b83dcda394410cac18b47ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Bus_Stop_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Ramp_Line_1/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Curve_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Ramp_Line_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Line_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Ramp_Line_1/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Line_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Quad_1/Object.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Ramp_Line_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Line_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_1/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Quad_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Quad_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Ramp_Line_1/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_1/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_1/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_5/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Quad_1/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Turn_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Curve_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Ramp_Line_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Bus_Stop_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Quad_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Quad_1/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Tee_1/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Line_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Quad_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Quad_1/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Line_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_3/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_1/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Ramp_Line_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Tee_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Ramp_Line_1/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Cul_De_Sac_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Turn_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Quad_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_2/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_1/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_2/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_4/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Tee_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Line_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Tee_1/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Quad_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Curve_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Turn_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Quad_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Line_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_2/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Bus_Stop_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Curve_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Line_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Tee_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Turn_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Line_1/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Tee_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Tee_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_1/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_1/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Curve_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Line_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Turn_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Line_1/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Quad_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Quad_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Turn_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Line_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_2/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Ramp_Line_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Quad_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_2/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_1/Object.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Tee_1/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Ramp_Line_1/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Ramp_Line_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Ramp_Line_1/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_3/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_5/Object.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Turn_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_5/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Quad_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Line_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Line_1/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Tee_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Tee_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Tee_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_1/Object.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Quad_1/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Turn_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Ramp_Line_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_2/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_2/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Tee_1/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_3/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Turn_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Line_1/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Quad_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Line_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Quad_1/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Line_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Quad_1/Object.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Ramp_Line_1/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Cul_De_Sac_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Line_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Turn_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Quad_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_2/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_5/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Cul_De_Sac_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Tee_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_3/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Tee_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_2/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_4/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Tee_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Cul_De_Sac_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_2/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Curve_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Ramp_Line_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Turn_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_2/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Transition_1/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_2/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Bus_Stop_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Quad_1/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Tee_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Tee_1/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Quad_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Curve_Line_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Curve_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_4/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Curve_0/Clip.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Turn_0/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Line_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Small/RRE_Small_Quad_0/Nav.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Large/RRE_Large_Quad_0/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_1/Skybox.prefab
+- Assets/RoadMasterBundle/Objects/Medium/RRE_Ramp_Line_1/Object.prefab
+- Assets/RoadMasterBundle/Objects/Misc/RRE_Sidewalk_4/Clip.prefab
+Dependencies: []

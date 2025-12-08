@@ -1,0 +1,71 @@
+GUID 4ac21923d0b544b9a36c4cb40929a223
+Type Spawn
+ID 10112
+
+Roots
+[
+	{
+		// toolbox_metal_supplies (Spawn)
+		Guid aeb95097c8184a2eac82a10f2ee1407f
+		Weight 425
+	}
+]
+
+Tables
+[
+	{
+		// Пила (Melee Item)
+		Guid dc201ee2988f48058f6e0729c0d5c5dd
+		Weight 500
+	}
+	{
+		// Газовый ключ (Melee Item)
+		Guid 8c7e6d4cd58043e69a75ad4dae181ec4
+		Weight 500
+	}
+	{
+		// Молоток (Melee Item)
+		Guid 4f6621da2d624b0589316dfc6ff98553
+		Weight 500
+	}
+	{
+		// toolbox_metal_supplies (Spawn)
+		Guid aeb95097c8184a2eac82a10f2ee1407f
+		Weight 425
+	}
+	{
+		// Медная катушка (Supply Item)
+		Guid 438bd50cfc6648f48b0fbe8943b09fa3
+		Weight 400
+	}
+	{
+		// Взрыватель (Supply Item)
+		Guid 921c75bddb8f42f2bc1fb503837a5c4b
+		Weight 300
+	}
+	{
+		// Тяжелый кабель (Supply Item)
+		Guid 8632ca4c1068403ba4174f3384958559
+		Weight 300
+	}
+	{
+		// Компас (Map Item)
+		Guid 7b642b004a8d48279a3c4995dbca0d20
+		Weight 250
+	}
+	{
+		// Сломанная пила (Supply Item)
+		Guid 4ccd94a7a1bc4c8f9bf087c0231c8de3
+		Weight 5
+	}
+	{
+		// Nailgun Clip (Magazine Item)
+		Guid 9d5090e8bf6247fa8a0b83ae65505ca7
+		Weight 2
+	}
+	{
+		// Nailgun Mk. II (Gun Item)
+		Guid 58c7926cce034740bd9395e29c7ec1c0
+		Weight 1
+	}
+]

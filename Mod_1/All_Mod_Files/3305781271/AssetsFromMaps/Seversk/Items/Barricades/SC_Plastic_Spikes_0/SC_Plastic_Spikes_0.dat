@@ -1,0 +1,39 @@
+﻿GUID bf64a8bb89574d16b8e304f5f3e24f7d
+Type Trap
+Useable Barricade
+Build Spike
+ID 41438
+SalvageItem bf64a8bb89574d16b8e304f5f3e24f7d
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Health 50
+Range 4
+Radius 0.2
+Offset 0.25
+
+Player_Damage 25
+Zombie_Damage 50
+Animal_Damage 50
+
+Explosion 41302
+Vulnerable
+Unrepairable
+
+Blueprints
+[
+	{
+		CategoryTag "31a59b5fec3f4ec5b2887b1ce4acb029" // Barricades
+		InputItems "edc4d492616c4bfa841f8a8a1c58df1e x 6" // Plastic Fragments
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+PlacementAudioClip Sounds/Placement_1.ogg
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.1
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+Has_Clip_Prefab false

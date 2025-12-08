@@ -1,0 +1,11 @@
+GUID 62db52cb58a9462a9f0427589c16b74f
+
+Type Medium
+ID 38896
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 38808
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset

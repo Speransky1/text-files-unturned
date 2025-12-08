@@ -1,0 +1,31 @@
+GUID b06e28ddae39457cbb9959f54de9b92e
+Type Magazine
+Rarity Rare
+ID 31022
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 6
+Count_Min 2
+Count_Max 6
+
+Calibers 1
+Caliber_0 25029
+
+Tracer 30056
+
+Explosion_Launch_Speed 0
+
+Blueprints 2
+//Magnum Ammo Package
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63288
+Blueprint_0_Build 30
+//Magnum Fastloader
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31022
+Blueprint_1_Build 30

@@ -1,0 +1,64 @@
+GUID a19b617372b9426d849510a981cfdc8e
+Type Magazine
+Rarity Uncommon
+ID 31010
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 10
+Count_Min 8
+Count_Max 10
+
+Calibers 1
+Caliber_0 25051
+
+Tracer 30052
+
+Blueprints 9
+//C99 Clip
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31010
+Blueprint_0_Build 30
+//Kaban Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31011
+Blueprint_1_Build 30
+//PRO90 Mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31012
+Blueprint_2_Build 30
+//Shpagin Drum
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31013
+Blueprint_3_Build 30
+//SMG Mag
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 31014
+Blueprint_4_Build 30
+//SMG Drum
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 31015
+Blueprint_5_Build 30
+//Swift Ammo Box
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 31016
+Blueprint_6_Build 30
+//Swift Mag
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 31017
+Blueprint_7_Build 30
+//Swift Extended Mag
+Blueprint_8_Type Ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 31018
+Blueprint_8_Build 30

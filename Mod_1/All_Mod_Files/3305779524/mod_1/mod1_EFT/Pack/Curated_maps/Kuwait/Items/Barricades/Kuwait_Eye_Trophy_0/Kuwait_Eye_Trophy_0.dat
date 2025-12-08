@@ -1,0 +1,17 @@
+GUID 9e357a2916cc4ff5942513612f8f8e25
+Type Barricade
+Useable Barricade
+Build Barricade
+Rarity Epic
+ID 5491
+
+Size_X 1
+Size_Y 1
+Size_Z 0.5
+
+Health 5000
+Range 8
+Offset 0.065
+
+Explosion 28
+Vulnerable

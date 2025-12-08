@@ -1,0 +1,34 @@
+GUID 6300926899944b41b27bd2e3c27d7d13
+Type Barricade
+Useable Barricade
+Build Bed
+ID 51659
+
+SalvageItem 6300926899944b41b27bd2e3c27d7d13
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 100
+Range 4
+Radius 0.05
+Offset 0.075
+
+Explosion 37
+Vulnerable
+
+Allow_Placement_Inside_Clip_Volumes False
+Unsalvageable
+Unsaveable
+Bypass_Claim
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 51023
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 51020
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Has_Clip_Prefab false

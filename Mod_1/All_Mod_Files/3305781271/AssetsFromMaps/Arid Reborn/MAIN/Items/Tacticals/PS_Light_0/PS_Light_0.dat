@@ -1,0 +1,44 @@
+GUID 52c6033176f34d9bad09ae3dc8dd937e
+Type Tactical
+Rarity Legendary
+ID 10600
+
+Size_X 1
+Size_Y 1
+Size_Z 0.325
+
+Spread 0.975
+
+Light
+SpotLight_Range 50
+SpotLight_Angle 65
+SpotLight_Intensity 0.01
+SpotLight_Color_R 238
+SpotLight_Color_G 108
+SpotLight_Color_B 88
+
+Calibers 1
+Caliber_0 18922
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10600
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 19000
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Output_1_ID 19001
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 19016
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Scrap
+Action_0_Tooltip Turn into components.

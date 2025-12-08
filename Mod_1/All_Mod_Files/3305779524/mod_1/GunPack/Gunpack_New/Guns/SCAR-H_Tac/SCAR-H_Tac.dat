@@ -1,0 +1,119 @@
+GUID 11bb2020b219436baafd4be97ce80038
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 29128
+
+Size_X 6
+Size_Y 2
+Size_Z 0.32
+
+Sight 32121
+Magazine 33111
+EquipAudioClip classicweapons.masterbundle:Assets/Guns_Equip/Equip_DMR.wav
+Use_Auto_Stat_Descriptions false
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 10
+Ammo_Max 20
+
+Semi
+Auto
+Safety
+
+Attachment_Calibers 3
+Attachment_Caliber_0 18904
+Attachment_Caliber_1 18902
+Attachment_Caliber_2 23904
+
+Magazine_Calibers 1
+Magazine_Caliber_0 53317
+
+Unplace 0.1
+Replace 0.42
+
+Firerate 8
+Action Trigger
+
+Player_Damage 54
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 80
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.4
+
+Animal_Damage 80
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.4
+
+Barricade_Damage 15
+Structure_Damage 15
+Vehicle_Damage 40
+Resource_Damage 80
+Object_Damage 80
+
+Durability 0.25
+
+Spread_Aim 0.035
+Spread_Hip 0.2
+
+Recoil_Min_X -0.4
+Recoil_Min_Y 0.8
+Recoil_Max_X 0.35
+Recoil_Max_Y 3.3
+
+Recover_X 0.4
+Recover_Y 0.4
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Range 350
+Ballistic_Steps 33
+Ballistic_Travel 11
+Ballistic_Drop 0.001
+
+Muzzle 19001
+
+Shell 19018
+
+Gunshot_Rolloff_Distance 700
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+Recoil_Crouch 0.7
+Recoil_Prone 0.6
+
+Spread_Prone 1
+Spread_Crouch 1
+
+Player_Damage_Bleeding Always
+
+Quality_Min 1
+Quality_Max 5
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27

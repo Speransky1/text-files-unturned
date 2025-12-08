@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "687099f8f54d4dffb40f8b33e0126b23"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/logs_0/log_0.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/logs_0/log_1.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/logs_0/log_2.mat"
+		}
+	]
+}

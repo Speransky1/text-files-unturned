@@ -1,0 +1,8 @@
+GUID e555e09da12f413ea0754c5c1ee8266f
+Type Effect
+ID 19060
+
+Relevant_Distance 600
+
+CameraShake_Radius 1
+CameraShake_MagnitudeDegrees 50

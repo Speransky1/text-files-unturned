@@ -1,0 +1,103 @@
+﻿GUID 395457e9fb5a49d1849500368a4cf4ed
+
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 41585
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 7
+Height 6
+Armor 0.7
+Armor_Explosion 0.7
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Quality_Min 15
+Quality_Max 30
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false
+
+Blueprints
+[
+	{
+		CategoryTag "ebe755533bdd42d1871c3ac66b89530f" // Apparel
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"b31404eb2e2e4f53a4e3658c80c45eca x 2" // Ammo Pouch
+			"4b74f6b14f4f414fb8fc80329870e807 x 4" // Spool Thread
+			"7199b3d4758449148c42114f0b5214e4 x 2" // Armor Plate
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "b31404eb2e2e4f53a4e3658c80c45eca" // Pouch
+				Amount 2
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 3
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		CategoryTag "ebe755533bdd42d1871c3ac66b89530f" // Apparel
+		InputItems
+		[
+			{
+				ID "faa9b0e236e74b7cb7621edbd5cfd3a9" // Military Body Armor
+				Amount 2
+			}
+			{
+				ID "91de4278313a479abc87cd010398c7a7" // Military Rig
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 4
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Use_Auto_Icon_Measurements true

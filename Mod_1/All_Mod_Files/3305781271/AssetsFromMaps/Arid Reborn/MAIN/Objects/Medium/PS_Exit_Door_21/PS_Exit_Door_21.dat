@@ -1,0 +1,13 @@
+GUID 31b84080d9de4d0a95c834a229d5fbf5
+Type Medium
+
+Has_Clip_Prefab False
+
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Medium/S_Bunker_Door_2
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint BB_0_Exit

@@ -1,0 +1,36 @@
+GUID 92e20786c77f40a7bebe7aff76a758d8
+
+Type Small
+Has_Clip_Prefab false
+ID 57987
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 57210
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 57210
+Condition_0_Value 4
+Condition_0_Logic Less_Than
+Condition_0_Allow_Unset
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 57466
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 57367
+Interactability_Condition_1_Value True
+Interactability_Condition_1_Logic Equal
+
+
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_Deposit

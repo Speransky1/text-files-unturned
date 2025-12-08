@@ -1,0 +1,33 @@
+GUID cf60493b8d5e4dd9b334f14fd65ec17b
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 63641
+
+Size_X 1
+Size_Y 1
+Size_Z 0.33
+
+Boost_Throw_Force_Multiplier 1
+
+Player_Damage 145
+Zombie_Damage 222
+Animal_Damage 222
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 400
+Resource_Damage 222
+Object_Damage 110
+
+Range 12
+Explosion 19035
+
+Explosive
+
+Strong_Throw_Force 1400
+
+Weak_Throw_Force 600
+
+Explosion_Launch_Speed 17
+
+Fuse_Length 2

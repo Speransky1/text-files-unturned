@@ -1,0 +1,11 @@
+GUID 7dd60f43f3fd4bf6a4c2613214cd3f05
+Type Effect
+ID 18011
+
+Lifetime 20.5
+Lifetime_Spread 0
+Blast 137
+Relevant_Distance 5000
+Should_Play_Anims_On_Dedicated_Server true
+Preload 10
+Spawn_Explosion_On_Dedicated_Server

@@ -1,0 +1,142 @@
+GUID 710f572ddab64b1a8a0b0ef33dca7780
+Type Spawn
+ID 10105
+
+Tables
+[
+	{
+		// Куски ткани (Supply Item)
+		Guid e38f7701d4a94950b4f83baad8773e1e
+		Weight 80
+	}
+	{
+		// Пустой болончик краски (Supply Item)
+		Guid a2cda1bc226b4bc6b3719b982ab36974
+		Weight 80
+	}
+	{
+		// Пустая бутылка (Supply Item)
+		Guid 479df1b4d0a44e81b510c27988d12ad8
+		Weight 80
+	}
+	{
+		// Стеклянная банка (Storage Item)
+		Guid dbc62e80a57a4030ae6571d5e9060e2a
+		Weight 80
+	}
+	{
+		// Пустая стеклянная бутылка (Barricade Item)
+		Guid db9175c0c92c451792c39a85948cc3cb
+		Weight 80
+	}
+	{
+		// Старая газета (Supply Item)
+		Guid 82d0e966bb884d27bc77d1175678a05c
+		Weight 75
+	}
+	{
+		// Доска (Supply Item)
+		Guid 0d05668e2e3b4d9d9c01cfff814f11e8
+		Weight 75
+	}
+	{
+		// Коробок спичек (Supply Item)
+		Guid 3871dc93d12f41bba3328f2b3d39397f
+		Weight 70
+	}
+	{
+		// Зажигалка (Supply Item)
+		Guid cecf935f4eeb4165aaa80c8c36ad641c
+		Weight 70
+	}
+	{
+		// Дорожный конус (Barricade Item)
+		Guid 1b7a4f361be44f7bbad3f3748725e38b
+		Weight 70
+	}
+	{
+		// Рулон ткани (Supply Item)
+		Guid 7a319989826444f382abd4a45cfacce8
+		Weight 65
+	}
+	{
+		// Клапан высокого давления (Supply Item)
+		Guid 3047c0e9ec164878a8913743fcd48fd4
+		Weight 65
+	}
+	{
+		// Роликовая щетка (Supply Item)
+		Guid 586b820cf9504f7983cbc1c824deee22
+		Weight 65
+	}
+	{
+		// Веревка (Supply Item)
+		Guid c38d46f8c88e467097837aa3e7bb8a36
+		Weight 65
+	}
+	{
+		// Кирпичи (Supply Item)
+		Guid 3f0224cc338548f393062643370fc1c2
+		Weight 65
+	}
+	{
+		// Гвозди (Supply Item)
+		Guid ba05e3c637854c87af352af550bd55f4
+		Weight 40
+	}
+	{
+		// Клейкая лента (Supply Item)
+		Guid 174aa4006f3743878f366be92dc82a3f
+		Weight 40
+	}
+	{
+		// Антисептик (Supply Item)
+		Guid 33d8ec1f1ac04fa2a4a29c80c0596493
+		Weight 40
+	}
+	{
+		// Линза (Supply Item)
+		Guid a7f49cc397dc45c18dd8996d3fb547a7
+		Weight 40
+	}
+	{
+		// Болты (Supply Item)
+		Guid 5ad3e1db83b34cf5bc4d5dc87163d240
+		Weight 40
+	}
+	{
+		// Стеклянная панель (Supply Item)
+		Guid e7f2f3c6102143179bb21f5e946f3653
+		Weight 38
+	}
+	{
+		// Пластиковый рулон (Supply Item)
+		Guid 4eb90317c6f74404be4de28ee57cae19
+		Weight 38
+	}
+	{
+		// Брезент (Supply Item)
+		Guid 15add61a146844429574f3d300bb4ced
+		Weight 36
+	}
+	{
+		// АХУИСТИЧЕСКИ ЗДОРОВЕННАЯ КЛЕЙКАЯ ЛЕНТА (Barricade Item)
+		Guid 3a2cce09e3474db99e0540aba8a338ed
+		Weight 11
+	}
+	{
+		// Кубик Рубика (Barricade Item)
+		Guid b9010b9fd51b4efcbde75327ccbc5675
+		Weight 1
+	}
+	{
+		// Фигурка динозавра (Barricade Item)
+		Guid 25bb2ea9ea894b18a3f40ae0a7c1a074
+		Weight 1
+	}
+	{
+		// Резиновая уточка (Barricade Item)
+		Guid 4e1bc918feee484197f6cb28af08ef3e
+		Weight 1
+	}
+]

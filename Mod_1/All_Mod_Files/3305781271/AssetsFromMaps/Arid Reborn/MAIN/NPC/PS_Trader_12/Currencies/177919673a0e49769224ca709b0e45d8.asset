@@ -1,0 +1,65 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "177919673a0e49769224ca709b0e45d8"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Vehicle Parts"
+	"Entries"
+	[
+		{
+			"Item" "17160cb7182349bb8a5f4256ab387850"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "637daffb95cf4ec38865854d6f9b5567"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "fd77f115f00c477280df7a68d4ec1d10"
+			"Value" "2"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "36e988862a2147619eac12a13202aeed"
+			"Value" "2"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "e6854cca3db24505b42ea73826d622b6"
+			"Value" "2"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "4a9d8e704ce94f67b393d8401718e0fe"
+			"Value" "3"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "387d96bcc8ae4692872b988007d6c712"
+			"Value" "3"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "a9330c45bab1486b9328b0b8d757b59a"
+			"Value" "3"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "d9864441a2fa485d946ab19f2457d062"
+			"Value" "4"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "4c56efcf3ba84ffbb43e949953c35b60"
+			"Value" "6"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+	]
+	"ID" "0"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,35 @@
+GUID fe02af97b1f14fffb3854e68e59d3123
+Type Magazine
+Rarity Legendary
+ID 51333
+
+Size_X 2
+Size_Y 2
+Size_Z 0.1
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Spawn_Explosion_On_Dedicated_Server True
+
+Calibers 1
+Caliber_0 51050
+
+Tracer 55
+
+Range 3
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 51096
+Explosive
+
+Use_Auto_Stat_Descriptions False
+
+Delete_Empty

@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "65b6918b51684b7c8ecb0fd72ca6cbad"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "sky.masterbundle"
+			"Path" "Sky/Material_Palletes/Pillow_0/Material_3.mat"
+		}
+		{
+			"Name" "sky.masterbundle"
+			"Path" "Sky/Material_Palletes/Pillow_0/Material_1.mat"
+		}
+		{
+			"Name" "sky.masterbundle"
+			"Path" "Sky/Material_Palletes/Pillow_0/Material_2.mat"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+GUID 0aae97efb4d347f4926ceef7df471a49
+
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Storage
+ID 62945
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 4150
+Range 4
+Radius 0.4
+Offset 0.68
+
+Storage_X 3
+Storage_Y 3
+
+Explosion 19
+
+eblan

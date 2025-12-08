@@ -1,0 +1,27 @@
+GUID 30ab4e5c36b940e596a17530a9c7accb
+
+Type Filter
+Rarity Epic
+Useable Filter
+ID 57022
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 57022
+Blueprint_0_Product 67
+Blueprint_0_Build 27
+Blueprint_0_Map Elver
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 69
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 57033
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 57023
+Blueprint_1_Supply_2_Amount 2
+Blueprint_1_Build 27
+Blueprint_1_Map Elver

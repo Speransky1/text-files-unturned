@@ -1,0 +1,5 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Mark Contract - Tank Strategist
+Description Bring me 1x <color=#964BFA>Punched Card</color>, mark AG17 entrance in Tamara Complex, in and between Shalaal Water Station and Kahramaan & kill 500x zombies.
+Condition_1 {0}/{1} Planted Markers
+Condition_2 {0}/{1} Zombies

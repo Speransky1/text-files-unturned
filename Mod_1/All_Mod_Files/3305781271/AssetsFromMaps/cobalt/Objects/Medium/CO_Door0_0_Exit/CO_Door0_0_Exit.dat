@@ -1,0 +1,15 @@
+GUID 5975452f373147b58c7acddee250a19d
+
+
+Type Medium
+
+Has_Clip_Prefab false
+
+Master_Bundle_Override cobalt.masterbundle
+Bundle_Override_Path /Objects/Medium/CO_Door0_0
+
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Beglec_Factory

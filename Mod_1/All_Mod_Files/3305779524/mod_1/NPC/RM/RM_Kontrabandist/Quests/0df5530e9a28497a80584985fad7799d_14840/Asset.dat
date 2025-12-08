@@ -1,0 +1,136 @@
+﻿// Made in NPC Maker by BowieD
+GUID 0df5530e9a28497a80584985fad7799d
+Type Quest
+ID 14840
+Conditions 24
+Condition_0_Type Item
+Condition_0_ID 56232
+Condition_0_Amount 1
+Condition_0_Reset 
+
+Condition_1_Type Item
+Condition_1_ID 50200
+Condition_1_Amount 1
+Condition_1_Reset 
+
+Condition_2_Type Item
+Condition_2_ID 50201
+Condition_2_Amount 1
+Condition_2_Reset 
+
+Condition_3_Type Item
+Condition_3_ID 50202
+Condition_3_Amount 1
+Condition_3_Reset 
+
+Condition_4_Type Item
+Condition_4_ID 50203
+Condition_4_Amount 1
+Condition_4_Reset 
+
+Condition_5_Type Item
+Condition_5_ID 50204
+Condition_5_Amount 1
+Condition_5_Reset 
+
+Condition_6_Type Item
+Condition_6_ID 50205
+Condition_6_Amount 1
+Condition_6_Reset 
+
+Condition_7_Type Item
+Condition_7_ID 50206
+Condition_7_Amount 1
+Condition_7_Reset 
+
+Condition_8_Type Item
+Condition_8_ID 50207
+Condition_8_Amount 1
+Condition_8_Reset 
+
+Condition_9_Type Item
+Condition_9_ID 50208
+Condition_9_Amount 1
+Condition_9_Reset 
+
+Condition_10_Type Item
+Condition_10_ID 50209
+Condition_10_Amount 1
+Condition_10_Reset 
+
+Condition_11_Type Item
+Condition_11_ID 59273
+Condition_11_Amount 1
+Condition_11_Reset 
+
+Condition_12_Type Item
+Condition_12_ID 59272
+Condition_12_Amount 1
+Condition_12_Reset 
+
+Condition_13_Type Item
+Condition_13_ID 59271
+Condition_13_Amount 1
+Condition_13_Reset 
+
+Condition_14_Type Item
+Condition_14_ID 59400
+Condition_14_Amount 1
+Condition_14_Reset 
+
+Condition_15_Type Item
+Condition_15_ID 59274
+Condition_15_Amount 1
+Condition_15_Reset 
+
+Condition_16_Type Item
+Condition_16_ID 59399
+Condition_16_Amount 1
+Condition_16_Reset 
+
+Condition_17_Type Item
+Condition_17_ID 59686
+Condition_17_Amount 1
+Condition_17_Reset 
+
+Condition_18_Type Item
+Condition_18_ID 59706
+Condition_18_Amount 1
+Condition_18_Reset 
+
+Condition_19_Type Item
+Condition_19_ID 59601
+Condition_19_Amount 1
+Condition_19_Reset 
+
+Condition_20_Type Item
+Condition_20_ID 59821
+Condition_20_Amount 1
+Condition_20_Reset 
+
+Condition_21_Type Item
+Condition_21_ID 59579
+Condition_21_Amount 1
+Condition_21_Reset 
+
+Condition_22_Type Item
+Condition_22_ID 59398
+Condition_22_Amount 1
+Condition_22_Reset 
+
+Condition_23_Type Item
+Condition_23_ID 11128
+Condition_23_Amount 1
+Condition_23_Reset 
+
+Rewards 2
+Reward_0_Type Item
+Reward_0_ID 59534
+Reward_0_Amount 0
+Reward_0_Auto_Equip False
+
+Reward_1_Type Item
+Reward_1_ID 56214
+Reward_1_Amount 1
+Reward_1_Auto_Equip True
+

@@ -1,0 +1,27 @@
+﻿Metadata
+{
+	GUID a78bfdb757bb4b14a20f67879a06fa87
+	Type SDG.Unturned.PhysicsMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	UnityNames
+	[
+		Sov_Snow
+	]
+	AudioDefs
+	{
+		BipedLand Effects/Physics/BipedLand/SC_Snow_Jump/Snow_Jump.asset
+		FootstepWalk Effects/Physics/Footsteps/SC_Snow_Walk/Snow_Walk.asset
+		FootstepRun Effects/Physics/Footsteps/SC_Snow_Run/Snow_Run.asset
+		BulletCasingBounce Effects/Physics/Bullet_Bounce/SC_Rifle_Caliber_0/Rifle_Caliber_0.asset
+		ShotgunShellBounce Effects/Physics/Bullet_Bounce/SC_Shotgun_Caliber_0/Shotgun_Caliber_0.asset
+		BulletImpact Effects/Physics/Impact_Sounds/Snow_Impact.asset
+		LegacyImpact Effects/Physics/Impact_Sounds/Snow_Impact.asset
+		MeleeImpact Effects/Physics/Impact_Sounds/Snow_Impact.asset
+	}
+	WipDoNotUseTemp_BulletImpactEffect "e405040db9d34a7f90bec489ee4ad9ae" // Snow_Impact
+	TireMotionEffect "2b98f6af1cb44a2fab722bf7507c8d0b" // Snow_Tiremotion
+	IsArable false
+	HasOil true
+}

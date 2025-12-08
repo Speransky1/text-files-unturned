@@ -1,0 +1,29 @@
+GUID d16d04428be44b079f25316eaa47b7f7
+Type Sight
+Rarity Common
+ID 19293
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+Calibers 1
+Caliber_0 18904
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19293
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 19000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Scrap
+Action_0_Tooltip Turn into <color=#ffffff>Metal</color>.

@@ -1,0 +1,50 @@
+﻿GUID a4f0ef092532412987513e0e7375b060
+Type Supply
+Rarity Rare
+ID 41796
+Size_X 1
+Size_Y 3
+Size_Z 0.46
+InventoryAudio Sounds/Inventory/CasingRustle/Casing_Rustle.asset
+Use_Auto_Icon_Measurements false
+Blueprints
+[
+	{
+		CategoryTag "cdb2df24b76d4c6e9d8411c940d8337f" // Gear
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 3" // Metal Parts
+			"58b45f8f7807426289e372b7341d10d2 x 1" // Gun Powder
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems
+		[
+			"f1bd4c22507544e9bf9558eef0ea4548 x 3" // Metal Can
+			"58b45f8f7807426289e372b7341d10d2 x 2" // Gunpowder
+			"c4f3449e46f944ae8f8ca9ae54623a1b x 2" // Gun Parts
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

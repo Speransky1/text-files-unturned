@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "27a8442e8f284010962a5d2c10146dd8"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Homes1/House0.mat"
+		}
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Homes1/House1.mat"
+		}
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Homes1/House2.mat"
+		}
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Homes1/House3.mat"
+		}
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Homes1/House4.mat"
+		}
+		{
+			"Name" "easterisland.masterbundle"
+			"Path" "Assets/Material_Pallets/Homes1/House5.mat"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+﻿// Made in NPC Maker by BowieD
+GUID a7f961a868e6477ca83726bee439f5e8
+Type Quest
+ID 14054
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17066
+Condition_0_Value True
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Reset 
+
+Rewards 5
+Reward_0_Type Experience
+Reward_0_Value 6666
+
+Reward_1_Type Item
+Reward_1_ID 59535
+Reward_1_Amount 0
+Reward_1_Auto_Equip False
+
+Reward_2_Type Item
+Reward_2_ID 56714
+Reward_2_Amount 0
+Reward_2_Auto_Equip False
+
+Reward_3_Type Item
+Reward_3_ID 52457
+Reward_3_Amount 0
+Reward_3_Auto_Equip False
+
+Reward_4_Type Flag_Short
+Reward_4_ID 54301
+Reward_4_Value 250
+Reward_4_Modification Increment
+

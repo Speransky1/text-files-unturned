@@ -1,0 +1,25 @@
+GUID 49163d9e098749688d87fa187a721084
+
+Type Detonator
+Rarity Epic
+Useable Detonator
+ID 51310
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+Size2_Z 0.45
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51310
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+// Circuitboard
+Blueprint_0_Output_0_ID 51030 
+Blueprint_0_Output_0_Amount 1
+// Springs
+Blueprint_0_Output_1_ID 51033 
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27

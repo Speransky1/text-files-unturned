@@ -1,0 +1,25 @@
+﻿GUID e04f4188e6124bd59ab27da11ad7396e
+
+Type Food
+Useable Consumeable
+Rarity Uncommon
+ID 41643
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Food 40
+Water 10
+
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/LeavesRustle/Leaves_Rustle.asset
+ConsumeAudioClip Sounds/Eating_0.ogg
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 41644
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+Quality_Min 30
+Quality_Max 50

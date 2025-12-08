@@ -1,0 +1,4 @@
+﻿// Made in NPC Maker by BowieD
+Name Доставщик #1
+Description <color=epic>Бармену</color> нужна поставка провизии. Найди 5 <color=uncommon>консервированных бобов</color> и принеси ему
+Condition_0 Консервированные бобы {0}/{1}

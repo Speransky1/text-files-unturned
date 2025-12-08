@@ -1,0 +1,14 @@
+GUID db2128451d8c4a01bf0b08991e162b94
+
+Type Small
+Has_Clip_Prefab false
+ID 58017
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 57207
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_1

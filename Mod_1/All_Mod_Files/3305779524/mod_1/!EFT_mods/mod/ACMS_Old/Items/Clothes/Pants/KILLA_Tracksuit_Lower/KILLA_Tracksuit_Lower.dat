@@ -1,0 +1,19 @@
+GUID fe80de03ea9d4f3182b86957f1483e22
+Type Pants
+Rarity Common
+Useable Clothing
+ID 37513
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 5
+Height 5
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

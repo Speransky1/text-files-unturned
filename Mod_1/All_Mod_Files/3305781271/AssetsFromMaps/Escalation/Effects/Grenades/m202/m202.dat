@@ -1,0 +1,10 @@
+GUID 30ee46054b224250b4178673bf867513
+
+
+
+Type Effect
+ID 51044
+CameraShake_Radius 36
+CameraShake_MagnitudeDegrees 32
+Spawn_On_Dedicated_Server
+Relevant_Distance 5000

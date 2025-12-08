@@ -1,0 +1,77 @@
+﻿// Made in NPC Maker by BowieD
+GUID 188645d57ade4ef696bb1ac7ca759c48
+Type Quest
+ID 14042
+Conditions 6
+Condition_0_Type Item
+Condition_0_ID 57677
+Condition_0_Amount 8
+Condition_0_Reset 
+
+Condition_1_Type Item
+Condition_1_ID 59008
+Condition_1_Amount 2
+Condition_1_Reset 
+
+Condition_2_Type Item
+Condition_2_ID 59376
+Condition_2_Amount 1
+Condition_2_Reset 
+
+Condition_3_Type Item
+Condition_3_ID 59514
+Condition_3_Amount 5
+Condition_3_Reset 
+
+Condition_4_Type Item
+Condition_4_ID 59618
+Condition_4_Amount 3
+Condition_4_Reset 
+
+Condition_5_Type Item
+Condition_5_ID 59622
+Condition_5_Amount 2
+Condition_5_Reset 
+
+Rewards 8
+Reward_0_Type Experience
+Reward_0_Value 10000
+
+Reward_1_Type Item
+Reward_1_ID 29112
+Reward_1_Amount 1
+Reward_1_Sight 32102
+Reward_1_Tactical 33110
+Reward_1_Grip 30105
+Reward_1_Auto_Equip True
+
+Reward_2_Type Item
+Reward_2_ID 33109
+Reward_2_Amount 4
+Reward_2_Auto_Equip False
+
+Reward_3_Type Item
+Reward_3_ID 59535
+Reward_3_Amount 0
+Reward_3_Auto_Equip False
+
+Reward_4_Type Item
+Reward_4_ID 48809
+Reward_4_Amount 0
+Reward_4_Auto_Equip False
+
+Reward_5_Type Item
+Reward_5_ID 59534
+Reward_5_Amount 0
+Reward_5_Auto_Equip False
+
+Reward_6_Type Item
+Reward_6_ID 59425
+Reward_6_Amount 0
+Reward_6_Auto_Equip False
+
+Reward_7_Type Item
+Reward_7_ID 59767
+Reward_7_Amount 0
+Reward_7_Auto_Equip False
+

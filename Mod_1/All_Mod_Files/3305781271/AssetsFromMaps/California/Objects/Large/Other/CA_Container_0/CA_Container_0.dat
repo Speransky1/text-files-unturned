@@ -1,0 +1,17 @@
+GUID 91d60e8e3d624570a344966305c84974
+Type Large
+ID 4544
+
+Interactability Binary_State
+Interactability_Delay 0.75
+Interactability_Hint Door
+Interactability_Nav Off
+
+Chart Medium
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Large/Business/Container_0
+
+Material_Palette a3366759b75540f590872c69ba4f505d

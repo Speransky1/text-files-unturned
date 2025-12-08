@@ -1,0 +1,30 @@
+GUID d7441e2823574b8e9c64722e30a95349
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Spot
+ID 10028
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+SalvageItem d7441e2823574b8e9c64722e30a95349
+Min_Items_Dropped_On_Destroy 2
+Max_Items_Dropped_On_Destroy 3
+Item_Dropped_On_Destroy cf202d032ee346b39c66a021f713db76
+
+Health 50
+Range 4
+Radius 0.17
+Offset 0.2
+
+Explosion 36
+Vulnerable
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.3
+
+Bypass_Pickup_Ownership True
+Has_Clip_Prefab false

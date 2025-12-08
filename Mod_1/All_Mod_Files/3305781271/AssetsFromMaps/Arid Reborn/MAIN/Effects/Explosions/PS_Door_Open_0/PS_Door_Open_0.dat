@@ -1,0 +1,6 @@
+GUID f4e0a9cafb754ec893075ce3c9a86628
+Type Effect
+ID 19079
+
+CameraShake_Radius 15
+CameraShake_MagnitudeDegrees 25

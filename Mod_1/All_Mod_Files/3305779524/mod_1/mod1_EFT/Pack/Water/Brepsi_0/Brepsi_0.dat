@@ -1,0 +1,18 @@
+GUID b79196ab7c1f49ef87547a99c3134da8
+
+Type Water
+Rarity Rare
+Useable Consumeable
+ID 60620
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Water 55
+Aid
+Bleeding_Modifier Heal
+Health 20
+
+
+Quality_Min 50

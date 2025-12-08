@@ -1,0 +1,14 @@
+﻿GUID 1cd3ee188f544aabaacda9ad52f6866e
+
+Type Large
+Has_Clip_Prefab false
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 43600
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Value True
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint S2_Shelter

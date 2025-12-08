@@ -1,0 +1,11 @@
+GUID 59422296b17740c6b78143f9428b0b23
+Type Resource
+ID 6609
+
+Health 1000
+Radius 3
+Scale 0.1
+
+Asset_Bundle_Version 2
+
+Bypass_ID_Limit

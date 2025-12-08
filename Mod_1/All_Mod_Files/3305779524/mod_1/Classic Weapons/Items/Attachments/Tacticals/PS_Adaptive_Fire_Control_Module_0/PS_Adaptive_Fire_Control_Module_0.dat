@@ -1,0 +1,27 @@
+GUID 608547b7a894431381b93be30442e356
+Type Tactical
+Rarity Epic
+ID 31230
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 25004
+
+Firerate -1
+Recoil_X 1.1
+Recoil_Y 1.1
+Shake 1.1
+Damage 1.05
+Spread 0.8
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31230
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

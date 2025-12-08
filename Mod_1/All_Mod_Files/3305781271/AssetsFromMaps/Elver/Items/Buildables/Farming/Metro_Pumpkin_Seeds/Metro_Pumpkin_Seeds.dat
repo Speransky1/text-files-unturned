@@ -1,0 +1,31 @@
+GUID cf54513af4d7407e902d1df7e7404343
+
+Type Farm
+Rarity Uncommon
+Useable Barricade
+Build Farm
+ID 57195
+
+Size_X 1
+Size_Y 1
+Size_Z 0.19
+
+Health 1
+Range 4
+Radius 0.25
+Offset 0.375
+
+Growth 3600
+Grow 57196
+
+Explosion 43
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 57196
+Blueprint_0_Product 57195
+Blueprint_0_Products 3
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

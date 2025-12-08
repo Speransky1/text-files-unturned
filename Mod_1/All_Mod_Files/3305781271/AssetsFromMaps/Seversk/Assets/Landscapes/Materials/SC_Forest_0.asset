@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID 7ebc2d38ae6143ac808fda33d0dd9d64
+	Type SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Texture
+	{
+		Name sovcore.masterbundle
+		Path Terrain/Materials/Forest.png
+	}
+	Mask
+	{
+		Name
+		Path
+	}
+	Physics_Material Sov_Foliage
+	Foliage
+	{
+		GUID 90980521b35f4d37965a5e46446169ee
+	}
+}

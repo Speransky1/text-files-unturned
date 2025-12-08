@@ -1,0 +1,18 @@
+GUID e18e9060c1144a59ac0918554d2c483e
+Type Pants
+Rarity Mythical
+Useable Clothing
+ID 6604
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Armor 0.9
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 6604
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27

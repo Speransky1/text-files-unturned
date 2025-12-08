@@ -1,0 +1,28 @@
+GUID 5618c9de615942369a07801ee015c792
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Glass
+ID 19981
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+Health 5000
+Range 4
+Radius 0.5
+
+SalvageItem 5618c9de615942369a07801ee015c792
+Min_Items_Dropped_On_Destroy 5
+Max_Items_Dropped_On_Destroy 6
+Item_Dropped_On_Destroy 39594c4aa2d249a2b701fac1898f4530
+
+Explosion 97
+
+Has_Clip_Prefab False
+
+Use_Water_Height_Transparent_Sort
+
+Salvage_Duration_Multiplier 0.6
+
+PlacementAudioClip Sounds/MetalPlacement.mp3

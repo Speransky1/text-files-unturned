@@ -1,0 +1,19 @@
+GUID 96a2ebffd861409c870d864004c16004
+Type Magazine
+Rarity Uncommon
+ID 6692
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 6692
+
+Tracer 48
+
+Delete_Empty

@@ -1,0 +1,9 @@
+﻿Metadata
+{
+	GUID bdcd2787691f4286a7a8d4814d681fa6
+	Type SDG.Unturned.CraftingBlacklistAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	Allow_Core_Blueprints false
+}

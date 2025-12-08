@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 3932147642
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5988e123ec35a743a150675bc756685b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b02cd9d7bb8c987cc67f6cd06f4db926
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b411edf529e8d14eb783724293703ac, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Light_0/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Bollard_0/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Drum_0/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_3/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_0/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Bollard_0/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Barrier_0/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Concrete_Block_1/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Concrete_Block_1/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Concrete_Block_0/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Barrier_0/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_4/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_2/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Bollard_0/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_1/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_3/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_5/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Cone_0/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_5/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Bollard_1/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_0/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_1/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Bollard_1/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_2/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Barrier_0/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Light_0/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_4/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_1/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_3/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Concrete_Block_1/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_4/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Light_0/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Drum_0/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Concrete_Block_0/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Bollard_1/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_2/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_0/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Cone_0/Object.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Street_Light_5/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Cone_0/Clip.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Traffic_Drum_0/Nav.prefab
+- Assets/TrafficMasterBundle/Objects/Medium/TE_Concrete_Block_0/Clip.prefab
+Dependencies: []

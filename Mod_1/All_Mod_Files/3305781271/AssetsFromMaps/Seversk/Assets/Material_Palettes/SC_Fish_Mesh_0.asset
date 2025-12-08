@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID fd4df527bf7c4ad190976ba96a656b61
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Fish_Mesh_0/Fish_Mesh_0.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Fish_Mesh_0/Fish_Mesh_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Fish_Mesh_0/Fish_Mesh_2.mat
+		}
+	]
+}

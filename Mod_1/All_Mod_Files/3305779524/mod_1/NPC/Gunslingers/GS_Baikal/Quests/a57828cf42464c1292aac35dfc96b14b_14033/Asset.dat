@@ -1,0 +1,54 @@
+﻿// Made in NPC Maker by BowieD
+GUID a57828cf42464c1292aac35dfc96b14b
+Type Quest
+ID 14033
+Conditions 3
+Condition_0_Type Kills_Zombie
+Condition_0_ID 345
+Condition_0_Value 20
+Condition_0_Spawn_Quantity 1
+Condition_0_Nav 16
+Condition_0_Radius 512
+Condition_0_MinRadius 0
+Condition_0_Zombie None
+Condition_0_Reset 
+
+Condition_1_Type Kills_Zombie
+Condition_1_ID 346
+Condition_1_Value 25
+Condition_1_Spawn_Quantity 1
+Condition_1_Nav 14
+Condition_1_Radius 512
+Condition_1_MinRadius 0
+Condition_1_Zombie None
+Condition_1_Reset 
+
+Condition_2_Type Kills_Zombie
+Condition_2_ID 347
+Condition_2_Value 1
+Condition_2_Spawn_Quantity 1
+Condition_2_Nav 14
+Condition_2_Radius 512
+Condition_2_MinRadius 0
+Condition_2_Zombie Mega
+Condition_2_Reset 
+
+Rewards 4
+Reward_0_Type Experience
+Reward_0_Value 1200
+
+Reward_1_Type Item
+Reward_1_ID 58420
+Reward_1_Amount 3
+Reward_1_Auto_Equip False
+
+Reward_2_Type Item
+Reward_2_ID 58419
+Reward_2_Amount 5
+Reward_2_Auto_Equip False
+
+Reward_3_Type Item
+Reward_3_ID 59873
+Reward_3_Amount 0
+Reward_3_Auto_Equip False
+

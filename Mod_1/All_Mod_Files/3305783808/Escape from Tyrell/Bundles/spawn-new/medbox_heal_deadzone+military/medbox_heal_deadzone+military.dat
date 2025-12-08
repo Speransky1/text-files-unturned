@@ -1,0 +1,76 @@
+GUID 884a718c0be44e0dbe3ca95bc93835da
+Type Spawn
+ID 10121
+
+Roots
+[
+	{
+		// medbox_supplies_towns (Spawn)
+		Guid 5f10255c8de14be897327a77953015c3
+		Weight 55
+	}
+]
+
+Tables
+[
+	{
+		// Стерильный бинт (Medical Item)
+		Guid fa70b55eba9e4bde9b129a66aa0f76f7
+		Weight 160
+	}
+	{
+		// Армейский бинт (Medical Item)
+		Guid 59f7565930544fd4926c2a8952922b26
+		Weight 150
+	}
+	{
+		// Гемостатический бинт (Medical Item)
+		Guid 542c9aa7c30d4eacbdb4185e496df739
+		Weight 70
+	}
+	{
+		// Армейская аптечка (Medical Item)
+		Guid f720841c91ed42c69af1490a86994279
+		Weight 65
+	}
+	{
+		// Обезболивающие (Medical Item)
+		Guid 9e31df205156404488e385ca671713c1
+		Weight 55
+	}
+	{
+		// medbox_supplies_towns (Spawn)
+		Guid 5f10255c8de14be897327a77953015c3
+		Weight 55
+	}
+	{
+		// Шприц с адреналином (Medical Item)
+		Guid 0346fc829b2a477bae041b7b5569a30f
+		Weight 50
+	}
+	{
+		// Норадреналин (Medical Item)
+		Guid 2026eb2a8fc74501bc64cdafba8402d0
+		Weight 15
+	}
+	{
+		// AFAK (Medical Item)
+		Guid 215740469fe74b02ac97eddf79910c5f
+		Weight 15
+	}
+	{
+		// Антирадиационное средство WRG (Medical Item)
+		Guid c2aef306c2b34c579bfe3a59fbf57799
+		Weight 10
+	}
+	{
+		// Аптечка медработника (Medical Item)
+		Guid 465e155da6c648dcb878d3adba1cb62c
+		Weight 5
+	}
+	{
+		// Восстанавливающая сыворотка (Medical Item)
+		Guid dbc308a8a7cf4f049dda8ca98bb574f2
+		Weight 1
+	}
+]

@@ -1,0 +1,9 @@
+﻿GUID 3636dbf109d74c99922d33af8ae2fc93
+
+Type Small
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 16
+
+Bundle_Override_Path /Objects/Small/SC_Note_0
+Has_Clip_Prefab false

@@ -1,0 +1,58 @@
+GUID 694ffa76c96245688b75571b3e5d2bb1
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Has_Clip_Prefab False
+Build Barricade
+ID 59713
+
+PlacementPreviewPrefab Items/Supplies/PS_Raw_Adamantine_Stack/Placement.prefab
+
+SalvageItem a930479bb9e742468e407fa10b42b801
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy a622c3e2ab8e455695c2df7771b3e91c
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 40
+Range 4
+Radius 0.22
+Offset 0.2675
+
+Explosion 36
+Vulnerable
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59713
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59528
+Blueprint_0_Output_0_Amount 6
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Разобрать
+Action_0_Tooltip Uncompactify.
+Explosion 36
+Vulnerable
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True

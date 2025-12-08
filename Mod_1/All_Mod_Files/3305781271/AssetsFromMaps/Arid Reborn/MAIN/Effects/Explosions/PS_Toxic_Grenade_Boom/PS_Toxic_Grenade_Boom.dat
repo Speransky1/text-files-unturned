@@ -1,0 +1,11 @@
+GUID 14d8c8b0a7e24cedbd39a1d20af82362
+Type Effect
+ID 18012
+
+Relevant_Distance 1000
+
+CameraShake_Radius 5
+CameraShake_MagnitudeDegrees 50
+
+Lifetime 50
+Lifetime_Spread 0

@@ -1,0 +1,51 @@
+﻿GUID c5186886d9ac4695aff7524893ef5a22
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 41806
+Health 40
+Size_X 2
+Size_Y 3
+Size_Z 0.6
+Bypass_Pickup_Ownership true
+Allow_Placement_On_Vehicle false
+Range 3
+Radius 0.1
+Offset 0.376
+Salvage_Duration_Multiplier 0.1
+Vulnerable
+Explosion 41331
+Unrepairable
+Can_Be_Damaged true
+Has_Clip_Prefab false
+PlacementAudioClip Sounds/Clothy_Placement.ogg
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem c5186886d9ac4695aff7524893ef5a22
+Min_Items_Dropped_On_Destroy 2
+Max_Items_Dropped_On_Destroy 4
+Item_Dropped_On_Destroy 595747ab3b38487b8a037695a9471080
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "af9dd73a46df4870aa574370eb9eed8b x 6" // Twine
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Unstack
+Action_0_Tooltip Spread out items for specific use.
+Add_Default_Actions false

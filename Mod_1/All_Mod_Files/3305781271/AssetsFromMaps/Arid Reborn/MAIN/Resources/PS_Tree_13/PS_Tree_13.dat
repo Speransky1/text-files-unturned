@@ -1,0 +1,23 @@
+GUID 2afb0789b0184dd2836741909de1d44d
+
+Type Resource
+Has_Clip_Prefab False
+ID 59037
+
+Health 2000
+Radius 5
+Scale 0.45
+
+Explosion 59024
+Reward_ID 59011
+Reward_XP 0
+Reward_Min 2
+Reward_Max 2
+
+Reset 2700
+
+Auto_Skybox
+
+BladeID 2
+
+Halloween_Redirect ab31d1b96a0e48de8b042c6d515fa55a

@@ -1,0 +1,21 @@
+GUID 9b4f78bf00f34d7bbcfa953b9fe6ecb1
+
+
+Type Large
+
+Has_Clip_Prefab False
+
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 20053
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint BB_0_Enter
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Large/PS_Basement_Hatch_0

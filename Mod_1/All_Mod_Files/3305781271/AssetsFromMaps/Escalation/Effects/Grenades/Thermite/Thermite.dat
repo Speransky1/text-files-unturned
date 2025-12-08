@@ -1,0 +1,11 @@
+GUID b7da257ece6149fe8576ba9749e7b0ea
+
+
+
+
+Type Effect
+ID 51046
+CameraShake_Radius 36
+CameraShake_MagnitudeDegrees 32
+Spawn_On_Dedicated_Server
+Relevant_Distance 5000

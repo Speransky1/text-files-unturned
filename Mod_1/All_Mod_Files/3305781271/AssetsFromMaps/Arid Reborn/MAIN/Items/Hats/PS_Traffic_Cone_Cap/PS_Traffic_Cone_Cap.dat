@@ -1,0 +1,24 @@
+GUID ea2cfc034f0c4c308f7a25257ebc1a54
+
+Type Hat
+Rarity Uncommon
+Useable Clothing
+ID 59793
+
+Size_X 2
+Size_Y 2
+Size_Z 0.57
+
+Beard
+
+Armor 0.95
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+Quality_Min 75
+Quality_Max 100

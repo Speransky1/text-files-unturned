@@ -1,0 +1,42 @@
+GUID 096590c8873e46f78f498a68aba664b9
+Type Magazine
+Rarity Epic
+ID 31034
+
+Size_X 2
+Size_Y 2
+Size_Z 0.29
+
+Amount 20
+Count_Min 10
+Count_Max 20
+
+
+Pellets 6
+
+Calibers 1
+Caliber_0 25034
+
+Tracer 30054
+
+Blueprints 4
+//12Guage (6)
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31030
+Blueprint_0_Build 30
+//12Guage (2)
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31031
+Blueprint_1_Build 30
+//AW-12 Drum
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31033
+Blueprint_2_Build 30
+//Serna Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31044
+Blueprint_3_Build 30

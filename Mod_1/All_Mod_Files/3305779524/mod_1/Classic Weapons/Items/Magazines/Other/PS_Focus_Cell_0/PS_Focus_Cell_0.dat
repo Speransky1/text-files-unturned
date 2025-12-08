@@ -1,0 +1,23 @@
+GUID 161c6ab308c3411c9aed5a7c14f000cb
+Type Magazine
+Rarity Legendary
+ID 31163
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 40
+Count_Min 20
+Count_Max 40
+
+Calibers 1
+Caliber_0 25058
+
+Tracer 30053
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31163
+Blueprint_0_Build 30

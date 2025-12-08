@@ -1,0 +1,34 @@
+GUID ed15a594a71442a093cdab36fb7b84c7
+Type Storage
+Rarity Rare
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage
+ID 31577
+
+SalvageItem ed15a594a71442a093cdab36fb7b84c7
+
+Size_X 4
+Size_Y 2
+Size_Z 0.5
+
+Health 300
+Range 4
+Radius 0.4
+Offset 0.425
+
+Storage_X 5
+Storage_Y 3
+Display
+
+Explosion 36
+
+Vulnerable
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.25

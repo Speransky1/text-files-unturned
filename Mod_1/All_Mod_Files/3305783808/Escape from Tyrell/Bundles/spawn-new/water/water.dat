@@ -1,0 +1,37 @@
+GUID 55a8e69c66f64094a7f38877e7978f3d
+Type Spawn
+ID 10135
+
+Tables
+[
+	{
+		// Бутылка воды 5/5 (Water Item)
+		Guid d173033643204e0c945a175a0c5f32c2
+		Weight 105
+	}
+	{
+		// Сода (Water Item)
+		Guid 6e652e81dea9430390f2206eeb7bcd74
+		Weight 85
+	}
+	{
+		// Молоко (Water Item)
+		Guid f6085bb7094040708743f2e3d25d54f5
+		Weight 75
+	}
+	{
+		// Егермейстер (Supply Item)
+		Guid 5b95dac08db7448291dca1eddb3a97ac
+		Weight 3
+	}
+	{
+		// Огненная вода (Barricade Item)
+		Guid fa7ff11502704750be464f7d7788b90a
+		Weight 2
+	}
+	{
+		// Виски "Грязный Ганс" (Water Item)
+		Guid 71017183b20c43a4990ebc3812791fa2
+		Weight 1
+	}
+]

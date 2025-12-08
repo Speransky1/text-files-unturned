@@ -1,0 +1,22 @@
+GUID fe181e954eb04abbb539683286c4198d
+
+
+Type Small
+ID 62218
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Smol/PS_Quest_USB_0
+
+Conditions 1
+
+Condition_0_Type Flag_Bool
+Condition_0_ID 17033
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17033
+Interactability_Reward_0_Value True

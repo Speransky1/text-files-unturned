@@ -1,0 +1,5 @@
+Name Marked Door Golf Enter #6
+
+Interactability_Condition_0 Нужен ключ от закрытой комнаты Гольф
+
+Interact Открыть [{0}]

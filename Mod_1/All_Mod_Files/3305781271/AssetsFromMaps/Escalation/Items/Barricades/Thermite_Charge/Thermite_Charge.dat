@@ -1,0 +1,55 @@
+GUID 75898909f7bc4f2587d7c138c91e499d
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Clock
+ID 51312
+
+Size_X 2
+Size_Y 3
+Size_Z 0.45
+
+Health 1
+Range 4
+
+Offset 0.05
+
+Unsalvageable
+Unpickupable
+
+
+Range2 8
+Explosion2 51007
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
+Allow_Placement_On_Vehicle False
+PlacementPreviewPrefab Items/Barricades/Thermite_Charge/Placement.prefab
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 7
+Blueprint_0_Supply_0_ID 51030
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 51061
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 51017
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Supply_3_ID 51028
+Blueprint_0_Supply_3_Amount 4
+Blueprint_0_Supply_4_ID 51307
+Blueprint_0_Supply_4_Amount 6
+Blueprint_0_Supply_5_ID 51950
+Blueprint_0_Supply_5_Amount 1
+Blueprint_0_Supply_6_ID 51310
+Blueprint_0_Supply_6_Amount 1
+Blueprint_0_Level 0
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32
+
+Bypass_Claim 
+
+Use_Auto_Stat_Descriptions false

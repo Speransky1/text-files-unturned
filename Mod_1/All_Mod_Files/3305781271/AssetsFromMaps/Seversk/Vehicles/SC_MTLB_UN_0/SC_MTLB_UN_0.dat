@@ -1,0 +1,53 @@
+﻿GUID fcf2048591e64c3782014cdce31898aa
+Type Vehicle
+Rarity Rare
+ID 41502
+Speed_Min -6
+Speed_Max 14
+Steer_Min 60
+Steer_Max 70
+Brake 32
+Fuel_Min 900
+Fuel_Max 1700
+Fuel 3800
+Health_Min 900
+Health_Max 1300
+Health 1700
+Exit 3.3
+Passenger_Explosion_Armor 0.2
+Traction
+Trunk_Storage_X 13
+Trunk_Storage_Y 8
+Explosion 41325
+Bumper_Invulnerable
+Tires_Invulnerable
+Cam_Follow_Distance 7
+IgnitionAudioClip Sounds/Old_Ignition.ogg
+Has_Clip_Prefab false
+
+Carjack_Force_Multiplier 2
+Explosion_Force_Multiplier 2
+
+Drops_Table_ID 41486
+Drops_Min 3
+Drops_Max 5
+
+Melee_Damage_Multiplier 0.3
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging
+Crawler
+Fuel_Burn_Rate 3.3
+Valid_Speed_Horizontal 200
+Reclined
+LockMouse
+
+Physics_Profile 4eaa5d53f3ca40d0b6ece823b144c7fa
+Explosion_Min_Force_Y 3
+Explosion_Max_Force_Y 6
+Explosion_Min_Force_X -3
+Explosion_Max_Force_X 3
+Explosion_Min_Force_Z -3
+Explosion_Max_Force_Z 3

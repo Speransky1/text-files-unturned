@@ -1,0 +1,20 @@
+GUID 4be35829df49435a99577d62006f9811
+
+Type Magazine
+Rarity Rare
+ID 39154
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 19
+Count_Min 19
+Count_Max 19
+
+Calibers 1
+Caliber_0 39202
+
+Tracer 39114
+
+Use_Auto_Stat_Descriptions false

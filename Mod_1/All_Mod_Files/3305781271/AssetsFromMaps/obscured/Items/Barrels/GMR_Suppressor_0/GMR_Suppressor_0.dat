@@ -1,0 +1,19 @@
+GUID f64e9469f28c47c79ec8f8709c220b81
+
+Type Barrel
+ID 39160
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Silenced
+Volume 0.8
+
+Calibers 1
+Caliber_0 39204
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+Should_Fill_After_Detach True

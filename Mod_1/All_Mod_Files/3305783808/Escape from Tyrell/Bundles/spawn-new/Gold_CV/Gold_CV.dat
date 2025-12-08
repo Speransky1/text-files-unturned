@@ -1,0 +1,12 @@
+GUID 66a6dff88bc441c6915c85b2ab8b3242
+Type Spawn
+ID 10512
+
+Tables
+[
+	{
+		// Золото (Supply Item)
+		Guid b75f6dc8734e48aca5fcb4f0f1ecef13
+		Weight 1
+	}
+]

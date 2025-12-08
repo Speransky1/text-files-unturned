@@ -1,0 +1,27 @@
+GUID a1ae8f52d5c84e3692450e30809ddee0
+Type Shirt
+Rarity Uncommon
+Useable Clothing
+ID 4028
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 2
+
+Armor 0.86
+Armor_Fire 0.6
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 4028
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Build 32

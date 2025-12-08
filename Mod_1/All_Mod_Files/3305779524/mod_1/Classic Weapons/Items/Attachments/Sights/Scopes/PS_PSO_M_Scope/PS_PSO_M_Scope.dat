@@ -1,0 +1,24 @@
+GUID 361320d28e0e4ed3a6409ab1f84e56f1
+Type Sight
+Rarity Legendary
+ID 31294
+
+Size_X 2
+Size_Y 1
+Size_Z 0.19
+
+Sway 1.7
+Zoom 7
+Aim_Duration_Multiplier 1.14
+
+Calibers 1
+Caliber_0 25001
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31294
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

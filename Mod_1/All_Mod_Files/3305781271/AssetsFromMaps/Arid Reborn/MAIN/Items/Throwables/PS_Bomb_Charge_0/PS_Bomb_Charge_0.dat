@@ -1,0 +1,33 @@
+GUID 54a3710ea2964e1ca3017007ebeb8c48
+Type Throwable
+Rarity Legendary
+Useable Throwable
+ID 19232
+
+Size_X 4
+Size_Y 2
+Size_Z 0.33
+
+Player_Damage 150
+Zombie_Damage 150
+Animal_Damage 150
+Barricade_Damage 560
+Structure_Damage 755
+Vehicle_Damage 5500
+Resource_Damage 2000
+Object_Damage 4000
+Explosion_Launch_Speed 30
+
+Range 15
+Explosion 19095
+
+Explosive
+
+Fuse_Length 9
+
+Strong_Throw_Force 15
+Weak_Throw_Force 15
+
+Boost_Throw_Force_Multiplier 1
+
+Use_Auto_Stat_Descriptions False

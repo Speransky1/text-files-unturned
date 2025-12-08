@@ -1,0 +1,22 @@
+GUID 8a2d56bc513b4ce79700761102bf0747
+
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 51406
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Aid
+
+Health 30
+Energy 100
+
+// Med Book?
+Quest_Rewards 2
+Quest_Reward_0_Type Rewards_List_Asset
+Quest_Reward_0_GUID d8b1c98d03c24ef79955cfc9432333c9
+Quest_Reward_1_Type Rewards_List_Asset
+Quest_Reward_1_GUID 0159ead5441b46a78a8bb2f4e8773253

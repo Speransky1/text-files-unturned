@@ -1,0 +1,9 @@
+GUID 73b02b48b00841829e2810bf948edacd
+
+
+
+Type Effect
+ID 51026
+CameraShake_Radius 12
+CameraShake_MagnitudeDegrees 32
+Spawn_On_Dedicated_Server

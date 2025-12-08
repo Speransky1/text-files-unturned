@@ -1,0 +1,11 @@
+GUID be9da9c68c5a4cb7a72b90b501f4c63a
+
+Type Medium
+ID 62200
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17052
+Condition_0_Value True
+Condition_0_Logic Equal
+

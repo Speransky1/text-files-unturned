@@ -1,0 +1,47 @@
+GUID fb7a7b12a248469b8998d88c5eea2ee0
+Type Spawn
+ID 10174
+
+Tables
+[
+	{
+		// towns_scrap (Spawn)
+		Guid 195ba294c79b4908866478a5168ed89b
+		Weight 400
+	}
+	{
+		// towns_car_stuffs (Spawn)
+		Guid cb7c8c72a3bc4bcfbfc67984892e4cc4
+		Weight 345
+	}
+	{
+		// toolbox_metal_tools (Spawn)
+		Guid 4ac21923d0b544b9a36c4cb40929a223
+		Weight 250
+	}
+	{
+		// towns_scrap_and_trash (Spawn)
+		Guid 710f572ddab64b1a8a0b0ef33dca7780
+		Weight 220
+	}
+	{
+		// towns_computers_stuffs (Spawn)
+		Guid 02e463dc0b154723b27503b11259a786
+		Weight 220
+	}
+	{
+		// fishers_beach_loot (Spawn)
+		Guid 053e04dea4ed4ec7bec580ab5294c427
+		Weight 125
+	}
+	{
+		// food_canned (Spawn)
+		Guid a09a148543524a6786aff7c470a0bb70
+		Weight 40
+	}
+	{
+		// water (Spawn)
+		Guid 55a8e69c66f64094a7f38877e7978f3d
+		Weight 40
+	}
+]

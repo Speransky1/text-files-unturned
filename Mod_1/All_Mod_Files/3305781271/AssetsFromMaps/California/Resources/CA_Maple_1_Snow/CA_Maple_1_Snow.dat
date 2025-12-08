@@ -1,0 +1,16 @@
+GUID 89ca4e45c8234c6cb7ca9e7969fbbf37
+Type Resource
+ID 42009
+
+Health 500
+Radius 3
+Scale 0.15
+
+Explosion 25
+Reward_ID 516
+Reward_XP 2
+Reward_Min 2
+Reward_Max 4
+
+Reset 600
+Auto_Skybox

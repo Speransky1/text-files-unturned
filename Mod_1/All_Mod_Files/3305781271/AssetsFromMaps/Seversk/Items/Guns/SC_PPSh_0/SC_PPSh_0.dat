@@ -1,0 +1,184 @@
+﻿GUID 3d83badc4b814fd6addfd8623fcd7ea4
+Type Gun
+Rarity Uncommon
+Useable Gun
+Slot Primary
+ID 41688
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 3
+Requires_NonZero_Attachment_Caliber true
+Size_X 4
+Size_Y 2
+Size_Z 0.37
+Quality_Min 50
+Quality_Max 70
+Magazine 41689
+
+Ammo_Min 15
+Ammo_Max 35
+
+Auto
+Semi
+Muzzle 41355
+Shell 41359
+Durability 0.3
+Magazine_Calibers 1
+Magazine_Caliber_0 43004
+Range 120
+Firerate 3
+Unplace 0.2
+Replace 0.7
+Action Trigger
+ThirdPerson_Zoom 1.5
+Aim_In_Duration 0.3
+Use_Auto_Icon_Measurements False
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/RifleRustle/Rifle_Rustle.asset
+
+Player_Damage 35
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.4
+
+Zombie_Damage 90
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.4
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 35
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.7
+Animal_Skull_Multiplier 1.1
+
+Recoil_Crouch 0.9
+Recoil_Prone 0.8
+
+Spread_Prone 0.8
+Spread_Crouch 0.9
+
+Ballistic_Steps 12
+Ballistic_Travel 10
+Ballistic_Drop 0.004
+Damage_Falloff_Range 40
+Damage_Falloff_Max_Range 50
+Damage_Falloff_Multiplier 0.05
+
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 25
+Resource_Damage 20
+Object_Damage 20
+
+Spread_Aim 0.3
+Spread_Hip 1.5
+Spread_Angle_Degrees 8.5
+
+Recoil_Min_X -4
+Recoil_Min_Y 5
+Recoil_Max_X 3
+Recoil_Max_Y 4
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.001
+Shake_Min_Y 0.001
+Shake_Min_Z -0.006
+Shake_Max_X 0.001
+Shake_Max_Y -0.001
+Shake_Max_Z -0.01
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Repair
+Action_0_Tooltip Repair wit improvised supply items.
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 2
+Action_1_Text Gun Repair Kit
+Action_1_Tooltip Repair with <color=#rare>Gun Repair Kit</color>.
+
+Action_2_Type Blueprint
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 0
+Action_2_Text Salvage
+Action_2_Tooltip Salvage into component materials.
+Add_Default_Actions false
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 4" // Metal Parts
+			"c4f3449e46f944ae8f8ca9ae54623a1b x 3" // Gun Parts
+			"e162f0162f154033935a7a1e3d58e57e x 2" // Plank
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "c2370e1ae60a4d81be3d4984f1c8c19b" // Duct Tape
+				Amount 3
+			}
+			{
+				ID "1986846586774600b7b8779394e49fb6" // Glue
+				Amount 1
+			}
+			{
+				ID "c4f3449e46f944ae8f8ca9ae54623a1b" // Gun Parts
+				Amount 2
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Gun Parts
+				Amount 3
+			}
+			{
+				ID "c2370e1ae60a4d81be3d4984f1c8c19b" // Duct Tape
+				Amount 1
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Gun Repair Kit
+			80356db46b6a42bdb79daf902a769c7b
+		]
+		Effect "3ced354ecb814ad2a9b9d3fad0c79a58" // SC_Gun_Repairkit_0
+	}
+]

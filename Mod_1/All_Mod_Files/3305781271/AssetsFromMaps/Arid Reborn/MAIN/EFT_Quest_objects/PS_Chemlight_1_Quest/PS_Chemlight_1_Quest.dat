@@ -1,0 +1,17 @@
+GUID 1a14f836ba1047fbadb6f1c45b40129f
+
+
+Type Small
+
+Has_Clip_Prefab False
+
+ID 62168
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/smol/PS_chemlight_1
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 14030
+Condition_0_Status Active
+Condition_0_Logic Equal

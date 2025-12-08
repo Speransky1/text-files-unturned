@@ -1,0 +1,31 @@
+﻿GUID 970b63251f264ea780795a80ac83fd85
+
+Type Compass
+Rarity Uncommon
+ID 41803
+Enables_Compass
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "4f9fb8c83c494e2486329e494674813c x 1" // Metal Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions true
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

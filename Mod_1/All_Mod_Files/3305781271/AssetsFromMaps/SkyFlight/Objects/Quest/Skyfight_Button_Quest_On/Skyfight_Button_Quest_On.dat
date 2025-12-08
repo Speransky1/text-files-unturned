@@ -1,0 +1,10 @@
+GUID b2ed777317094133a6cc9ef05ac7f094
+
+Type Small
+ID 38887
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 38800
+Condition_0_Value True
+Condition_0_Logic Equal

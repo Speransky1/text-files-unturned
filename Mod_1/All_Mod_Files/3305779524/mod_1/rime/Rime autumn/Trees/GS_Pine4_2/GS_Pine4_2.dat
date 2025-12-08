@@ -1,0 +1,16 @@
+GUID 23d8de26736f49fdbc5aa44c0a0077eb
+Type Resource
+ID 19020
+
+Health 900
+Radius 5
+Scale 0.3
+
+Explosion 18005
+Reward_ID 517
+
+Reset 600
+
+Auto_Skybox
+
+Has_Clip_Prefab false

@@ -1,0 +1,8 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=#C832FA>[Штанга] Земляки</color>
+Description <color=orange>Бульдозер</color> перетёр с <color=#BF1F1F>Оружейниками</color> насчет чего-то и упомянул, что РМы восстановили свою техничку. <color=#BF1F1F>Оружейники</color> теперь тоже заинтересованы в боевых машинах, но им нужны Браунинги с Хамви. У тебя опыт побегушек есть, работаем
+Condition_0 Пометить первый <color=#964BFA>Хамви</color> у Подстанции
+Condition_1 Пометить второй <color=#964BFA>Хамви</color> у Подстанции
+Condition_2 Пометить <color=#964BFA>Хамви</color> на базе <color=blue>Justice</color>
+Condition_3 Пометить первый <color=#1F871F>Хамви</color> на последнем этаже паркинга в ПД Трэнта
+Condition_4 Пометить второй <color=#1F871F>Хамви</color> на последнем этаже паркинга в ПД Трэнта

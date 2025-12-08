@@ -1,0 +1,32 @@
+GUID 10ceac47b3474d3685aade113b9e2380
+Type Spawn
+ID 41441
+
+Tables
+[
+	{
+		// Plastic Canister (Fuel Item)
+		LegacyAssetId 41571
+		Weight 30
+	}
+	{
+		// Gas Can (Fuel Item)
+		LegacyAssetId 41569
+		Weight 23
+	}
+	{
+		// Carjack (Tool Item)
+		LegacyAssetId 41654
+		Weight 20
+	}
+	{
+		// Blowtorch (Melee Item)
+		LegacyAssetId 41353
+		Weight 18
+	}
+	{
+		// Car Lock Pick (Tool Item)
+		LegacyAssetId 41655
+		Weight 3
+	}
+]

@@ -1,0 +1,24 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "6bc69e09d7e945f59d9a649d0958f61b"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions" "1"
+	"Condition_0_Type" "ITEM"
+	"Condition_0_Reset" ""
+	"Condition_0_Logic" "GREATER_THAN_OR_EQUAL_TO"
+	"Condition_0_ID" "19615"
+	"Condition_0_Amount" "1"
+	"Rewards" "1"
+	"Reward_0_Type" "ITEM"
+	"Reward_0_ID" "19263"
+	"Reward_0_Amount" "1"
+	"Reward_0_Auto_Equip" "false"
+	"Reward_0_Origin" "CRAFT"
+	"AbandonmentRewards" "0"
+	"ID" "19230"
+	"Asset_Bundle_Version" "1"
+}

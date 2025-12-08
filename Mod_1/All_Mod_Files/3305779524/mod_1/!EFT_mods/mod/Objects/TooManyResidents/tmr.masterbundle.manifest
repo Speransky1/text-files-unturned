@@ -1,0 +1,160 @@
+ManifestFileVersion: 0
+CRC: 1451953299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 147cda90272a87943bed7bd368e216ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08c4fa32de264df8e31d3d10c89652b2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_7/Model/TMR_Apartment_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Model/Apartment_12_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_3/Model/TMR_Apartment_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Model/TMR_Apartment_1_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_11/Model/TMR_Apartment_11_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_11/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_3/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Mansions/TMR_Mansion_1/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_4/Model/TMR_Apartment_4_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_8/Model/TMR_Apartment_8.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_11/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Houses/TMR_House_1/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_7/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_11/Model/TMR_Apartment_11_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Model/TMR_Apartment_1_Texture_2.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_10/Model/TMR_Apartment_10_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Mansions/TMR_Mansion_1/Model/TMR_Mansion_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_11/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Model/TMR_Apartment_5_Texture_3.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Model/TMR_Apartment_12_Texture_2.mat
+- Assets/TMRMasterbundle/Objects/Large/Houses/TMR_House_1/Model/TMR_Mansion_1.fbx
+- Assets/TMRMasterbundle/Objects/Large/Mansions/TMR_Mansion_1/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_3/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_9/Model/TMR_Apartment_9_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_11/Model/TMR_Aparment_11.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_11/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_2/Model/TMR_Apartment_2.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_8/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Mansions/TMR_Mansion_1/Model/TMR_Mansion_1.fbx
+- Assets/TMRMasterbundle/Objects/Large/Houses/TMR_House_1/Model/TMR_Mansion_1_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_6/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_3/Model/TMR_Apartment_3_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Mansions/TMR_Mansion_1/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_7/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_6/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Mansions/TMR_Mansion_1/Model/TMR_Mansion_1_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Model/TMR_Apartment_5_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_7/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_6/Model/TMR_Apartment_6_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Mansions/TMR_Mansion_1/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_2/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_8/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_2/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_10/Model/TMR_Apartment_10.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_4/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_9/Model/TMR_Apartment_9_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_3/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_7/Model/TMR_Apartment_7_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_6/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Model/TMR_Apartment_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_7/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_4/Model/TMR_Apartment_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_3/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_6/Model/TMR_Apartment_6.fbx
+- Assets/TMRMasterbundle/Objects/Large/Houses/TMR_House_1/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_10/Model/TMR_Apartment_10_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_6/Model/TMR_Apartment_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Model/TMR_Apartment_1.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_7/Model/TMR_Apartment_7.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Model/Apartment_12_Texture_2.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_4/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_9/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_11/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_8/Model/TMR_Apartment_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Houses/TMR_House_1/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_4/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_8/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Houses/TMR_House_1/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_8/Model/TMR_Apartment_8_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_9/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_6/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_7/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_10/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Houses/TMR_House_1/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Model/TMR_Apartment_1_Texture_2.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Model/Apartment_12.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_3/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_4/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Mansions/TMR_Mansion_1/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_8/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_2/Model/TMR_Apartment_2_Texture_1.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Model/TMR_Apartment_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Model/TMR_Apartment_5.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_10/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_10/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_2/Model/TMR_Apartment_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_2/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Model/TMR_Apartment_12_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_12/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Model/TMR_Apartment_5_Texture_2.png
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Model/TMR_Apartment_1_Texture_2.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_9/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_9/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Houses/TMR_House_1/Model/TMR_Mansion_1_Texture_1.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_2/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_9/Clip.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_4/Object.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_6/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_3/Model/TMR_Apartment_3.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_5/Model/TMR_Apartment_1_Texture_3.mat
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_4/Model/TMR_Apartment_4.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_2/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_10/Nav.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_9/Model/TMR_Apartment_9.fbx
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_10/Skybox.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_1/Slots.prefab
+- Assets/TMRMasterbundle/Objects/Large/Apartments/TMR_Apartment_8/Object.prefab
+Dependencies: []

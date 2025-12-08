@@ -1,0 +1,15 @@
+GUID b9e24f9b4e524d06bd26a113e2dd0956
+
+Type Barricade
+Has_Clip_Prefab false
+Useable Barricade
+Build Campfire
+ID 57710
+
+Size_X 2
+Size_Y 3
+Size_Z 0.45
+
+Health 250
+Range 4
+Offset 0.15

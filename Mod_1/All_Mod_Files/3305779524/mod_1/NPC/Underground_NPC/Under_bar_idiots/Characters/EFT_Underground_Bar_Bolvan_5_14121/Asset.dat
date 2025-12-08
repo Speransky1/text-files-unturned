@@ -1,0 +1,17 @@
+﻿// Made in NPC Maker by BowieD
+GUID 1bd0260528c946508dd6fc6ecc41a4e8
+ID 14121
+Type NPC
+Shirt 31583
+Pants 31573
+Mask 47574
+Vest 56203
+Primary 29135
+Tertiary 58223
+Equipped Tertiary
+Face 16
+Beard 0
+Hair 7
+Color_Skin #BEA582
+Color_Hair #57452F
+Pose Stand

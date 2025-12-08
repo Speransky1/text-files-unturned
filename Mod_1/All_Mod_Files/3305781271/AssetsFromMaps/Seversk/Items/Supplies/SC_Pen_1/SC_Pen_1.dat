@@ -1,0 +1,27 @@
+﻿GUID 4d0e719abffc44f6b81942fd24dfb4b6
+Type Supply
+ID 41673
+Size_X 1
+Size_Y 2
+Size_Z 0.42
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Icon_Measurements False
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "edc4d492616c4bfa841f8a8a1c58df1e x 2" // Plastic Fragments
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

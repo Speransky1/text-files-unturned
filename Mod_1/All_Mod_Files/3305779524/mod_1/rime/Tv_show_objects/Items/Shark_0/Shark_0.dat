@@ -1,0 +1,24 @@
+GUID f5ad398794104711b43535344fa2d5c3
+Rarity Mythical
+Type Storage
+Useable Barricade
+Build Storage
+ID 30000
+
+Size_X 3
+Size_Y 3
+Size_Z 0.4
+
+Health 600
+Range 4
+Radius 0
+Offset 0.01
+
+Storage_X 20
+Storage_Y 20
+
+Explosion 19
+Vulnerable
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Has_Clip_Prefab false

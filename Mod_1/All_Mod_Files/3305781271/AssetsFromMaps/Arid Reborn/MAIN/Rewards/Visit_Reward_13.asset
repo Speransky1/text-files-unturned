@@ -1,0 +1,8 @@
+GUID 72d76c0369a94880868fcfe3e0db5832
+Type RewardsList
+
+//Visit Point Mike
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22634
+Reward_0_Value True

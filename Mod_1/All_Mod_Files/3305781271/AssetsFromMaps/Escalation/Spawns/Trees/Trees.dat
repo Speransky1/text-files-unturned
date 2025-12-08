@@ -1,0 +1,17 @@
+GUID 8926a164699f42de8beea685b069352f
+Type Spawn
+ID 51002
+
+Tables
+[
+	{
+		// Wood Log (Supply Item)
+		Guid 1465299f973c4fe2bad926b923d07f70
+		Weight 98
+	}
+	{
+		// Apple (Food Item)
+		Guid 0cd100afdb8d483aa56306ebf358afd8
+		Weight 2
+	}
+]

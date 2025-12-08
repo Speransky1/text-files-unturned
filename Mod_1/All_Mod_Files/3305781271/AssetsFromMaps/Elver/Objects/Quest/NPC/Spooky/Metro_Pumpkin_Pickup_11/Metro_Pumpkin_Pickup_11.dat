@@ -1,0 +1,41 @@
+GUID d1fc27385d08440695570c7c0bb99367
+
+Type Small
+Has_Clip_Prefab false
+ID 57854
+
+Conditions 2
+
+//If picked, disppears
+Condition_0_Type Flag_Bool
+Condition_0_ID 57261
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+//If quest begin, appears
+Condition_1_Type Flag_Bool
+Condition_1_ID 57249
+Condition_1_Value True
+Condition_1_Logic Equal
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+
+//For disappearing
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57261
+Interactability_Reward_0_Value False
+
+//total quest progress
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 57248
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Spooky/Metro_Pumpkin_Pickup
+
+Holiday_Restriction HALLOWEEN

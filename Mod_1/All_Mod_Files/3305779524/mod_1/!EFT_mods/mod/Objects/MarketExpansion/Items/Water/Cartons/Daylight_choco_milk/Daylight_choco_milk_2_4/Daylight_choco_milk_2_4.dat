@@ -1,0 +1,18 @@
+GUID 9ebdfb17504245d69adf4583df52ed5d
+Type Water
+Useable Consumeable
+ID 45195
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Quality_Max 70
+
+Water 15
+Food 5
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 45196
+Quest_Reward_0_Amount 1

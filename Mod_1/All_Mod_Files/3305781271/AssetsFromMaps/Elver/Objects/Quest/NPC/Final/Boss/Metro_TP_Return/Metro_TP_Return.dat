@@ -1,0 +1,13 @@
+GUID 363b937240b04842bcea89a3f0b6b220
+
+Type Small
+Has_Clip_Prefab false
+ID 58126
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint ChurchFinal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Final/Metro_TP_Final

@@ -1,0 +1,41 @@
+GUID ec5017f517c3459ca84c872e4bdee906
+Type Tactical
+Rarity Epic
+ID 19678
+
+Size_X 1
+Size_Y 1
+Size_Z 0.275
+
+Use_Auto_Icon_Measurements False
+
+Rangefinder
+
+Calibers 1
+Caliber_0 18922
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19678
+Blueprint_0_Product 19016
+Blueprint_0_Products 1
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 19017
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 19016
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 19028
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Tool 19376
+Blueprint_1_Build 27
+
+Blueprint_1_Conditions 1
+Blueprint_1_Condition_0_Type Flag_Bool
+Blueprint_1_Condition_0_ID 19270
+Blueprint_1_Condition_0_Value True
+Blueprint_1_Condition_0_Logic Equal

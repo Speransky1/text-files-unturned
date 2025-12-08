@@ -1,0 +1,17 @@
+GUID 2ae3306162174b10bcb385a0571fc059
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 64673
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Boat_In_SZ
+
+Material_Palette 820afd2b234e4660b05aa3d317a447b9
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Fishing_Boat_0

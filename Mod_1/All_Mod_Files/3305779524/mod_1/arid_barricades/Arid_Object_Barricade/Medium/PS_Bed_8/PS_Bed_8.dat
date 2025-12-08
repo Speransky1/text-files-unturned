@@ -1,0 +1,20 @@
+GUID b8d872443ccf4566a3c2f4aab0ee562d
+
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Bed
+ID 62753
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 5500
+Range 4.5
+Radius 0.55
+Offset 0.71
+
+Explosion 37
+
+eblan

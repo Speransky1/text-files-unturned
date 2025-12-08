@@ -1,0 +1,49 @@
+GUID 64afe7e5b4f84efa8e04e088abb04f15
+Type Magazine
+Rarity Legendary
+ID 31121
+
+Size_X 1
+Size_Y 2
+Size_Z 0.225
+
+Amount 20
+Count_Min 10
+Count_Max 20
+
+Calibers 1
+Caliber_0 25052
+
+Tracer 30061
+
+Blueprints 6
+//DMR Mag
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31120
+Blueprint_0_Build 30
+//DMR Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31121
+Blueprint_1_Build 30
+//Drakonov Mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31122
+Blueprint_2_Build 30
+//Hypervelocity Rounds
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31123
+Blueprint_3_Build 30
+//Hypervelocity Ammo Box
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 31124
+Blueprint_4_Build 30
+//Hypervelocity Mag
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 31125
+Blueprint_5_Build 30

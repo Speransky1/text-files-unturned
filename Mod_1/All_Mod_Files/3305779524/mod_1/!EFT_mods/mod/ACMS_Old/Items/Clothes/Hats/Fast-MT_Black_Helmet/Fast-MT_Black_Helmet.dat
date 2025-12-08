@@ -1,0 +1,63 @@
+GUID db149d9237ec4826861396e3f65d5c99
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 37409
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.75
+Armor_Explosion 0.9
+
+Blueprints 6
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 37354
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_State_Transfer
+Blueprint_1_Type Apparel
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 37410
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 37409
+Blueprint_1_Output_1_ID 37427
+Blueprint_1_Build 27
+Blueprint_2_State_Transfer
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 37411
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 37409
+Blueprint_2_Output_1_ID 37428
+Blueprint_2_Build 27
+Blueprint_3_State_Transfer
+Blueprint_3_Type Apparel
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 37413
+Blueprint_3_Outputs 2
+Blueprint_3_Output_0_ID 37409
+Blueprint_3_Output_1_ID 37429
+Blueprint_3_Build 27
+Blueprint_4_State_Transfer
+Blueprint_4_Type Apparel
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 37412
+Blueprint_4_Outputs 3
+Blueprint_4_Output_0_ID 37409
+Blueprint_4_Output_1_ID 37427
+Blueprint_4_Output_2_ID 37428
+Blueprint_4_Build 27
+Blueprint_5_State_Transfer
+Blueprint_5_Type Apparel
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 37414
+Blueprint_5_Outputs 3
+Blueprint_5_Output_0_ID 37409
+Blueprint_5_Output_1_ID 37427
+Blueprint_5_Output_2_ID 37429
+Blueprint_5_Build 27

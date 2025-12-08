@@ -1,0 +1,26 @@
+GUID b9010b9fd51b4efcbde75327ccbc5675
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59601
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Health 10
+Range 4
+Radius 0.1
+Offset 0.115
+
+Explosion 36
+Vulnerable
+
+
+PlacementAudioClip Sounds/MiscPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True

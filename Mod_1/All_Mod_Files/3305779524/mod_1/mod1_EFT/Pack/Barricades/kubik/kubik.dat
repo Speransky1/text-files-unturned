@@ -1,0 +1,27 @@
+GUID 6971565b038648fcbf96e8c43e6dc11e
+
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 27098
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 60000
+Range 4
+Radius 0.5
+Offset 0.5
+
+Storage_X 10
+Storage_Y 10
+Display
+Locked
+
+Blueprints 0
+
+Should_Close_When_Outside_Range true
+
+Has_Clip_Prefab false

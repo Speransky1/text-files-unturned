@@ -1,0 +1,6 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Reset Pass Rewards
+Description To reset Pass Rewards, collect all remaining rewards on the levels.
+Condition_0 {0}  Claimed Rewards
+Condition_1 {0} <color=#ffd700>Credits</color>
+Reward_0 Reset Pass Rewards & <color=#ffd700>Credits</color>

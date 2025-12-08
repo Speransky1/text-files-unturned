@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "acd975dc878945bf96bd492b11307028"
+	"Type" "SDG.Unturned.CraftingBlacklistAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Input_Items"
+	[
+		{
+		"NoteToSelf" "battery :DDD D:DD"
+		"GUID" "098b13be34a7411db7736b7f866ada69"
+		}
+		{
+		"NoteToSelf" "sheet"
+		"GUID" "7f06b16642724683bd61584a52fde981"
+		}
+		{
+		"NoteToSelf" "metal"
+		"GUID" "21ede8ebffb14c5580e8c7ad149e335e"
+		}
+	]
+}
+

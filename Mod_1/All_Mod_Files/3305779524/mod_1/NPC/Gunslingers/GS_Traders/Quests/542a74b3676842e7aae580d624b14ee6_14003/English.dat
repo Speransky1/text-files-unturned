@@ -1,0 +1,7 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=rare>Доставщик #4</color>
+Description Найди 2 <color=uncommon>кофейных котелка</color>, 8 <color=uncommon>кружек</color>, 6 <color=uncommon>упаковок чая</color> и принеси <color=epic>Бармену</color>. Пацаны решили почифирить
+Condition_0 Котелки {0}/{1}
+Condition_1 Кружки {0}/{1}
+Condition_2 Чай {0}/{1}
+Reward_2 <color=white>Возможность покупать маски у</color> <color=epic>Дюшеса</color>

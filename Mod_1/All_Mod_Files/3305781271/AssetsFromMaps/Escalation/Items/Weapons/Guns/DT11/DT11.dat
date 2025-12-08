@@ -1,0 +1,133 @@
+GUID b0bfa64d6be9419ead9f001eed4f3efe
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 51296
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+
+Magazine 51911
+
+Ammo_Min 2
+Ammo_Max 2
+
+// Safety
+Semi
+
+// Bursts 2
+
+Caliber 51006
+
+Range 100
+Firerate 1
+Action Trigger
+
+Player_Damage 9
+Player_Leg_Multiplier .8
+Player_Arm_Multiplier .8
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.25
+
+Zombie_Damage 50
+Zombie_Leg_Multiplier 0.7
+Zombie_Arm_Multiplier 0.7
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 50
+Animal_Leg_Multiplier 0.7
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.2
+
+Barricade_Damage 10
+Structure_Damage 15
+Vehicle_Damage 20
+Resource_Damage 20
+Object_Damage 20
+
+Durability 0
+Quality_Min 100
+Quality_Max 100
+
+Spread_Aim 0.05
+Spread_Hip 0.3
+
+Ballistic_Steps 1
+
+Recoil_Min_X 1
+Recoil_Min_Y 15
+Recoil_Max_X 4
+Recoil_Max_Y 25
+
+Recover_X -.6
+Recover_Y -.01
+
+Shake_Min_X 0.01
+Shake_Min_Y 0.005
+Shake_Min_Z -0.1
+Shake_Max_X -0.01
+Shake_Max_Y -0.005
+Shake_Max_Z -0.12
+
+Muzzle 0
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51296
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 3
+// Fuses
+Blueprint_0_Output_0_ID 51950
+Blueprint_0_Output_0_Amount 2
+// Circuit
+Blueprint_0_Output_1_ID 51030
+Blueprint_0_Output_1_Amount 1
+// Scrap
+Blueprint_0_Output_2_ID 51018
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 51296
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 51918
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 51297
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_State_Transfer
+Blueprint_1_Build 27
+Blueprint_1_Rewards 2
+Blueprint_1_Reward_0_Type Flag_Bool
+Blueprint_1_Reward_0_ID 52919
+Blueprint_1_Reward_0_Value True
+Blueprint_1_Reward_1_Type Rewards_List_Asset
+Blueprint_1_Reward_1_GUID df781fd122e24562afc92a48aec65c23
+
+Blueprint_2_Type Repair
+Blueprint_2_Supply_0_ID 51950
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Build 27
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Salvage
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text Suppress «
+Action_1_Tooltip Use a Baffle Kit to suppress this weapon.
+
+Shoot_Quest_Rewards 1
+Shoot_Quest_Reward_0_Type Rewards_List_Asset
+Shoot_Quest_Reward_0_GUID ae7724167039492fb3bd8aeef222fcfa

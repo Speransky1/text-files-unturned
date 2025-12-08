@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "1021d740ecb746c497a54bbd6d10fa32"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/boulders/Sand_02.mat"
+		}
+	]
+}

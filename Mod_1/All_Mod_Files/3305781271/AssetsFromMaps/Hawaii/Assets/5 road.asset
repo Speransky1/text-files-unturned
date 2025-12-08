@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "a8bd43cb464443bc9efb7ca13934d2ad"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "hawaii.masterbundle"
+		"Path" "Terrain/5 road.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "GRAVEL_STATIC"
+	"Foliage"
+	{
+		"GUID" "dd173467e0cb4f8aa68b42c94e42ea4f"
+	}
+}

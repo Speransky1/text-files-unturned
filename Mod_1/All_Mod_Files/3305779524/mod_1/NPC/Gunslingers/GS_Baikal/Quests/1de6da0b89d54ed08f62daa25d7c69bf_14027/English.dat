@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=uncommon>Пост</color>
+Description Ставки повышаются. <color=mythical>Байкал</color> доволен твоей работой. Теперь необходимо найти одного из охранников Торгового Поста в Подземке по имени Джордж. По словам  <color=mythical>Байкала</color>. Джордж чуть не стал причиной гибели отряда Оруйжеников. Здесь такое не прощают. Нужно наведаться к этому типу и поговорить
+Condition_0 Поговорить с охранником Поста Джорджем и вернуться в Бар
+Reward_3 <color=rare>Разблокируются новые виды оружия у</color> <color=legendary>Саяны</color><color=rare>, а так же новые модули у</color> <color=epic>Тархуна</color>
+Reward_4 <color=yellow>Влияние: +70</color>

@@ -1,0 +1,142 @@
+GUID e7119478157e4b2c8008661199560164
+
+Type Vehicle
+Rarity Epic
+ID 41834
+
+Speed_Max 13
+Speed_Min -4
+
+Steer_Max 40
+Steer_Min 6
+Steering_Angle_Turn_Speed 50
+Carjack_Force_Multiplier 1.25
+LockMouse
+Exit 3
+Fuel_Min 1500
+Fuel_Max 2600
+Fuel 4300
+
+Fuel_Burn_Rate 5
+Health_Min 1200
+Health_Max 2000
+Health 2300
+Cam_Follow_Distance 6
+Bumper_Multiplier 2
+Bumper_Invulnerable
+Passenger_Explosion_Armor 0.3
+Has_Clip_Prefab false
+Crawler
+Traction
+Trunk_Storage_X 14
+Trunk_Storage_Y 12
+IgnitionAudioClip Sounds/Old_Ignition.ogg
+Vulnerable
+Drops_Table_ID 41486
+Drops_Min 4
+Drops_Max 7
+
+Melee_Damage_Multiplier 0.3
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging
+
+Explosion_Min_Force_Y 8
+Explosion_Max_Force_Y 16
+Explosion_Min_Force_X -8
+Explosion_Max_Force_X 8
+Explosion_Min_Force_Z -8
+Explosion_Max_Force_Z 8
+Explosion 41325
+Tires_Invulnerable
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 41838
+Turret_0_Yaw_Min -360
+Turret_0_Yaw_Max 360
+Turret_0_Pitch_Min 55
+Turret_0_Pitch_Max 98
+
+WheelConfigurations
+[
+    {
+        WheelColliderPath Tires/Tire_0
+        IsColliderSteered true
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_0
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_1
+        IsColliderSteered true
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_1
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_2
+        IsColliderSteered true
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_2
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_3
+        IsColliderSteered true
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_3
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_4
+        IsColliderSteered false
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_4
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_5
+        IsColliderSteered false
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_5
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_6
+        IsColliderSteered false
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_6
+        ModelUseColliderPose true
+    }
+    {
+        WheelColliderPath Tires/Tire_7
+        IsColliderSteered false
+        IsColliderPowered true
+        ModelPath Wheels/Wheel_7
+        ModelUseColliderPose true
+    }
+]
+
+ReverseGearRatio 9
+ForwardGearRatios
+[
+    20
+]
+GearShift_UpThresholdRPM 3000
+GearShift_DownThresholdRPM 2000
+GearShift_Duration 1
+GearShift_Interval 0.5
+EngineIdleRPM 300
+EngineMaxRPM 4000
+EngineMaxTorque 15
+Brake 5
+EngineSound_Type EngineRPMSimple
+EngineSound
+{
+    IdlePitch 0.2
+    IdleVolume 9
+    MaxPitch 0.8
+    MaxVolume 15
+}

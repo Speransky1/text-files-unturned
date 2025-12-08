@@ -1,0 +1,27 @@
+GUID 64198a7720ab4f42b399e5094a1bdc3e
+Type Throwable
+Rarity Legendary
+Useable Throwable
+ID 51334
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Range 1
+Explosion 51095
+
+Explosive
+Fuse_Length 10
+Explode_On_Impact
+
+Use_Auto_Stat_Descriptions False

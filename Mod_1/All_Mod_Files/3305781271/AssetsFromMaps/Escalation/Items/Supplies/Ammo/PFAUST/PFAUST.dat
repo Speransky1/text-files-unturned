@@ -1,0 +1,21 @@
+GUID 060f0090bdf941a7b8affa6114ebc0ce
+
+
+
+Type Magazine
+Rarity Rare
+ID 51948
+
+Explosion 51008
+Explosive
+Size_X 1
+Size_Y 1
+Size_Z 0
+Projectile_Damage_Multiplier 1
+
+Amount 1
+
+Calibers 1
+Caliber_0 51050
+
+

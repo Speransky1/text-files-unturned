@@ -1,0 +1,76 @@
+﻿GUID d2ce8baa459045d8baafcd16db143b22
+
+Type Pants
+Rarity Epic
+Useable Clothing
+ID 41556
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 4
+Height 2
+
+Armor 0.90
+Proof_Radiation
+Proof_Fire
+Movement_Speed_Multiplier 0.9
+Use_Auto_Stat_Descriptions False
+Quality_Min 20
+Quality_Max 80
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Use_Auto_Icon_Measurements false
+
+Blueprints
+[
+	{
+		CategoryTag "ebe755533bdd42d1871c3ac66b89530f" // Apparel
+		InputItems
+		[
+			{
+				ID "c566d0d9217d481fb56493e3d8fa8b2e" // Roll Of PTFE
+				Amount 2
+			}
+			{
+				ID "876a753a1b39450395639346b645390c" // Aramid Fabric
+				Amount 2
+			}
+			{
+				ID "28302cbb580641738db43ae62a045dbe" // Insulating Tape
+				Amount 2
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 4
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		OutputItems this
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "c566d0d9217d481fb56493e3d8fa8b2e" // Roll Of PTFE
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]

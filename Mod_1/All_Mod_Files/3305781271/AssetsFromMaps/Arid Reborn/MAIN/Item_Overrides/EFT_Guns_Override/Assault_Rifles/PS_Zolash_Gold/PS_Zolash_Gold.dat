@@ -1,0 +1,129 @@
+GUID 620d46a5fc634b88bfdbde964b3a049f
+
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 63421
+
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_AK.wav
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Guns/Assault_Rifles/PS_Zolash_Gold
+
+Aim_In_Duration 0.3
+
+Size_X 5
+Size_Y 2
+Size_Z 0.365
+
+Magazine 63315
+Grip 19750
+
+Hook_Sight
+Hook_Barrel
+
+Ammo_Min 10
+Ammo_Max 30
+
+Unplace 0.08
+Replace 0.7
+
+
+Auto
+Semi
+
+Attachment_Calibers 2
+Attachment_Caliber_0 18905
+Attachment_Caliber_1 18906
+
+Magazine_Calibers 2
+Magazine_Caliber_0 19315
+Magazine_Caliber_1 19316
+
+Firerate 6
+Action Trigger
+
+Player_Damage 39
+Player_Leg_Multiplier 0.8
+Player_Arm_Multiplier 0.8
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.4
+
+Zombie_Damage 100
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 100
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 15
+Structure_Damage 15
+Vehicle_Damage 40
+Resource_Damage 80
+Object_Damage 90
+
+Durability 0.23
+
+Spread_Aim 0.04
+Spread_Hip 0.07
+
+Recoil_Min_X -1.5
+Recoil_Min_Y 2
+Recoil_Max_X 1
+Recoil_Max_Y 4
+
+Recover_X 1
+Recover_Y 0.1
+
+Range 200
+Ballistic_Steps 75
+Ballistic_Travel 8
+Ballistic_Drop 0.001
+
+Damage_Falloff_Range 0.16
+Damage_Falloff_Max_Range 0.5
+Damage_Falloff_Multiplier 0.6
+
+Shake_Min_X -0.004
+Shake_Min_Y -0.003
+Shake_Min_Z -0.01
+Shake_Max_X -0.004
+Shake_Max_Y -0.003
+Shake_Max_Z -0.01
+
+Muzzle 19001
+
+Shell 19004
+
+Quality_Min 95
+Quality_Max 99
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18400
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+
+Gunshot_Rolloff_Distance 700
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+Recoil_Crouch 0.7
+Recoil_Prone 0.6
+
+Spread_Prone 1
+Spread_Crouch 1
+
+Player_Damage_Bleeding Always

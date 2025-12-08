@@ -1,0 +1,30 @@
+GUID c0ec70a3cb5445f69b05eca354f8884c
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 57202
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Food 10
+Water 10
+Disinfectant 5
+Health 5
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 57200
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 57201
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Asset_Bundle_Version 2

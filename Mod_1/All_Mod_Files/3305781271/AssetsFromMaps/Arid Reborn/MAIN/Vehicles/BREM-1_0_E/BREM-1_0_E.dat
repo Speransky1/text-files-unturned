@@ -1,0 +1,389 @@
+GUID 2433e54cf54f48f481f55496c217b499
+
+Type Vehicle
+
+Has_Clip_Prefab False
+
+Rarity Mythical
+ID 19023
+
+//////////////////////////////////////////////////////////Balance Stats
+
+Passenger_Explosion_Armor 0.3
+
+Melee_Damage_Multiplier 0.3
+
+Speed_Min -10
+Speed_Max 15
+
+Steer_Min 15
+Steer_Max 15
+
+Brake 60
+
+Fuel_Min 2000
+Fuel_Max 2500
+Fuel 5000
+
+Health_Min 4700
+Health_Max 5000
+Health 5500
+
+Trunk_Storage_X 10
+Trunk_Storage_Y 14
+
+Fuel_Burn_Rate 4
+
+///////////////////////////////////////////////////////////////////////
+
+Num_Steering_Tires 0
+Steering_Tire_4 4
+Steering_Tire_5 5
+Steering_Tire_8 8
+Steering_Tire_9 9
+
+Exit 3.5
+
+Reclined
+
+Crawler
+
+Cam_Follow_Distance 8
+
+Traction
+
+Explosion 19021
+
+Physics_Profile ebde057f736643939508474c9f42caca
+
+Tires_Invulnerable
+Bumper_Invulnerable
+Bumper_Multiplier 10
+
+
+
+Default_Battery a9c5e916c29646fdba9d08f6a7ce02b6
+Battery_Burn_Rate 4
+Battery_Charge_Rate 2
+BatteryMode_Headlights Burn
+BatteryMode_Sirens Burn
+BatteryMode_Driving Charging
+BatteryMode_Empty None
+
+Valid_Speed_Horizontal 200
+
+Turrets 1
+
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 19145
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+
+DefaultPaintColors
+[
+	"#827868" // Desert
+	"#5b5b3f" // Forest
+]
+
+
+PaintableSections
+[
+    {
+        Path Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Model_2
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_0/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_0/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_1/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_1/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_2/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_2/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_3/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_3/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_4/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_4/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_5/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_5/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_6/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_6/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_7/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_7/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_8/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_8/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_9/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_9/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_10/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_10/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_11/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_11/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_12/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_12/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_13/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_13/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_14/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_14/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_15/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_15/Model_1
+        MaterialIndex 0
+    }
+]
+
+
+
+ExplosionBurnMaterialSections
+[
+
+    {
+        Path Model_0
+        AllMaterials true
+    }
+    {
+        Path Model_1
+        AllMaterials true
+    }
+    {
+        Path Model_2
+        AllMaterials true
+    }
+    {
+        Path Truck_0/Truck_Model_0
+        AllMaterials true
+    }
+    {
+        Path Truck_1/Truck_Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_0/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_0/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_1/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_1/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_2/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_2/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_3/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_3/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_4/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_4/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_5/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_5/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_6/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_6/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_7/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_7/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_8/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_8/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_9/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_9/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_10/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_10/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_11/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_11/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_12/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_12/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_13/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_13/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_14/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_14/Model_1
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_15/Model_0
+        AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_15/Model_1
+        AllMaterials true
+    }
+]
+

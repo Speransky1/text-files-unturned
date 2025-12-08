@@ -1,0 +1,126 @@
+"Metadata"
+{
+	"GUID" "de514a9b62f34afd8816864cf7a029ec"
+	"Type" "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Crafting_Blacklists"
+	[
+		{"GUID" "f19bf4a07abc40b09ab3dbbb7b86405c"}
+	]
+	"Skills"
+	[
+		{
+			"Id" "Overkill"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Sharpshooter"
+			"Default_Level" "7"
+			"Max_Unlockable_Level" "7"
+		}
+		{
+			"Id" "Dexterity"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Exercise"
+			"Default_Level" "5"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Cardio"
+			"Default_Level" "5"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Diving"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Parkour"
+			"Default_Level" "5"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Sneakybeaky"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Vitality"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Immunity"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Toughness"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Strength"
+			"Default_Level" "5"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Warmblooded"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Survival"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Healing"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Crafting"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Outdoors"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Cooking"
+			"Default_Level" "3"
+			"Max_Unlockable_Level" "3"
+		}
+		{
+			"Id" "Fishing"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Agriculture"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Mechanic"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Engineer"
+			"Default_Level" "3"
+			"Max_Unlockable_Level" "3"
+		}
+	]
+}

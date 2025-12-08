@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "73c319e7b66b449a8cba6ec915fbb387"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Metal_Shelves_0/Metal_Shelf_0.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Metal_Shelves_0/Metal_Shelf_1.mat"
+		}
+		{
+			"Name" "aridreborn.masterbundle"
+			"Path" "Assets/PS_Materials/Afghan/Metal_Shelves_0/Metal_Shelf_2.mat"
+		}
+	]
+}

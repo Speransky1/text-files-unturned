@@ -1,0 +1,90 @@
+GUID 7e302658c9d646f48135a3533e2f1fe7
+Type Barrel
+Rarity Rare
+ID 31210
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 8
+Caliber_0 25005
+Caliber_1 25006
+Caliber_2 25007
+Caliber_3 25008
+Caliber_4 25009
+Caliber_5 25010
+Caliber_6 25011
+Caliber_7 25108
+
+Recoil_X 0.9
+Recoil_Y 0.85
+Shake 0.94
+
+Ballistic_Drop 1.1
+
+Durability 10
+
+Silenced 
+Volume 0.5
+Gunshot_Rolloff_Distance_Multiplier 0.75
+
+Quality_Min 100
+Quality_Max 100
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID "c0b0f4a9f46c49a59f4558210bf36da5" // Metal Can
+				Amount 2
+			}
+			{
+				ID "8c25cf28c76a4634855f404c8972c0ae" // Tape
+			}
+			{
+				ID "5830b84bf8074caa91cf3f4dde0dd19e" // Blowtorch
+				Delete false
+			}
+		]
+		OutputItems this
+		Skill Craft
+		Skill_Level 1
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "c0b0f4a9f46c49a59f4558210bf36da5" // Metal Can
+			}
+			{
+				ID "8c25cf28c76a4634855f404c8972c0ae" // Tape
+			}
+			{
+				ID "5830b84bf8074caa91cf3f4dde0dd19e" // Blowtorch
+				Delete false
+			}
+		]
+		Skill Repair
+		Skill_Level 1
+		RequiresNearbyCraftingTags
+		[
+			"7b82c125a5a54984b8bb26576b59e977" // Workbench
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "21ede8ebffb14c5580e8c7ad149e335e" // Metal Scrap
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]

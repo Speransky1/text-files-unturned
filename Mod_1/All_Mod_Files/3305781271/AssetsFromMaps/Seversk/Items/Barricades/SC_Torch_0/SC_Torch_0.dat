@@ -1,0 +1,42 @@
+﻿GUID 6c9740a2d0c242769eb2d545f6440ce1
+Type Barricade
+Useable Barricade
+Build Torch
+ID 41431
+
+Size_X 1
+Size_Y 2
+Size_Z 0.6
+
+Health 100
+Range 4
+Offset 0.2
+
+Explosion 41302
+Vulnerable
+SalvageItem 6c9740a2d0c242769eb2d545f6440ce1
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 23554dec78734cd2b2dd011c80596f57
+
+Blueprints
+[
+	{
+		CategoryTag "bfac6026305f4737a95fd275ebff65a6" // Utilities
+		InputItems
+		[
+			"8ae387a91c1c4964be2a12be7aeabfb9" // Wooden Stick
+			"3e658cbc0ccf43b5a1cd25ff8c928861" // Matches
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Can_Be_Damaged true
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_1.ogg
+Use_Auto_Stat_Descriptions false
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.1
+Has_Clip_Prefab false

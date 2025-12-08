@@ -1,0 +1,15 @@
+﻿Metadata
+{
+	GUID 09cd4f48235d4fcb99458680b74bd26b
+	Type SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	Song
+	{
+		MasterBundle sovcore.masterbundle
+		AssetPath Music/StereoMusic_8.ogg
+	}
+	Link_URL https://www.youtube.com/watch?v=w7GTLIhNO1g&ab_channel=Kino-Topic
+	Is_Loop true
+}

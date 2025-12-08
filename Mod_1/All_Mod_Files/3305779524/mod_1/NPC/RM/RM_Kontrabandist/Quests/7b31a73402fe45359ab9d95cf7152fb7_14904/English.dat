@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=red>Ключ от комнаты Эхо</color>
+Description Принеси 1 книгу, 1 догекоин и получишь доступ в <color=red>закрытую комнату Эхо</color>
+Reward_1 <color=red>Доступ в закрытую комнату Эхо</color>
+Reward_2 Теперь у тебя есть доступ в закрытую комнату <color=red>Эхо</color> (Почта Трэнта)

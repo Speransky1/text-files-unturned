@@ -1,0 +1,60 @@
+﻿Metadata
+{
+	GUID b5b4de0132ad40e886d51bee5de97209
+	Type SDG.Framework.Foliage.FoliageInstancedMeshInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Density 48
+	Min_Normal_Position_Offset 0
+	Max_Normal_Position_Offset 0
+	Normal_Rotation_Offset
+	{
+		X 0
+		Y 0
+		Z 0
+	}
+	Normal_Rotation_Alignment 1
+	Min_Weight 0.5
+	Max_Weight 1
+	Min_Angle 0
+	Max_Angle 75
+	Min_Rotation
+	{
+		X 0
+		Y 0
+		Z 0
+	}
+	Max_Rotation
+	{
+		X 0
+		Y 360
+		Z 0
+	}
+	Min_Scale
+	{
+		X 0.9
+		Y 0.9
+		Z 0.9
+	}
+	Max_Scale
+	{
+		X 1.15
+		Y 1.15
+		Z 1.15
+	}
+	Mesh
+	{
+		Name sovcore.masterbundle
+		Path Terrain/Meshes/Pebble_Mesh_2.fbx
+	}
+	Material
+	{
+		Name sovcore.masterbundle
+		Path Terrain/Pebbles/Pebble_2.mat
+	}
+	Cast_Shadows false
+	Tile_Dither true
+	Draw_Distance 2
+}

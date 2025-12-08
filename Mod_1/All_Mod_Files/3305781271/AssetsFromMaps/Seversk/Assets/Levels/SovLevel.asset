@@ -1,0 +1,189 @@
+﻿Metadata
+{
+	GUID 714a08ee28d941e08a413149c34e0371
+	Type SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Death_Music Music/DeathMusic.ogg
+	Has_Clouds false
+	Enable_Admin_Faster_Salvage_Duration False
+	Should_Animate_Background_Image true
+	Dropship
+	{
+		MasterBundle sovcore.masterbundle
+		AssetPath Level/Dropship.prefab
+	}
+	Airdrop
+	{
+		GUID bd219df9a64d47169c92635ea43a8f8d
+	}
+
+	Crafting_Blacklists
+	[
+		{
+			GUID bdcd2787691f4286a7a8d4814d681fa6
+		}
+	]
+	Weather_Types
+	[
+		{
+			// Cute Snowfall
+			Asset 5782e92c3e964a828891bbae33923d71
+			Min_Frequency 0.12
+			Max_Frequency 0.2
+			Min_Duration 0.09
+			Max_Duration 0.3
+		}
+		{
+			// Hardcore Snowfall 
+			Asset 3448a9cd28484d7c95561cba4cd8d914
+			Min_Frequency 0.18
+			Max_Frequency 0.23
+			Min_Duration 0.09
+			Max_Duration 0.2
+		}
+	]
+	TerrainColors
+	[
+		{
+			Color #66503d
+			HueThreshold 0.02
+			SaturationThreshold 0.1
+			ValueThreshold 0.05
+		}
+		{
+			Color #5f4a39
+			HueThreshold 0.02
+			SaturationThreshold 0.1
+			ValueThreshold 0.05
+		}
+		{
+			Color #a1A1a1
+			HueThreshold 0.02
+			SaturationThreshold 0.1
+			ValueThreshold 0.05
+		}
+	]
+	Skills
+	[
+		{
+			Id Overkill
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Sharpshooter
+			Default_Level 3
+			Max_Unlockable_Level 3
+		}
+		{
+			Id Dexterity
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Exercise
+			Default_Level 4
+			Max_Unlockable_Level 4
+		}
+		{
+			Id Cardio
+			Default_Level 2
+			Max_Unlockable_Level 2
+		}
+		{
+			Id Diving
+			Default_Level 2
+			Max_Unlockable_Level 2
+		}
+		{
+			Id Parkour
+			Default_Level 2
+			Max_Unlockable_Level 2
+		}
+		{
+			Id Sneakybeaky
+			Default_Level 2
+			Max_Unlockable_Level 2
+		}
+		{
+			Id Vitality
+			Default_Level 2
+			Max_Unlockable_Level 2
+		}
+		{
+			Id Immunity
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Toughness
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Strength
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Warmblooded
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Survival
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Healing
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Crafting
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Outdoors
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Cooking
+			Default_Level 3
+			Max_Unlockable_Level 3
+		}
+		{
+			Id Fishing
+			Default_Level 3
+			Max_Unlockable_Level 3
+		}
+		{
+			Id Agriculture
+			Default_Level 3
+			Max_Unlockable_Level 3
+		}
+		{
+			Id Mechanic
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+		{
+			Id Engineer
+			Default_Level 0
+			Max_Unlockable_Level 0
+		}
+	]
+	Loading_Screen_Music
+	[
+		{
+			Loop Music/LoadingScreen.ogg
+			Outro Music/LoadingScreen_Outro.ogg
+		}
+	]
+}

@@ -1,0 +1,25 @@
+GUID e2f49f3b2f694a9d8b9cb557eefa09ff
+
+Type Tactical
+Rarity Rare
+ID 51076
+
+Size_X 1
+Size_Y 1
+Size_Z 0.075
+
+Spread 0.8
+Aim_Duration_Multiplier 0.9
+
+Laser
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51076
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 51029
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 51017
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Build 27

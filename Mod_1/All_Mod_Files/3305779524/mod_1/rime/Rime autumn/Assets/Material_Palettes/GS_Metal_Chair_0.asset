@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "5fbee0b42f9047c4a36451f20097dfb4"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Metal_Chair_0/Metal_Chair_0_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Metal_Chair_0/Metal_Chair_1_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Metal_Chair_0/Metal_Chair_2_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Metal_Chair_0/Metal_Chair_3_M.mat"
+		}
+	]
+}

@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 3687912580
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa6e5a2b1705587c2602f58ed0778098
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08c4fa32de264df8e31d3d10c89652b2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Mansion_3.fbx
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Materials/Mansion_2_Texture_3.mat
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Clip.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Materials/Mansion_2_Texture_3.mat
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Materials/Mansion_2_Texture_4.png
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_1/Object.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Materials/Mansion_2_Texture_4.mat
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_1/Mansion_1.fbx
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_1/Slots.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Materials/Mansion_2_Texture_1.mat
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_1/Materials/Mansion_1.fbx
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Materials/Mansion_2_Texture_1.png
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Skybox.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Object.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Slots.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Nav.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Skybox.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Materials/Mansion_3_Texture_2.png
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Nav.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Materials/Mansion_2_Texture_2.png
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Mansion_2.fbx
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_1/Clip.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Materials/Mansion_2_Texture_3.png
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_1/Nav.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Materials/Mansion_2_Texture_2.mat
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_1/Materials/Mansion_2_Texture_3.png
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Materials/Mansion_2_Texture_1.mat
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Materials/Mansion_2_Texture_2.mat
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Clip.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_2/Slots.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_1/Skybox.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Materials/Mansion_3_Texture_3.png
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_1/Materials/Mansion_2_Texture_4.mat
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Object.prefab
+- Assets/MasterBundles/SWMansionsMasterBundle/Villas/SW_Villa_3/Materials/Mansion_3_Texture_1.png
+Dependencies: []

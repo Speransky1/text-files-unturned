@@ -1,0 +1,29 @@
+GUID d47ff4516df44ceeafa7d09771d8f5f2
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 31633
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Quest_Rewards 5
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 30622
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 31123
+Quest_Reward_1_Amount 2
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 31271
+Quest_Reward_2_Amount 1
+Quest_Reward_3_Type Item
+Quest_Reward_3_ID 31235
+Quest_Reward_3_Amount 1
+Quest_Reward_4_Type Item
+Quest_Reward_4_ID 31581
+Quest_Reward_4_Amount 1
+
+Master_Bundle_Override classicweapons.masterbundle
+Bundle_Override_Path /Items/Other/Supplies/PS_Weapon_Case_AW12

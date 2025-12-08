@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID f6b4032e562143c5b8033e2c3b04f182
+	Type SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Texture
+	{
+		Name sovcore.masterbundle
+		Path Terrain/Materials/Polygone.png
+	}
+	Mask
+	{
+		Name
+		Path
+	}
+	Physics_Material CONCRETE_STATIC
+	Foliage
+	{
+		GUID
+	}
+}

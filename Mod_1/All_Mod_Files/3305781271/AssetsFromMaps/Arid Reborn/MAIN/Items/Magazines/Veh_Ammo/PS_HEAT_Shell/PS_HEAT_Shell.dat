@@ -1,0 +1,16 @@
+GUID cc370e94ca334c19aaf7e4f5805d1082
+Type Magazine
+Rarity Legendary
+ID 19022
+
+Size_X 2
+Size_Y 3
+Size_Z 0.64
+
+Amount 1
+
+Calibers 1
+Caliber_0 19022
+
+Delete_Empty
+Use_Auto_Icon_Measurements False

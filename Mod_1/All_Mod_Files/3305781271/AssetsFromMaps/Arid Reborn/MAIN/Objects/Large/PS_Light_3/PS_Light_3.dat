@@ -1,0 +1,14 @@
+GUID 6ca4ec3f73e1414fa9cad425c2b71958
+
+
+Type Large
+
+Has_Clip_Prefab False
+
+ID 63314
+
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 1
+Rubble_Effect 59006

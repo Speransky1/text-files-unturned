@@ -1,0 +1,77 @@
+﻿GUID a0366525e8ff4ea98d24519a937daefa
+
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 41872
+
+Size_X 3
+Size_Y 2
+Size_Z 0.34
+
+Beard
+Armor 0.55
+Armor_Explosion 0.5
+
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Quality_Min 20
+Quality_Max 30
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems
+		[
+			"6d884726af96452fb83f20018de2dc34" // UN Helmet
+			"de657132aada43e2a26dc8546008ff8f" // Glass Protective Visor
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 4
+			}
+			{
+				ID "7199b3d4758449148c42114f0b5214e4" // Armor Plate
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "3a8b566d3de340b7a708b7e7c22e3b5c" // UN Bulletproof Helmet Mk. II
+		StateTransfer true
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 2
+Action_0_Text Lower
+Action_0_Tooltip Lower the Protective Visor
+Add_Default_Actions false
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Salvage
+Action_1_Tooltip Salvage into component materials.

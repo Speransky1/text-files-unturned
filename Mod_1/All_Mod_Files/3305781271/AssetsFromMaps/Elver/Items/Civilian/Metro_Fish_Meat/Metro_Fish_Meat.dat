@@ -1,0 +1,13 @@
+GUID eb0329dd574b42df806abb1d884ac10e
+
+Type Food
+Useable Consumeable
+ID 57118
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Virus 30
+Food 10
+Water 15

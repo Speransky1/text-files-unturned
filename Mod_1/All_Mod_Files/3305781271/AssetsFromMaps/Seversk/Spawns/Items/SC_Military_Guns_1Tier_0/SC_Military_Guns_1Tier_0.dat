@@ -1,0 +1,202 @@
+GUID 29b23f0bbbb7421197967cc0950fc529
+Type Spawn
+ID 41445
+
+Tables
+[
+	{
+		// PPSh Magazine (Magazine Item)
+		LegacyAssetId 41689
+		Weight 55
+	}
+	{
+		// PM Magazine (Magazine Item)
+		LegacyAssetId 41679
+		Weight 55
+	}
+	{
+		// PPSh-41 (Gun Item)
+		LegacyAssetId 41688
+		Weight 50
+	}
+	{
+		// PM (Gun Item)
+		LegacyAssetId 41678
+		Weight 45
+	}
+	{
+		// OTs-12 "Tiss" Muzzle (Barrel Item)
+		LegacyAssetId 41773
+		Weight 40
+	}
+	{
+		// AKMN Aluminium Magazine (Magazine Item)
+		LegacyAssetId 41714
+		Weight 40
+	}
+	{
+		// APS Magazine (Magazine Item)
+		LegacyAssetId 41692
+		Weight 40
+	}
+	{
+		// Pistol Muzzle (Barrel Item)
+		LegacyAssetId 41700
+		Weight 40
+	}
+	{
+		// Mosin-Nagant Clip (Magazine Item)
+		LegacyAssetId 41902
+		Weight 37
+	}
+	{
+		// OTs-12 "Tiss" Magazine (Magazine Item)
+		LegacyAssetId 41772
+		Weight 36
+	}
+	{
+		// OTs-12 "Tiss" (Gun Item)
+		LegacyAssetId 41771
+		Weight 34
+	}
+	{
+		// PP-19-01 "Vytiaz" Magazine (Magazine Item)
+		LegacyAssetId 41780
+		Weight 33
+	}
+	{
+		// Mosin-Nagant (Gun Item)
+		LegacyAssetId 41901
+		Weight 31
+	}
+	{
+		// PU Rifle Scope (Sight Item)
+		LegacyAssetId 41903
+		Weight 30
+	}
+	{
+		// APS Wooden Stock (Supply Item)
+		LegacyAssetId 41701
+		Weight 30
+	}
+	{
+		// AKMN (Gun Item)
+		LegacyAssetId 41723
+		Weight 30
+	}
+	{
+		// Pistol Muzzle (Barrel Item)
+		LegacyAssetId 41700
+		Weight 29
+	}
+	{
+		// Tactical Light "Klesch-2U" (Tactical Item)
+		LegacyAssetId 41907
+		Weight 26
+	}
+	{
+		// Suppressor "BraMit" (Barrel Item)
+		LegacyAssetId 41904
+		Weight 25
+	}
+	{
+		// Pack of Sniper Ammo (Supply Item)
+		LegacyAssetId 41770
+		Weight 24
+	}
+	{
+		// OTs-12 "Tiss" Suppressor (Barrel Item)
+		LegacyAssetId 41775
+		Weight 23
+	}
+	{
+		// SKS Detachable Magazine (Magazine Item)
+		LegacyAssetId 41811
+		Weight 22
+	}
+	{
+		// Tactical Light "Klesch-2" V2.1 (Tactical Item)
+		LegacyAssetId 41908
+		Weight 20
+	}
+	{
+		// OKP-7 Reflex Sight (Sight Item)
+		LegacyAssetId 41728
+		Weight 20
+	}
+	{
+		// Tactical Laser "Perst-1IK" (Tactical Item)
+		LegacyAssetId 41909
+		Weight 20
+	}
+	{
+		// PPSh Drum (Magazine Item)
+		LegacyAssetId 41690
+		Weight 20
+	}
+	{
+		// EKP-8-18 Reflex Sight (Sight Item)
+		LegacyAssetId 41729
+		Weight 20
+	}
+	{
+		// APS (Gun Item)
+		LegacyAssetId 41691
+		Weight 20
+	}
+	{
+		// PP-19-01 "Vytiaz" (Gun Item)
+		LegacyAssetId 41779
+		Weight 20
+	}
+	{
+		// Pistol Suppressor (Barrel Item)
+		LegacyAssetId 41681
+		Weight 19
+	}
+	{
+		// Fragmentation Projectile (Supply Item)
+		LegacyAssetId 41796
+		Weight 19
+	}
+	{
+		// SKS (Gun Item)
+		LegacyAssetId 41810
+		Weight 18
+	}
+	{
+		// Pistol Flash Hider (Barrel Item)
+		LegacyAssetId 41816
+		Weight 18
+	}
+	{
+		// SKS Extended Detachable Magazine (Magazine Item)
+		LegacyAssetId 41812
+		Weight 15
+	}
+	{
+		// 1P63 "Obzor" Reflex Sight (Sight Item)
+		LegacyAssetId 41732
+		Weight 10
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41651
+		Weight 5
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41649
+		Weight 5
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41650
+		Weight 5
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41652
+		Weight 5
+	}
+]

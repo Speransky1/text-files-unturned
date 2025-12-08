@@ -1,0 +1,12 @@
+GUID fab3e6f3467541dbb71fb9d51051fa0e
+Type Large
+ID 4543
+
+LOD Mesh
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Large/Buildings/Research_1
+
+Material_Palette 2fe2d2a60ada404b8f27acd7888e602b

@@ -1,0 +1,30 @@
+GUID 84d1afd6f9054a38891e5fc516df8c29
+
+Type Magazine
+Rarity Legendary
+ID 32275
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 4
+Count_Min 0
+Count_Max 4
+
+Calibers 1
+Caliber_0 63546
+
+Pellets 1
+Spread 1
+Ballistic_Damage_Multiplier 1.3
+
+Delete_Empty
+
+Tracer 19073
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 32275
+Blueprint_0_Build 30

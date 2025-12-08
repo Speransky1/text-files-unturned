@@ -1,0 +1,14 @@
+GUID 12b8157fccd647769a875797ec0bc099
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Quest
+Interactability_Hint Use
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 36012
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal

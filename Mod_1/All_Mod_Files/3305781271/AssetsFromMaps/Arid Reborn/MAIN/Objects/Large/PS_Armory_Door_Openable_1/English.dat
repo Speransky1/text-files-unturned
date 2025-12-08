@@ -1,0 +1,5 @@
+Name PS Armory Door Openable #2
+
+Interactability_Condition_0 No Power [{0}]
+
+Interact Use [{0}]

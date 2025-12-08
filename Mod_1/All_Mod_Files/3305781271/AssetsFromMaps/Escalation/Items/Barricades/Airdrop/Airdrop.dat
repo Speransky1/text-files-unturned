@@ -1,0 +1,23 @@
+GUID 9e6056af7fa7498c948d85e4b0d773f0
+
+Type Storage
+Rarity Epic
+Build Storage
+ID 51698
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Health 600
+
+Storage_X 8
+Storage_Y 8
+
+Explosion 19
+Vulnerable
+Unrepairable
+Unpickupable
+Unsaveable
+
+Should_Close_When_Outside_Range true
+Has_Clip_Prefab false

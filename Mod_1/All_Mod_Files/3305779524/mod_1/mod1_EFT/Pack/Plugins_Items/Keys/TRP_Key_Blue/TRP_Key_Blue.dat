@@ -1,0 +1,13 @@
+GUID 495f314b13c6476099e4f80e843f7f10
+
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 58128
+
+Size_X 2
+Size_Y 1
+Size_Z 0.17
+
+
+Should_Delete_After_Use false

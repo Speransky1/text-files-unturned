@@ -1,0 +1,8 @@
+GUID e32195f6c7524f4eac426e059bf1749c
+Type RewardsList
+
+//Visit Tamara Complex
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22629
+Reward_0_Value True

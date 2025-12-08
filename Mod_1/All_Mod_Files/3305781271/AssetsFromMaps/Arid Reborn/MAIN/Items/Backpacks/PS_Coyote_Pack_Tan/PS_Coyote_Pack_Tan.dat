@@ -1,0 +1,19 @@
+GUID ae76a9d190294d139a049631d7b739b1
+Type Backpack
+Rarity Epic
+Useable Clothing
+ID 59098
+
+Size_X 3
+Size_Y 3
+Size_Z 0.55
+
+Width 7
+Height 6
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

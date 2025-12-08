@@ -1,0 +1,10 @@
+GUID a909c0f410704008aa21991b116f2046
+
+Randomize_Rotation False
+Type Effect
+ID 51027
+CameraShake_Radius 12
+CameraShake_MagnitudeDegrees 32
+Relevant_Distance 5000
+Spawn_On_Dedicated_Server
+

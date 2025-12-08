@@ -1,0 +1,11 @@
+GUID c5b926551501405aabf1283dd783ff57
+
+Type Large
+ID 38909
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 38808
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset

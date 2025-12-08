@@ -1,0 +1,53 @@
+﻿GUID 5ab2cac381024d0fb9788b897d58d867
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Ladder
+ID 41421
+
+Size_X 1
+Size_Y 3
+Size_Z 0.9
+
+Health 900
+Range 4
+Offset 0.125
+
+Explosion 41330
+SalvageItem 5ab2cac381024d0fb9788b897d58d867
+
+Blueprints
+[
+	{
+		CategoryTag "31a59b5fec3f4ec5b2887b1ce4acb029" // Barricades
+		InputItems
+		[
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Metal Parts
+				Amount 4
+			}
+			{
+				ID "ad7a88dea0eb455d9d6b772c93776e31" // Bolts
+				Amount 2
+			}
+			{
+				ID "aa51e7a26f784d448afd98c95e74e73f" // Blowtorch
+				Delete false
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_2.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 0.6
+Has_Clip_Prefab false

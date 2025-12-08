@@ -1,0 +1,46 @@
+﻿GUID 0b480869596944dca03b61a7bfda79d8
+
+Type Structure
+Rarity Legendary
+Useable Structure
+Construct Floor_Poly
+ID 41884
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 4100
+Range 8
+
+Explosion 41327
+
+Blueprints
+[
+	{
+		CategoryTag "71d9e182c18b4aad8e87778e4f621995" // Structures
+		InputItems
+		[
+			{
+				ID "8c266fea2c9c40f79bc995c85b36897f" // Bricks Stack
+			}
+			{
+				ID "fd985f2853364ca5964365ccfef22dd6" // Cement
+				Amount 1
+			}
+			{
+				ID "d5f4905fbbc9401f9f520dfacd231435" // Shovel
+				Delete false
+			}
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_0.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 1.7
+
+Has_Clip_Prefab false

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "82be249be3164ad9ad9a56a6640c4167"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/KDoughnut.mat"
+		}
+	]
+}

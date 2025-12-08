@@ -1,0 +1,28 @@
+GUID 1838b1244a3b4211823c49693f0afebd
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 19060
+
+Size_X 2
+Size_Y 2
+Size_Z 0.54
+
+Quality_Min 100
+
+Quest_Rewards 4
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 19047
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 19056
+Quest_Reward_1_Amount 1
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 19058
+Quest_Reward_2_Amount 1
+Quest_Reward_3_Type Hint
+Quest_Reward_3_Text Meal Unpacked
+Quest_Reward_3_Duration 1
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Military_Ration

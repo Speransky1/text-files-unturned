@@ -1,0 +1,64 @@
+﻿GUID 7324306b55e84d44b71368c5c5482b72
+Type Magazine
+Rarity Uncommon
+ID 41706
+
+Size_X 1
+Size_Y 1
+Size_Z 0.083
+
+Amount 8
+Count_Min 8
+Count_Max 8
+
+Calibers 1
+Caliber_0 43008
+
+Pellets 8
+InventoryAudio Sounds/Inventory/ShellRustle/Shell_Rustle.asset
+Use_Auto_Stat_Descriptions false
+Use_Auto_Icon_Measurements false
+
+Blueprints
+[
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems this
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "13d6b76264e0442eb3582bffc4c0ae48" // SB5 Magazine
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "1205b05d30e94c0295680bc819fb4514" // SB10 Magazine
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "92b51cce06fd4c83b417c936c9a218c7" // SB20 Drum
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		Name Salvage
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+				Prioritization LowestAmount
+				CountEmptyAsOne true
+			}
+		]
+		OutputItems "4f9fb8c83c494e2486329e494674813c" // Metal_Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+Delete_Empty
+Add_Default_Actions false

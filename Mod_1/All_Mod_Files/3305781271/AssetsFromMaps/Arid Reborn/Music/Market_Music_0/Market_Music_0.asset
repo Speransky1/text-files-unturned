@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "6dcdcb13366141d2835be67848e0984c"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Market_Music0.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "arid_music.masterbundle"
+		"AssetPath" "Market_Music_0/Market Melody.wav"
+	}
+	"Link_URL" "https://youtu.be/VRYp26jyLQs"
+}

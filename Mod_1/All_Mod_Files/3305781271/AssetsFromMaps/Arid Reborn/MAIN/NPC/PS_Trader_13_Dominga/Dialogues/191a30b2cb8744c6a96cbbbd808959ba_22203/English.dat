@@ -1,0 +1,153 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Message_0_Page_0 Here are your rewards.
+Response_0 Level 1 - Earn 10 <color=#ffd700>Credits</color> for <color=#4b64fa>1x Intermediate Ammo Box</color>
+Response_1 Level 1 - Claim <color=#4b64fa>1x Intermediate Ammo Box</color>
+Response_2 Level 1 - Reward Claimed
+Response_3 Level 2 - Earn 30 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Swift Box</color>
+Response_4 Level 2 - Claim <color=#4b64fa>2x Swift Box</color>
+Response_5 Level 2 - Reward Claimed
+Response_6 Level 3 - Earn 70 <color=#ffd700>Credits</color> for <color=#964BFA>3x Dressing</color>
+Response_7 Level 3 - Claim <color=#964BFA>3x Dressing</color>
+Response_8 Level 3 - Reward Claimed
+Response_9 Level 4 - Earn 120 <color=#ffd700>Credits</color> for <color=#4b64fa>3x Zolash Mag</color>
+Response_10 Level 4 - Claim <color=#4b64fa>3x Zolash Mag</color>
+Response_11 Level 4 - Reward Claimed
+Response_12 Level 5 - Earn 180 <color=#ffd700>Credits</color> for <color=#C832FA>1x Solid State Drive</color>
+Response_13 Level 5 - Claim <color=#C832FA>1x Solid State Drive</color>
+Response_14 Level 5 - Reward Claimed
+Response_15 Level 6 - Earn 240 <color=#ffd700>Credits</color> for <color=#4b64fa>1x Rare Lootbox</color>
+Response_16 Level 6 - Claim <color=#4b64fa>1x Rare Lootbox</color>
+Response_17 Level 6 - Reward Claimed
+Response_18 Level 7 - Earn 300 <color=#ffd700>Credits</color> for <color=#964BFA>1x PRO90 Pink</color>
+Response_19 Level 7 - Claim <color=#964BFA>1x PRO90 Pink</color>
+Response_20 Level 7 - Reward Claimed
+Response_21 Level 8 - Earn 360 <color=#ffd700>Credits</color> for <color=#4b64fa>3x Morphine</color>
+Response_22 Level 8 - Claim <color=#4b64fa>3x Morphine</color>
+Response_23 Level 8 - Reward Claimed
+Response_24 Level 9 - Earn 420 <color=#ffd700>Credits</color> for <color=#4b64fa>1x Rare Lootbox</color>
+Response_25 Level 9 - Claim <color=#4b64fa>1x Rare Lootbox</color>
+Response_26 Level 9 - Reward Claimed
+Response_27 Level 10 - Earn 480 <color=#ffd700>Credits</color> for <color=#C832FA>1x Legendary Lootbox</color>
+Response_28 Level 10 - Claim <color=#C832FA>1x Legendary Lootbox</color>
+Response_29 Level 10 - Reward Claimed
+Response_30 Level 11 - Earn 540 <color=#ffd700>Credits</color> for <color=#964BFA>1x Epic Lootbox</color>
+Response_31 Level 11 - Claim <color=#964BFA>1x Epic Lootbox</color>
+Response_32 Level 11 - Reward Claimed
+Response_33 Level 12 - Earn 600 <color=#ffd700>Credits</color> for <color=#4b64fa>1x Rare Lootbox</color>
+Response_34 Level 12 - Claim <color=#4b64fa>1x Rare Lootbox</color>
+Response_35 Level 12 - Reward Claimed
+Response_36 Level 13 - Earn 660 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Stack Of Metal Plates</color>
+Response_37 Level 13 - Claim <color=#4b64fa>2x Stack Of Metal Plates</color>
+Response_38 Level 13 - Reward Claimed
+Response_39 Level 14 - Earn 720 <color=#ffd700>Credits</color> for <color=#964BFA>1x Epic Lootbox</color>
+Response_40 Level 14 - Claim <color=#964BFA>1x Epic Lootbox</color>
+Response_41 Level 14 - Reward Claimed
+Response_42 Level 15 - Earn 780 <color=#ffd700>Credits</color> for <color=#C832FA>1x Legendary Lootbox</color>
+Response_43 Level 15 - Claim <color=#C832FA>1x Legendary Lootbox</color>
+Response_44 Level 15 - Reward Claimed
+Response_45 Level 16 - Earn 840 <color=#ffd700>Credits</color> for <color=#4b64fa>1x Rare Lootbox</color>
+Response_46 Level 16 - Claim <color=#4b64fa>1x Rare Lootbox</color>
+Response_47 Level 16 - Reward Claimed
+Response_48 Level 17 - Earn 900 <color=#ffd700>Credits</color> for <color=#4b64fa>1x Rare Lootbox</color>
+Response_49 Level 17 - Claim <color=#4b64fa>1x Rare Lootbox</color>
+Response_50 Level 17 - Reward Claimed
+Response_51 Level 18 - Earn 960 <color=#ffd700>Credits</color> for <color=#964BFA>1x Epic Lootbox</color>
+Response_52 Level 18 - Claim <color=#964BFA>1x Epic Lootbox</color>
+Response_53 Level 18 - Reward Claimed
+Response_54 Level 19 - Earn 1020 <color=#ffd700>Credits</color> for <color=#4b64fa>1x Rare Lootbox</color>
+Response_55 Level 19 - Claim <color=#4b64fa>1x Rare Lootbox</color>
+Response_56 Level 19 - Reward Claimed
+Response_57 Level 20 - Earn 1080 <color=#ffd700>Credits</color> for <color=#C832FA>1x Legendary Lootbox</color>
+Response_58 Level 20 - Claim <color=#C832FA>1x Legendary Lootbox</color>
+Response_59 Level 20 - Reward Claimed
+Response_60 Level 21 - Earn 1140 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Rare Lootbox</color>
+Response_61 Level 21 - Claim <color=#4b64fa>2x Rare Lootbox</color>
+Response_62 Level 21 - Reward Claimed
+Response_63 Level 22 - Earn 1200 <color=#ffd700>Credits</color> for <color=#964BFA>1x Drachenzahn</color>
+Response_64 Level 22 - Claim <color=#964BFA>1x Drachenzahn</color>
+Response_65 Level 22 - Reward Claimed
+Response_66 Level 23 - Earn 1260 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Stack Of Metal Plates</color>
+Response_67 Level 23 - Claim <color=#4b64fa>2x Stack Of Metal Plates</color>
+Response_68 Level 23 - Reward Claimed
+Response_69 Level 24 - Earn 1320 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Rare Lootbox</color>
+Response_70 Level 24 - Claim <color=#4b64fa>2x Rare Lootbox</color>
+Response_71 Level 24 - Reward Claimed
+Response_72 Level 25 - Earn 1380 <color=#ffd700>Credits</color> for <color=#C832FA>2x Legendary Lootbox</color>
+Response_73 Level 25 - Claim <color=#C832FA>2x Legendary Lootbox</color>
+Response_74 Level 25 - Reward Claimed
+Response_75 Level 26 - Earn 1440 <color=#ffd700>Credits</color> for <color=#964BFA>1x Stack of Metal Adamantine Ingots</color>
+Response_76 Level 26 - Claim <color=#964BFA>1x Stack of Metal Adamantine Ingots</color>
+Response_77 Level 26 - Reward Claimed
+Response_78 Level 27 - Earn 1500 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Rare Lootbox</color>
+Response_79 Level 27 - Claim <color=#4b64fa>2x Rare Lootbox</color>
+Response_80 Level 27 - Reward Claimed
+Response_81 Level 28 - Earn 1560 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Rare Lootbox</color>
+Response_82 Level 28 - Claim <color=#4b64fa>2x Rare Lootbox</color>
+Response_83 Level 28 - Reward Claimed
+Response_84 Level 29 - Earn 1620 <color=#ffd700>Credits</color> for <color=#964BFA>2x Epic Lootbox</color>
+Response_85 Level 29 - Claim <color=#964BFA>2x Epic Lootbox</color>
+Response_86 Level 29 - Reward Claimed
+Response_87 Level 30 - Earn 1680 <color=#ffd700>Credits</color> for <color=#C832FA>2x Legendary Lootbox</color>
+Response_88 Level 30 - Claim <color=#C832FA>2x Legendary Lootbox</color>
+Response_89 Level 30 - Reward Claimed
+Response_90 Level 31 - Earn 1740 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Rare Lootbox</color>
+Response_91 Level 31 - Claim <color=#4b64fa>2x Rare Lootbox</color>
+Response_92 Level 31 - Reward Claimed
+Response_93 Level 32 - Earn 1800 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Rare Lootbox</color>
+Response_94 Level 32 - Claim <color=#4b64fa>2x Rare Lootbox</color>
+Response_95 Level 32 - Reward Claimed
+Response_96 Level 33 - Earn 1860 <color=#ffd700>Credits</color> for <color=#964BFA>2x Epic Lootbox</color>
+Response_97 Level 33 - Claim <color=#964BFA>2x Epic Lootbox</color>
+Response_98 Level 33 - Reward Claimed
+Response_99 Level 34 - Earn 1920 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Rare Lootbox</color>
+Response_100 Level 34 - Claim <color=#4b64fa>2x Rare Lootbox</color>
+Response_101 Level 34 - Reward Claimed
+Response_102 Level 35 - Earn 1980 <color=#ffd700>Credits</color> for <color=#C832FA>2x Red Circuit Board</color>
+Response_103 Level 35 - Claim <color=#C832FA>2x Red Circuit Board</color>
+Response_104 Level 35 - Reward Claimed
+Response_105 Level 36 - Earn 2040 <color=#ffd700>Credits</color> for <color=#4b64fa>3x Stack Of Metal Plates</color>
+Response_106 Level 36 - Claim <color=#4b64fa>3x Stack Of Metal Plates</color>
+Response_107 Level 36 - Reward Claimed
+Response_108 Level 37 - Earn 2100 <color=#ffd700>Credits</color> for <color=#964BFA>2x Stack of Metal Adamantine Ingots</color>
+Response_109 Level 37 - Claim <color=#964BFA>2x Stack of Metal Adamantine Ingots</color>
+Response_110 Level 37 - Reward Claimed
+Response_111 Level 38 - Earn 2160 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Rare Lootbox</color>
+Response_112 Level 38 - Claim <color=#4b64fa>2x Rare Lootbox</color>
+Response_113 Level 38 - Reward Claimed
+Response_114 Level 39 - Earn 2220 <color=#ffd700>Credits</color> for <color=#4b64fa>2x Rare Lootbox</color>
+Response_115 Level 39 - Claim <color=#4b64fa>2x Rare Lootbox</color>
+Response_116 Level 39 - Reward Claimed
+Response_117 Level 40 - Earn 2280 <color=#ffd700>Credits</color> for <color=#C832FA>3x Legendary Lootbox</color>
+Response_118 Level 40 - Claim <color=#C832FA>3x Legendary Lootbox</color>
+Response_119 Level 40 - Reward Claimed
+Response_120 Level 41 - Earn 2340 <color=#ffd700>Credits</color> for <color=#964BFA>3x Epic Lootbox</color>
+Response_121 Level 41 - Claim <color=#964BFA>3x Epic Lootbox</color>
+Response_122 Level 41 - Reward Claimed
+Response_123 Level 42 - Earn 2400 <color=#ffd700>Credits</color> for <color=#4b64fa>4x Stack Of Metal Plates</color>
+Response_124 Level 42 - Claim <color=#4b64fa>4x Stack Of Metal Plates</color>
+Response_125 Level 42 - Reward Claimed
+Response_126 Level 43 - Earn 2460 <color=#ffd700>Credits</color> for <color=#4b64fa>3x Rare Lootbox</color>
+Response_127 Level 43 - Claim <color=#4b64fa>3x Rare Lootbox</color>
+Response_128 Level 43 - Reward Claimed
+Response_129 Level 44 - Earn 2520 <color=#ffd700>Credits</color> for <color=#964BFA>2x Stack of Metal Adamantine Ingots</color>
+Response_130 Level 44 - Claim <color=#964BFA>2x Stack of Metal Adamantine Ingots</color>
+Response_131 Level 44 - Reward Claimed
+Response_132 Level 45 - Earn 2580 <color=#ffd700>Credits</color> for <color=#C832FA>BREN Autocannon</color>
+Response_133 Level 45 - Claim <color=#C832FA>BREN Autocannon</color>
+Response_134 Level 45 - Reward Claimed
+Response_135 Level 46 - Earn 2640 <color=#ffd700>Credits</color> for <color=#4b64fa>3x Rare Lootbox</color>
+Response_136 Level 46 - Claim <color=#4b64fa>3x Rare Lootbox</color>
+Response_137 Level 46 - Reward Claimed
+Response_138 Level 47 - Earn 2700 <color=#ffd700>Credits</color> for <color=#4b64fa>3x Rare Lootbox</color>
+Response_139 Level 47 - Claim <color=#4b64fa>3x Rare Lootbox</color>
+Response_140 Level 47 - Reward Claimed
+Response_141 Level 48 - Earn 2760 <color=#ffd700>Credits</color> for <color=#964BFA>3x Epic Lootbox</color>
+Response_142 Level 48 - Claim <color=#964BFA>3x Epic Lootbox</color>
+Response_143 Level 48 - Reward Claimed
+Response_144 Level 49 - Earn 2820 <color=#ffd700>Credits</color> for <color=#4b64fa>3x Rare Lootbox</color>
+Response_145 Level 49 - Claim <color=#4b64fa>3x Rare Lootbox</color>
+Response_146 Level 49 - Reward Claimed
+Response_147 Level 50 - Earn 2900 <color=#ffd700>Credits</color> for <color=#FA3219>FIrewater</color>
+Response_148 Level 50 - Claim <color=#FA3219>Firewater</color>
+Response_149 Level 50 - Reward Claimed
+Response_150 Return.

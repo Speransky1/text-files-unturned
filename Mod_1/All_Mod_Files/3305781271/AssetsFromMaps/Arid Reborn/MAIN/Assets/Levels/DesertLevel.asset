@@ -1,0 +1,174 @@
+"Metadata"
+{
+	"GUID" "d100a1877c5e4442920f7b192aeafa16"
+	"Type" "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Loading_Screen_Music"
+	[
+		{
+			"Loop" "Music/Loading.mp3"
+			"Outro" "Music/Spawn.mp3"
+		}
+	]
+	"Should_Animate_Background_Image" "true"
+	"Fall_Damage_Speed_Threshold" "24"
+	"Enable_Admin_Faster_Salvage_Duration" "False"
+	"Death_Music" "newaridmusic.masterbundle:Music/Death.mp3"
+	"ID" "0"
+	"Dropship"
+		{
+		"MasterBundle" "aridreborn.masterbundle"
+		"AssetPath" "Level/Dropship.prefab"
+	}
+	"Airdrop"
+	{
+		"GUID" "026571270515489283f6d4c11d382d99"
+	}
+	
+	"Crafting_Blacklists"
+	[
+		{"GUID" "acd975dc878945bf96bd492b11307028"}
+	]
+	"Weather_Types"
+	[
+		{
+		// Foggy
+		"Asset" "676986671819468db01353093905d3c2"
+		"Min_Frequency" "1"
+		"Max_Frequency" "2" 
+		"Min_Duration" "0.4"
+		"Max_Duration" "0.75"
+		}
+		{
+		// No weather
+		"Asset" "bbb2eb640a6e47cb838be2be8dcad532"
+		"Min_Frequency" "0"
+		"Max_Frequency" "0" 
+		"Min_Duration" "0.2"
+		"Max_Duration" "1"
+		}
+		{
+		// Sandstorm
+		"Asset" "a3ceeadffd5547529fedfaf471d1089a"
+		"Min_Frequency" "3"
+		"Max_Frequency" "4" 
+		"Min_Duration" "0.2"
+		"Max_Duration" "0.4"
+		}
+	]
+	"Skills"
+	[
+		{
+			"Id" "Overkill"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Sharpshooter"
+			"Default_Level" "1"
+			"Max_Unlockable_Level" "1"
+		}
+		{
+			"Id" "Dexterity"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Exercise"
+			"Default_Level" "4"
+			"Max_Unlockable_Level" "4"
+		}
+		{
+			"Id" "Cardio"
+			"Default_Level" "4"
+			"Max_Unlockable_Level" "4"
+		}
+		{
+			"Id" "Diving"
+			"Default_Level" "4"
+			"Max_Unlockable_Level" "4"
+		}
+		{
+			"Id" "Parkour"
+			"Default_Level" "1"
+			"Max_Unlockable_Level" "1"
+		}
+		{
+			"Id" "Sneakybeaky"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Vitality"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Immunity"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Toughness"
+			"Default_Level" "4"
+			"Max_Unlockable_Level" "4"
+		}
+		{
+			"Id" "Strength"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Warmblooded"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Survival"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Healing"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Crafting"
+			"Default_Level" "3"
+			"Max_Unlockable_Level" "3"
+		}
+		{
+			"Id" "Outdoors"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Cooking"
+			"Default_Level" "3"
+			"Max_Unlockable_Level" "3"
+		}
+		{
+			"Id" "Fishing"
+			"Default_Level" "5"
+			"Max_Unlockable_Level" "5"
+		}
+		{
+			"Id" "Agriculture"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "0"
+		}
+		{
+			"Id" "Mechanic"
+			"Default_Level" "3"
+			"Max_Unlockable_Level" "3"
+		}
+		{
+			"Id" "Engineer"
+			"Default_Level" "3"
+			"Max_Unlockable_Level" "3"
+		}
+	]
+}

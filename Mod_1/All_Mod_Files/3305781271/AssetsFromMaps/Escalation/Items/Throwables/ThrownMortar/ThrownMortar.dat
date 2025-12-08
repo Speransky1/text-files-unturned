@@ -1,0 +1,25 @@
+GUID 1cfa874e522d47beb4baa8ef560daa08
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 51317
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Player_Damage 90
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 25
+Structure_Damage 25
+Vehicle_Damage 100
+Resource_Damage 1000
+Object_Damage 500
+
+Range 8
+Explosion 51008
+
+Explosive
+Fuse_Length 20
+Explode_On_Impact

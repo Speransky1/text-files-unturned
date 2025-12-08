@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=uncommon>Связной. Часть 1</color>
+Description <color=mythical>Байкал</color> собирался встретиться со своим связным, который обеспичивал контакт с некоторыми группировками, но сходка сорвалась. Найди <color=uncommon>Связного</color> на ферме у Трэнта и поговори с ним.
+Condition_0 Поговорить со <color=uncommon>Связным</color>
+Reward_0 Диалог со <color=uncommon>Связным</color>

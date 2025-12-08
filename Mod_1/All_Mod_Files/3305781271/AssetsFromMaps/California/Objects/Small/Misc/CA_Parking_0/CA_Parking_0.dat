@@ -1,0 +1,10 @@
+GUID bcb7d22606dd43fc898987c5a1854bd8
+Type Small
+ID 4542
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Small/Traffic/Line_Parking_0
+
+Material_Palette c05b33e7fb5e490b8cb9ba781d806e0c

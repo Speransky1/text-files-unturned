@@ -1,0 +1,24 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Че надо?
+Response_0 Кажись тут война была, может помочь как-то?
+Response_1 <color=orange>Знакомство с русскими. Завершить</color>
+Response_2 <color=orange>Чернь</color>
+Response_3 <color=orange>Чернь. Завершить</color>
+Response_4 <color=rare>Вандал</color>
+Response_5 <color=rare>Вандал. Завершить</color>
+Response_6 <color=rare>Информатор</color>
+Response_7 <color=rare>Информатор. Завершить</color>
+Response_8 <color=rare>Нехватка боеприпасов</color>
+Response_9 <color=rare>Нехватка боеприпасов. Завершить</color>
+Response_10 <color=epic>Возвышение власти</color>
+Response_11 <color=epic>Возвышение власти. Завершить</color>
+Response_12 <color=epic>Небывалое удовольствие</color>
+Response_13 <color=epic>Небывалое удовольствие. Завершить</color>
+Response_14 <color=epic>Отходняк</color>
+Response_15 <color=epic>Отходняк. Завершить</color>
+Response_16 <color=legendary>Тайник жида</color>
+Response_17 <color=legendary>Тайник жида. Завершить</color>
+Response_18 <color=legendary>Сельский сволочизм</color>
+Response_19 <color=legendary>Сельский сволочизм. Завершить</color>
+Response_20 <color=epic>Сигнальные флаеры</color>
+Response_21 *Уйти*

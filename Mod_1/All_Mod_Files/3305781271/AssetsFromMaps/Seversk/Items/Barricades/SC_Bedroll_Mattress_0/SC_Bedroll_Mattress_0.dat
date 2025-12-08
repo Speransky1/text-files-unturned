@@ -1,0 +1,49 @@
+﻿GUID 4200147445fd4bdd949de0ce2886f350
+Type Barricade
+Useable Barricade
+Build Bed
+Has_Clip_Prefab False
+ID 41417
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+Health 200
+Range 4
+Radius 0.4
+Offset 0.2
+
+Explosion 41331
+SalveItem 4200147445fd4bdd949de0ce2886f350
+Can_Be_Damaged true
+PlacementAudioClip Sounds/Clothy_Placement.ogg
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset
+Use_Auto_Stat_Descriptions false
+Vulnerable
+Bypass_Pickup_Ownership false
+Use_Auto_Icon_Measurements true
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "159e927969ea4946a24602eaa05e3273" // Cloth
+				Amount 4
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		OutputItems this
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Salvage_Duration_Multiplier 0.2

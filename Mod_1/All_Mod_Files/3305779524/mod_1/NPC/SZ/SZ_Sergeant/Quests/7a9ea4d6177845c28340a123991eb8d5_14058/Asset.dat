@@ -1,0 +1,48 @@
+﻿// Made in NPC Maker by BowieD
+GUID 7a9ea4d6177845c28340a123991eb8d5
+Type Quest
+ID 14058
+Conditions 4
+Condition_0_Type Flag_Bool
+Condition_0_ID 17070
+Condition_0_Value True
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Reset 
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 17071
+Condition_1_Value True
+Condition_1_Logic Greater_Than_Or_Equal_To
+Condition_1_Reset 
+
+Condition_2_Type Flag_Bool
+Condition_2_ID 17072
+Condition_2_Value True
+Condition_2_Logic Greater_Than_Or_Equal_To
+Condition_2_Reset 
+
+Condition_3_Type Flag_Bool
+Condition_3_ID 17073
+Condition_3_Value True
+Condition_3_Logic Greater_Than_Or_Equal_To
+Condition_3_Reset 
+
+Rewards 4
+Reward_0_Type Item_Random
+Reward_0_ID 10154
+Reward_0_Amount 1
+Reward_0_Auto_Equip False
+
+Reward_1_Type Item_Random
+Reward_1_ID 10155
+Reward_1_Amount 1
+Reward_1_Auto_Equip False
+
+Reward_2_Type Experience
+Reward_2_Value 300
+
+Reward_3_Type Item
+Reward_3_ID 51266
+Reward_3_Amount 1
+Reward_3_Auto_Equip True
+

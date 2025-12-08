@@ -1,0 +1,33 @@
+GUID 591a8f80d3c8481685d6f58b99b70f5b
+Type Magazine
+Rarity Legendary
+ID 10528
+
+Size_X 5
+Size_Y 2
+Size_Z 0.4
+
+Amount 1
+
+Tracer 12008
+
+Player_Damage 1
+Zombie_Damage 1
+Animal_Damage 1
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 1600
+Resource_Damage 1000
+Object_Damage 1000
+Explosion 19044
+Explosive
+Range 10
+
+Calibers 1
+Caliber_0 10705
+
+Delete_Empty
+
+Impact 19059
+
+Use_Auto_Icon_Measurements False

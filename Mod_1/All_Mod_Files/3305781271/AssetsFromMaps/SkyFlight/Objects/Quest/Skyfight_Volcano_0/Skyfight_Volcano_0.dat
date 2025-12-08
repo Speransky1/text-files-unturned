@@ -1,0 +1,11 @@
+GUID 4c6bfbc8b0e0476d9f1e9b43aae771ef
+
+Type Large
+ID 38915
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 38809
+Condition_0_Value True
+Condition_0_Logic Equal
+

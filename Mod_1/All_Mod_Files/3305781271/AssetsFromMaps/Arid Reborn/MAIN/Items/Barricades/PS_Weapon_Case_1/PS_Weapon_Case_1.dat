@@ -1,0 +1,39 @@
+GUID 1ea31bf53ec743eea3d27104f907d42b
+Type Storage
+Rarity Rare
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage
+ID 10011
+
+SalvageItem 10d83fa325c742aabf08a1df4feb2c20
+Min_Items_Dropped_On_Destroy 2
+Max_Items_Dropped_On_Destroy 4
+Item_Dropped_On_Destroy cf202d032ee346b39c66a021f713db76
+
+Size_X 2
+Size_Y 1
+Size_Z 0.45
+
+Health 200
+Range 4
+Radius 0.14
+Offset 0.17
+
+Storage_X 6
+Storage_Y 2
+
+Explosion 19
+Invulnerable
+
+Should_Close_When_Outside_Range True
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True
+
+PlacementPreviewPrefab Items/Barricades/PS_Weapon_Case_0/Placement.prefab

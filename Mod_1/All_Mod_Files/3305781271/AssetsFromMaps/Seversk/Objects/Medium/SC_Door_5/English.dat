@@ -1,0 +1,5 @@
+Name SC Door #6 [Interactive]
+
+Interactability_Condition_0 S2 key required
+
+Interact Enter S2 Deadzone through the bunker door [{0}]

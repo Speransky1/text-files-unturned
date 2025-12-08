@@ -1,0 +1,37 @@
+GUID edfb25634f154cd8be7156808ebd8954
+
+Type Magazine
+Rarity Rare
+ID 44023
+
+Size_X 1
+Size_Y 1
+Size_Z 0.225
+
+Amount 10
+Count_Min 10
+Count_Max 10
+
+Calibers 1
+Caliber_0 44005
+
+Pellets 12
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44004
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 44023
+Blueprint_1_Build 30
+
+Should_Drop_On_Death False
+
+Should_Fill_After_Detach True
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Magazines/Shells_8

@@ -1,0 +1,30 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "470dd0781ec04f13878757ddf62d2c53"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Saw Parts"
+	"Entries"
+	[
+		{
+			"Item" "7fd24654965d4f8787ac26b02753de9b"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "6c530f7a0031460ab08c6add709d1862"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "9cd48d5460834dc2af4ad57d3b65c5ce"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+	]
+	"ID" "0"
+	"Asset_Bundle_Version" "1"
+}

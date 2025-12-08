@@ -1,0 +1,17 @@
+GUID 451caa699777412baba652b008f00ec8
+Type Supply
+Rarity Epic
+ID 31582
+
+Size_X 2
+Size_Y 2
+Size_Z 0.56
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31582
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 31500
+Blueprint_0_Output_0_Amount 5
+Blueprint_0_Build 27

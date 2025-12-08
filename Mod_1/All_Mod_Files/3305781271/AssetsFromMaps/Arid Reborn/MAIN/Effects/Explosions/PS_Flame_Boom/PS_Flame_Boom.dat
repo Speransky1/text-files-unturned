@@ -1,0 +1,10 @@
+GUID 5e9ddf0be6cc4ad1a1591850eba19141
+Type Effect
+ID 10510
+
+CameraShake_Radius 10
+CameraShake_MagnitudeDegrees 5
+
+Blast 137
+
+Relevant_Distance 1000

@@ -1,0 +1,112 @@
+GUID 20493977868e4502b29c8cd52d359ce0
+Type Spawn
+ID 41438
+
+Tables
+[
+	{
+		// Military Battery (Barricade Item)
+		LegacyAssetId 41369
+		Weight 40
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41649
+		Weight 40
+	}
+	{
+		// Pack of Rifle Ammo (Supply Item)
+		LegacyAssetId 41713
+		Weight 40
+	}
+	{
+		// 6L23 Magazine (Magazine Item)
+		LegacyAssetId 41743
+		Weight 30
+	}
+	{
+		// 6L23 Magazine (Magazine Item)
+		LegacyAssetId 41743
+		Weight 30
+	}
+	{
+		// Canteen (Refill Item)
+		LegacyAssetId 41684
+		Weight 30
+	}
+	{
+		// AK-105 (Gun Item)
+		LegacyAssetId 41749
+		Weight 25
+	}
+	{
+		// Fabric Mesh (Supply Item)
+		LegacyAssetId 41562
+		Weight 23
+	}
+	{
+		// AI-2 Medkit (Medical Item)
+		LegacyAssetId 41628
+		Weight 23
+	}
+	{
+		// Waveform Generator (Barricade Item)
+		LegacyAssetId 41365
+		Weight 22
+	}
+	{
+		// Ammo Pouch (Supply Item)
+		LegacyAssetId 41582
+		Weight 20
+	}
+	{
+		// SAS Drive (Supply Item)
+		LegacyAssetId 41370
+		Weight 20
+	}
+	{
+		// Armor Plate Stack (Barricade Item)
+		LegacyAssetId 41331
+		Weight 20
+	}
+	{
+		// Gun Parts Stack (Barricade Item)
+		LegacyAssetId 41324
+		Weight 20
+	}
+	{
+		// Video Transmitter (Barricade Item)
+		LegacyAssetId 41373
+		Weight 20
+	}
+	{
+		// Polyamide Fabric (Supply Item)
+		LegacyAssetId 41804
+		Weight 19
+	}
+	{
+		// Gunpowder Stack (Barricade Item)
+		LegacyAssetId 41815
+		Weight 16
+	}
+	{
+		// Gunpowder (Supply Item)
+		LegacyAssetId 41458
+		Weight 15
+	}
+	{
+		// Ammo Belt (Magazine Item)
+		Guid 29100ea3365f4ab3a913942af78ef870
+		Weight 15
+	}
+	{
+		// Geiger Counter (Supply Item)
+		LegacyAssetId 41798
+		Weight 14
+	}
+	{
+		// Sodium Perchlorate (Supply Item)
+		LegacyAssetId 41506
+		Weight 10
+	}
+]

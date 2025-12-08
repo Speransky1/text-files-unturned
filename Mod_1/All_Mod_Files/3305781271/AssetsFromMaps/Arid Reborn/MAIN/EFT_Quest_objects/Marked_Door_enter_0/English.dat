@@ -1,0 +1,5 @@
+Name Marked Door ALPHA Enter #0
+
+Interactability_Condition_0 Нужен ключ от закрытой комнаты Альфа
+
+Interact Открыть [{0}]

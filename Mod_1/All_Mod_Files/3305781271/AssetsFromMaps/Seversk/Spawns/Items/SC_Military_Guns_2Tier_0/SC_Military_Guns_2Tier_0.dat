@@ -1,0 +1,282 @@
+GUID e25593ccbc7443f884c75755a071848b
+Type Spawn
+ID 41451
+
+Tables
+[
+	{
+		// PM Magazine (Magazine Item)
+		LegacyAssetId 41679
+		Weight 60
+	}
+	{
+		// PM (Gun Item)
+		LegacyAssetId 41678
+		Weight 50
+	}
+	{
+		// SR-1MP "Gyurza" Magazine (Magazine Item)
+		LegacyAssetId 41906
+		Weight 41
+	}
+	{
+		// 6L20 Magazine (Magazine Item)
+		LegacyAssetId 41739
+		Weight 40
+	}
+	{
+		// APS (Gun Item)
+		LegacyAssetId 41691
+		Weight 40
+	}
+	{
+		// PP-91 Magazine (Magazine Item)
+		LegacyAssetId 41696
+		Weight 40
+	}
+	{
+		// 6L23 Magazine (Magazine Item)
+		LegacyAssetId 41743
+		Weight 40
+	}
+	{
+		// PP-91 (Gun Item)
+		LegacyAssetId 41695
+		Weight 36
+	}
+	{
+		// AKS-74UN Muzzle (Barrel Item)
+		LegacyAssetId 41752
+		Weight 35
+	}
+	{
+		// AKMN Aluminium Magazine (Magazine Item)
+		LegacyAssetId 41714
+		Weight 35
+	}
+	{
+		// SR-1MP "Gyurza" (Gun Item)
+		LegacyAssetId 41905
+		Weight 35
+	}
+	{
+		// Pack of Sniper Ammo (Supply Item)
+		LegacyAssetId 41770
+		Weight 33
+	}
+	{
+		// Tactical Light "Klesch-2U" (Tactical Item)
+		LegacyAssetId 41907
+		Weight 32
+	}
+	{
+		// 1P63 "Obzor" Reflex Sight (Sight Item)
+		LegacyAssetId 41732
+		Weight 30
+	}
+	{
+		// APS Magazine (Magazine Item)
+		LegacyAssetId 41692
+		Weight 30
+	}
+	{
+		// AK-74N Muzzle (Barrel Item)
+		LegacyAssetId 41740
+		Weight 30
+	}
+	{
+		// Pistol Muzzle (Barrel Item)
+		LegacyAssetId 41700
+		Weight 29
+	}
+	{
+		// PB (Gun Item)
+		LegacyAssetId 41680
+		Weight 27
+	}
+	{
+		// Tactical Laser "Perst-1IK" (Tactical Item)
+		LegacyAssetId 41909
+		Weight 27
+	}
+	{
+		// APB (Gun Item)
+		LegacyAssetId 41699
+		Weight 27
+	}
+	{
+		// Tactical Light "Klesch-2" V2.1 (Tactical Item)
+		LegacyAssetId 41908
+		Weight 27
+	}
+	{
+		// KPB 9A-91 Magazine (Magazine Item)
+		LegacyAssetId 41769
+		Weight 26
+	}
+	{
+		// AKMN (Gun Item)
+		LegacyAssetId 41723
+		Weight 25
+	}
+	{
+		// EKP-8-18 Reflex Sight (Sight Item)
+		LegacyAssetId 41729
+		Weight 25
+	}
+	{
+		// OKP-7 Reflex Sight (Sight Item)
+		LegacyAssetId 41728
+		Weight 25
+	}
+	{
+		// Fragmentation Projectile (Supply Item)
+		LegacyAssetId 41796
+		Weight 24
+	}
+	{
+		// AK-74N Compensator (Barrel Item)
+		LegacyAssetId 41795
+		Weight 21
+	}
+	{
+		// PP-91 Large Magazine (Magazine Item)
+		LegacyAssetId 41698
+		Weight 20
+	}
+	{
+		// AKS-74UN (Gun Item)
+		LegacyAssetId 41746
+		Weight 20
+	}
+	{
+		// 1P78 Reflex Sight (Sight Item)
+		LegacyAssetId 41736
+		Weight 20
+	}
+	{
+		// AKMN Muzzle (Barrel Item)
+		LegacyAssetId 41721
+		Weight 20
+	}
+	{
+		// AKMN Flash Hider (Barrel Item)
+		LegacyAssetId 41720
+		Weight 20
+	}
+	{
+		// TGP-A Suprressor Flash Hider (Barrel Item)
+		LegacyAssetId 41800
+		Weight 19
+	}
+	{
+		// Pistol Suppressor (Barrel Item)
+		LegacyAssetId 41681
+		Weight 19
+	}
+	{
+		// 9A-91 Suppressor (Barrel Item)
+		LegacyAssetId 41768
+		Weight 18
+	}
+	{
+		// Pistol Flash Hider (Barrel Item)
+		LegacyAssetId 41816
+		Weight 18
+	}
+	{
+		// KPB 9A-91 (Gun Item)
+		LegacyAssetId 41766
+		Weight 15
+	}
+	{
+		// PSO-1 Scope (Sight Item)
+		LegacyAssetId 41726
+		Weight 15
+	}
+	{
+		// SKS Large Detachable Magazine (Magazine Item)
+		LegacyAssetId 41813
+		Weight 15
+	}
+	{
+		// AKS-74N (Gun Item)
+		LegacyAssetId 41741
+		Weight 15
+	}
+	{
+		// KPB VSK-94 (Gun Item)
+		LegacyAssetId 41765
+		Weight 13
+	}
+	{
+		// Ammo Belt (Magazine Item)
+		Guid 29100ea3365f4ab3a913942af78ef870
+		Weight 12
+	}
+	{
+		// 6L18 Magazine (Magazine Item)
+		LegacyAssetId 41755
+		Weight 10
+	}
+	{
+		// AK-74N (Gun Item)
+		LegacyAssetId 41738
+		Weight 10
+	}
+	{
+		// 6L18 Magazine (Magazine Item)
+		LegacyAssetId 41756
+		Weight 10
+	}
+	{
+		// 6L18 Magazine (Magazine Item)
+		LegacyAssetId 41756
+		Weight 10
+	}
+	{
+		// PBS-1 Suppressor (Barrel Item)
+		LegacyAssetId 41719
+		Weight 10
+	}
+	{
+		// AKMN Extended Magazine (Magazine Item)
+		LegacyAssetId 41717
+		Weight 8
+	}
+	{
+		// PBS-4 Suppressor (Barrel Item)
+		LegacyAssetId 41759
+		Weight 5
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41649
+		Weight 5
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41651
+		Weight 5
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41652
+		Weight 5
+	}
+	{
+		// Field Ration (Food Item)
+		LegacyAssetId 41650
+		Weight 5
+	}
+	{
+		// NSPU Nightvision Scope (Sight Item)
+		LegacyAssetId 41727
+		Weight 4
+	}
+	{
+		// 1PN93 "Malysh" Nightvision Scope (Sight Item)
+		LegacyAssetId 41735
+		Weight 4
+	}
+]

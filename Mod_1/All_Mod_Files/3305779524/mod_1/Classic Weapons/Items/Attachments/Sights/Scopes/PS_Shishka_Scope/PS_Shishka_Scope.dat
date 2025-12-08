@@ -1,0 +1,24 @@
+GUID c6b5dc79ef3c473b8459048f2cf15fa7
+Type Sight
+Rarity Epic
+ID 31300
+
+Size_X 1
+Size_Y 1
+Size_Z 0.19
+
+Sway 1.2
+Zoom 2
+Aim_Duration_Multiplier 1.04
+
+Calibers 1
+Caliber_0 25001
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31300
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

@@ -1,0 +1,32 @@
+GUID baa6e8ca2a954d15a35443a9c3770a2d
+Type Small
+ID 51006
+
+Has_Clip_Prefab false
+
+Master_Bundle_Override pbs.masterbundle
+Bundle_Override_Path /Objects/Small/Harddriveholo
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 52318
+Condition_0_Status Active
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 52322
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 52321
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+// Can place.
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 52322
+Interactability_Reward_0_Value True

@@ -1,0 +1,26 @@
+GUID 7b98cb40b75c41bdbb43513ac20823e2
+
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 59746
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 4
+Height 2
+
+Armor 0.45
+Armor_Explosion 0.7
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+Quality_Min 5
+Quality_Max 15

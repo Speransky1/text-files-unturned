@@ -1,0 +1,20 @@
+GUID 058cf8a438034430b8253a74027ea0e5
+
+Type Magazine
+Rarity Legendary
+ID 39157
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Amount 30
+Count_Min 30
+Count_Max 30
+
+Calibers 1
+Caliber_0 39203
+
+Tracer 39114
+
+Use_Auto_Stat_Descriptions false

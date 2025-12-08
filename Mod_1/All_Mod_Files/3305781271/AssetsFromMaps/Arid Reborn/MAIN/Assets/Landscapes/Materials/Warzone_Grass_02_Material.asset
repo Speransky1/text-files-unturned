@@ -1,0 +1,33 @@
+"Metadata"
+{
+	"GUID" "6cfd5dd6c56a41a790a7930871a51b8a"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "aridreborn.masterbundle"
+		"Path" "assets/game/bundles/terrain/warzone/materials/grass_02.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "GRAVEL_STATIC"
+	"Foliage"
+	{
+		"GUID" "40553b3049ea4470a597eda4fe88fe07"
+	}
+	"Use_Auto_Slope" "false"
+	"Auto_Min_Angle_Begin" "0"
+	"Auto_Min_Angle_End" "0"
+	"Auto_Max_Angle_Begin" "0"
+	"Auto_Max_Angle_End" "0"
+	"Use_Auto_Foundation" "false"
+	"Auto_Ray_Radius" "0"
+	"Auto_Ray_Length" "0"
+	"Auto_Ray_Mask" "0"
+}

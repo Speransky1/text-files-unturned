@@ -1,0 +1,29 @@
+GUID ce2f878f48ed45768664930b11788bc7
+
+Type Medium
+ID 62197
+
+Conditions 1
+//исчезает при взятии
+Condition_0_Type Flag_Bool
+Condition_0_ID 17051
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Reset
+
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 19762
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17051
+Interactability_Reward_0_Value true
+
+Master_Bundle_Override t2022.masterbundle
+Bundle_Override_Path /Pack/T2022_OBJ/Quests/RM_Vandal_Location

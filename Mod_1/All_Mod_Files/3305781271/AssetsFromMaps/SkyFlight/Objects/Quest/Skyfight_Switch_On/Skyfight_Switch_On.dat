@@ -1,0 +1,10 @@
+GUID 09890d66942d4ff587500d5531bcfb1a
+
+Type Small
+ID 38905
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 38808
+Condition_0_Value True
+Condition_0_Logic Equal

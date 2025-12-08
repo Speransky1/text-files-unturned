@@ -1,0 +1,24 @@
+GUID 21f4b585dee748f7b7c5bdaf238d7c77
+
+
+Type Glasses
+Rarity Mythical
+Useable Clothing
+ID 52668
+
+Size_X 2
+Size_Y 2
+Size_Z 0.32
+
+Hair
+Beard
+
+
+Vision Military
+Nightvision_Allowed_In_ThirdPerson true
+
+Nightvision_Color_R 200
+Nightvision_Color_G 200
+Nightvision_Color_B 200
+Nightvision_Fog_Intensity 0.2
+

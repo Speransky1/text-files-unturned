@@ -1,0 +1,25 @@
+GUID bb0114a85fd74c5c845eea60e92af935
+
+Type Magazine
+Rarity Rare
+ID 17042
+
+Size_X 2
+Size_Y 2
+Size_Z 0.27
+
+Amount 24
+Count_Min 24
+Count_Max 24
+
+Calibers 1
+Caliber_0 17110
+
+Tracer 17009
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+Should_Fill_After_Detach True
+
+Use_Auto_Icon_Measurements True

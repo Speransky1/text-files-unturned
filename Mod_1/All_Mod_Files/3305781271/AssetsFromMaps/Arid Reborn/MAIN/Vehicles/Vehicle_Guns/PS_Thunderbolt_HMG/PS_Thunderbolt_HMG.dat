@@ -1,0 +1,81 @@
+GUID 3c45302f2b964ff4b48f80437d3dd489
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 10810
+
+Sight 10809
+Magazine 19195
+
+Should_Delete_Empty_Magazines true
+
+Ammo_Min 0
+Ammo_Max 250
+
+Auto
+
+BladeIDs 3
+BladeID_0 0
+BladeID_1 2
+BladeID_2 3
+
+Caliber 19195
+
+Range 600
+Ballistic_Steps 60
+Ballistic_Travel 10
+Ballistic_Drop 0.0001
+
+Damage_Falloff_Range 0.2
+Damage_Falloff_Max_Range 0.66
+Damage_Falloff_Multiplier 0.6
+
+Firerate 5
+Action Trigger
+
+Player_Damage 25
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 155
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 155
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 10
+Resource_Damage 100
+Object_Damage 80
+
+Aim_In_Duration 0.04
+Spread_Aim 0.4
+Spread_Angle_Degrees 3.5
+
+Recoil_Min_X -0.2
+Recoil_Min_Y -0.2
+Recoil_Max_X 0.2
+Recoil_Max_Y 0.2
+
+Recover_X 1
+Recover_Y 0.1
+
+Muzzle 0
+
+Shell 19005
+
+Gunshot_Rolloff_Distance 300
+
+Player_Damage_Bleeding Always
+
+Reload_Time 8
+Turret

@@ -1,0 +1,10 @@
+GUID 89fc9f63883c463c9ead27ac5e2e679b
+Type Medium
+ID 4509
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Medium/Business/Wine_Storage_2
+
+Material_Palette 8ad4e19b76474e099290e95aa567dd46

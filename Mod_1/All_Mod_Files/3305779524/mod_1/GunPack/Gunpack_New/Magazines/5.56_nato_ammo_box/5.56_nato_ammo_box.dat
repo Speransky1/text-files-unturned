@@ -1,0 +1,54 @@
+GUID 98bea1aa7b4541b7a14692c49c8a5c7f
+
+Type Supply
+Rarity Rare
+ID 32265
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Amount 90
+Count_Min 15
+Count_Max 90
+
+Calibers 3
+Caliber_0 19260
+Caliber_1 51001
+Caliber_1 53320
+
+Tracer 48
+
+Blueprints 8
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51041
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 33104
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 33106
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 33105 
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 33114
+Blueprint_4_Build 30
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 33112
+Blueprint_5_Build 30  
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 33145
+Blueprint_6_Build 30
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 33146
+Blueprint_7_Build 30

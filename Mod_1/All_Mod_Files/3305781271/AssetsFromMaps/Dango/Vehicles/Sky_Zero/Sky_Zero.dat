@@ -1,0 +1,59 @@
+GUID cc9d043bf2ef4b0d9bd36c5cca7bb62e
+
+Type Vehicle
+Rarity Epic
+ID 44000
+
+Speed_Min -5
+Speed_Max 27
+
+Steer_Min 60
+Steer_Max 40
+
+Brake 32
+Lift 5.5
+
+Fuel_Min 65000
+Fuel_Max 65000
+Fuel 65000
+
+Health_Min 5000
+Health_Max 5000
+Health 5000
+
+LockMouse
+Engine Plane
+Sleds
+Crawler
+Traction
+
+Pitch_Idle 0.5
+Pitch_Drive 0.05
+
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging
+
+Explosion 20
+Tires_Invulnerable
+Cam_Follow_Distance 7.5
+
+Can_Be_Locked False
+
+Drops_Table_ID 44020
+
+Drops_Min 0
+Drops_Max 0
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 44017
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 85
+Turret_0_Pitch_Max 180
+Turret_0_Ignore_Aim_Camera
+
+Asset_Bundle_Version 2

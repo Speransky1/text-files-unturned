@@ -1,0 +1,20 @@
+GUID 6dddf990720d4faeb9ad0f3978be57cf
+Type Sight
+Rarity Uncommon
+ID 31409
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+Calibers 1
+Caliber_0 25134
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31409
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

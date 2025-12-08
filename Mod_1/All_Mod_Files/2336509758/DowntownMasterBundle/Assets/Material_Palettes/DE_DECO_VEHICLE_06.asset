@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "b1b918e1b5e0412b87bf6cb412b4dccb"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_DECO_VEHICLE_06/DE_DECO_VEHICLE_06_00.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_DECO_VEHICLE_06/DE_DECO_VEHICLE_06_01.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_DECO_VEHICLE_06/DE_DECO_VEHICLE_06_02.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_DECO_VEHICLE_06/DE_DECO_VEHICLE_06_03.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_DECO_VEHICLE_06/DE_DECO_VEHICLE_06_04.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_DECO_VEHICLE_06/DE_DECO_VEHICLE_06_05.mat"
+		}
+	]
+}

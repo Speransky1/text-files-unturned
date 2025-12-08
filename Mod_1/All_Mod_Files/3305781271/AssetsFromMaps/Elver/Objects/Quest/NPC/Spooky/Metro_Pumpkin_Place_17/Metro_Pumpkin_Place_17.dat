@@ -1,0 +1,55 @@
+GUID f13d56e0fc79450587e3d684886136e9
+
+Type Small
+Has_Clip_Prefab false
+ID 57870
+
+Conditions 4
+
+//If planted, appears
+Condition_0_Type Flag_Bool
+Condition_0_ID 57287
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+//If quest begin, appears
+Condition_1_Type Flag_Bool
+Condition_1_ID 57247
+Condition_1_Value True
+Condition_1_Logic Equal
+
+//Has enough?
+Condition_2_Type Compare_Flags
+//placed down
+Condition_2_A_ID 57246
+//picked up
+Condition_2_B_ID 57248
+Condition_2_Logic Less_Than
+
+Condition_3_Type Flag_Bool
+Condition_3_ID 57245
+Condition_3_Value True
+Condition_3_Logic Equal
+Condition_3_Allow_Unset
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+
+//For disappearing
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57287
+Interactability_Reward_0_Value False
+
+//total quest progress
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 57246
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Spooky/Metro_Pumpkin_Place
+
+Holiday_Restriction HALLOWEEN

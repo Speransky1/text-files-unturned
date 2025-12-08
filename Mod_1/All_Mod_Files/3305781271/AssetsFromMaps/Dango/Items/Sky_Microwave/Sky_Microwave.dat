@@ -1,0 +1,27 @@
+GUID a2e0bb127cda40ac912f5b8c8a27461e
+
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 44000
+
+Size_X 2
+Size_Y 1
+Size_Z 0.6
+
+Player_Damage 175
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 5000
+Resource_Damage 1000
+Object_Damage 500
+
+Range 8
+Explosion 34
+
+Explosive
+Fuse_Length 3
+
+Asset_Bundle_Version 2

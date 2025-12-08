@@ -1,0 +1,22 @@
+GUID 0884b3cf37214f4e9e53ece4c980b799
+Type Backpack
+Rarity Rare
+Useable Clothing
+ID 10644
+
+Size_X 3
+Size_Y 3
+Size_Z 0.6
+
+Width 7
+Height 6
+
+Quality_Min 100
+Quality_Max 100
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

@@ -1,0 +1,121 @@
+GUID eb32b2882d824d479d4fece5e701520d
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Secondary
+ID 63057
+
+Size_X 3
+Size_Y 2
+Size_Z 0.4
+
+Grip 19750
+Magazine 63289
+
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_Deagle.wav
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Guns/Handguns/PS_Deagle_Auto
+
+Aim_In_Duration 0.25
+
+Ammo_Min 0
+Ammo_Max 8
+
+Semi
+Auto
+
+Attachment_Calibers 1
+Attachment_Caliber_0 18901
+
+Magazine_Calibers 1
+Magazine_Caliber_0 19290
+
+Firerate 5
+Action Trigger
+
+Player_Damage 45
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.4
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 46
+Zombie_Leg_Multiplier 0.33
+Zombie_Arm_Multiplier 0.33
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 2
+
+Animal_Damage 46
+Animal_Leg_Multiplier 0.33
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 2
+
+Barricade_Damage 15
+Structure_Damage 15
+Vehicle_Damage 8
+Resource_Damage 25
+Object_Damage 40
+
+Durability 0.06
+
+Shake_Min_X 0.005
+Shake_Min_Y -0.03
+Shake_Min_Z -0.02
+Shake_Max_X -0.005
+Shake_Max_Y -0.04
+Shake_Max_Z -0.04
+
+Spread_Aim 0.08
+Spread_Hip 0.15
+
+Recoil_Min_X -2
+Recoil_Min_Y 4
+Recoil_Max_X -2
+Recoil_Max_Y 6
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Range 600
+Ballistic_Steps 75
+Ballistic_Travel 8
+Ballistic_Drop 0.002
+
+Damage_Falloff_Range 0.16
+Damage_Falloff_Max_Range 0.5
+Damage_Falloff_Multiplier 0.6
+Muzzle 30035
+
+Shell 30000
+
+Quality_Min 100
+Quality_Max 100
+Use_Auto_Stat_Descriptions false
+
+Blueprints 3
+
+
+
+Blueprints 1
+//Repair
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+Recoil_Crouch 0.8
+Recoil_Prone 1
+
+Spread_Prone 1
+Spread_Crouch 1
+
+Player_Damage_Bleeding Always

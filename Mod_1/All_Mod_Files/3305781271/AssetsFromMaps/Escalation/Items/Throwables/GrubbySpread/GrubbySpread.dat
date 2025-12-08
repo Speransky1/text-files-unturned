@@ -1,0 +1,30 @@
+GUID d994a86f8a8f4e58ab9bc3e35b2d3f88
+
+Type Cloud
+Rarity Legendary
+Useable Cloud
+ID 52030
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+Use_Auto_Icon_Measurements false
+
+Gravity 1
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 52030
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51906
+Blueprint_0_Output_0_Amount 10
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Unstack ▼
+Action_0_Tooltip Unstack to 10x ¤500 GRB.

@@ -1,0 +1,42 @@
+GUID 79056c4ad8cc4c40b750177e5d1460a5
+Type Magazine
+Rarity Epic
+ID 31188
+
+Size_X 2
+Size_Y 2
+Size_Z 0.255
+
+Amount 6
+Count_Min 3
+Count_Max 6
+
+Calibers 1
+Caliber_0 25071
+
+Tracer 30047
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31188
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31189
+Blueprint_1_Build 30
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31189
+Blueprint_2_Supply_0_Amount 6
+Blueprint_2_Build 30
+
+
+Delete_Empty
+
+Range 5
+Explosion 30014
+Explosive
+Ballistic_Damage_Multiplier 0.5

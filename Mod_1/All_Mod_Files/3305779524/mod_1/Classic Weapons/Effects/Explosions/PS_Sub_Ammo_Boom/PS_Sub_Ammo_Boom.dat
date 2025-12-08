@@ -1,0 +1,8 @@
+GUID 860f365ffe2d481b9c29b9cf45830062
+Type Effect
+ID 30030
+
+Relevant_Distance 500
+
+CameraShake_Radius 1.5
+CameraShake_MagnitudeDegrees 4

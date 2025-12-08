@@ -1,0 +1,15 @@
+GUID feb5226dffd54f378de5cd7d8df99b9e
+
+Type Small
+Has_Clip_Prefab false
+ID 58199
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57232
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Final/Boss/Metro_Fragment_3

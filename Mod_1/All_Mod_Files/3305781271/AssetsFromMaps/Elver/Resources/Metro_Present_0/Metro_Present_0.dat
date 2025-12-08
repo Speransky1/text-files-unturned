@@ -1,0 +1,18 @@
+GUID 7be2adb4c04a4e23a3c31889af9f2d3f
+
+Type Resource
+Has_Clip_Prefab false
+ID 57017
+
+Health 1
+Radius 3
+Scale 0
+
+Explosion 88
+
+Log 57695 
+Forage
+
+Reset 900
+
+Holiday_Restriction CHRISTMAS

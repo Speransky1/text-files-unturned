@@ -1,0 +1,27 @@
+GUID b42dfbb054424555bd0d609519020c88
+Type Beacon
+Rarity Legendary
+Useable Barricade
+Build Beacon
+ID 59726
+
+Size_X 3
+Size_Y 4
+Size_Z 0.7
+
+Health 650
+Range 4
+Radius 2
+Offset 1.425
+
+Explosion 19056
+Unpickupable
+
+
+Wave 100
+Rewards 12
+Reward_ID 59288
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Allow_Placement_Inside_Clip_Volumes True

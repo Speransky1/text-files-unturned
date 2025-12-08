@@ -1,0 +1,15 @@
+﻿Metadata
+{
+	GUID b2d4c5774dea470d883aef7a91c63ab9
+	Type SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	Song
+	{
+		MasterBundle sovcore.masterbundle
+		AssetPath Music/StereoMusic_4.ogg
+	}
+	Link_URL https://youtu.be/BHbKUyFfkW8?si=-H6jlaWV8SBUdA17
+	Is_Loop true
+}

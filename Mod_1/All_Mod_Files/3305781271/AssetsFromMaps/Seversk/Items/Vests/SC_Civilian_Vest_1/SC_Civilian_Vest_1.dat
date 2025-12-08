@@ -1,0 +1,52 @@
+﻿GUID b4c0849a2ec5421dbb7fd3960610add5
+
+Type Vest
+Useable Clothing
+ID 41537
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Width 4
+Height 3
+Armor 0.9
+Armor_Explosion 0.9
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Quality_Min 30
+Quality_Max 70
+Movement_Speed_Multiplier 0.95
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems
+		[
+			"4b74f6b14f4f414fb8fc80329870e807 x 3" // Spool Thread
+			"876a753a1b39450395639346b645390c" // Aramid Fabric
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]

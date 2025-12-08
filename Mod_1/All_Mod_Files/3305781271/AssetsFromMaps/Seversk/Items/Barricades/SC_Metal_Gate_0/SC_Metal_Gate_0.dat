@@ -1,0 +1,57 @@
+﻿GUID 1726c4e0ec4f45d6943274bfcc9137e7
+
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Gate
+ID 41404
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 1400
+Range 4
+Radius 0.5
+Locked
+
+Explosion 41330
+
+Blueprints
+[
+	{
+		CategoryTag "31a59b5fec3f4ec5b2887b1ce4acb029" // Barricades
+		InputItems
+		[
+			{
+				ID "7dac0e02638e493aaef279e2ed9d5c2d" // Metal Sheet
+				Amount 6
+			}
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Metal Parts
+				Amount 4
+			}
+			{
+				ID "ad7a88dea0eb455d9d6b772c93776e31" // Bolts
+				Amount 3
+			}
+			{
+				ID "aa51e7a26f784d448afd98c95e74e73f" // Blowtorch
+				Delete false
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_2.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 0.8
+Has_Clip_Prefab false

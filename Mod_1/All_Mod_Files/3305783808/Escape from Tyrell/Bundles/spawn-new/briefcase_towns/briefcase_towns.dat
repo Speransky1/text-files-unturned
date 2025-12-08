@@ -1,0 +1,52 @@
+GUID 7c241b553fd0428fa1d00ebd1b0a1cc9
+Type Spawn
+ID 10123
+
+Tables
+[
+	{
+		// Блокнот (Barricade Item)
+		Guid d3c4a175163e40178f46068bcbf85a5a
+		Weight 75
+	}
+	{
+		// HDD  (Supply Item)
+		Guid 99420843052240b19db4fed765685214
+		Weight 75
+	}
+	{
+		// Синяя дискета (Supply Item)
+		Guid c00d56e6f7174d1f9a227246cf6709b7
+		Weight 75
+	}
+	{
+		// Красная дискета (Supply Item)
+		Guid 9b9f9988cf7d448bbe44afcbb2fa619e
+		Weight 75
+	}
+	{
+		// Зеленая дискета (Supply Item)
+		Guid 0f4793fdbb9742bb8825811a36a0eac6
+		Weight 75
+	}
+	{
+		// Зашифрованный диск (Supply Item)
+		Guid 4c918a5f31654c4cb65414e4aef5b6f4
+		Weight 15
+	}
+	{
+		// Черная дискета (Supply Item)
+		Guid 5fa9f2efe33d47018804ebdf82db378b
+		Weight 10
+	}
+	{
+		// USB-накопитель (Supply Item)
+		Guid fc0121594a3048eb9e0d9566e5de6487
+		Weight 2
+	}
+	{
+		// Защищенная папка (Supply Item)
+		Guid f92c17b4f04942a395564f7d88fa53f1
+		Weight 1
+	}
+]

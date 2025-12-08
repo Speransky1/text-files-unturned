@@ -1,0 +1,38 @@
+GUID f319ec45daa2447dbaf19f7ad2399711
+
+Type Magazine
+Rarity Epic
+ID 63926
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Magnum_Ammo/PS_SMG_M_Mag_Extendo
+
+Size_X 1
+Size_Y 2
+Size_Z 0.25
+
+Amount 40
+Count_Min 10
+Count_Max 40
+
+Calibers 1
+Caliber_0 19926
+
+Tracer 19002
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 63999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63926
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63288
+Blueprint_2_Build 30

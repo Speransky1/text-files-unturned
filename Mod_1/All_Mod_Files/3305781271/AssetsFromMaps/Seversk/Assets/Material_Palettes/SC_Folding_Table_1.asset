@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID 24a769c99212430f99c034e008632c48
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Folding_Table_1/Folding_Table_3.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Folding_Table_1/Folding_Table_4.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Folding_Table_1/Folding_Table_5.mat
+		}
+	]
+}

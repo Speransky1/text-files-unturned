@@ -1,0 +1,55 @@
+﻿GUID c26b40f21ccc4ec798b63d9ad1ccab83
+Type Sight
+Rarity Rare
+ID 41735
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Spread 0.8
+Holographic
+Zoom 4
+ThirdPerson_Zoom 1.75
+Calibers 1
+Caliber_0 43013
+Use_Auto_Icon_Measurements true
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "615a4030662e4ea7abad12b5a4e9a675" // Screwdriver
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 4" // Metal Parts
+			"fc66e44ca92f49d0b8d4fca4bd512190 x 4" // Electronic Fragments
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Offset_Scope_Overlay_By_One_Texel false
+Vision Military
+Nightvision_Color_R 20
+Nightvision_Color_G 130
+Nightvision_Color_B 50
+Nightvision_Fog_Intensity 0.7
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

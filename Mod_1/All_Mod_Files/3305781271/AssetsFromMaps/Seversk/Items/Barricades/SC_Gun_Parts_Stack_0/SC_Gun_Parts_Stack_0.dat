@@ -1,0 +1,52 @@
+﻿GUID ae4581022ccf470486297252ec6f3805
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 41324
+Health 10
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+Bypass_Pickup_Ownership true
+Allow_Placement_On_Vehicle false
+Range 3
+Radius 0.1
+Offset 0.18
+Salvage_Duration_Multiplier 0.1
+Vulnerable
+Explosion 41342
+Unrepairable
+Can_Be_Damaged true
+Has_Clip_Prefab false
+PlacementAudioClip Sounds/Placement_0.ogg
+InventoryAudio Sounds/Inventory/ToolboxRustle/Toolbox_Rustle.asset
+Use_Auto_Stat_Descriptions false
+Use_Auto_Icon_Measurements True
+SalvageItem ae4581022ccf470486297252ec6f3805
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 4
+Item_Dropped_On_Destroy 1cbc8d74d08f499ba73b0280c8e042df
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "c4f3449e46f944ae8f8ca9ae54623a1b x 5" // Gun Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Unstack
+Action_0_Tooltip Spread out items for specific use.
+Add_Default_Actions false

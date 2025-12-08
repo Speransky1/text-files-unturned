@@ -1,0 +1,28 @@
+GUID 5e47ebf60ead404ab707cc1dce4ad152
+Type Magazine
+Rarity Rare
+ID 19851
+
+Size_X 1
+Size_Y 1
+Size_Z 0.255
+
+Amount 1
+
+Calibers 1
+Caliber_0 34801
+
+Asset_Bundle_Version 5
+
+Ammo_Per_Shot 0
+
+Range 5
+Player_Damage 20
+Zombie_Damage 40
+Animal_Damage 40
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 20
+Resource_Damage 50
+Object_Damage 20
+Explosion 0

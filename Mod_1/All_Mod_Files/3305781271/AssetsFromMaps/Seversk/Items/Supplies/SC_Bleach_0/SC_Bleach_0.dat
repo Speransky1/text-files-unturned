@@ -1,0 +1,37 @@
+﻿GUID 60f8b71311d3482eb7da3c96610bea74
+
+Type Supply
+Rarity Uncommon
+ID 41351
+Size_X 1
+Size_Y 2
+Size_Z 0.6
+InventoryAudio Sounds/Inventory/WaterShaking/Water_Shaking.asset
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false
+Blueprints
+[
+	{
+		CategoryTag "d089feb7e43f40c5a7dfcefc36998cfb" // Supplies
+		InputItems
+		[
+			"1986846586774600b7b8779394e49fb6 x 1" // Glue
+			"3dca37c8a4834a989ef9e5a2f8060ecd x 1" // Purification Tablets
+			"b206627cf2f94c2da3d0403160f320b5 x 1" // Empty Bottle
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "b206627cf2f94c2da3d0403160f320b5 x 1" // Empty Bottle
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]

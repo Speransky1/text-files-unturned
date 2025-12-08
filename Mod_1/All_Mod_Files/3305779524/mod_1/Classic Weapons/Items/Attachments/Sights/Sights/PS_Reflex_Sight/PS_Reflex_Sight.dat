@@ -1,0 +1,26 @@
+GUID c3d64270333047ed8813e0b39cc214ca
+Type Sight
+Rarity Rare
+ID 31363
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Zoom 1.25
+Zoom_Using_Eyes True
+Holographic
+
+Calibers 1
+Caliber_0 25200
+
+Use_Auto_Icon_Measurements False
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31363
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

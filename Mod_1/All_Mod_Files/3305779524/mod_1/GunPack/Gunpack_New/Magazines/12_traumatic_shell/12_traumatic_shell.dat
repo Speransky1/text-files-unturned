@@ -1,0 +1,31 @@
+GUID 66ded56c54184df6a3a3f2e0f9a230f1
+
+Type Magazine
+Rarity Rare
+ID 33188
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 8
+Count_Min 0
+Count_Max 8
+
+Calibers 1
+Caliber_0 63566
+
+
+Pellets 1
+Spread 4.5
+Ballistic_Damage_Multiplier 0.8
+
+Delete_Empty
+
+Tracer 19073
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 33188
+Blueprint_0_Build 30

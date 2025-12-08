@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Постой, Выживший. Мне нужна твоя помощь. 
+Response_0 Что такое?
+Response_1 <color=uncommon>Дефицит. Завершить</color>
+Response_2 *Уйти*

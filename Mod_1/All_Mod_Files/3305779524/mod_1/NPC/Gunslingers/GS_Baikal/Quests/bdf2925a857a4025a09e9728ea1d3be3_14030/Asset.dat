@@ -1,0 +1,17 @@
+﻿// Made in NPC Maker by BowieD
+GUID bdf2925a857a4025a09e9728ea1d3be3
+Type Quest
+ID 14030
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17002
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_0_Reset 
+
+Rewards 1
+Reward_0_Type Item
+Reward_0_ID 58758
+Reward_0_Amount 0
+Reward_0_Auto_Equip False
+

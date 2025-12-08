@@ -1,0 +1,12 @@
+GUID 1835d495237f46c2b2ea7f5c952535c3
+
+Type Medium
+ID 38889
+
+Master_Bundle_Override skyfight.masterbundle
+Bundle_Override_Path Objects/Medium/Skyfight_Door_0
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint LOBBY_DOWN

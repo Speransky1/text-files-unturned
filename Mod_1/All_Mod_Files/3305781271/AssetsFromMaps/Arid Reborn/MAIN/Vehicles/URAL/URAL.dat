@@ -1,0 +1,145 @@
+GUID e218b37d13464386a95ee4120d4a8648
+
+Type Vehicle
+
+Has_Clip_Prefab False
+
+Rarity Rare
+ID 19018
+
+//////////////////////////////////////////////////////////Balance Stats
+
+Passenger_Explosion_Armor 0.8
+
+Melee_Damage_Multiplier 0.6
+
+Speed_Min -15
+Speed_Max 20
+
+Steer_Min 20
+Steer_Max 20
+
+Brake 60
+
+Fuel_Min 2500
+Fuel_Max 3000
+Fuel 6000
+
+Health_Min 2600
+Health_Max 3000
+Health 3500
+
+Trunk_Storage_X 10
+Trunk_Storage_Y 14
+
+Fuel_Burn_Rate 4
+
+///////////////////////////////////////////////////////////////////////
+
+Explosion 19021
+
+
+Default_Battery a9c5e916c29646fdba9d08f6a7ce02b6
+Battery_Burn_Rate 4
+Battery_Charge_Rate 2
+BatteryMode_Headlights Burn
+BatteryMode_Sirens Burn
+BatteryMode_Driving Charging
+BatteryMode_Empty None
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered true
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_3
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_3
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_4
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_4
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_5
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_5
+		ModelUseColliderPose true
+	}
+]
+
+Physics_Profile 25307aedab4144dc8d01c20abe7236cb
+
+
+Tires_Invulnerable
+Bumper_Invulnerable
+
+Valid_Speed_Horizontal 200
+
+Cam_Follow_Distance 10
+
+DefaultPaintColors
+[
+	"#827868" // Desert
+	"#5b5b3f" // Forest
+]
+
+
+PaintableSections
+[
+    {
+        Path Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Model_2
+        MaterialIndex 0
+    }
+]
+
+
+
+ExplosionBurnMaterialSections
+[
+    {
+        Path Model_0
+		AllMaterials true
+    }
+    {
+        Path Model_1
+		AllMaterials true
+    }
+    {
+        Path Model_2
+		AllMaterials true
+    }
+]

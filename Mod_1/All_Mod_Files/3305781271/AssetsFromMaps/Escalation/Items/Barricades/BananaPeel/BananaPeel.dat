@@ -1,0 +1,41 @@
+GUID fc66429c22e44670bea8444d0f2e21ac
+Type Trap
+Rarity Uncommon
+Useable Barricade
+Build Spike
+ID 51405
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+SalvageItem fc66429c22e44670bea8444d0f2e21ac
+
+Health 10
+Range 4
+Radius 0.1
+Offset 0.1
+
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 1
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Range2 1
+Explosion2 37
+
+Explosive 
+Explosion 37
+Vulnerable
+Bypass_Claim
+Bypass_Pickup_Ownership True
+Salvage_Duration_Multiplier 0.25
+PlacementAudioClip core.masterbundle:Sounds/EatSquishy.mp3
+
+Allow_Placement_Inside_Clip_Volumes True
+
+Use_Auto_Icon_Measurements False

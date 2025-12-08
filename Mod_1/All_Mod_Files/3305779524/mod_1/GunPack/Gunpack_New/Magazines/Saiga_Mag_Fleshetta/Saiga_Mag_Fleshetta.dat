@@ -1,0 +1,31 @@
+GUID c38fc4d63c08416b8afed65653ad67fa
+
+Type Magazine
+Rarity Epic
+ID 33134
+
+Size_X 1
+Size_Y 2
+Size_Z 0.35
+
+Amount 10
+Count_Min 1
+Count_Max 10
+
+Speed 0.85
+Pellets 8
+Spread 10
+Ballistic_Damage_Multiplier 1
+
+Calibers 1
+Caliber_0 63545
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 33134
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 33127
+Blueprint_1_Build 30

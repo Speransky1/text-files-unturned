@@ -1,0 +1,22 @@
+GUID 1a0265b90b914966beb6c2fab6052ad8
+
+Type Pants
+Rarity Uncommon
+Useable Clothing
+ID 54017
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 2
+
+Armor 0.95
+
+Blueprints 1
+Blueprint_0_Type Apparel 
+Blueprint_0_Supply_0_ID 54017
+Blueprint_0_Product 59002
+Blueprint_0_Products 3
+Blueprint_0_Build 32

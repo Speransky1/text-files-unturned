@@ -1,0 +1,24 @@
+GUID 2b16da02ead24d0eb0cb28687408fcac
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Door
+ID 59223
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 700
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

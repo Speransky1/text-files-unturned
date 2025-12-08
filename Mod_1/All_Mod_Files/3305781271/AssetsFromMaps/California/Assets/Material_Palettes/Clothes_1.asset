@@ -1,0 +1,36 @@
+"Metadata"
+{
+	"GUID" "f7ee0e3dc8004ef0a3942f13173bb2b7"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/clothes_1/clothes_0.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/clothes_1/clothes_1.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/clothes_1/clothes_2.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/clothes_1/clothes_3.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/clothes_1/clothes_4.mat"
+		}
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/clothes_1/clothes_5.mat"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID 540b116905a04399a81f2afcc581a967
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Cinderblock_0/Cinderblock_0.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Cinderblock_0/Cinderblock_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Cinderblock_0/Cinderblock_2.mat
+		}
+	]
+}

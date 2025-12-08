@@ -1,0 +1,26 @@
+GUID 7c15af24dcba4830bea583b578d07717
+
+Type Vest
+Rarity Common
+Useable Clothing
+ID 56247
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 4
+Height 2
+
+Armor 0.9
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 32
+
+Quality_Min 55
+Quality_Max 65
+

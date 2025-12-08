@@ -1,0 +1,256 @@
+GUID fe23799835e943aca307e4d27830ea63
+Type Vehicle
+Has_Clip_Prefab False
+Rarity Rare
+ID 19027
+
+IgnitionAudioClip Vehicles/Humvee/Ignition.ogg
+
+//////////////////////////////////////////////////////////Balance Stats
+
+Passenger_Explosion_Armor 0.7
+
+Melee_Damage_Multiplier 0.6
+
+Speed_Min -15
+Speed_Max 20
+
+Steer_Min 20
+Steer_Max 20
+
+Brake 60
+
+Fuel_Min 2000
+Fuel_Max 2500
+Fuel 5000
+
+Health_Min 2600
+Health_Max 3000
+Health 3500
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 12
+
+Fuel_Burn_Rate 4
+
+///////////////////////////////////////////////////////////////////////
+
+Cam_Driver_Offset -0.05
+
+Exit 3
+
+Explosion 19021
+
+HornAudioClip Vehicles/URAL/Horn.wav
+
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered true
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_3
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_3
+		ModelUseColliderPose true
+	}
+]
+
+Physics_Profile 25307aedab4144dc8d01c20abe7236cb
+
+
+
+Tires_Invulnerable
+Bumper_Invulnerable
+
+
+Default_Battery a9c5e916c29646fdba9d08f6a7ce02b6
+Battery_Burn_Rate 4
+Battery_Charge_Rate 2
+BatteryMode_Headlights Burn
+BatteryMode_Sirens Burn
+BatteryMode_Driving Charging
+BatteryMode_Empty None
+
+Valid_Speed_Horizontal 200
+
+Turrets 1
+Turret_0_Seat_Index 4
+Turret_0_Item_ID 10708
+Turret_0_Yaw_Min -360
+Turret_0_Yaw_Max 360
+Turret_0_Pitch_Min 60
+Turret_0_Pitch_Max 105
+
+DefaultPaintColors
+[
+    "#827868" // Desert
+]
+
+
+PaintableSections
+[
+    {
+        Path Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_0/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_0/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_1/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_1/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_2/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_2/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_3/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Wheels/Wheel_3/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Model_1
+        MaterialIndex 0
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Pitch/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Model_2
+        MaterialIndex 0
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Model_3
+        MaterialIndex 0
+    }
+]
+
+
+
+ExplosionBurnMaterialSections
+[
+    {
+        Path Model_0
+		AllMaterials true
+    }
+    {
+        Path Model_1
+		AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_0/Model_0
+		AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_0/Model_1
+		AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_1/Model_0
+		AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_1/Model_1
+		AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_2/Model_0
+		AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_2/Model_1
+		AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_3/Model_0
+		AllMaterials true
+    }
+    {
+        Path Wheels/Wheel_3/Model_1
+		AllMaterials true
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Model_0
+		AllMaterials true
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Model_1
+		AllMaterials true
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Pitch/Model_0
+		AllMaterials true
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Model_2
+        AllMaterials true
+    }
+    {
+        Path Turrets/Turret_4/Yaw/Model_3
+        AllMaterials true
+    }
+    {
+        Path Sub/0/Mdoel_0
+        AllMaterials true
+    }
+    {
+        Path Sub/1/Mdoel_0
+        AllMaterials true
+    }
+    {
+        Path Sub/2/Mdoel_0
+        AllMaterials true
+    }
+    {
+        Path Sub/3/Mdoel_0
+        AllMaterials true
+    }
+]
+

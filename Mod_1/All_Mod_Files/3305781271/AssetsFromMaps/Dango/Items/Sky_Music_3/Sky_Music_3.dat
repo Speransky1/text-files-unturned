@@ -1,0 +1,76 @@
+GUID 709df2a20dd0460680ca8574b31d031d
+
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Primary
+ID 44061
+
+Size_X 4
+Size_Y 2
+Size_Z 0.3
+
+Magazine 44016
+Sight 44062
+
+Ammo_Min 30
+Ammo_Max 30
+
+Auto
+
+Caliber 44002
+
+Range 420
+Firerate 8
+Action Trigger
+
+Player_Damage 40
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 574
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1
+
+Animal_Damage 321
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1
+
+Barricade_Damage 69
+Structure_Damage 69
+Vehicle_Damage 109
+Resource_Damage 897
+Object_Damage 77
+
+Spread_Aim 0.005
+Spread_Hip 0.1
+
+Recoil_Min_X 1.5
+Recoil_Min_Y 5
+Recoil_Max_X -1.5
+Recoil_Max_Y 7
+
+Recover_X 0.6
+Recover_Y 0.6
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.02
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.02
+
+Ballistic_Drop 0.001
+
+Muzzle 44013
+
+Invulnerable
+
+Can_Use_Underwater True
+
+Asset_Bundle_Version 2

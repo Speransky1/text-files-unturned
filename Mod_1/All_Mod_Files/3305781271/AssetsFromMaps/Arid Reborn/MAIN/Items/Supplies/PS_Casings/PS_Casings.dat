@@ -1,0 +1,41 @@
+GUID bb78c27922384d4c93dd55a40ac39c23
+Type Supply
+Rarity Rare
+ID 10036
+
+Size_X 1
+Size_Y 1
+Size_Z 0.37
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10036
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 10037
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 19680
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 19009
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 19007
+Blueprint_1_Supply_2_Amount 4
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 10036
+Blueprint_1_Output_0_Amount 8
+Blueprint_1_Tool 19374
+Blueprint_1_Tool_Critical
+Blueprint_1_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Stack
+Action_0_Tooltip Compactify.

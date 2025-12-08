@@ -1,0 +1,17 @@
+GUID e58c38fc95a94af7908f4c163c002d0f
+Type Spawn
+ID 10144
+
+Tables
+[
+	{
+		// Уголь (Supply Item)
+		Guid ebc76c4a13b6467aab33d0427d00bbab
+		Weight 4
+	}
+	{
+		// Уголек (Supply Item)
+		Guid fde237713488468c8107f7d14b70172e
+		Weight 3
+	}
+]

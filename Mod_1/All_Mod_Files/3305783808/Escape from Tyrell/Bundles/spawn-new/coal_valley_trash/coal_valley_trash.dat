@@ -1,0 +1,81 @@
+GUID 499bb7793f174c71aab826b755648a1f
+Type Spawn
+ID 10129
+
+Roots
+[
+	{
+		// villages_stuff (Spawn)
+		Guid f37d0441bef54b88b52f77c5cc0d7ddf
+		Weight 70
+	}
+]
+
+Tables
+[
+	{
+		// Пустая бутылка (Supply Item)
+		Guid 479df1b4d0a44e81b510c27988d12ad8
+		Weight 80
+	}
+	{
+		// Пустая стеклянная бутылка (Barricade Item)
+		Guid db9175c0c92c451792c39a85948cc3cb
+		Weight 80
+	}
+	{
+		// Куски ткани (Supply Item)
+		Guid e38f7701d4a94950b4f83baad8773e1e
+		Weight 75
+	}
+	{
+		// Старая газета (Supply Item)
+		Guid 82d0e966bb884d27bc77d1175678a05c
+		Weight 70
+	}
+	{
+		// Доска (Supply Item)
+		Guid 0d05668e2e3b4d9d9c01cfff814f11e8
+		Weight 70
+	}
+	{
+		// villages_stuff (Spawn)
+		Guid f37d0441bef54b88b52f77c5cc0d7ddf
+		Weight 70
+	}
+	{
+		// Коробок спичек (Supply Item)
+		Guid 3871dc93d12f41bba3328f2b3d39397f
+		Weight 65
+	}
+	{
+		// Стеклянная банка (Storage Item)
+		Guid dbc62e80a57a4030ae6571d5e9060e2a
+		Weight 60
+	}
+	{
+		// Зажигалка (Supply Item)
+		Guid cecf935f4eeb4165aaa80c8c36ad641c
+		Weight 60
+	}
+	{
+		// Веревка (Supply Item)
+		Guid c38d46f8c88e467097837aa3e7bb8a36
+		Weight 55
+	}
+	{
+		// Рулон ткани (Supply Item)
+		Guid 7a319989826444f382abd4a45cfacce8
+		Weight 55
+	}
+	{
+		// Кирпичи (Supply Item)
+		Guid 3f0224cc338548f393062643370fc1c2
+		Weight 35
+	}
+	{
+		// Брезент (Supply Item)
+		Guid 15add61a146844429574f3d300bb4ced
+		Weight 20
+	}
+]

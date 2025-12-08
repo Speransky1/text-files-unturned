@@ -1,0 +1,39 @@
+GUID fda66035fa6d49739fe61329776f43a2
+Type Supply
+Rarity Legendary
+ID 10013
+
+Size_X 3
+Size_Y 2
+Size_Z 0.45
+
+Blueprints 1
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 10013
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 19964
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 19659
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 19989
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Text Assemble a gun
+Action_0_Tooltip Assemble a gun.
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Bool
+Blueprint_0_Condition_0_ID 19426
+Blueprint_0_Condition_0_Value False
+Blueprint_0_Condition_0_Logic Equal

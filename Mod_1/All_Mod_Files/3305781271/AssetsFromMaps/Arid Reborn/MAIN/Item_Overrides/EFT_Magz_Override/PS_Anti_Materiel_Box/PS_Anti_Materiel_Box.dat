@@ -1,0 +1,46 @@
+GUID 05e0fb8182f548b19db57b123f7eabbb
+
+Type Magazine
+Rarity Legendary
+ID 63835
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Anti_Material/PS_Anti_Materiel_Box
+
+Speed 1.2
+
+Size_X 3
+Size_Y 2
+Size_Z 0.25
+
+Amount 30
+Count_Min 1
+Count_Max 30
+
+Calibers 2
+Caliber_0 18999
+Caliber_1 51020
+
+
+Tracer 19040
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63835
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63834 
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 52057
+Blueprint_3_Build 30

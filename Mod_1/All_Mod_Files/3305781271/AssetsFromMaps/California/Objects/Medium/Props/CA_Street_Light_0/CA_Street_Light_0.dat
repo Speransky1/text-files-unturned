@@ -1,0 +1,21 @@
+GUID a472f63bc2e34cfd889894df5e655e25
+Type Medium
+ID 4498
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 275
+Rubble_Effect 72
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Medium/Traffic/Street_Light_1
+
+Material_Palette f5265766ef1c480fa09388be9cce9949

@@ -1,0 +1,20 @@
+GUID c71f992339d44674bd3848f1e81f89bf
+
+Type Sight
+Rarity Epic
+Vision Civilian
+
+ID 51082
+Aim_Duration_Multiplier 1.5
+Spread 0.7
+Zoom 8
+Nightvision_Color_R 100
+Nightvision_Color_G 100
+Nightvision_Color_B 100
+Nightvision_Fog_Intensity 0
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+// Exclude_From_Master_Bunlde
+// Asset_Bundle_Version 3

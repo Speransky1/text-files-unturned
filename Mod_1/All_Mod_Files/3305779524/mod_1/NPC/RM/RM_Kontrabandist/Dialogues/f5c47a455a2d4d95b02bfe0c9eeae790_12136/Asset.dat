@@ -1,0 +1,2114 @@
+﻿// Made in NPC Maker by BowieD
+GUID f5c47a455a2d4d95b02bfe0c9eeae790
+Type Dialogue
+ID 12136
+Messages 1
+Message_0_Pages 1
+Responses 151
+Response_0_Dialogue 12136
+Response_0_Quest 14900
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 14900
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Ignore_NPC False
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 14900
+
+Response_1_Dialogue 12136
+Response_1_Quest 14900
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 14900
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC False
+Response_1_Condition_0_Reset 
+
+Response_2_Dialogue 12136
+Response_2_Quest 14900
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 14900
+Response_2_Condition_0_Status Completed
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC False
+
+Response_2_Condition_1_Type Flag_Bool
+Response_2_Condition_1_ID 18000
+Response_2_Condition_1_Value False
+Response_2_Condition_1_Logic Equal
+
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 14900
+
+Response_3_Dialogue 12136
+Response_3_Quest 14901
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 14901
+Response_3_Condition_0_Status None
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC False
+
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 14901
+
+Response_4_Dialogue 12136
+Response_4_Quest 14901
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 14901
+Response_4_Condition_0_Status Ready
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Ignore_NPC False
+Response_4_Condition_0_Reset 
+
+Response_5_Dialogue 12136
+Response_5_Quest 14901
+Response_5_Conditions 2
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 14901
+Response_5_Condition_0_Status Completed
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Ignore_NPC False
+
+Response_5_Condition_1_Type Flag_Bool
+Response_5_Condition_1_ID 18001
+Response_5_Condition_1_Value False
+Response_5_Condition_1_Logic Equal
+
+Response_5_Rewards 1
+Response_5_Reward_0_Type Quest
+Response_5_Reward_0_ID 14901
+
+Response_6_Dialogue 12136
+Response_6_Quest 14902
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_ID 14902
+Response_6_Condition_0_Status None
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_Ignore_NPC False
+
+Response_6_Rewards 1
+Response_6_Reward_0_Type Quest
+Response_6_Reward_0_ID 14902
+
+Response_7_Dialogue 12136
+Response_7_Quest 14902
+Response_7_Conditions 1
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 14902
+Response_7_Condition_0_Status Ready
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_Ignore_NPC False
+Response_7_Condition_0_Reset 
+
+Response_8_Dialogue 12136
+Response_8_Quest 14902
+Response_8_Conditions 2
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_ID 14902
+Response_8_Condition_0_Status Completed
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_Ignore_NPC False
+
+Response_8_Condition_1_Type Flag_Bool
+Response_8_Condition_1_ID 18002
+Response_8_Condition_1_Value False
+Response_8_Condition_1_Logic Equal
+
+Response_8_Rewards 1
+Response_8_Reward_0_Type Quest
+Response_8_Reward_0_ID 14902
+
+Response_9_Dialogue 12136
+Response_9_Quest 14903
+Response_9_Conditions 1
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_ID 14903
+Response_9_Condition_0_Status None
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_Ignore_NPC False
+
+Response_9_Rewards 1
+Response_9_Reward_0_Type Quest
+Response_9_Reward_0_ID 14903
+
+Response_10_Dialogue 12136
+Response_10_Quest 14903
+Response_10_Conditions 1
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_ID 14903
+Response_10_Condition_0_Status Ready
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_Ignore_NPC False
+Response_10_Condition_0_Reset 
+
+Response_11_Dialogue 12136
+Response_11_Quest 14903
+Response_11_Conditions 2
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_ID 14903
+Response_11_Condition_0_Status Completed
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_Ignore_NPC False
+
+Response_11_Condition_1_Type Flag_Bool
+Response_11_Condition_1_ID 18003
+Response_11_Condition_1_Value False
+Response_11_Condition_1_Logic Equal
+
+Response_11_Rewards 1
+Response_11_Reward_0_Type Quest
+Response_11_Reward_0_ID 14903
+
+Response_12_Dialogue 12136
+Response_12_Quest 14904
+Response_12_Conditions 1
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_ID 14904
+Response_12_Condition_0_Status None
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_0_Ignore_NPC False
+
+Response_12_Rewards 1
+Response_12_Reward_0_Type Quest
+Response_12_Reward_0_ID 14904
+
+Response_13_Dialogue 12136
+Response_13_Quest 14904
+Response_13_Conditions 1
+Response_13_Condition_0_Type Quest
+Response_13_Condition_0_ID 14904
+Response_13_Condition_0_Status Ready
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_0_Ignore_NPC False
+Response_13_Condition_0_Reset 
+
+Response_14_Dialogue 12136
+Response_14_Quest 14904
+Response_14_Conditions 2
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_ID 14904
+Response_14_Condition_0_Status Completed
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_Ignore_NPC False
+
+Response_14_Condition_1_Type Flag_Bool
+Response_14_Condition_1_ID 18004
+Response_14_Condition_1_Value False
+Response_14_Condition_1_Logic Equal
+
+Response_14_Rewards 1
+Response_14_Reward_0_Type Quest
+Response_14_Reward_0_ID 14904
+
+Response_15_Dialogue 12136
+Response_15_Quest 14905
+Response_15_Conditions 1
+Response_15_Condition_0_Type Quest
+Response_15_Condition_0_ID 14905
+Response_15_Condition_0_Status None
+Response_15_Condition_0_Logic Equal
+Response_15_Condition_0_Ignore_NPC False
+
+Response_15_Rewards 1
+Response_15_Reward_0_Type Quest
+Response_15_Reward_0_ID 14905
+
+Response_16_Dialogue 12136
+Response_16_Quest 14905
+Response_16_Conditions 1
+Response_16_Condition_0_Type Quest
+Response_16_Condition_0_ID 14905
+Response_16_Condition_0_Status Ready
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_0_Ignore_NPC False
+Response_16_Condition_0_Reset 
+
+Response_17_Dialogue 12136
+Response_17_Quest 14905
+Response_17_Conditions 2
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_ID 14905
+Response_17_Condition_0_Status Completed
+Response_17_Condition_0_Logic Equal
+Response_17_Condition_0_Ignore_NPC False
+
+Response_17_Condition_1_Type Flag_Bool
+Response_17_Condition_1_ID 18005
+Response_17_Condition_1_Value False
+Response_17_Condition_1_Logic Equal
+
+Response_17_Rewards 1
+Response_17_Reward_0_Type Quest
+Response_17_Reward_0_ID 14905
+
+Response_18_Dialogue 12136
+Response_18_Quest 14906
+Response_18_Conditions 1
+Response_18_Condition_0_Type Quest
+Response_18_Condition_0_ID 14906
+Response_18_Condition_0_Status None
+Response_18_Condition_0_Logic Equal
+Response_18_Condition_0_Ignore_NPC False
+
+Response_18_Rewards 1
+Response_18_Reward_0_Type Quest
+Response_18_Reward_0_ID 14906
+
+Response_19_Dialogue 12136
+Response_19_Quest 14906
+Response_19_Conditions 1
+Response_19_Condition_0_Type Quest
+Response_19_Condition_0_ID 14906
+Response_19_Condition_0_Status Ready
+Response_19_Condition_0_Logic Equal
+Response_19_Condition_0_Ignore_NPC False
+Response_19_Condition_0_Reset 
+
+Response_20_Dialogue 12136
+Response_20_Quest 14906
+Response_20_Conditions 2
+Response_20_Condition_0_Type Quest
+Response_20_Condition_0_ID 14906
+Response_20_Condition_0_Status Completed
+Response_20_Condition_0_Logic Equal
+Response_20_Condition_0_Ignore_NPC False
+
+Response_20_Condition_1_Type Flag_Bool
+Response_20_Condition_1_ID 18006
+Response_20_Condition_1_Value False
+Response_20_Condition_1_Logic Equal
+
+Response_20_Rewards 1
+Response_20_Reward_0_Type Quest
+Response_20_Reward_0_ID 14906
+
+Response_21_Dialogue 12136
+Response_21_Quest 14800
+Response_21_Conditions 1
+Response_21_Condition_0_Type Quest
+Response_21_Condition_0_ID 14800
+Response_21_Condition_0_Status None
+Response_21_Condition_0_Logic Equal
+Response_21_Condition_0_Ignore_NPC False
+
+Response_21_Rewards 1
+Response_21_Reward_0_Type Quest
+Response_21_Reward_0_ID 14800
+
+Response_22_Dialogue 12136
+Response_22_Quest 14800
+Response_22_Conditions 1
+Response_22_Condition_0_Type Quest
+Response_22_Condition_0_ID 14800
+Response_22_Condition_0_Status Ready
+Response_22_Condition_0_Logic Equal
+Response_22_Condition_0_Ignore_NPC False
+Response_22_Condition_0_Reset 
+
+Response_23_Dialogue 12136
+Response_23_Quest 14800
+Response_23_Conditions 1
+Response_23_Condition_0_Type Quest
+Response_23_Condition_0_ID 14800
+Response_23_Condition_0_Status Completed
+Response_23_Condition_0_Logic Equal
+Response_23_Condition_0_Ignore_NPC False
+
+Response_23_Rewards 1
+Response_23_Reward_0_Type Quest
+Response_23_Reward_0_ID 14800
+
+Response_24_Dialogue 12136
+Response_24_Quest 14801
+Response_24_Conditions 1
+Response_24_Condition_0_Type Quest
+Response_24_Condition_0_ID 14801
+Response_24_Condition_0_Status None
+Response_24_Condition_0_Logic Equal
+Response_24_Condition_0_Ignore_NPC False
+
+Response_24_Rewards 1
+Response_24_Reward_0_Type Quest
+Response_24_Reward_0_ID 14801
+
+Response_25_Dialogue 12136
+Response_25_Quest 14801
+Response_25_Conditions 1
+Response_25_Condition_0_Type Quest
+Response_25_Condition_0_ID 14801
+Response_25_Condition_0_Status Ready
+Response_25_Condition_0_Logic Equal
+Response_25_Condition_0_Ignore_NPC False
+Response_25_Condition_0_Reset 
+
+Response_26_Dialogue 12136
+Response_26_Quest 14801
+Response_26_Conditions 1
+Response_26_Condition_0_Type Quest
+Response_26_Condition_0_ID 14801
+Response_26_Condition_0_Status Completed
+Response_26_Condition_0_Logic Equal
+Response_26_Condition_0_Ignore_NPC False
+
+Response_26_Rewards 1
+Response_26_Reward_0_Type Quest
+Response_26_Reward_0_ID 14801
+
+Response_27_Dialogue 12136
+Response_27_Quest 14802
+Response_27_Conditions 1
+Response_27_Condition_0_Type Quest
+Response_27_Condition_0_ID 14802
+Response_27_Condition_0_Status None
+Response_27_Condition_0_Logic Equal
+Response_27_Condition_0_Ignore_NPC False
+
+Response_27_Rewards 1
+Response_27_Reward_0_Type Quest
+Response_27_Reward_0_ID 14802
+
+Response_28_Dialogue 12136
+Response_28_Quest 14802
+Response_28_Conditions 1
+Response_28_Condition_0_Type Quest
+Response_28_Condition_0_ID 14802
+Response_28_Condition_0_Status Ready
+Response_28_Condition_0_Logic Equal
+Response_28_Condition_0_Ignore_NPC False
+Response_28_Condition_0_Reset 
+
+Response_29_Dialogue 12136
+Response_29_Quest 14802
+Response_29_Conditions 1
+Response_29_Condition_0_Type Quest
+Response_29_Condition_0_ID 14802
+Response_29_Condition_0_Status Completed
+Response_29_Condition_0_Logic Equal
+Response_29_Condition_0_Ignore_NPC False
+
+Response_29_Rewards 1
+Response_29_Reward_0_Type Quest
+Response_29_Reward_0_ID 14802
+
+Response_30_Dialogue 12136
+Response_30_Quest 14803
+Response_30_Conditions 1
+Response_30_Condition_0_Type Quest
+Response_30_Condition_0_ID 14803
+Response_30_Condition_0_Status None
+Response_30_Condition_0_Logic Equal
+Response_30_Condition_0_Ignore_NPC False
+
+Response_30_Rewards 1
+Response_30_Reward_0_Type Quest
+Response_30_Reward_0_ID 14803
+
+Response_31_Dialogue 12136
+Response_31_Quest 14803
+Response_31_Conditions 1
+Response_31_Condition_0_Type Quest
+Response_31_Condition_0_ID 14803
+Response_31_Condition_0_Status Ready
+Response_31_Condition_0_Logic Equal
+Response_31_Condition_0_Ignore_NPC False
+Response_31_Condition_0_Reset 
+
+Response_32_Dialogue 12136
+Response_32_Quest 14803
+Response_32_Conditions 1
+Response_32_Condition_0_Type Quest
+Response_32_Condition_0_ID 14803
+Response_32_Condition_0_Status Completed
+Response_32_Condition_0_Logic Equal
+Response_32_Condition_0_Ignore_NPC False
+
+Response_32_Rewards 1
+Response_32_Reward_0_Type Quest
+Response_32_Reward_0_ID 14803
+
+Response_33_Dialogue 12136
+Response_33_Quest 14804
+Response_33_Conditions 1
+Response_33_Condition_0_Type Quest
+Response_33_Condition_0_ID 14804
+Response_33_Condition_0_Status None
+Response_33_Condition_0_Logic Equal
+Response_33_Condition_0_Ignore_NPC False
+
+Response_33_Rewards 1
+Response_33_Reward_0_Type Quest
+Response_33_Reward_0_ID 14804
+
+Response_34_Dialogue 12136
+Response_34_Quest 14804
+Response_34_Conditions 1
+Response_34_Condition_0_Type Quest
+Response_34_Condition_0_ID 14804
+Response_34_Condition_0_Status Ready
+Response_34_Condition_0_Logic Equal
+Response_34_Condition_0_Ignore_NPC False
+Response_34_Condition_0_Reset 
+
+Response_35_Dialogue 12136
+Response_35_Quest 14804
+Response_35_Conditions 1
+Response_35_Condition_0_Type Quest
+Response_35_Condition_0_ID 14804
+Response_35_Condition_0_Status Completed
+Response_35_Condition_0_Logic Equal
+Response_35_Condition_0_Ignore_NPC False
+
+Response_35_Rewards 1
+Response_35_Reward_0_Type Quest
+Response_35_Reward_0_ID 14804
+
+Response_36_Dialogue 12136
+Response_36_Quest 14805
+Response_36_Conditions 1
+Response_36_Condition_0_Type Quest
+Response_36_Condition_0_ID 14805
+Response_36_Condition_0_Status None
+Response_36_Condition_0_Logic Equal
+Response_36_Condition_0_Ignore_NPC False
+
+Response_36_Rewards 1
+Response_36_Reward_0_Type Quest
+Response_36_Reward_0_ID 14805
+
+Response_37_Dialogue 12136
+Response_37_Quest 14805
+Response_37_Conditions 1
+Response_37_Condition_0_Type Quest
+Response_37_Condition_0_ID 14805
+Response_37_Condition_0_Status Ready
+Response_37_Condition_0_Logic Equal
+Response_37_Condition_0_Ignore_NPC False
+Response_37_Condition_0_Reset 
+
+Response_38_Dialogue 12136
+Response_38_Quest 14805
+Response_38_Conditions 1
+Response_38_Condition_0_Type Quest
+Response_38_Condition_0_ID 14805
+Response_38_Condition_0_Status Completed
+Response_38_Condition_0_Logic Equal
+Response_38_Condition_0_Ignore_NPC False
+
+Response_38_Rewards 1
+Response_38_Reward_0_Type Quest
+Response_38_Reward_0_ID 14805
+
+Response_39_Dialogue 12136
+Response_39_Quest 14806
+Response_39_Conditions 1
+Response_39_Condition_0_Type Quest
+Response_39_Condition_0_ID 14806
+Response_39_Condition_0_Status None
+Response_39_Condition_0_Logic Equal
+Response_39_Condition_0_Ignore_NPC False
+
+Response_39_Rewards 1
+Response_39_Reward_0_Type Quest
+Response_39_Reward_0_ID 14806
+
+Response_40_Dialogue 12136
+Response_40_Quest 14806
+Response_40_Conditions 1
+Response_40_Condition_0_Type Quest
+Response_40_Condition_0_ID 14806
+Response_40_Condition_0_Status Ready
+Response_40_Condition_0_Logic Equal
+Response_40_Condition_0_Ignore_NPC False
+Response_40_Condition_0_Reset 
+
+Response_41_Dialogue 12136
+Response_41_Quest 14806
+Response_41_Conditions 1
+Response_41_Condition_0_Type Quest
+Response_41_Condition_0_ID 14806
+Response_41_Condition_0_Status Completed
+Response_41_Condition_0_Logic Equal
+Response_41_Condition_0_Ignore_NPC False
+
+Response_41_Rewards 1
+Response_41_Reward_0_Type Quest
+Response_41_Reward_0_ID 14806
+
+Response_42_Dialogue 12136
+Response_42_Quest 14807
+Response_42_Conditions 2
+Response_42_Condition_0_Type Quest
+Response_42_Condition_0_ID 14807
+Response_42_Condition_0_Status None
+Response_42_Condition_0_Logic Equal
+Response_42_Condition_0_Ignore_NPC False
+
+Response_42_Condition_1_Type Quest
+Response_42_Condition_1_ID 14043
+Response_42_Condition_1_Status Completed
+Response_42_Condition_1_Logic Equal
+Response_42_Condition_1_Ignore_NPC False
+
+Response_42_Rewards 1
+Response_42_Reward_0_Type Quest
+Response_42_Reward_0_ID 14807
+
+Response_43_Dialogue 12136
+Response_43_Quest 14807
+Response_43_Conditions 1
+Response_43_Condition_0_Type Quest
+Response_43_Condition_0_ID 14807
+Response_43_Condition_0_Status Ready
+Response_43_Condition_0_Logic Equal
+Response_43_Condition_0_Ignore_NPC False
+Response_43_Condition_0_Reset 
+
+Response_44_Dialogue 12136
+Response_44_Quest 14807
+Response_44_Conditions 2
+Response_44_Condition_0_Type Quest
+Response_44_Condition_0_ID 14807
+Response_44_Condition_0_Status Completed
+Response_44_Condition_0_Logic Equal
+Response_44_Condition_0_Ignore_NPC False
+
+Response_44_Condition_1_Type Quest
+Response_44_Condition_1_ID 14043
+Response_44_Condition_1_Status Completed
+Response_44_Condition_1_Logic Equal
+Response_44_Condition_1_Ignore_NPC False
+
+Response_44_Rewards 1
+Response_44_Reward_0_Type Quest
+Response_44_Reward_0_ID 14807
+
+Response_45_Dialogue 12136
+Response_45_Quest 14808
+Response_45_Conditions 1
+Response_45_Condition_0_Type Quest
+Response_45_Condition_0_ID 14808
+Response_45_Condition_0_Status None
+Response_45_Condition_0_Logic Equal
+Response_45_Condition_0_Ignore_NPC False
+
+Response_45_Rewards 1
+Response_45_Reward_0_Type Quest
+Response_45_Reward_0_ID 14808
+
+Response_46_Dialogue 12136
+Response_46_Quest 14809
+Response_46_Conditions 1
+Response_46_Condition_0_Type Quest
+Response_46_Condition_0_ID 14809
+Response_46_Condition_0_Status Ready
+Response_46_Condition_0_Logic Equal
+Response_46_Condition_0_Ignore_NPC False
+Response_46_Condition_0_Reset 
+
+Response_47_Dialogue 12136
+Response_47_Quest 14809
+Response_47_Conditions 1
+Response_47_Condition_0_Type Quest
+Response_47_Condition_0_ID 14808
+Response_47_Condition_0_Status Completed
+Response_47_Condition_0_Logic Equal
+Response_47_Condition_0_Ignore_NPC False
+
+Response_47_Rewards 1
+Response_47_Reward_0_Type Quest
+Response_47_Reward_0_ID 14808
+
+Response_48_Dialogue 12136
+Response_48_Quest 14809
+Response_48_Conditions 1
+Response_48_Condition_0_Type Quest
+Response_48_Condition_0_ID 14809
+Response_48_Condition_0_Status None
+Response_48_Condition_0_Logic Equal
+Response_48_Condition_0_Ignore_NPC False
+
+Response_48_Rewards 1
+Response_48_Reward_0_Type Quest
+Response_48_Reward_0_ID 14809
+
+Response_49_Dialogue 12136
+Response_49_Quest 14809
+Response_49_Conditions 1
+Response_49_Condition_0_Type Quest
+Response_49_Condition_0_ID 14809
+Response_49_Condition_0_Status Ready
+Response_49_Condition_0_Logic Equal
+Response_49_Condition_0_Ignore_NPC False
+Response_49_Condition_0_Reset 
+
+Response_50_Dialogue 12136
+Response_50_Quest 14809
+Response_50_Conditions 1
+Response_50_Condition_0_Type Quest
+Response_50_Condition_0_ID 14809
+Response_50_Condition_0_Status Completed
+Response_50_Condition_0_Logic Equal
+Response_50_Condition_0_Ignore_NPC False
+
+Response_50_Rewards 1
+Response_50_Reward_0_Type Quest
+Response_50_Reward_0_ID 14809
+
+Response_51_Dialogue 12136
+Response_51_Quest 14810
+Response_51_Conditions 1
+Response_51_Condition_0_Type Quest
+Response_51_Condition_0_ID 14810
+Response_51_Condition_0_Status None
+Response_51_Condition_0_Logic Equal
+Response_51_Condition_0_Ignore_NPC False
+
+Response_51_Rewards 1
+Response_51_Reward_0_Type Quest
+Response_51_Reward_0_ID 14810
+
+Response_52_Dialogue 12136
+Response_52_Quest 14810
+Response_52_Conditions 1
+Response_52_Condition_0_Type Quest
+Response_52_Condition_0_ID 14810
+Response_52_Condition_0_Status Ready
+Response_52_Condition_0_Logic Equal
+Response_52_Condition_0_Ignore_NPC False
+Response_52_Condition_0_Reset 
+
+Response_53_Dialogue 12136
+Response_53_Quest 14810
+Response_53_Conditions 1
+Response_53_Condition_0_Type Quest
+Response_53_Condition_0_ID 14810
+Response_53_Condition_0_Status Completed
+Response_53_Condition_0_Logic Equal
+Response_53_Condition_0_Ignore_NPC False
+
+Response_53_Rewards 1
+Response_53_Reward_0_Type Quest
+Response_53_Reward_0_ID 14810
+
+Response_54_Dialogue 12136
+Response_54_Quest 14811
+Response_54_Conditions 1
+Response_54_Condition_0_Type Quest
+Response_54_Condition_0_ID 14811
+Response_54_Condition_0_Status None
+Response_54_Condition_0_Logic Equal
+Response_54_Condition_0_Ignore_NPC False
+
+Response_54_Rewards 1
+Response_54_Reward_0_Type Quest
+Response_54_Reward_0_ID 14811
+
+Response_55_Dialogue 12136
+Response_55_Quest 14811
+Response_55_Conditions 1
+Response_55_Condition_0_Type Quest
+Response_55_Condition_0_ID 14811
+Response_55_Condition_0_Status Ready
+Response_55_Condition_0_Logic Equal
+Response_55_Condition_0_Ignore_NPC False
+Response_55_Condition_0_Reset 
+
+Response_56_Dialogue 12136
+Response_56_Quest 14811
+Response_56_Conditions 1
+Response_56_Condition_0_Type Quest
+Response_56_Condition_0_ID 14811
+Response_56_Condition_0_Status Completed
+Response_56_Condition_0_Logic Equal
+Response_56_Condition_0_Ignore_NPC False
+
+Response_56_Rewards 1
+Response_56_Reward_0_Type Quest
+Response_56_Reward_0_ID 14811
+
+Response_57_Dialogue 12136
+Response_57_Quest 14812
+Response_57_Conditions 1
+Response_57_Condition_0_Type Quest
+Response_57_Condition_0_ID 14812
+Response_57_Condition_0_Status None
+Response_57_Condition_0_Logic Equal
+Response_57_Condition_0_Ignore_NPC False
+
+Response_57_Rewards 1
+Response_57_Reward_0_Type Quest
+Response_57_Reward_0_ID 14812
+
+Response_58_Dialogue 12136
+Response_58_Quest 14812
+Response_58_Conditions 1
+Response_58_Condition_0_Type Quest
+Response_58_Condition_0_ID 14812
+Response_58_Condition_0_Status Ready
+Response_58_Condition_0_Logic Equal
+Response_58_Condition_0_Ignore_NPC False
+Response_58_Condition_0_Reset 
+
+Response_59_Dialogue 12136
+Response_59_Quest 14812
+Response_59_Conditions 1
+Response_59_Condition_0_Type Quest
+Response_59_Condition_0_ID 14812
+Response_59_Condition_0_Status Completed
+Response_59_Condition_0_Logic Equal
+Response_59_Condition_0_Ignore_NPC False
+
+Response_59_Rewards 1
+Response_59_Reward_0_Type Quest
+Response_59_Reward_0_ID 14812
+
+Response_60_Dialogue 12136
+Response_60_Quest 14813
+Response_60_Conditions 1
+Response_60_Condition_0_Type Quest
+Response_60_Condition_0_ID 14813
+Response_60_Condition_0_Status None
+Response_60_Condition_0_Logic Equal
+Response_60_Condition_0_Ignore_NPC False
+
+Response_60_Rewards 1
+Response_60_Reward_0_Type Quest
+Response_60_Reward_0_ID 14813
+
+Response_61_Dialogue 12136
+Response_61_Quest 14813
+Response_61_Conditions 1
+Response_61_Condition_0_Type Quest
+Response_61_Condition_0_ID 14813
+Response_61_Condition_0_Status Ready
+Response_61_Condition_0_Logic Equal
+Response_61_Condition_0_Ignore_NPC False
+Response_61_Condition_0_Reset 
+
+Response_62_Dialogue 12136
+Response_62_Quest 14813
+Response_62_Conditions 1
+Response_62_Condition_0_Type Quest
+Response_62_Condition_0_ID 14813
+Response_62_Condition_0_Status Completed
+Response_62_Condition_0_Logic Equal
+Response_62_Condition_0_Ignore_NPC False
+
+Response_62_Rewards 1
+Response_62_Reward_0_Type Quest
+Response_62_Reward_0_ID 14813
+
+Response_63_Dialogue 12136
+Response_63_Quest 14814
+Response_63_Conditions 2
+Response_63_Condition_0_Type Quest
+Response_63_Condition_0_ID 14814
+Response_63_Condition_0_Status None
+Response_63_Condition_0_Logic Equal
+Response_63_Condition_0_Ignore_NPC False
+
+Response_63_Condition_1_Type Quest
+Response_63_Condition_1_ID 14049
+Response_63_Condition_1_Status Completed
+Response_63_Condition_1_Logic Equal
+Response_63_Condition_1_Ignore_NPC False
+
+Response_64_Dialogue 12136
+Response_64_Quest 14814
+Response_64_Conditions 1
+Response_64_Condition_0_Type Quest
+Response_64_Condition_0_ID 14814
+Response_64_Condition_0_Status Ready
+Response_64_Condition_0_Logic Equal
+Response_64_Condition_0_Ignore_NPC False
+Response_64_Condition_0_Reset 
+
+Response_65_Dialogue 12136
+Response_65_Quest 14814
+Response_65_Conditions 2
+Response_65_Condition_0_Type Quest
+Response_65_Condition_0_ID 14814
+Response_65_Condition_0_Status Completed
+Response_65_Condition_0_Logic Equal
+Response_65_Condition_0_Ignore_NPC False
+
+Response_65_Condition_1_Type Quest
+Response_65_Condition_1_ID 14049
+Response_65_Condition_1_Status Completed
+Response_65_Condition_1_Logic Equal
+Response_65_Condition_1_Ignore_NPC False
+
+Response_65_Rewards 1
+Response_65_Reward_0_Type Quest
+Response_65_Reward_0_ID 14814
+
+Response_66_Dialogue 12136
+Response_66_Quest 14815
+Response_66_Conditions 2
+Response_66_Condition_0_Type Quest
+Response_66_Condition_0_ID 14815
+Response_66_Condition_0_Status None
+Response_66_Condition_0_Logic Equal
+Response_66_Condition_0_Ignore_NPC False
+
+Response_66_Condition_1_Type Quest
+Response_66_Condition_1_ID 14062
+Response_66_Condition_1_Status Completed
+Response_66_Condition_1_Logic Equal
+Response_66_Condition_1_Ignore_NPC False
+
+Response_66_Rewards 1
+Response_66_Reward_0_Type Quest
+Response_66_Reward_0_ID 14815
+
+Response_67_Dialogue 12136
+Response_67_Quest 14815
+Response_67_Conditions 1
+Response_67_Condition_0_Type Quest
+Response_67_Condition_0_ID 14815
+Response_67_Condition_0_Status Ready
+Response_67_Condition_0_Logic Equal
+Response_67_Condition_0_Ignore_NPC False
+Response_67_Condition_0_Reset 
+
+Response_68_Dialogue 12136
+Response_68_Quest 14815
+Response_68_Conditions 2
+Response_68_Condition_0_Type Quest
+Response_68_Condition_0_ID 14815
+Response_68_Condition_0_Status Completed
+Response_68_Condition_0_Logic Equal
+Response_68_Condition_0_Ignore_NPC False
+
+Response_68_Condition_1_Type Quest
+Response_68_Condition_1_ID 14062
+Response_68_Condition_1_Status Completed
+Response_68_Condition_1_Logic Equal
+Response_68_Condition_1_Ignore_NPC False
+
+Response_68_Rewards 1
+Response_68_Reward_0_Type Quest
+Response_68_Reward_0_ID 14815
+
+Response_69_Dialogue 12136
+Response_69_Quest 14816
+Response_69_Conditions 2
+Response_69_Condition_0_Type Quest
+Response_69_Condition_0_ID 14816
+Response_69_Condition_0_Status None
+Response_69_Condition_0_Logic Equal
+Response_69_Condition_0_Ignore_NPC False
+
+Response_69_Condition_1_Type Quest
+Response_69_Condition_1_ID 14049
+Response_69_Condition_1_Status Completed
+Response_69_Condition_1_Logic Equal
+Response_69_Condition_1_Ignore_NPC False
+
+Response_69_Rewards 1
+Response_69_Reward_0_Type Quest
+Response_69_Reward_0_ID 14816
+
+Response_70_Dialogue 12136
+Response_70_Quest 14816
+Response_70_Conditions 1
+Response_70_Condition_0_Type Quest
+Response_70_Condition_0_ID 14816
+Response_70_Condition_0_Status Ready
+Response_70_Condition_0_Logic Equal
+Response_70_Condition_0_Ignore_NPC False
+Response_70_Condition_0_Reset 
+
+Response_71_Dialogue 12136
+Response_71_Quest 14816
+Response_71_Conditions 2
+Response_71_Condition_0_Type Quest
+Response_71_Condition_0_ID 14816
+Response_71_Condition_0_Status Completed
+Response_71_Condition_0_Logic Equal
+Response_71_Condition_0_Ignore_NPC False
+
+Response_71_Condition_1_Type Quest
+Response_71_Condition_1_ID 14049
+Response_71_Condition_1_Status None
+Response_71_Condition_1_Logic Equal
+Response_71_Condition_1_Ignore_NPC False
+
+Response_71_Rewards 1
+Response_71_Reward_0_Type Quest
+Response_71_Reward_0_ID 14816
+
+Response_72_Dialogue 12136
+Response_72_Quest 14817
+Response_72_Conditions 2
+Response_72_Condition_0_Type Quest
+Response_72_Condition_0_ID 14817
+Response_72_Condition_0_Status None
+Response_72_Condition_0_Logic Equal
+Response_72_Condition_0_Ignore_NPC False
+
+Response_72_Condition_1_Type Quest
+Response_72_Condition_1_ID 14061
+Response_72_Condition_1_Status Completed
+Response_72_Condition_1_Logic Equal
+Response_72_Condition_1_Ignore_NPC False
+
+Response_72_Rewards 1
+Response_72_Reward_0_Type Quest
+Response_72_Reward_0_ID 14817
+
+Response_73_Dialogue 12136
+Response_73_Quest 14817
+Response_73_Conditions 1
+Response_73_Condition_0_Type Quest
+Response_73_Condition_0_ID 14817
+Response_73_Condition_0_Status Ready
+Response_73_Condition_0_Logic Equal
+Response_73_Condition_0_Ignore_NPC False
+Response_73_Condition_0_Reset 
+
+Response_74_Dialogue 12136
+Response_74_Quest 14817
+Response_74_Conditions 2
+Response_74_Condition_0_Type Quest
+Response_74_Condition_0_ID 14817
+Response_74_Condition_0_Status Completed
+Response_74_Condition_0_Logic Equal
+Response_74_Condition_0_Ignore_NPC False
+
+Response_74_Condition_1_Type Quest
+Response_74_Condition_1_ID 14061
+Response_74_Condition_1_Status Completed
+Response_74_Condition_1_Logic Equal
+Response_74_Condition_1_Ignore_NPC False
+
+Response_74_Rewards 1
+Response_74_Reward_0_Type Quest
+Response_74_Reward_0_ID 14817
+
+Response_75_Dialogue 12136
+Response_75_Quest 14818
+Response_75_Conditions 1
+Response_75_Condition_0_Type Quest
+Response_75_Condition_0_ID 14818
+Response_75_Condition_0_Status None
+Response_75_Condition_0_Logic Equal
+Response_75_Condition_0_Ignore_NPC False
+
+Response_75_Rewards 1
+Response_75_Reward_0_Type Quest
+Response_75_Reward_0_ID 14818
+
+Response_76_Dialogue 12136
+Response_76_Quest 14818
+Response_76_Conditions 1
+Response_76_Condition_0_Type Quest
+Response_76_Condition_0_ID 14818
+Response_76_Condition_0_Status Ready
+Response_76_Condition_0_Logic Equal
+Response_76_Condition_0_Ignore_NPC False
+Response_76_Condition_0_Reset 
+
+Response_77_Dialogue 12136
+Response_77_Quest 14818
+Response_77_Conditions 1
+Response_77_Condition_0_Type Quest
+Response_77_Condition_0_ID 14818
+Response_77_Condition_0_Status Completed
+Response_77_Condition_0_Logic Equal
+Response_77_Condition_0_Ignore_NPC False
+
+Response_77_Rewards 1
+Response_77_Reward_0_Type Quest
+Response_77_Reward_0_ID 14818
+
+Response_78_Dialogue 12136
+Response_78_Quest 14819
+Response_78_Conditions 2
+Response_78_Condition_0_Type Quest
+Response_78_Condition_0_ID 14819
+Response_78_Condition_0_Status None
+Response_78_Condition_0_Logic Equal
+Response_78_Condition_0_Ignore_NPC False
+
+Response_78_Condition_1_Type Quest
+Response_78_Condition_1_ID 14044
+Response_78_Condition_1_Status Completed
+Response_78_Condition_1_Logic Equal
+Response_78_Condition_1_Ignore_NPC False
+
+Response_78_Rewards 1
+Response_78_Reward_0_Type Quest
+Response_78_Reward_0_ID 14819
+
+Response_79_Dialogue 12136
+Response_79_Quest 14819
+Response_79_Conditions 1
+Response_79_Condition_0_Type Quest
+Response_79_Condition_0_ID 14819
+Response_79_Condition_0_Status Ready
+Response_79_Condition_0_Logic Equal
+Response_79_Condition_0_Ignore_NPC False
+Response_79_Condition_0_Reset 
+
+Response_80_Dialogue 12136
+Response_80_Quest 14819
+Response_80_Conditions 2
+Response_80_Condition_0_Type Quest
+Response_80_Condition_0_ID 14819
+Response_80_Condition_0_Status Completed
+Response_80_Condition_0_Logic Equal
+Response_80_Condition_0_Ignore_NPC False
+
+Response_80_Condition_1_Type Quest
+Response_80_Condition_1_ID 14044
+Response_80_Condition_1_Status Completed
+Response_80_Condition_1_Logic Equal
+Response_80_Condition_1_Ignore_NPC False
+
+Response_80_Rewards 1
+Response_80_Reward_0_Type Quest
+Response_80_Reward_0_ID 14819
+
+Response_81_Dialogue 12136
+Response_81_Quest 14820
+Response_81_Conditions 2
+Response_81_Condition_0_Type Quest
+Response_81_Condition_0_ID 14820
+Response_81_Condition_0_Status None
+Response_81_Condition_0_Logic Equal
+Response_81_Condition_0_Ignore_NPC False
+
+Response_81_Condition_1_Type Quest
+Response_81_Condition_1_ID 14038
+Response_81_Condition_1_Status Completed
+Response_81_Condition_1_Logic Equal
+Response_81_Condition_1_Ignore_NPC False
+
+Response_81_Rewards 1
+Response_81_Reward_0_Type Quest
+Response_81_Reward_0_ID 14820
+
+Response_82_Dialogue 12136
+Response_82_Quest 14820
+Response_82_Conditions 1
+Response_82_Condition_0_Type Quest
+Response_82_Condition_0_ID 14820
+Response_82_Condition_0_Status Ready
+Response_82_Condition_0_Logic Equal
+Response_82_Condition_0_Ignore_NPC False
+Response_82_Condition_0_Reset 
+
+Response_83_Dialogue 12136
+Response_83_Quest 14820
+Response_83_Conditions 2
+Response_83_Condition_0_Type Quest
+Response_83_Condition_0_ID 14820
+Response_83_Condition_0_Status Completed
+Response_83_Condition_0_Logic Equal
+Response_83_Condition_0_Ignore_NPC False
+
+Response_83_Condition_1_Type Quest
+Response_83_Condition_1_ID 14038
+Response_83_Condition_1_Status Completed
+Response_83_Condition_1_Logic Equal
+Response_83_Condition_1_Ignore_NPC False
+
+Response_83_Rewards 1
+Response_83_Reward_0_Type Quest
+Response_83_Reward_0_ID 14820
+
+Response_84_Dialogue 12136
+Response_84_Quest 14821
+Response_84_Conditions 1
+Response_84_Condition_0_Type Quest
+Response_84_Condition_0_ID 14821
+Response_84_Condition_0_Status None
+Response_84_Condition_0_Logic Equal
+Response_84_Condition_0_Ignore_NPC False
+
+Response_84_Rewards 1
+Response_84_Reward_0_Type Quest
+Response_84_Reward_0_ID 14821
+
+Response_85_Dialogue 12136
+Response_85_Quest 14821
+Response_85_Conditions 1
+Response_85_Condition_0_Type Quest
+Response_85_Condition_0_ID 14821
+Response_85_Condition_0_Status Ready
+Response_85_Condition_0_Logic Equal
+Response_85_Condition_0_Ignore_NPC False
+Response_85_Condition_0_Reset 
+
+Response_86_Dialogue 12136
+Response_86_Quest 14821
+Response_86_Conditions 1
+Response_86_Condition_0_Type Quest
+Response_86_Condition_0_ID 14821
+Response_86_Condition_0_Status Completed
+Response_86_Condition_0_Logic Equal
+Response_86_Condition_0_Ignore_NPC False
+
+Response_86_Rewards 1
+Response_86_Reward_0_Type Quest
+Response_86_Reward_0_ID 14821
+
+Response_87_Dialogue 12136
+Response_87_Quest 14822
+Response_87_Conditions 1
+Response_87_Condition_0_Type Quest
+Response_87_Condition_0_ID 14822
+Response_87_Condition_0_Status None
+Response_87_Condition_0_Logic Equal
+Response_87_Condition_0_Ignore_NPC False
+
+Response_87_Rewards 1
+Response_87_Reward_0_Type Quest
+Response_87_Reward_0_ID 14822
+
+Response_88_Dialogue 12136
+Response_88_Quest 14822
+Response_88_Conditions 1
+Response_88_Condition_0_Type Quest
+Response_88_Condition_0_ID 14822
+Response_88_Condition_0_Status Ready
+Response_88_Condition_0_Logic Equal
+Response_88_Condition_0_Ignore_NPC False
+Response_88_Condition_0_Reset 
+
+Response_89_Dialogue 12136
+Response_89_Quest 14822
+Response_89_Conditions 1
+Response_89_Condition_0_Type Quest
+Response_89_Condition_0_ID 14822
+Response_89_Condition_0_Status Completed
+Response_89_Condition_0_Logic Equal
+Response_89_Condition_0_Ignore_NPC False
+
+Response_89_Rewards 1
+Response_89_Reward_0_Type Quest
+Response_89_Reward_0_ID 14822
+
+Response_90_Dialogue 12136
+Response_90_Quest 14823
+Response_90_Conditions 1
+Response_90_Condition_0_Type Quest
+Response_90_Condition_0_ID 14823
+Response_90_Condition_0_Status None
+Response_90_Condition_0_Logic Equal
+Response_90_Condition_0_Ignore_NPC False
+
+Response_90_Rewards 1
+Response_90_Reward_0_Type Quest
+Response_90_Reward_0_ID 14823
+
+Response_91_Dialogue 12136
+Response_91_Quest 14823
+Response_91_Conditions 1
+Response_91_Condition_0_Type Quest
+Response_91_Condition_0_ID 14823
+Response_91_Condition_0_Status Ready
+Response_91_Condition_0_Logic Equal
+Response_91_Condition_0_Ignore_NPC False
+Response_91_Condition_0_Reset 
+
+Response_92_Dialogue 12136
+Response_92_Quest 14823
+Response_92_Conditions 1
+Response_92_Condition_0_Type Quest
+Response_92_Condition_0_ID 14823
+Response_92_Condition_0_Status Completed
+Response_92_Condition_0_Logic Equal
+Response_92_Condition_0_Ignore_NPC False
+
+Response_92_Rewards 1
+Response_92_Reward_0_Type Quest
+Response_92_Reward_0_ID 14823
+
+Response_93_Dialogue 12136
+Response_93_Quest 14824
+Response_93_Conditions 2
+Response_93_Condition_0_Type Quest
+Response_93_Condition_0_ID 14824
+Response_93_Condition_0_Status None
+Response_93_Condition_0_Logic Equal
+Response_93_Condition_0_Ignore_NPC False
+
+Response_93_Condition_1_Type Quest
+Response_93_Condition_1_ID 14050
+Response_93_Condition_1_Status Completed
+Response_93_Condition_1_Logic Equal
+Response_93_Condition_1_Ignore_NPC False
+
+Response_93_Rewards 1
+Response_93_Reward_0_Type Quest
+Response_93_Reward_0_ID 14824
+
+Response_94_Dialogue 12136
+Response_94_Quest 14824
+Response_94_Conditions 1
+Response_94_Condition_0_Type Quest
+Response_94_Condition_0_ID 14824
+Response_94_Condition_0_Status Ready
+Response_94_Condition_0_Logic Equal
+Response_94_Condition_0_Ignore_NPC False
+Response_94_Condition_0_Reset 
+
+Response_95_Dialogue 12136
+Response_95_Quest 14824
+Response_95_Conditions 2
+Response_95_Condition_0_Type Quest
+Response_95_Condition_0_ID 14824
+Response_95_Condition_0_Status Completed
+Response_95_Condition_0_Logic Equal
+Response_95_Condition_0_Ignore_NPC False
+
+Response_95_Condition_1_Type Quest
+Response_95_Condition_1_ID 14050
+Response_95_Condition_1_Status Completed
+Response_95_Condition_1_Logic Equal
+Response_95_Condition_1_Ignore_NPC False
+
+Response_95_Rewards 1
+Response_95_Reward_0_Type Quest
+Response_95_Reward_0_ID 14824
+
+Response_96_Dialogue 12136
+Response_96_Quest 14825
+Response_96_Conditions 2
+Response_96_Condition_0_Type Quest
+Response_96_Condition_0_ID 14825
+Response_96_Condition_0_Status None
+Response_96_Condition_0_Logic Equal
+Response_96_Condition_0_Ignore_NPC False
+
+Response_96_Condition_1_Type Quest
+Response_96_Condition_1_ID 14032
+Response_96_Condition_1_Status Completed
+Response_96_Condition_1_Logic Equal
+Response_96_Condition_1_Ignore_NPC False
+
+Response_96_Rewards 1
+Response_96_Reward_0_Type Quest
+Response_96_Reward_0_ID 14825
+
+Response_97_Dialogue 12136
+Response_97_Quest 14825
+Response_97_Conditions 1
+Response_97_Condition_0_Type Quest
+Response_97_Condition_0_ID 14825
+Response_97_Condition_0_Status Ready
+Response_97_Condition_0_Logic Equal
+Response_97_Condition_0_Ignore_NPC False
+Response_97_Condition_0_Reset 
+
+Response_98_Dialogue 12136
+Response_98_Quest 14825
+Response_98_Conditions 2
+Response_98_Condition_0_Type Quest
+Response_98_Condition_0_ID 14825
+Response_98_Condition_0_Status Completed
+Response_98_Condition_0_Logic Equal
+Response_98_Condition_0_Ignore_NPC False
+
+Response_98_Condition_1_Type Quest
+Response_98_Condition_1_ID 14032
+Response_98_Condition_1_Status Completed
+Response_98_Condition_1_Logic Equal
+Response_98_Condition_1_Ignore_NPC False
+
+Response_98_Rewards 1
+Response_98_Reward_0_Type Quest
+Response_98_Reward_0_ID 14825
+
+Response_99_Dialogue 12136
+Response_99_Quest 14826
+Response_99_Conditions 1
+Response_99_Condition_0_Type Quest
+Response_99_Condition_0_ID 14826
+Response_99_Condition_0_Status None
+Response_99_Condition_0_Logic Equal
+Response_99_Condition_0_Ignore_NPC False
+
+Response_99_Rewards 1
+Response_99_Reward_0_Type Quest
+Response_99_Reward_0_ID 14826
+
+Response_100_Dialogue 12136
+Response_100_Quest 14826
+Response_100_Conditions 1
+Response_100_Condition_0_Type Quest
+Response_100_Condition_0_ID 14826
+Response_100_Condition_0_Status Ready
+Response_100_Condition_0_Logic Equal
+Response_100_Condition_0_Ignore_NPC False
+Response_100_Condition_0_Reset 
+
+Response_101_Dialogue 12136
+Response_101_Quest 14826
+Response_101_Conditions 1
+Response_101_Condition_0_Type Quest
+Response_101_Condition_0_ID 14826
+Response_101_Condition_0_Status Completed
+Response_101_Condition_0_Logic Equal
+Response_101_Condition_0_Ignore_NPC False
+
+Response_101_Rewards 1
+Response_101_Reward_0_Type Quest
+Response_101_Reward_0_ID 14826
+
+Response_102_Dialogue 12136
+Response_102_Quest 14827
+Response_102_Conditions 2
+Response_102_Condition_0_Type Quest
+Response_102_Condition_0_ID 14827
+Response_102_Condition_0_Status None
+Response_102_Condition_0_Logic Equal
+Response_102_Condition_0_Ignore_NPC False
+
+Response_102_Condition_1_Type Quest
+Response_102_Condition_1_ID 14035
+Response_102_Condition_1_Status Completed
+Response_102_Condition_1_Logic Equal
+Response_102_Condition_1_Ignore_NPC False
+
+Response_102_Rewards 1
+Response_102_Reward_0_Type Quest
+Response_102_Reward_0_ID 14827
+
+Response_103_Dialogue 12136
+Response_103_Quest 14827
+Response_103_Conditions 1
+Response_103_Condition_0_Type Quest
+Response_103_Condition_0_ID 14827
+Response_103_Condition_0_Status Ready
+Response_103_Condition_0_Logic Equal
+Response_103_Condition_0_Ignore_NPC False
+Response_103_Condition_0_Reset 
+
+Response_104_Dialogue 12136
+Response_104_Quest 14827
+Response_104_Conditions 2
+Response_104_Condition_0_Type Quest
+Response_104_Condition_0_ID 14827
+Response_104_Condition_0_Status Completed
+Response_104_Condition_0_Logic Equal
+Response_104_Condition_0_Ignore_NPC False
+
+Response_104_Condition_1_Type Quest
+Response_104_Condition_1_ID 14035
+Response_104_Condition_1_Status Completed
+Response_104_Condition_1_Logic Equal
+Response_104_Condition_1_Ignore_NPC False
+
+Response_104_Rewards 1
+Response_104_Reward_0_Type Quest
+Response_104_Reward_0_ID 14827
+
+Response_105_Dialogue 12136
+Response_105_Quest 14828
+Response_105_Conditions 2
+Response_105_Condition_0_Type Quest
+Response_105_Condition_0_ID 14828
+Response_105_Condition_0_Status None
+Response_105_Condition_0_Logic Equal
+Response_105_Condition_0_Ignore_NPC False
+
+Response_105_Condition_1_Type Quest
+Response_105_Condition_1_ID 14035
+Response_105_Condition_1_Status Completed
+Response_105_Condition_1_Logic Equal
+Response_105_Condition_1_Ignore_NPC False
+
+Response_105_Rewards 1
+Response_105_Reward_0_Type Quest
+Response_105_Reward_0_ID 14828
+
+Response_106_Dialogue 12136
+Response_106_Quest 14828
+Response_106_Conditions 1
+Response_106_Condition_0_Type Quest
+Response_106_Condition_0_ID 14828
+Response_106_Condition_0_Status Ready
+Response_106_Condition_0_Logic Equal
+Response_106_Condition_0_Ignore_NPC False
+Response_106_Condition_0_Reset 
+
+Response_107_Dialogue 12136
+Response_107_Quest 14828
+Response_107_Conditions 2
+Response_107_Condition_0_Type Quest
+Response_107_Condition_0_ID 14828
+Response_107_Condition_0_Status Completed
+Response_107_Condition_0_Logic Equal
+Response_107_Condition_0_Ignore_NPC False
+
+Response_107_Condition_1_Type Quest
+Response_107_Condition_1_ID 14035
+Response_107_Condition_1_Status Completed
+Response_107_Condition_1_Logic Equal
+Response_107_Condition_1_Ignore_NPC False
+
+Response_107_Rewards 1
+Response_107_Reward_0_Type Quest
+Response_107_Reward_0_ID 14828
+
+Response_108_Dialogue 12136
+Response_108_Quest 14829
+Response_108_Conditions 2
+Response_108_Condition_0_Type Quest
+Response_108_Condition_0_ID 14829
+Response_108_Condition_0_Status None
+Response_108_Condition_0_Logic Equal
+Response_108_Condition_0_Ignore_NPC False
+
+Response_108_Condition_1_Type Quest
+Response_108_Condition_1_ID 14042
+Response_108_Condition_1_Status Completed
+Response_108_Condition_1_Logic Equal
+Response_108_Condition_1_Ignore_NPC False
+
+Response_108_Rewards 1
+Response_108_Reward_0_Type Quest
+Response_108_Reward_0_ID 14829
+
+Response_109_Dialogue 12136
+Response_109_Quest 14829
+Response_109_Conditions 1
+Response_109_Condition_0_Type Quest
+Response_109_Condition_0_ID 14829
+Response_109_Condition_0_Status Ready
+Response_109_Condition_0_Logic Equal
+Response_109_Condition_0_Ignore_NPC False
+Response_109_Condition_0_Reset 
+
+Response_110_Dialogue 12136
+Response_110_Quest 14829
+Response_110_Conditions 2
+Response_110_Condition_0_Type Quest
+Response_110_Condition_0_ID 14829
+Response_110_Condition_0_Status Completed
+Response_110_Condition_0_Logic Equal
+Response_110_Condition_0_Ignore_NPC False
+
+Response_110_Condition_1_Type Quest
+Response_110_Condition_1_ID 14042
+Response_110_Condition_1_Status Completed
+Response_110_Condition_1_Logic Equal
+Response_110_Condition_1_Ignore_NPC False
+
+Response_110_Rewards 1
+Response_110_Reward_0_Type Quest
+Response_110_Reward_0_ID 14829
+
+Response_111_Dialogue 12136
+Response_111_Quest 14830
+Response_111_Conditions 2
+Response_111_Condition_0_Type Quest
+Response_111_Condition_0_ID 14830
+Response_111_Condition_0_Status None
+Response_111_Condition_0_Logic Equal
+Response_111_Condition_0_Ignore_NPC False
+
+Response_111_Condition_1_Type Quest
+Response_111_Condition_1_ID 14042
+Response_111_Condition_1_Status Completed
+Response_111_Condition_1_Logic Equal
+Response_111_Condition_1_Ignore_NPC False
+
+Response_111_Rewards 1
+Response_111_Reward_0_Type Quest
+Response_111_Reward_0_ID 14830
+
+Response_112_Dialogue 12136
+Response_112_Quest 14830
+Response_112_Conditions 1
+Response_112_Condition_0_Type Quest
+Response_112_Condition_0_ID 14830
+Response_112_Condition_0_Status Ready
+Response_112_Condition_0_Logic Equal
+Response_112_Condition_0_Ignore_NPC False
+Response_112_Condition_0_Reset 
+
+Response_113_Dialogue 12136
+Response_113_Quest 14830
+Response_113_Conditions 2
+Response_113_Condition_0_Type Quest
+Response_113_Condition_0_ID 14830
+Response_113_Condition_0_Status Completed
+Response_113_Condition_0_Logic Equal
+Response_113_Condition_0_Ignore_NPC False
+
+Response_113_Condition_1_Type Quest
+Response_113_Condition_1_ID 14042
+Response_113_Condition_1_Status Completed
+Response_113_Condition_1_Logic Equal
+Response_113_Condition_1_Ignore_NPC False
+
+Response_113_Rewards 1
+Response_113_Reward_0_Type Quest
+Response_113_Reward_0_ID 14830
+
+Response_114_Dialogue 12136
+Response_114_Quest 14831
+Response_114_Conditions 2
+Response_114_Condition_0_Type Quest
+Response_114_Condition_0_ID 14831
+Response_114_Condition_0_Status None
+Response_114_Condition_0_Logic Equal
+Response_114_Condition_0_Ignore_NPC False
+
+Response_114_Condition_1_Type Quest
+Response_114_Condition_1_ID 14052
+Response_114_Condition_1_Status Completed
+Response_114_Condition_1_Logic Equal
+Response_114_Condition_1_Ignore_NPC False
+
+Response_114_Rewards 1
+Response_114_Reward_0_Type Quest
+Response_114_Reward_0_ID 14831
+
+Response_115_Dialogue 12136
+Response_115_Quest 14831
+Response_115_Conditions 1
+Response_115_Condition_0_Type Quest
+Response_115_Condition_0_ID 14831
+Response_115_Condition_0_Status Ready
+Response_115_Condition_0_Logic Equal
+Response_115_Condition_0_Ignore_NPC False
+Response_115_Condition_0_Reset 
+
+Response_116_Dialogue 12136
+Response_116_Quest 14831
+Response_116_Conditions 2
+Response_116_Condition_0_Type Quest
+Response_116_Condition_0_ID 14831
+Response_116_Condition_0_Status Completed
+Response_116_Condition_0_Logic Equal
+Response_116_Condition_0_Ignore_NPC False
+
+Response_116_Condition_1_Type Quest
+Response_116_Condition_1_ID 14052
+Response_116_Condition_1_Status Completed
+Response_116_Condition_1_Logic Equal
+Response_116_Condition_1_Ignore_NPC False
+
+Response_116_Rewards 1
+Response_116_Reward_0_Type Quest
+Response_116_Reward_0_ID 14831
+
+Response_117_Dialogue 12136
+Response_117_Quest 14832
+Response_117_Conditions 2
+Response_117_Condition_0_Type Quest
+Response_117_Condition_0_ID 14832
+Response_117_Condition_0_Status None
+Response_117_Condition_0_Logic Equal
+Response_117_Condition_0_Ignore_NPC False
+
+Response_117_Condition_1_Type Quest
+Response_117_Condition_1_ID 14041
+Response_117_Condition_1_Status Completed
+Response_117_Condition_1_Logic Equal
+Response_117_Condition_1_Ignore_NPC False
+
+Response_117_Rewards 1
+Response_117_Reward_0_Type Quest
+Response_117_Reward_0_ID 14832
+
+Response_118_Dialogue 12136
+Response_118_Quest 14832
+Response_118_Conditions 1
+Response_118_Condition_0_Type Quest
+Response_118_Condition_0_ID 14831
+Response_118_Condition_0_Status Ready
+Response_118_Condition_0_Logic Equal
+Response_118_Condition_0_Ignore_NPC False
+Response_118_Condition_0_Reset 
+
+Response_119_Dialogue 12136
+Response_119_Quest 14832
+Response_119_Conditions 2
+Response_119_Condition_0_Type Quest
+Response_119_Condition_0_ID 14832
+Response_119_Condition_0_Status Completed
+Response_119_Condition_0_Logic Equal
+Response_119_Condition_0_Ignore_NPC False
+
+Response_119_Condition_1_Type Quest
+Response_119_Condition_1_ID 14041
+Response_119_Condition_1_Status Completed
+Response_119_Condition_1_Logic Equal
+Response_119_Condition_1_Ignore_NPC False
+
+Response_119_Rewards 1
+Response_119_Reward_0_Type Quest
+Response_119_Reward_0_ID 14832
+
+Response_120_Dialogue 12136
+Response_120_Quest 14833
+Response_120_Conditions 2
+Response_120_Condition_0_Type Quest
+Response_120_Condition_0_ID 14833
+Response_120_Condition_0_Status None
+Response_120_Condition_0_Logic Equal
+Response_120_Condition_0_Ignore_NPC False
+
+Response_120_Condition_1_Type Quest
+Response_120_Condition_1_ID 14041
+Response_120_Condition_1_Status Completed
+Response_120_Condition_1_Logic Equal
+Response_120_Condition_1_Ignore_NPC False
+
+Response_120_Rewards 1
+Response_120_Reward_0_Type Quest
+Response_120_Reward_0_ID 14833
+
+Response_121_Dialogue 12136
+Response_121_Quest 14833
+Response_121_Conditions 1
+Response_121_Condition_0_Type Quest
+Response_121_Condition_0_ID 14833
+Response_121_Condition_0_Status Ready
+Response_121_Condition_0_Logic Equal
+Response_121_Condition_0_Ignore_NPC False
+Response_121_Condition_0_Reset 
+
+Response_122_Dialogue 12136
+Response_122_Quest 14833
+Response_122_Conditions 2
+Response_122_Condition_0_Type Quest
+Response_122_Condition_0_ID 14833
+Response_122_Condition_0_Status Completed
+Response_122_Condition_0_Logic Equal
+Response_122_Condition_0_Ignore_NPC False
+
+Response_122_Condition_1_Type Quest
+Response_122_Condition_1_ID 14041
+Response_122_Condition_1_Status Completed
+Response_122_Condition_1_Logic Equal
+Response_122_Condition_1_Ignore_NPC False
+
+Response_122_Rewards 1
+Response_122_Reward_0_Type Quest
+Response_122_Reward_0_ID 14833
+
+Response_123_Dialogue 12136
+Response_123_Quest 14834
+Response_123_Conditions 2
+Response_123_Condition_0_Type Quest
+Response_123_Condition_0_ID 14834
+Response_123_Condition_0_Status None
+Response_123_Condition_0_Logic Equal
+Response_123_Condition_0_Ignore_NPC False
+
+Response_123_Condition_1_Type Quest
+Response_123_Condition_1_ID 14039
+Response_123_Condition_1_Status Completed
+Response_123_Condition_1_Logic Equal
+Response_123_Condition_1_Ignore_NPC False
+
+Response_123_Rewards 1
+Response_123_Reward_0_Type Quest
+Response_123_Reward_0_ID 14834
+
+Response_124_Dialogue 12136
+Response_124_Quest 14834
+Response_124_Conditions 1
+Response_124_Condition_0_Type Quest
+Response_124_Condition_0_ID 14834
+Response_124_Condition_0_Status Ready
+Response_124_Condition_0_Logic Equal
+Response_124_Condition_0_Ignore_NPC False
+Response_124_Condition_0_Reset 
+
+Response_125_Dialogue 12136
+Response_125_Quest 14834
+Response_125_Conditions 2
+Response_125_Condition_0_Type Quest
+Response_125_Condition_0_ID 14834
+Response_125_Condition_0_Status Completed
+Response_125_Condition_0_Logic Equal
+Response_125_Condition_0_Ignore_NPC False
+
+Response_125_Condition_1_Type Quest
+Response_125_Condition_1_ID 14039
+Response_125_Condition_1_Status Completed
+Response_125_Condition_1_Logic Equal
+Response_125_Condition_1_Ignore_NPC False
+
+Response_125_Rewards 1
+Response_125_Reward_0_Type Quest
+Response_125_Reward_0_ID 14834
+
+Response_126_Dialogue 12136
+Response_126_Quest 14835
+Response_126_Conditions 2
+Response_126_Condition_0_Type Quest
+Response_126_Condition_0_ID 14835
+Response_126_Condition_0_Status None
+Response_126_Condition_0_Logic Equal
+Response_126_Condition_0_Ignore_NPC False
+
+Response_126_Condition_1_Type Quest
+Response_126_Condition_1_ID 14036
+Response_126_Condition_1_Status Completed
+Response_126_Condition_1_Logic Equal
+Response_126_Condition_1_Ignore_NPC False
+
+Response_126_Rewards 1
+Response_126_Reward_0_Type Quest
+Response_126_Reward_0_ID 14835
+
+Response_127_Dialogue 12136
+Response_127_Quest 14835
+Response_127_Conditions 1
+Response_127_Condition_0_Type Quest
+Response_127_Condition_0_ID 14835
+Response_127_Condition_0_Status Ready
+Response_127_Condition_0_Logic Equal
+Response_127_Condition_0_Ignore_NPC False
+Response_127_Condition_0_Reset 
+
+Response_128_Dialogue 12136
+Response_128_Quest 14835
+Response_128_Conditions 2
+Response_128_Condition_0_Type Quest
+Response_128_Condition_0_ID 14835
+Response_128_Condition_0_Status Completed
+Response_128_Condition_0_Logic Equal
+Response_128_Condition_0_Ignore_NPC False
+
+Response_128_Condition_1_Type Quest
+Response_128_Condition_1_ID 14036
+Response_128_Condition_1_Status Completed
+Response_128_Condition_1_Logic Equal
+Response_128_Condition_1_Ignore_NPC False
+
+Response_128_Rewards 1
+Response_128_Reward_0_Type Quest
+Response_128_Reward_0_ID 14835
+
+Response_129_Dialogue 12136
+Response_129_Quest 14836
+Response_129_Conditions 2
+Response_129_Condition_0_Type Quest
+Response_129_Condition_0_ID 14836
+Response_129_Condition_0_Status None
+Response_129_Condition_0_Logic Equal
+Response_129_Condition_0_Ignore_NPC False
+
+Response_129_Condition_1_Type Quest
+Response_129_Condition_1_ID 14036
+Response_129_Condition_1_Status Completed
+Response_129_Condition_1_Logic Equal
+Response_129_Condition_1_Ignore_NPC False
+
+Response_129_Rewards 1
+Response_129_Reward_0_Type Quest
+Response_129_Reward_0_ID 14836
+
+Response_130_Dialogue 12136
+Response_130_Quest 14836
+Response_130_Conditions 1
+Response_130_Condition_0_Type Quest
+Response_130_Condition_0_ID 14836
+Response_130_Condition_0_Status Ready
+Response_130_Condition_0_Logic Equal
+Response_130_Condition_0_Ignore_NPC False
+Response_130_Condition_0_Reset 
+
+Response_131_Dialogue 12136
+Response_131_Quest 14836
+Response_131_Conditions 2
+Response_131_Condition_0_Type Quest
+Response_131_Condition_0_ID 14836
+Response_131_Condition_0_Status Completed
+Response_131_Condition_0_Logic Equal
+Response_131_Condition_0_Ignore_NPC False
+
+Response_131_Condition_1_Type Quest
+Response_131_Condition_1_ID 14036
+Response_131_Condition_1_Status Completed
+Response_131_Condition_1_Logic Equal
+Response_131_Condition_1_Ignore_NPC False
+
+Response_131_Rewards 1
+Response_131_Reward_0_Type Quest
+Response_131_Reward_0_ID 14836
+
+Response_132_Dialogue 12136
+Response_132_Quest 14837
+Response_132_Conditions 1
+Response_132_Condition_0_Type Quest
+Response_132_Condition_0_ID 14837
+Response_132_Condition_0_Status None
+Response_132_Condition_0_Logic Equal
+Response_132_Condition_0_Ignore_NPC False
+
+Response_132_Rewards 1
+Response_132_Reward_0_Type Quest
+Response_132_Reward_0_ID 14837
+
+Response_133_Dialogue 12136
+Response_133_Quest 14837
+Response_133_Conditions 1
+Response_133_Condition_0_Type Quest
+Response_133_Condition_0_ID 14837
+Response_133_Condition_0_Status Ready
+Response_133_Condition_0_Logic Equal
+Response_133_Condition_0_Ignore_NPC False
+Response_133_Condition_0_Reset 
+
+Response_134_Dialogue 12136
+Response_134_Quest 14837
+Response_134_Conditions 1
+Response_134_Condition_0_Type Quest
+Response_134_Condition_0_ID 14837
+Response_134_Condition_0_Status Completed
+Response_134_Condition_0_Logic Equal
+Response_134_Condition_0_Ignore_NPC False
+
+Response_134_Rewards 1
+Response_134_Reward_0_Type Quest
+Response_134_Reward_0_ID 14837
+
+Response_135_Dialogue 12136
+Response_135_Quest 14838
+Response_135_Conditions 1
+Response_135_Condition_0_Type Quest
+Response_135_Condition_0_ID 14838
+Response_135_Condition_0_Status None
+Response_135_Condition_0_Logic Equal
+Response_135_Condition_0_Ignore_NPC False
+
+Response_135_Rewards 1
+Response_135_Reward_0_Type Quest
+Response_135_Reward_0_ID 14838
+
+Response_136_Dialogue 12136
+Response_136_Quest 14838
+Response_136_Conditions 1
+Response_136_Condition_0_Type Quest
+Response_136_Condition_0_ID 14838
+Response_136_Condition_0_Status Ready
+Response_136_Condition_0_Logic Equal
+Response_136_Condition_0_Ignore_NPC False
+Response_136_Condition_0_Reset 
+
+Response_137_Dialogue 12136
+Response_137_Quest 14838
+Response_137_Conditions 1
+Response_137_Condition_0_Type Quest
+Response_137_Condition_0_ID 14838
+Response_137_Condition_0_Status Completed
+Response_137_Condition_0_Logic Equal
+Response_137_Condition_0_Ignore_NPC False
+
+Response_137_Rewards 1
+Response_137_Reward_0_Type Quest
+Response_137_Reward_0_ID 14838
+
+Response_138_Dialogue 12136
+Response_138_Quest 14839
+Response_138_Conditions 2
+Response_138_Condition_0_Type Quest
+Response_138_Condition_0_ID 14839
+Response_138_Condition_0_Status None
+Response_138_Condition_0_Logic Equal
+Response_138_Condition_0_Ignore_NPC False
+
+Response_138_Condition_1_Type Quest
+Response_138_Condition_1_ID 14044
+Response_138_Condition_1_Status Completed
+Response_138_Condition_1_Logic Equal
+Response_138_Condition_1_Ignore_NPC False
+
+Response_138_Rewards 1
+Response_138_Reward_0_Type Quest
+Response_138_Reward_0_ID 14839
+
+Response_139_Dialogue 12136
+Response_139_Quest 14839
+Response_139_Conditions 1
+Response_139_Condition_0_Type Quest
+Response_139_Condition_0_ID 14839
+Response_139_Condition_0_Status Ready
+Response_139_Condition_0_Logic Equal
+Response_139_Condition_0_Ignore_NPC False
+Response_139_Condition_0_Reset 
+
+Response_140_Dialogue 12136
+Response_140_Quest 14839
+Response_140_Conditions 2
+Response_140_Condition_0_Type Quest
+Response_140_Condition_0_ID 14839
+Response_140_Condition_0_Status Completed
+Response_140_Condition_0_Logic Equal
+Response_140_Condition_0_Ignore_NPC False
+
+Response_140_Condition_1_Type Quest
+Response_140_Condition_1_ID 14044
+Response_140_Condition_1_Status Completed
+Response_140_Condition_1_Logic Equal
+Response_140_Condition_1_Ignore_NPC False
+
+Response_140_Rewards 1
+Response_140_Reward_0_Type Quest
+Response_140_Reward_0_ID 14839
+
+Response_141_Dialogue 12136
+Response_141_Quest 14840
+Response_141_Conditions 2
+Response_141_Condition_0_Type Quest
+Response_141_Condition_0_ID 14840
+Response_141_Condition_0_Status None
+Response_141_Condition_0_Logic Equal
+Response_141_Condition_0_Ignore_NPC False
+
+Response_141_Condition_1_Type Quest
+Response_141_Condition_1_ID 14044
+Response_141_Condition_1_Status Completed
+Response_141_Condition_1_Logic Equal
+Response_141_Condition_1_Ignore_NPC False
+
+Response_141_Rewards 1
+Response_141_Reward_0_Type Quest
+Response_141_Reward_0_ID 14840
+
+Response_142_Dialogue 12136
+Response_142_Quest 14840
+Response_142_Conditions 1
+Response_142_Condition_0_Type Quest
+Response_142_Condition_0_ID 14840
+Response_142_Condition_0_Status Ready
+Response_142_Condition_0_Logic Equal
+Response_142_Condition_0_Ignore_NPC False
+Response_142_Condition_0_Reset 
+
+Response_143_Dialogue 12136
+Response_143_Quest 14840
+Response_143_Conditions 2
+Response_143_Condition_0_Type Quest
+Response_143_Condition_0_ID 14840
+Response_143_Condition_0_Status Completed
+Response_143_Condition_0_Logic Equal
+Response_143_Condition_0_Ignore_NPC False
+
+Response_143_Condition_1_Type Quest
+Response_143_Condition_1_ID 14044
+Response_143_Condition_1_Status Completed
+Response_143_Condition_1_Logic Equal
+Response_143_Condition_1_Ignore_NPC False
+
+Response_143_Rewards 1
+Response_143_Reward_0_Type Quest
+Response_143_Reward_0_ID 14840
+
+Response_144_Dialogue 12136
+Response_144_Quest 14841
+Response_144_Conditions 2
+Response_144_Condition_0_Type Quest
+Response_144_Condition_0_ID 14841
+Response_144_Condition_0_Status None
+Response_144_Condition_0_Logic Equal
+Response_144_Condition_0_Ignore_NPC False
+
+Response_144_Condition_1_Type Quest
+Response_144_Condition_1_ID 14044
+Response_144_Condition_1_Status Completed
+Response_144_Condition_1_Logic Equal
+Response_144_Condition_1_Ignore_NPC False
+
+Response_144_Rewards 1
+Response_144_Reward_0_Type Quest
+Response_144_Reward_0_ID 14841
+
+Response_145_Dialogue 12136
+Response_145_Quest 14841
+Response_145_Conditions 1
+Response_145_Condition_0_Type Quest
+Response_145_Condition_0_ID 14841
+Response_145_Condition_0_Status Ready
+Response_145_Condition_0_Logic Equal
+Response_145_Condition_0_Ignore_NPC False
+Response_145_Condition_0_Reset 
+
+Response_146_Dialogue 12136
+Response_146_Quest 14841
+Response_146_Conditions 2
+Response_146_Condition_0_Type Quest
+Response_146_Condition_0_ID 14841
+Response_146_Condition_0_Status Completed
+Response_146_Condition_0_Logic Equal
+Response_146_Condition_0_Ignore_NPC False
+
+Response_146_Condition_1_Type Quest
+Response_146_Condition_1_ID 14044
+Response_146_Condition_1_Status Completed
+Response_146_Condition_1_Logic Equal
+Response_146_Condition_1_Ignore_NPC False
+
+Response_146_Rewards 1
+Response_146_Reward_0_Type Quest
+Response_146_Reward_0_ID 14841
+
+Response_147_Dialogue 12136
+Response_147_Quest 14842
+Response_147_Conditions 2
+Response_147_Condition_0_Type Quest
+Response_147_Condition_0_ID 14842
+Response_147_Condition_0_Status None
+Response_147_Condition_0_Logic Equal
+Response_147_Condition_0_Ignore_NPC False
+
+Response_147_Condition_1_Type Quest
+Response_147_Condition_1_ID 14044
+Response_147_Condition_1_Status Completed
+Response_147_Condition_1_Logic Equal
+Response_147_Condition_1_Ignore_NPC False
+
+Response_147_Rewards 1
+Response_147_Reward_0_Type Quest
+Response_147_Reward_0_ID 14842
+
+Response_148_Dialogue 12136
+Response_148_Quest 14842
+Response_148_Conditions 1
+Response_148_Condition_0_Type Quest
+Response_148_Condition_0_ID 14842
+Response_148_Condition_0_Status Ready
+Response_148_Condition_0_Logic Equal
+Response_148_Condition_0_Ignore_NPC False
+Response_148_Condition_0_Reset 
+
+Response_149_Dialogue 12136
+Response_149_Quest 14842
+Response_149_Conditions 2
+Response_149_Condition_0_Type Quest
+Response_149_Condition_0_ID 14842
+Response_149_Condition_0_Status Completed
+Response_149_Condition_0_Logic Equal
+Response_149_Condition_0_Ignore_NPC False
+
+Response_149_Condition_1_Type Quest
+Response_149_Condition_1_ID 14044
+Response_149_Condition_1_Status Completed
+Response_149_Condition_1_Logic Equal
+Response_149_Condition_1_Ignore_NPC False
+
+Response_149_Rewards 1
+Response_149_Reward_0_Type Quest
+Response_149_Reward_0_ID 14842
+

@@ -1,0 +1,26 @@
+GUID 8298d5448d8f4f859f24609e63d294b2
+Type Magazine
+Rarity Rare
+ID 51041
+Size_X 1
+Size_Y 2
+Size_Z 0.1
+
+Amount 30
+Count_Min 15
+Count_Max 30
+
+Calibers 1
+Caliber_0 51001
+
+Tracer 51000
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51041 
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 32265
+Blueprint_1_Build 30

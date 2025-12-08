@@ -1,0 +1,13 @@
+GUID 3cc294d7362348ad9cf088e863ab97ae
+Type Medium
+Has_Clip_Prefab False
+ID 51000
+
+Master_Bundle_Override PBS.masterbundle
+Bundle_Override_Path /Objects/Medium/GluttonObjects/GluttonNumber4
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 52885
+Condition_0_Value 4
+Condition_0_Logic Equal

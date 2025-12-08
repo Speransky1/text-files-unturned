@@ -1,0 +1,8 @@
+GUID 8681dcad846445d0b9188853f19be3e3
+
+Type Effect
+ID 51014
+CameraShake_Radius 12
+CameraShake_MagnitudeDegrees 32
+Spawn_On_Dedicated_Server
+Relevant_Distance 5000

@@ -1,0 +1,11 @@
+﻿GUID bc5650f403664b6e8d4220734072c0cf
+
+Type Medium
+Has_Clip_Prefab false
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Control_Tower_0
+
+Master_Bundle_Override sovcore.masterbundle
+Bundle_Override_Path /Objects/Medium/SC_Door_0

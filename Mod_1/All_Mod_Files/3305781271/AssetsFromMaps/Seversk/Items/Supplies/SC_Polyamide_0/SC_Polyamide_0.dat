@@ -1,0 +1,46 @@
+﻿GUID c8208cf6b765409e854034383f6ce715
+
+Type Supply
+Rarity Rare
+ID 41804
+Size_X 2
+Size_Y 1
+Size_Z 0.32
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "159e927969ea4946a24602eaa05e3273 x 4" // Cloth
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this x 10
+		OutputItems "08f7e567ed3b42a086dad3b6a0de1606" // Polyamide Stack
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Stack
+Action_0_Tooltip Pile items together for free up space.
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Salvage
+Action_1_Tooltip Salvage into component materials.
+
+Add_Default_Actions false

@@ -1,0 +1,30 @@
+"Metadata"
+{
+	"GUID" "f07c34a2a7b14e2d9d76395c0a48d107"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Sofa/PBS_Sofa_Blue.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Sofa/PBS_Sofa_Red.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Sofa/PBS_Sofa_Yellow.mat"
+			
+			}
+			{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Sofa/PBS_Sofa_White.mat"
+		
+		}
+	]
+}

@@ -1,0 +1,19 @@
+﻿GUID 904f27129b104b5780014abb40436378
+
+Type Trap
+Useable Barricade
+Build Wire
+ID 41310
+Player_Damage 8
+Zombie_Damage 15
+Unrepairable
+Unpickupable
+Proof_Explosion
+Can_Be_Damaged False
+Has_Clip_Prefab false
+Health 1000
+Use_Auto_Stat_Descriptions false
+Size_X 1
+Size_Y 1
+Size_Z 1
+Can_Zombies_Target false

@@ -1,0 +1,17 @@
+GUID 328aa233fd1447f3ba872ed0a97e44de
+
+Type Small
+Has_Clip_Prefab false
+ID 58186
+
+Interactability Binary_State
+Interactability_Delay 2
+Interactability_Hint Use
+Interactability_Remote
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57039
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset

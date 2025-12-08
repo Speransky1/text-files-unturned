@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "0ecea54c06bf411bada974544b009578"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Garbage_Bag_0/Garbage_Bag_0_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Garbage_Bag_0/Garbage_Bag_1_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Garbage_Bag_0/Garbage_Bag_2_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Garbage_Bag_0/Garbage_Bag_3_M.mat"
+		}
+	]
+}

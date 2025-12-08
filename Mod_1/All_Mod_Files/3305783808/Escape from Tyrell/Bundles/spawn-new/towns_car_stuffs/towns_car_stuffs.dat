@@ -1,0 +1,107 @@
+GUID cb7c8c72a3bc4bcfbfc67984892e4cc4
+Type Spawn
+ID 10103
+
+Tables
+[
+	{
+		// Поршень (Supply Item)
+		Guid d27747f60edd451290f438bc231144a3
+		Weight 70
+	}
+	{
+		// Прокладка головки (Supply Item)
+		Guid c8e661de6aff43afa87946a1389469e8
+		Weight 65
+	}
+	{
+		// Пружина подвески (Supply Item)
+		Guid 919cd732c361453f9c49e25edb94373f
+		Weight 60
+	}
+	{
+		// Белый предохранитель (Supply Item)
+		Guid 8db351dc3bb44d109d5e68dde8a0b869
+		Weight 60
+	}
+	{
+		// Автомобильная магнитола (Supply Item)
+		Guid 32450b44ece144879d90455efd68b41d
+		Weight 55
+	}
+	{
+		// Автомобильный генератор переменного тока (Supply Item)
+		Guid 8da6ee9805f343c09373fbfaebd6f49d
+		Weight 55
+	}
+	{
+		// Турбонагнетатель (Supply Item)
+		Guid ef80f498554049a9bbd82d600455e420
+		Weight 50
+	}
+	{
+		// Моторное масло (Water Item)
+		Guid c2d1d61b6af34250a854d6cf07ee2ec4
+		Weight 50
+	}
+	{
+		// Канистра (Fuel Item)
+		Guid 95a4857e4b1a41b2b6e9c99a557e5624
+		Weight 50
+	}
+	{
+		// Цепь пилы (Supply Item)
+		Guid 4e3489379a9e49ba8ff1ee9ea635408a
+		Weight 45
+	}
+	{
+		// Свеча зажигания (Supply Item)
+		Guid 6fa88a8b09a442f898c66abc972c939e
+		Weight 45
+	}
+	{
+		// Смазка (Water Item)
+		Guid ff758a89bc4d4fc9bf5c8c61fcc02265
+		Weight 45
+	}
+	{
+		// Керосин (Supply Item)
+		Guid daf56b18e29f456f83577afd9e7c1882
+		Weight 40
+	}
+	{
+		// Аккумуляторная кислота (Water Item)
+		Guid ad0ee23c7dc94153bbe5235bc07c6168
+		Weight 30
+	}
+	{
+		// Канистра с нефтью (Barricade Item)
+		Guid f423d4a2d3054862bfdd9695b6e0b999
+		Weight 30
+	}
+	{
+		// Carjack  (Tool Item)
+		Guid 38c688b300944ba8b8118079e8fed0b5
+		Weight 25
+	}
+	{
+		// Vehicle Battery  (Vehicle Repair Tool Item)
+		Guid a9c5e916c29646fdba9d08f6a7ce02b6
+		Weight 20
+	}
+	{
+		// Ящик для инструментов (Supply Item)
+		Guid 431258df4bb94e3dbed63cc925981ee4
+		Weight 15
+	}
+	{
+		// Промышленная канистра (Fuel Item)
+		Guid 0a543e5b37a64163ac3a7bfa2acf4bb4
+		Weight 5
+	}
+	{
+		// Машинный двигатель (Barricade Item)
+		Guid a593946f773244c98c16c7b69430db7e
+		Weight 1
+	}
+]

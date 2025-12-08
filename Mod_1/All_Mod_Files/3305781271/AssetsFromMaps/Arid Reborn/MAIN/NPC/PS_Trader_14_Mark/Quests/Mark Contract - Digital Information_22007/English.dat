@@ -1,0 +1,5 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Mark Contract - Digital Information
+Description Bring me 7x <color=#C832FA>Red Circuit Board</color>, 1x <color=#C832FA>Armory Keycard</color>, mark Server Rooms on Point Lima and Fort Kneel & kill 500x zombies.
+Condition_2 {0}/{1} Planted Markers
+Condition_3 {0}/{1} Zombies

@@ -1,0 +1,6 @@
+Name Metro Vault Entrance #1
+
+Interactability_Condition_0 Sacrifice a <color=#C832FA>Scripture</color> at the Town or Gas Station
+Interactability_Condition_1 Complete <color=#B522B7>Punisher Part 3</color>
+
+Interact Enter [{0}]

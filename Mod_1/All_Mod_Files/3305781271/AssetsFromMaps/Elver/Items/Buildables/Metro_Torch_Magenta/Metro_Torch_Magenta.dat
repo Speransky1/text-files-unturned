@@ -1,0 +1,30 @@
+GUID f187e39c5f70469f92108a167bc92d94
+
+Type Barricade
+Has_Clip_Prefab false
+Rarity Rare
+Useable Barricade
+Build Torch
+ID 57590
+
+Size_X 1
+Size_Y 2
+Size_Z 0.6
+
+Health 250
+Range 4
+Offset 0.2
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 42
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 57221  
+Blueprint_0_Supply_1_Amount
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27
+Blueprint_0_Map Elver
+Blueprint_0_Products 2

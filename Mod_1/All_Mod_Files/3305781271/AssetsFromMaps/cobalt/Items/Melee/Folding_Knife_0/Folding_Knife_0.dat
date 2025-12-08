@@ -1,0 +1,56 @@
+GUID 72addfd2b77746488267fe8cf5d3c16a
+
+Type Melee
+Rarity Uncommon
+Useable Melee
+Slot Any
+ID 17043
+
+Size_X 1
+Size_Y 2
+Size_Z 0.46
+
+Range 1.75
+Strength 1.5
+Weak 0.28
+Strong 0.31
+Stamina 10
+
+Player_Damage 51
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.2
+
+
+Zombie_Damage 80
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.6
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 80
+Animal_Leg_Multiplier 0.7
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.5
+
+Barricade_Damage 30
+Structure_Damage 30
+Vehicle_Damage 1
+Resource_Damage 90
+Object_Damage 10
+
+Durability 0.2
+Movement_Speed_Multiplier 1.05
+AttackAudioClip Sounds/MeleeAttack_0.ogg
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59000
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements True
+
+Use_Auto_Stat_Descriptions false

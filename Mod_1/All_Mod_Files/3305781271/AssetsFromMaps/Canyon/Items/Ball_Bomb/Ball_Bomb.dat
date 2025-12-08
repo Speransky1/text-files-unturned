@@ -1,0 +1,20 @@
+GUID e65e95bd3a1d49638e69c699ae5fdb86
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 28017
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Player_Damage 55
+Zombie_Damage 200
+Animal_Damage 200
+
+Range 7
+Explosion 28006
+
+Explosive
+Explode_On_Impact
+Fuse_Length 4

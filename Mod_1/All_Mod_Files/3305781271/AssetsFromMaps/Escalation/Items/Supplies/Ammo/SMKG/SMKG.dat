@@ -1,0 +1,20 @@
+GUID 2f55d3d29ccc44b0824954ebaf5dd17b
+
+Type Magazine
+Rarity Legendary
+ID 51043
+
+Explosion 51015
+Explosive
+Size_X 1
+Size_Y 1
+Size_Z 0
+Projectile_Damage_Multiplier 0
+
+Amount 1
+
+Calibers 1
+Caliber_0 20
+
+
+Use_Auto_Stat_Descriptions false

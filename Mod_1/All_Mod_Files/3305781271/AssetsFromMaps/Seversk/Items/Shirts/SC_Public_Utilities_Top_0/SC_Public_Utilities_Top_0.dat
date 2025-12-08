@@ -1,0 +1,51 @@
+﻿GUID 3aefe297ea2a4362a83971785c314353
+
+Type Shirt
+Rarity Uncommon
+Useable Clothing
+ID 41525
+Size_X 3
+Size_Y 2
+Size_Z 0.55
+
+Width 5
+Height 2
+Quality_Min 20
+Quality_Max 70
+Use_Auto_Stat_Descriptions False
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems
+		[
+			"4b74f6b14f4f414fb8fc80329870e807 x 2" // Spool Thread
+			"159e927969ea4946a24602eaa05e3273 x 2" // Cloth
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Use_Auto_Icon_Measurements false

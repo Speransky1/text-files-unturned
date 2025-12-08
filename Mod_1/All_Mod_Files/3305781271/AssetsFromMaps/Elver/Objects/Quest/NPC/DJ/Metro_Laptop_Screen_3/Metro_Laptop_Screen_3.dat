@@ -1,0 +1,13 @@
+GUID d77df8ac24f349f9803d8e5d4f5c0b85
+
+Type Small
+Has_Clip_Prefab false
+ID 57536
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57202
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Asset_Bundle_Version 2

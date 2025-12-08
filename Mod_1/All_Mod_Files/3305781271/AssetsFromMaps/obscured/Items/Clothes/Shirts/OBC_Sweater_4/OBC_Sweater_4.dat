@@ -1,0 +1,17 @@
+GUID a3b0f732a7f041ababeda9938c52d3d2
+
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 39123
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

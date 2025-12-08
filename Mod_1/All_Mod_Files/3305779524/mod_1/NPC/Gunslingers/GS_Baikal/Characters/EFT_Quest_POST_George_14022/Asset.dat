@@ -1,0 +1,22 @@
+﻿// Made in NPC Maker by BowieD
+GUID 7bd4e80aa10e47b097b50d5d4fe28e19
+ID 14022
+Type NPC
+Shirt 59092
+Pants 59183
+Vest 56244
+Secondary 59545
+Face 21
+Beard 0
+Hair 3
+Color_Skin #D9CAB4
+Color_Hair #706049
+Pose Stand
+Dialogue 12045
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 14027
+Condition_0_Status Active
+Condition_0_Logic Equal
+Condition_0_Ignore_NPC False
+

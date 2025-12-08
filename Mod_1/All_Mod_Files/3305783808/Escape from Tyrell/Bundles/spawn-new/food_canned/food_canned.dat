@@ -1,0 +1,47 @@
+GUID a09a148543524a6786aff7c470a0bb70
+Type Spawn
+ID 10107
+
+Tables
+[
+	{
+		// Консервированные бобы (Food Item)
+		Guid 425f13a35553433f889a0f95092ce0b4
+		Weight 30
+	}
+	{
+		// Консервированная курица (Food Item)
+		Guid e9aa3e78f5064268bc77140d415d74b5
+		Weight 30
+	}
+	{
+		// Консервированная рыба (Food Item)
+		Guid b620f40210df4023bcf3fb955d272fa5
+		Weight 30
+	}
+	{
+		// Консервированная рыба (Food Item)
+		Guid e9c371e9f89a4dcf91f9773e845db814
+		Weight 30
+	}
+	{
+		// Консервированный ананас (Food Item)
+		Guid 2b18d26b075343199c88de164eabff7a
+		Weight 30
+	}
+	{
+		// Латышские сардины (Food Item)
+		Guid 5cb1b30eb9c64d1b9ead670029235f8a
+		Weight 30
+	}
+	{
+		// Корм для собак (Food Item)
+		Guid deb40346f3eb4d888e98b1ab067e03c4
+		Weight 10
+	}
+	{
+		// Тушёнка (Food Item)
+		Guid 0562590236a443c197c5e04156272455
+		Weight 5
+	}
+]

@@ -1,0 +1,29 @@
+GUID 78cf810c2b67419493a4c8c70c2b6636
+
+
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 41586
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 5
+Height 5
+Armor 0.7
+Armor_Explosion 0.7
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Quality_Min 15
+Quality_Max 30
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+Use_Auto_Icon_Measurements true

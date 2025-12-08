@@ -1,0 +1,874 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Weapons
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Handguns
+
+Agent - 30000
+Burette - 30001
+C99 - 30002
+C99 Gold - 30003
+Chechkyn - 30004
+CO45 - 30005
+CO45 Gold - 30006
+COS1919L - 30007
+DF-357 - 30008
+DF-9A - 30009
+DF-357 Gold - 30010 
+DF-357L - 30011
+Kaiser - 30012
+Kasov - 30013
+Kasovichok - 30014
+P520 - 30015
+Parabelum - 30016
+Peacemaker - 30017
+PG22 - 30018
+PG22-S - 30019
+SW-50 - 30020
+SW-50 "Juggernaut" - 30021
+SPS17-A - 30022
+SPS17 Gold- 30023
+SPS17 - 30024
+Stiletto - 30025
+TC-9 - 30026
+TC-9 Mod - 30027
+Tokarik - 30028
+Waltz - 30029
+Makeshift Pistol - 30030
+
+
+Shotguns
+
+AW-12 - 30100
+Auto-6 - 30101
+Boomstick - 30102
+Brut-12 - 30103
+Buffalo - 30104
+Franchi - 30105
+M2 Shotgun - 30106
+Magisterclef - 30107
+Magisterclef-Off - 30108
+Masterkey - 30109
+Masterkey-Off - 30110
+MT625 - 30111
+MT625-Off - 30112
+Oldmodel - 30113
+Oldmodel - 30114
+R11 - 30115
+R11-S - 30116
+R780 - 30117
+R780-Off - 30118
+Serna-12 - 30119
+Serna-12 Mod - 30120
+Makeshift Shotgun - 30121
+M4 Shotgun - 30122
+
+
+SMG
+
+AR-Pro - 30200
+Auger SMG - 30201
+Bunshee - 30202
+Bruger - 30203
+Defender - 30204
+Elka - 30205
+Kaban - 30206
+Kazak - 30207
+PMX - 30208
+PP-3000 - 30209
+PRO90 - 30210
+PRO90 - 30211
+PRO90 - 30212
+PRO90 - 30213
+Schmeisser - 30214
+Schmeisser Mod - 30215
+Scorpion - 30216
+Scorpion Mod - 30217
+Shpagin - 30218
+Snake-P5 - 30219
+Snake-P5 Mod - 30220
+Snake-P5K - 30221
+-------- - 30222
+TKB - 30223
+TX45 - 30224
+Uzy - 30225
+Uzy Pro - 30226
+Vermin - 30227
+Makeshift SMG - 30228
+
+
+Assault Rifles
+
+AR-16 - 30300
+AR-16B - 30301
+AR-16GL - 30302
+AR-20 - 30303
+AR Gold - 30304
+ARC - 30305
+Auger - 30306
+Auger Mod - 30307
+Bezyl - 30308
+Commando - 30309
+Craig - 30310
+Drago - 30311
+Drago Gold - 30312
+Drago Tactical - 30313
+Foxhound - 30314
+Foxhound-GL - 30315
+Golem - 30316
+GP11 - 30317
+GP460 - 30318
+GP460 - 30319
+GP460 - 30320
+GP460K - 30321
+Groza - 30322
+Groza-S - 30323
+Kalakov - 30324
+Kalakov - 30325
+Kalakov Mod - 30326
+LeMas - 30327
+LSR - 30328
+Maplestrike - 30329
+Al-Musaytir - 30330
+MX-8 - 30331
+N4 - 30332
+N4 Mod - 30333
+Nikonov - 30334
+PDW - 30335
+Sentinel-L - 30336
+Sentinel-K - 30337
+SL-VA - 30338
+Sterling - 30339
+STG - 30340
+STG Mod - 30341
+Storm - 30342
+Tarov - 30343
+Tikhiy - 30344
+Vepr - 30345
+Zolakov - 30346
+Zolash - 30347
+Zolash-B - 30348
+Zolash-12 - 30349
+Zolash-R - 30350
+Zolash Bolt - 30351
+Zolash-GL - 30352
+Zolash Gold - 30353
+Zolash Mod 100 - 30354
+Zolash Mod 0 - 30355
+Zolash Mod 0-R - 30356
+SL-VA Mod - 30357
+
+
+Battle Rifles
+
+FA-Leger - 30405
+FA-Leger Mod - 30406
+Gewehr - 30407
+Honey Bee Proto A - 30412
+Longinus - 30413
+Paratrooper - 30415
+Riger - 30418
+FN Scalio - 30420
+WKM - 30422
+
+
+Marksman Rifles
+
+ARAD - 30400
+SAR-20 - 30401
+Commando-W - 30402
+EBR-280 - 30403
+EBR-280 - 30404
+GP28 - 30408
+Honey Bee - 30409
+Honey Bee S - 30410
+Honey Bee Proto - 30411
+MI10 - 30414
+Razved - 30416
+Razved Tactical - 30417
+SAR-16 - 30419
+Zolashka - 30423
+FN Scalio-R - 30421
+
+
+Machineguns
+
+Bozar - 30500
+Drachenzahn - 30501
+Drachenzahn Mod - 30502
+K249 - 30503
+Sabot MG - 30504
+M90 - 30505
+MKP - 30506
+MKP Mod - 30507
+Zolashniy - 30508
+Augerwehr - 30509
+Karus-27 - 30510
+
+
+Sniper
+
+AMR - 30600
+CheyTac - 30601
+Drakonov - 30602
+Drakonov Mod - 30603
+DTRP - 30604
+Harvester - 30605
+Hecate - 30606
+Huntsman - 30607
+L97 - 30608
+Lonewolf - 30609
+Longshot - 30610
+Longschot-Off - 30611
+M22-A - 30612
+M68 - 30613
+Nagant - 30614
+Nagant-Off - 30615
+Nemesis - 30616
+-------- - 30617
+-------- - 30618
+Puma - 30619
+Raven - 30620
+Raven-24 - 30621
+Raven-24R - 30622
+Scout - 30623
+Shadow-5 - 30624
+SV-68 - 30625
+T-22 - 30626
+UVS - 30627
+Van98 - 30628
+Vintar - 30629
+Vintar Mod - 30630
+Win - 30631
+Win Gold - 30632
+Windrunner M92 - 30633
+Corsac - 30634
+Makeshift Rifle - 30635
+Colonizer - 30636
+Charles Carabine - 30637
+Musket - 30638
+
+
+Launchers
+
+Chepirka - 30700
+GRM-40 - 30701
+GROM - 30702
+Helicon - 30703
+LAW - 30704
+MGL - 30705
+Muha-26 - 30706
+Panzer - 30707
+RPG - 30708
+Trumper - 30709
+Mustang - 30710
+
+
+Special
+
+AR-16 Nail - 30800
+Chainsaw - 30801
+Chainsaw Admin - 30802
+Desperado - 30803
+Flamethrower - 30804
+Focus Blaster - 30805
+Focus Rifle - 30806
+Nailgun - 30807
+Nailgun Mk-2 - 30808
+Railgun - 30809
+Remover - 30810
+Crossbow - 30811
+Compound Bow - 30812
+Makeshift Bow - 30813
+Shadowstalker - 30814
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Ammunition and Magazines
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Target Ammunition - 31000
+
+Target Mag - 31000
+Target Mag Extended - 31001
+Target Mag Drum - 31002
+Target Ammobox - 31003
+
+
+Swift Ammunition - 31010
+
+C99 Mag - 31010
+Kaban Mag - 31011
+PRO90 Mag - 31012
+Shpagin Drum - 31013
+SMG Mag - 31014
+SMG Mag Drum - 31015
+Swift Ammobox - 31016
+Swift Mag - 31017
+Swift Extended Mag - 31018
+
+
+Magnum Ammunition - 31020
+
+Magnum Ammobox - 31020
+Pass Mag - 31021
+Magnum Fastloader - 31022
+SMG-M Mag - 31023
+SMG-M Mag Extended - 31024
+
+
+Gauge Buckshot Ammunition - 31030
+
+12-Gauge Ammo (6) - 31030
+12-Gauge Ammo (2) - 31031
+12-Gauge Ammo Box - 31032
+Shotgun Mag - 31033
+Shotgun Drum - 31034
+
+
+Gauge Slugs Ammunition - 31040
+
+12-Gauge Ammo (6) - 31040
+12-Gauge Ammo (2) - 31041
+12-Gauge Ammo Box - 31042
+Shotgun Mag - 31043
+Shotgun Drum - 31044
+
+
+Gauge Frag Ammunition - 31050
+
+12-Gauge Ammo (6) - 31050
+12-Gauge Ammo (2) - 31051
+12-Gauge Ammo Box - 31052
+Shotgun Mag - 31053
+Shotgun Drum - 31054
+
+
+Intermediate Ammunition - 31060
+
+AR Drum - 31060
+AR Casket Mag - 31061
+AR Large Drum - 31062
+AR Mag - 31063
+AR P-Mag (Black) - 31064
+AR P-Mag (Tan) - 31065
+AR Short Mag - 31066
+GP11 Mag - 31067
+Intermediate Ammo Box - 31068
+Intermediate Ammo Package - 31069
+K249 Box - 31070
+Moderate Mag - 31071
+
+
+Ranger Ammunition - 31080
+
+Covert Mag - 31080
+Covert Extended Mag - 31081
+Drachenzahn Box - 31082
+Ranger Ammo Box - 31083
+Ranger Ammo Package - 31084
+Recon Mag - 31085
+Zolakov Mag - 31086
+Zolash Drum - 31087
+Zolash Drum Gold - 31088
+Zolash Extended Mag - 31089
+Zolash Extended Mag (100) - 31090
+Zolash Mag - 31091
+Zolash P-Mag - 31092
+Zolash Short Mag - 31093
+Karus-27 Mag - 31116
+
+Precision Ammunition - 31110
+
+Bozar Box - 31110
+M90 Box - 31111
+MKP Box - 31112
+Precision Ammobox - 31113
+Precision Mag - 31114
+Precision Drum - 31115
+HoneyBee Mag - 31100
+WKM Mag - 31102
+
+Hypervelocity Ammunition - 31120
+
+DMR Mag (10) - 31120
+DMR Mag (20) - 31121
+Drakonov Mag - 31122
+Hypervelocity Rounds - 31123
+Hypervelocity Ammobox - 31124
+Hypervelocity Mag - 31125
+
+
+Anti-Material Ammunition - 31130
+
+Anti-Material Mag - 31130
+Anti-Materiel Ammo Package - 31131
+
+
+Tracer Ammunition - 31140
+
+AR Tracer Mag - 31140
+Tracer Ammo Belt - 31141
+Zolash Tracer Mag - 31142
+Zolash Tracer Mag Tan - 31143
+
+
+Frag-Ammunition - 31150
+
+AR FRAG Mag - 31150
+Chainsaw Drum - 31151
+Drachenzahn FRAG Box - 31152
+FRAG Ammo Belt - 31153
+HoneyBee FRAG Mag - 31154
+K249 FRAG Mag - 31155
+MKP FRAG Box - 31156
+Zolash FRAG Mag - 31157
+M90 FRAG Mag - 31158
+
+
+Other Ammunition - 31160
+
+Chepirka Rockets - 31160
+DRTP Bullet - 31161
+Flamethrower Tank - 31162
+Focus Cell - 31163
+Helicon Rocket - 31164
+LAW Rocket - 31165
+Nailgun Mag - 31166
+Nailgun Mag S - 31167
+Panzer Rocket - 31168
+Railgun Box - 31169
+Rangerfinder Battery - 31170
+RPG HE Warhead - 31171
+RPG Frag Warhead - 31172
+Mustang HE Rocket - 31173
+Mustang Frag Rocket - 31174
+Sabot Drum - 31175
+Wooden Arrow - 31176
+Metal Arrow - 31177
+Explosive Arrow - 31178
+Musket Ammo - 31179
+Shadowstalker Battery - 31192
+
+Nades
+
+HE
+
+VOG HE Nades - 31180
+VOG HE Nade - 31181
+USGL HE Nades - 31182
+USGL HE Nade - 31183
+
+Rubber
+
+USGL Rubber Nades - 31184
+USGL Rubber Nade - 31185
+
+Smoke
+
+VOG Smoke Nades - 31186
+VOG Smoke Nade - 31187
+USGL Smoke Nades - 31188
+USGL Smoke Nade - 31189
+
+Toxic
+
+USGL Toxic Nades - 31190
+USGL Toxic Nade - 31191
+VOG Gas Nades - 31193
+VOG Gas Nade - 31194
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Attachments
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Suppressors - 31200
+
+AR Suppressor (Black) - 31200
+AR Suppressor (Tan) - 31201
+----- - 31202
+Nailgun Suppressor - 31203
+Pistol Suppressor - 31204
+Shotgun Suppressor - 31205
+SMG Suppressor - 31206
+Sniper Suppressor - 31207
+WKM Suppressor - 31208
+Zolash Suppressor - 31209
+Makeshift Suppressor - 31210
+
+
+Muzzles - 31220
+
+AR Muzzle Brake - 31220
+Pistol Muzzle Brake - 31221
+SMG Muzzle Brake - 31222
+Zolash Muzzle Brake - 31223
+Zolash Muzzle Brake Gold - 31224
+DMR Muzzle Brake - 31225
+
+
+Tacticals - 31230
+
+Gas Compressor Overload Module - 31230
+Improved Fire Delay Module - 31231
+COS1919L Laser - 31232
+Tactical Light (Red) - 31233
+Tactical Light (White) - 31234
+Rangefinder - 31235
+Target Pointer (Black) - 31236
+Target Pointer (Tan) - 31237
+
+
+Grips - 31240
+
+Horizontal Grip (Black) - 31240
+Horizontal Grip (Tan) - 31241
+Horizontal ESP Grip (Black) - 31242
+Horizontal ESP Grip (Tan) - 31243
+Mini Vertical Grip - 31244
+Vertical Grip (Black) - 31245
+Vertical Grip (Tan) - 31246
+D-Vertical Grip (Black) - 31247
+D-Vertical Grip (Tan) - 31248
+Vertical ESP Grip (Black) - 31249
+Vertical ESP Grip (Tan) - 31250
+Zolash Wooden Forend - 31251
+Zolash Wooden Grip - 31252
+Zolash Polymer Grip - 31253
+
+
+Bipods - 31260
+
+----- - 31260
+----- - 31261
+Rail Bipods (Open) - 31262
+Rail Bipods (Close) - 31263
+Integrated Bipods (Open) - 31264
+Integrated Bipods (Close) - 31265
+
+
+Scopes - 31270
+
+8x Scope (Black) - 31271
+8x Scope (Tan) - 31272
+8x Nightvision Scope - 31273
+Assault Scope (Black) - 31274
+Assault Scope (Tan) - 31275
+Bluesteel Scope - 31276
+Chevron Scope (Black) - 31277
+Chevron Scope (Tan) - 31278
+Pistol Scope - 31279
+Foxhound Scope - 31280
+GP11 Scope - 31281
+Groza Scope - 31282
+Halotech Scope (Black) - 31283
+Halotech Scope (Tan) - 31284
+Hunting Scope - 31285
+MX-8 Scope - 31286
+Nemesis Scope (Black) - 31287
+Nemesis Scope (Tan) - 31288
+Overwatch Scope (Black) - 31289
+Overwatch Scope (Tan) - 31290
+Phantom Scope (Tan) - 31291
+Phantom Scope (Black) - 31292
+Phantom Nightvision Scope - 31293
+OSP-M Scope - 31294
+OSP Scope - 31295
+Ranger Scope (Black) - 31296
+Ranger Scope (Tan) - 31304
+Redline Scope - 31297
+RPG Scope - 31298
+Sentinel Scope - 31299
+Shishka Scope - 31300
+SPUN Scope - 31301
+UP Scope - 31302
+Win Scope - 31303
+Auger Scope - 31305
+Shadowstalker Scope - 31306
+
+
+Sights - 31350
+
+Holo Sight - 31350
+Ghost Sight (Green) - 31351
+Ghost Sight (Red) - 31352
+Halotech Sight (Black) - 31353
+Halotech Sight (Tan) - 31354
+Kobra Sight - 31355
+OK-0 Sight - 31356
+PKO Sight - 31357
+Panoramic Sight - 31358
+Pistol Dot Sight - 31359
+Pistol Chevron Sight - 31360
+Pistol Cross Sight - 31361
+WKM Holo Sight - 31362
+Reflex Sight - 31363
+
+
+Irons - 31400
+
+AR-16 Irons Soght - 31400
+AR-20 Iron Sight - 31401
+AR Grip Iron Sight - 31402
+Auger Iron Sight - 31403
+Commando Iron Sight - 31404
+HoneyBee Iron Sight - 31405
+LSR556 Iron Sight - 31406
+Maplestrike Iron Sight - 31407
+PDW Iron Sight - 31408
+PMX Iron Sight - 31409
+RPG Iron Sight - 31410
+FN Scalio Iron Sight - 31411
+Scorpion Iron Sight - 31412
+Sterling Iron Sight - 31413
+TX45 Irons Sight - 31414
+Zolash-12 Irons Sight - 31415
+Crossbow Irons Sight - 31416
+
+
+Other - 31450
+
+Chepirka Scope - 31450
+Helicon Scope - 31451
+Rangefinder Display - 31452
+Auger Scope - 31453
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Grenades - 31500
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+F-1 Grenade - 31500
+Flashbang - 31501
+HCG - 31502
+M-26 Grenade - 31503
+M-67 Grenade - 31504
+DRG Grenade - 31505
+OGR Grenade - 31506
+Purple Smoke Grenade - 31507
+White Smoke Grenade - 31508
+Stick Grenade - 31509
+Stick Grenade Bomb - 31510
+Thermobaric Grenade - 31511
+Throwable Brick - 31512
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Other - 31550
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Detonator - 31550
+Rangefinder Tool - 31553
+Walkie-Talkie - 31554
+
+Composite Plastid Charge - 31575
+Demolition Charge - 31576
+Guitar Case - 31577
+Landmine - 31599
+Minefield Landmine - 31578
+Minefield Landmine Tan - 31579
+Weapon Case (Green) - 31580
+Weapon Case (Desert) - 31581
+
+Grenade Box (F1) - 31582
+Grenade Box (M67) - 31583
+------ - 31584
+Magnifer - 31585
+------ - 31586
+Weapon Mod Kit - 31587
+Weapon Repair Kit - 31588
+Armor Mod Kit - 31600
+Armor Repair Kit - 31601
+
+Weapon Case (AW-12) - 31620    Desert
+Weapon Case (AR-PRO) - 31621
+Weapon Case (ARC) - 31622
+Weapon Case (Bezyl) - 31623
+Weapon Case (Bozar) - 31624    Desert
+Weapon Case (Minigun) - 31625    Desert
+Weapon Case (Craig) - 31626
+Weapon Case (GP11) - 31627
+Weapon Case (GP460k) - 31628    Desert
+Weapon Case (Sabot-MG) - 31629
+Weapon Case (M4 Shotgun) - 31630
+Weapon Case (PRO90) - 31631   Desert
+Weapon Case (Puma) - 31632
+Weapon Case (Raven-24) - 31633   Desert
+Weapon Case (UVS) - 31634
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Clothing and Armor - 31700
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Hats - 31700
+
+Black Boonie Hat - 31700
+Coalition Boonie Hat - 31701
+Desert Boonie Hat - 31702
+Green Boonie Hat - 31703
+Olive Boonie Hat - 31704
+White Boonie Hat - 31729
+
+Black Military Beret - 31730
+Coalition Military Beret - 31731
+Desert Military Beret - 31732
+Green Military Beret - 31733
+Olive Military Beret - 31734
+White Military Beret - 31735
+Spec Ops Beret - 31736
+
+Black Military Cap - 31705
+Coalition Military Cap - 31706
+Desert Military Cap - 31707
+Green Military Cap - 31708
+Olive Military Cap - 31709
+White Military Cap - 31710
+
+Black Military Helmet - 31711
+Coalition Military Helmet - 31712
+Desert Military Helmet - 31713
+Green Military Helmet - 31714
+Olive Military Helmet - 31715
+White Military Helmet - 31716
+
+Heavy Black Military Helmet - 31717
+Heavy Coalition Military Helmet - 31718
+Heavy Desert Military Helmet - 31719
+Heavy Green Military Helmet - 31720
+Heavy Olive Military Helmet - 31721
+Heavy White Military Helmet - 31722
+
+Police Cap - 31723
+Police Helmet - 31724
+Spec Ops Helmet - 31725
+Heavy Spec Ops Helmet - 31726
+
+Military Helmet (Russia) - 31727
+Heavy Military Helmet (Russia) - 31728
+
+
+
+Vests - 31750
+
+Civilian Vest - 31750
+
+Black Gear Vest - 31751
+Coalition Gear Vest - 31752
+Desert Gear Vest - 31753
+Green Gear Vest - 31754
+Olive Gear Vest - 31755
+White Gear Vest - 31756
+
+Black Military Vest - 31757
+Coalition Military Vest - 31758
+Desert Military Vest - 31759
+Green Military Vest - 31760
+Olive Military Vest - 31761
+White Military Vest - 31762
+
+Heavy Black Military Vest - 31763
+Heavy Coalition Military Vest - 31764
+Heavy Desert Military Vest - 31765
+Heavy Green Military Vest - 31766
+Heavy Olive Military Vest - 31767
+Heavy White Military Vest - 31768
+
+Police Vest - 31769
+Spec Ops Vest - 31770
+Heavy Spec Ops Vest - 31771
+
+Military Vest (Russia) - 31772
+Heavy Military Vest (Russia) - 31773
+
+
+
+Shirts - 31800
+
+Black Miliary Top - 31800
+Coalition Miliary Top - 31801
+Desert Miliary Top - 31802
+Green Miliary Top - 31803
+Olive Miliary Top - 31804
+White Miliary Top - 31805
+Spec Ops Top - 31806
+
+
+
+Pants - 31820
+
+Black Miliary Pants - 31820
+Coalition Miliary Pants - 31821
+Desert Miliary Pants - 31822
+Green Miliary Pants - 31823
+Olive Miliary Pants - 31824
+White Miliary Pants - 31825
+Spec Ops Pants - 31826
+
+
+
+Masks - 31850
+
+Black Balaklava - 31850
+Desert Balaklava - 31851
+Olive Balaklava - 31852
+White Balaklava - 31853
+Black Bandana - 31854
+Desert Bandana - 31855
+Olive Bandana - 31856
+White Bandana - 31857
+Gasmask - 31858
+Civilian Nightvision - 31859
+Military Nightvision - 31860
+Black Ski Mask - 31861
+Desert Ski Mask - 31862
+Olive Ski Mask - 31863
+White Ski Mask - 31864
+Tactical Headphones - 31865
+
+
+
+Backpacks - 31875
+
+Desert Alicepack - 31875
+Green Alicepack - 31876
+White Alicepack - 31877
+Spec Ops Backpack - 31878
+
+
+
+
+
+
+

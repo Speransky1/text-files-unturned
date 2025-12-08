@@ -1,0 +1,16 @@
+GUID b15012ac19e143d59717036e9cdc2f3d
+Type Supply
+ID 51060
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 51020
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 51313
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27

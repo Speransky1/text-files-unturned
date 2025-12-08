@@ -1,0 +1,17 @@
+GUID daed3259feb94ad1b63d9ea556deb003
+
+Type Water
+Rarity Epic
+Useable Consumeable
+ID 57539
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Food 70
+Water 70
+Health 15
+Energy 100
+Broken
+Bleeding

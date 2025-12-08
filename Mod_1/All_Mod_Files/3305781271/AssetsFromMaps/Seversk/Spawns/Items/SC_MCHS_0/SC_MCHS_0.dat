@@ -1,0 +1,52 @@
+﻿GUID 19d912c6566f453db72a8a7434bf79db
+Type Spawn
+ID 41450
+
+Tables
+[
+	{
+		// EMERCOM Beret (Hat Item)
+		LegacyAssetId 41512
+		Weight 40
+	}
+	{
+		// EMERCOM Top (Shirt Item)
+		LegacyAssetId 41490
+		Weight 25
+	}
+	{
+		// EMERCOM Bottom (Pants Item)
+		LegacyAssetId 41492
+		Weight 25
+	}
+	{
+		// Firefighter Axe (Melee Item)
+		LegacyAssetId 41364
+		Weight 24
+	}
+	{
+		// EMERCOM Top (Shirt Item)
+		LegacyAssetId 41491
+		Weight 20
+	}
+	{
+		// EMERCOM Bottom (Pants Item)
+		LegacyAssetId 41493
+		Weight 20
+	}
+	{
+		// Fabric Mesh (Supply Item)
+		LegacyAssetId 41562
+		Weight 20
+	}
+	{
+		// EMERCOM Helmet (Hat Item)
+		LegacyAssetId 41514
+		Weight 10
+	}
+	{
+		// EMERCOM Helmet (Hat Item)
+		LegacyAssetId 41515
+		Weight 10
+	}
+]

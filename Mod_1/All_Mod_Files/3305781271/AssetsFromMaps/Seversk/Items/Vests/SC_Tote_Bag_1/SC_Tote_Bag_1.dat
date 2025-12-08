@@ -1,0 +1,44 @@
+﻿GUID 41c25aa723494cb3b2c086f32a0eb800
+
+Type Vest
+Useable Clothing
+ID 41593
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Width 5
+Height 3
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "4b74f6b14f4f414fb8fc80329870e807 x 3" // Spool Thread
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		CategoryTag "ebe755533bdd42d1871c3ac66b89530f" // Apparel
+		InputItems
+		[
+			"4b74f6b14f4f414fb8fc80329870e807 x 3" // Spool Thread
+			"159e927969ea4946a24602eaa05e3273 x 3" // Cloth
+		]
+		OutputItems this
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

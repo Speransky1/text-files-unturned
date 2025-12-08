@@ -1,0 +1,10 @@
+GUID ad70ce25b67d4c3a99cb83c9c477fa7d
+Type Effect
+ID 19074
+
+Blast 137
+
+Relevant_Distance 3000
+
+CameraShake_Radius 100
+CameraShake_MagnitudeDegrees 50

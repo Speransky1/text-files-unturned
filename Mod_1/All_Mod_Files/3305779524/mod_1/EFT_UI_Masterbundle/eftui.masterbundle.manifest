@@ -1,0 +1,396 @@
+ManifestFileVersion: 0
+CRC: 2380499683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1be2f27a634ff45040162be40bc7bc44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ca6bc1c0e04b5e150f346523cd09088
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a6574c231b4b6942a07bda09514bf64, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/OnChangeEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SubmitEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TextSelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TouchScreenKeyboardEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/Entry
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/TriggerEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/EFT_UI_Masterbundle/Prod/DoorSeller_Controls/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/FireModeFade_Enter.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/SlideArsenal.controller
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/openBonus.anim
+- Assets/EFT_UI_Masterbundle/Prod/OrgShop/Animations/openGun.anim
+- Assets/EFT_UI_Masterbundle/Prod/Tattoos/Animations/Default.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-SemiBold.ttf
+- Assets/EFT_UI_Masterbundle/Prod/GameStores/Materials/CartItemBg.mat
+- "Assets/EFT_UI_Masterbundle/Prod/_Shared/Sprites/\u041B\u043E\u0443_\u0421\u043C\u0443\u0437_50\u044550.png"
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/swipeRight.anim
+- Assets/EFT_UI_Masterbundle/Prod/OrgShop/Animations/openVest.anim
+- Assets/EFT_UI_Masterbundle/Prod/GameStores/Sprites/Box.png
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-Medium SDF.asset
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Animations/PaginationHover/PaginationHover.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/Purple.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 0.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Animations/PinActive.controller
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/openHat.anim
+- Assets/EFT_UI_Masterbundle/Prod/Casino/Materials/BodyBackground.mat
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/Fade_Enter.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 8.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/ButtonPresser.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/AppearFade_Exit.anim
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/Fades.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 7.anim
+- Assets/EFT_UI_Masterbundle/Prod/OrgShop/Animations/SlideUpDown.controller
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/fadeIn.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-Medium SDF Shadow.asset
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-Regular.ttf
+- Assets/EFT_UI_Masterbundle/Prod/DoorSeller_Houser/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Craft/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/Stamina.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/WiresInsideBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Sprites/map.png
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-Regular SDF.asset
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/HideBar_Enter.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/CanvasFade/AppearFadeOutCanvas.controller
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/AppearFade_Enter.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 6.anim
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Animations/ContactHover/Leave.anim
+- Assets/EFT_UI_Masterbundle/Prod/StunBaton/Materials/Background.mat
+- Assets/EFT_UI_Masterbundle/Prod/SafeJobs/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/LockpickMovePos.controller
+- Assets/EFT_UI_Masterbundle/Prod/Skills/TMP/icons.asset
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/Battery.mat
+- Assets/EFT_UI_Masterbundle/Prod/CarSeller/Sprites/yesno.png
+- Assets/EFT_UI_Masterbundle/Prod/Contusion/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/openGun.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump_5.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Animations/HoverEnter.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/Background.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/MovePos5.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/CanvasFade/enter.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Sprites/captures.png
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 3.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/Blue.mat
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/openVest.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Materials/Divider.mat
+- Assets/EFT_UI_Masterbundle/Prod/CarSeller/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Alcatraz/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/WiresBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/HideBar.controller
+- Assets/EFT_UI_Masterbundle/Prod/OrgShop/Animations/openHat.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Sprites/left.png
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Animations/ContactHover/Enter.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Materials/ActiveHeader.mat
+- Assets/EFT_UI_Masterbundle/Prod/GameStores/Materials/CartItemSelectedFrame.mat
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/pressed.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/SlideBonuses.controller
+- Assets/EFT_UI_Masterbundle/Prod/Contusion/Sounds/Contusion.mp3
+- Assets/EFT_UI_Masterbundle/Prod/GameStores/Animations/Start.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-Bold SDF.asset
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/MovePos4.anim
+- Assets/EFT_UI_Masterbundle/Prod/GameStores/Animations/Loader.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Animations/HoverExit.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 10_0.anim
+- Assets/EFT_UI_Masterbundle/Prod/StunBaton/Sprites/Death.png
+- Assets/EFT_UI_Masterbundle/Prod/CarSeller_Key/Sprites/Keys.png
+- Assets/EFT_UI_Masterbundle/Prod/Casino/Animations/GameButton.controller
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/CanvasFade/AppearFade_Enter.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/PortBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/DoorSeller_Buy/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Animations/HoverActive.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/openMelee.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/Food.mat
+- Assets/EFT_UI_Masterbundle/Prod/OrgShop/Animations/openAny.anim
+- Assets/EFT_UI_Masterbundle/Prod/Contusion/Sprites/Bg.png
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/ButtonPresser.controller
+- Assets/EFT_UI_Masterbundle/Prod/Tattoos/Animations/Swipe.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-SemiBold SDF.asset
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Animations/Exit.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/MagazineCounterLow_Default.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 12.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump_1.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Sprites/Sprites.png
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Sprites/SoftMask.png
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/moveDown1.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/CanvasFade/AppearFade_Exit.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/SlideJobs.controller
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/MagazineCounterLow_Red.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Sounds/PinsReset.mp3
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/moveDown2.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Materials/ScrollBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 1.anim
+- Assets/EFT_UI_Masterbundle/Prod/OrgShop/Animations/close.anim
+- Assets/EFT_UI_Masterbundle/Prod/Contusion/Animations/ContusionFade.controller
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Sprites/ambush.png
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/AppearFadeOut.controller
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Sprites/Rating.png
+- Assets/EFT_UI_Masterbundle/Prod/Skills/Animations/Swipe.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 2.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Sprites/Wires.png
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Sprites/Masks/RoundMaskSharp.png
+- Assets/EFT_UI_Masterbundle/Prod/Skills/Animations/Default.anim
+- Assets/EFT_UI_Masterbundle/Prod/Skills/Animations/Reset.anim
+- Assets/EFT_UI_Masterbundle/Prod/StunBaton/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/FontWeight.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Animations/Hover.controller
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump_3.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/Red.mat
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-Medium.ttf
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/Yellow.mat
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Sprites/Masks/RoundMaskSoft.png
+- Assets/EFT_UI_Masterbundle/Prod/Casino/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/FireModeFade.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 9_0.anim
+- Assets/EFT_UI_Masterbundle/Prod/Skills/Materials/ActiveTalentBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/Tattoos/Animations/Reset.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/Oxygen.mat
+- Assets/EFT_UI_Masterbundle/Prod/GameStores/Animations/CartItemButton.controller
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/FontWeight_bold.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 5.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/MovePos3.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Materials/OfflineMarkBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/CarSeller/TMP/yesno.asset
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/Progressbar.controller
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/Water.mat
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/Swipe.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/LockpickMoveUp.controller
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Materials/Panel.mat
+- Assets/EFT_UI_Masterbundle/Prod/Confirm/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/CarSeller/Animations/ListItemButton.controller
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Sprites/Sprites.png
+- Assets/EFT_UI_Masterbundle/Prod/Craft/Animations/ListItemButton.controller
+- Assets/EFT_UI_Masterbundle/Prod/Skills/Materials/ButtonLowerBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Skills/Sprites/icons.png
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 4.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Materials/ScrollThumb.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump_2.controller
+- Assets/EFT_UI_Masterbundle/Prod/OrgShop/Animations/openMelee.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump Default.anim
+- Assets/EFT_UI_Masterbundle/Prod/Skills/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Start/Sprites/Screenshot.png
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump_4.controller
+- Assets/EFT_UI_Masterbundle/Prod/BankWallet/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/CanvasFade/AppearFadeInCanvas.controller
+- Assets/EFT_UI_Masterbundle/Prod/Skills/Animations/SwipeLeft.controller
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/kill.anim
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/Moves.controller
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/VHP.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/PortActive.mat
+- Assets/EFT_UI_Masterbundle/Prod/GameStores/Materials/CartItemSubBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/moveDown4.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Materials/ModalBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Materials/BtnBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/MoveUp0.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/Fuel.mat
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/CanvasFade/exit.anim
+- Assets/EFT_UI_Masterbundle/Prod/Casino/Materials/Background.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump 11.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/Click.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Sprites/radiowars.png
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/Green.mat
+- Assets/EFT_UI_Masterbundle/Prod/CraftStatus/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Sprites/Frame 1.png
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/MovePos2.anim
+- Assets/EFT_UI_Masterbundle/Prod/OrgShop/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/moveDown3.anim
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Animations/PaginationHover/Enter.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Font/Jovanny Lemonad - Bender-Black.otf
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/swipeLeft.anim
+- Assets/EFT_UI_Masterbundle/Prod/Skills/Materials/InfoScrollBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/FadeOut.controller
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-Bold.ttf
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Sprites/Masks/RoundMaskSharpHD.png
+- Assets/EFT_UI_Masterbundle/Prod/Tattoos/Animations/SwipeLeft.controller
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/MagazineCounterLow.controller
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/openJob.anim
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/TMP/Rating.asset
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Animations/Enter.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump Fix.anim
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Animations/PaginationHover/Exit.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/Fade_Exit.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Sprites/right.png
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/wait.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/MoveUp.anim
+- Assets/EFT_UI_Masterbundle/Prod/Contusion/Animations/FadeIn.anim
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Animations/ContactHover/ContactHover.controller
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Font/Jovanny Lemonad - Bender-Black SDF.asset
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Sounds/WireActivated.mp3
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/TH_B_WI.controller
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/FadeIn.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Sounds/PinLightUp.mp3
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Sprites/Masks/FadeSprite.png
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Sprites/raid.png
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/CarSeller_Key/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/CanvasFade/FadeOutCanvas.controller
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Animations/close.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/FontWeight_regular.anim
+- Assets/EFT_UI_Masterbundle/Prod/OrgBase/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Phone/Sprites/Masks/Fade.png
+- Assets/EFT_UI_Masterbundle/Prod/Orgs/Materials/OnlineMarkBg.mat
+- Assets/EFT_UI_Masterbundle/Prod/Start/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/AppearFadeIn.controller
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/MovePos1.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/HideBar_Exit.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Animations/FireModeFade_Exit.anim
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Animations/Clicker.controller
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/Virus.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Lockpick/Animations/Jump_0.controller
+- Assets/EFT_UI_Masterbundle/Prod/Alerts/Animations/fadeOut.anim
+- Assets/EFT_UI_Masterbundle/Prod/HUD/Materials/HP.mat
+- Assets/EFT_UI_Masterbundle/Prod/GameStores/Effect.prefab
+- Assets/EFT_UI_Masterbundle/Prod/OrgShop/Animations/Pressed.anim
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Materials/PortInactive.mat
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Sprites/PaginationFade.png
+- Assets/EFT_UI_Masterbundle/Prod/_Shared/Fonts/Inter_18pt-Bold SDF Shadow.asset
+- Assets/EFT_UI_Masterbundle/Prod/Casino/Materials/Divider.mat
+- Assets/EFT_UI_Masterbundle/Prod/Minigames/Wires/Sprites/SofterMask.png
+Dependencies: []

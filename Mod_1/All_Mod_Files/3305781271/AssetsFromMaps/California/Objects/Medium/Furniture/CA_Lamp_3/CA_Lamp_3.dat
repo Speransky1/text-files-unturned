@@ -1,0 +1,15 @@
+GUID 8a6db675e24744fe991a54afe5964c77
+Type Medium
+ID 4405
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 40
+Rubble_Effect 72

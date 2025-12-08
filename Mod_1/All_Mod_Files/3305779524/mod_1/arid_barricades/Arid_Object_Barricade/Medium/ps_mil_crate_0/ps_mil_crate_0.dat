@@ -1,0 +1,26 @@
+GUID c6685f331b344fe192a886c0eaf178aa
+
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Storage
+ID 62780
+
+Size_X 1
+Size_Y 2
+Size_Z 0.56
+
+Health 5200
+Range 4
+Radius 0.6
+Offset 0.48
+
+Storage_X 10
+Storage_Y 10
+
+Explosion 19
+
+
+Should_Close_When_Outside_Range True
+
+eblan

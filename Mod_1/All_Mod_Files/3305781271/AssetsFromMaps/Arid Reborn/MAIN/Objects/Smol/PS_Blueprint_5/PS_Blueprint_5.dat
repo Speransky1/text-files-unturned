@@ -1,0 +1,23 @@
+GUID f66e921676cb4838a9a9ae6ba9a319f1
+
+Type Small
+
+Has_Clip_Prefab False
+
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 18003
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 18003
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Smol/PS_Blueprint_0

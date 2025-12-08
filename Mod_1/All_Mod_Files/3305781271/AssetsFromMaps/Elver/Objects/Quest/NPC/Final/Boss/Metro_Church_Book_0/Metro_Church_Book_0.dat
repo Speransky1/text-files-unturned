@@ -1,0 +1,18 @@
+GUID f87b8ffe071444448c31eb8edfddbc79
+
+Type Small
+Has_Clip_Prefab false
+ID 58053
+
+Interactability Quest
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 57055
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 1
+Rubble_Effect 58

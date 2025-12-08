@@ -1,0 +1,16 @@
+﻿GUID 16c2e1abbea445c8ac62bc2dc61640fa
+Type Resource
+ID 41312
+Health 990
+Radius 4
+Scale 0.15
+Explosion 41322
+
+Reward_ID 41416
+Reward_XP 0
+Reward_Min 5
+Reward_Max 8
+BladeID 3
+Reset 680
+Auto_Skybox
+Has_Clip_Prefab false

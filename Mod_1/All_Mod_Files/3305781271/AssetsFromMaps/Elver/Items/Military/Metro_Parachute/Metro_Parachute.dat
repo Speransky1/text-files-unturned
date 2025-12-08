@@ -1,0 +1,19 @@
+GUID 4ace6edcd2704c55ac66450ae9255dea
+
+Type Cloud
+Rarity Legendary
+Useable Cloud
+ID 57308
+
+Size_X 3
+Size_Y 2
+Size_Z 1
+
+Gravity 0.15
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 57308
+Blueprint_0_Product 66
+Blueprint_0_Products 4
+Blueprint_0_Build 32

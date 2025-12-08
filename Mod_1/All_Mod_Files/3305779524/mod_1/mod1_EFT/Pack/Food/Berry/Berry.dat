@@ -1,0 +1,14 @@
+GUID ab8b613d48e043f7a0a5f0cb8d7a36dc
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 21345
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Health 2
+Food 10
+Water 6

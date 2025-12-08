@@ -1,0 +1,27 @@
+GUID 8e2672e24997499d86ea29abd4772fe0
+Type Glasses
+Rarity Rare
+Useable Clothing
+ID 6737
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Hair
+Beard
+
+Vision Headlamp
+Proof_Water
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 6737
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32

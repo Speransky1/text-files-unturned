@@ -1,0 +1,29 @@
+GUID cf0d003c99e84587acf55a00b0e17da5
+Type Throwable
+Rarity Mythical
+Useable Throwable
+ID 59504
+
+Size_X 1
+Size_Y 2
+Size_Z 0.33
+
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Range 4
+Explosion 22000
+
+Explosive
+
+Strong_Throw_Force 1400
+
+Weak_Throw_Force 600
+
+Fuse_Length 10

@@ -1,0 +1,33 @@
+GUID 8872dee3e1664c3ea9d9539f73c8a4f3
+Type Sight
+Rarity Epic
+ID 31293
+
+Size_X 2
+Size_Y 1
+Size_Z 0.165
+
+Sway 1.6
+Zoom 6
+Aim_Duration_Multiplier 1.12
+
+Vision Civilian
+
+Nightvision_Fog_Intensity 0.35
+
+
+Master_Bundle_Override classicweapons.masterbundle
+Bundle_Override_Path /Items/Attachments/Sights/Scopes/PS_Phantom_Scope_1
+
+
+Calibers 1
+Caliber_0 25201
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31293
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

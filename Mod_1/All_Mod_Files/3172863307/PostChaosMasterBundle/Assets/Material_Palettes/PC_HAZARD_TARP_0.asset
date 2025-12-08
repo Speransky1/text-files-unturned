@@ -1,0 +1,52 @@
+"Metadata"
+{
+	"GUID" "31cae930dce540a58c061cb9d75017f9"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_00.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_01.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_02.mat"
+		}	
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_03.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_04.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_05.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_06.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_07.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_08.mat"
+		}
+		{
+			"Name" "postchaos.masterbundle"
+			"Path" "Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_09.mat"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+GUID 9149bb458fa542398f0c4ba84c27f46c
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 37506
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 4
+Height 4
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 32

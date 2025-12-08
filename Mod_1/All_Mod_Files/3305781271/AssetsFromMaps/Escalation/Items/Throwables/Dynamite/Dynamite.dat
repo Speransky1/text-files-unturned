@@ -1,0 +1,23 @@
+GUID 135d1651d9d940e580c5610ab276941a
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 51307
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Player_Damage 50
+Zombie_Damage 125
+Animal_Damage 125
+Barricade_Damage 15
+Structure_Damage 15
+Vehicle_Damage 75
+Resource_Damage 750
+Object_Damage 300
+
+Range 7
+Explosion 51014
+
+Explosive

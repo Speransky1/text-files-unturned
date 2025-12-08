@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "0223157f85d6431a96cc5018a1fbb132"
+	"Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Root_Mass" "2"
+	"Wheel_Mass" "2"
+	"Wheel_Drive_Model" "Front"
+	"Wheel_Brake_Model" "Rear"
+	"Motor_Torque_Multiplier" "2"
+	"Motor_Torque_Clamp_Multiplier" "2"
+	"Brake_Torque_Multiplier" "0.65"
+	"Brake_Torque_Traction_Multiplier" "0.5"
+	"Carjack_Force_Multiplier" "10"
+}

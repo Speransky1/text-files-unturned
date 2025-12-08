@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "6d80ea93b35c4671b2a8a1957d99ff3a"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_APARTMENT_0/RE_APARTMENT_0_00.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_APARTMENT_0/RE_APARTMENT_0_01.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_APARTMENT_0/RE_APARTMENT_0_02.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_APARTMENT_0/RE_APARTMENT_0_03.mat"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+GUID 9d6df46cf82d400f8e644ef0d2066242
+
+Type Small
+Has_Clip_Prefab false
+ID 57725
+
+Conditions 1
+
+//If planted, appears
+Condition_0_Type Flag_Bool
+Condition_0_ID 57158
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Planter/Metro_Plant_2

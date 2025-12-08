@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID 7249ca2832234227bcaeb3503a0f798e
+	Type SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Texture
+	{
+		Name sovcore.masterbundle
+		Path Terrain/Materials/Road.png
+	}
+	Mask
+	{
+		Name
+		Path
+	}
+	Physics_Material CONCRETE_STATIC
+	Foliage
+	{
+		GUID
+	}
+}

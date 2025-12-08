@@ -1,0 +1,17 @@
+GUID 117725fa82144837991e9bb860f8efe7
+
+Type Pants
+Rarity Rare
+Useable Clothing
+ID 17018
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

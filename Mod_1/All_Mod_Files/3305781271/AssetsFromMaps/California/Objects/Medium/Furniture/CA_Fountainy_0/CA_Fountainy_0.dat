@@ -1,0 +1,10 @@
+GUID 709d9922a16446218d3ffc29d6ffb9ca
+Type Medium
+ID 4665
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Medium/Parks/Fountain_0
+
+Material_Palette be8dff0e954042b29fcce88ff478a072

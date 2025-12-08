@@ -1,0 +1,46 @@
+﻿GUID 365315eadce745c1911379f3b3d6d074
+
+Type Barricade
+Useable Barricade
+Build Note
+ID 41350
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Health 30
+Range 4
+Radius 1
+Offset 0.08
+
+Explosion 41306
+Vulnerable
+Unrepairable
+SalvageItem 365315eadce745c1911379f3b3d6d074
+Use_Auto_Stat_Descriptions false
+Can_Be_Damaged true
+Salvage_Duration_Multiplier 0.05
+Bypass_Pickup_Ownership true
+Allow_Placement_On_Vehicle false
+Has_Clip_Prefab false
+PlacementAudioClip Sounds/Placement_3.ogg
+InventoryAudio Sounds/Inventory/PaperRustle/Paper_Rustle.asset
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this x 10
+		OutputItems "06fb9bace60948ee876a21511e5351a3" // Bumaga Stack
+		Effect "bb5d128bc7a64cfb8ae1df7b97785149" // SC_Paper_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Stack
+Action_0_Tooltip Pile items together for free up space.

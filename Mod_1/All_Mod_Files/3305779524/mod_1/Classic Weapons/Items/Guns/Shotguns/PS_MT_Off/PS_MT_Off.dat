@@ -1,0 +1,113 @@
+GUID 90c7e6e624f0454784912c27e130bb59
+
+Type Gun
+Rarity Rare
+Useable Gun
+Requires_NonZero_Attachment_Caliber True
+Slot Secondary
+ID 23112
+
+EquipAudioClip classicweapons.masterbundle:Assets/Guns_Equip/Equip_Sniper.wav
+
+Hook_Sight
+
+Size_X 3
+Size_Y 2
+Size_Z 0.35
+
+Magazine 33126
+
+Ammo_Min 0
+Ammo_Max 8
+
+Safety
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 63544
+
+Attachment_Calibers 1
+//Scope
+Attachment_Caliber_0 25003
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Muzzle 30042
+
+Shell 0
+
+
+Use_Auto_Stat_Descriptions false
+
+
+Blueprints 1
+
+//Repair
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+////////////////////////////////////////Balance Stats
+
+Range 50
+Ballistic_Steps 10
+Ballistic_Drop 0.00055
+Damage_Falloff_Multiplier 0.6
+Damage_Falloff_Range 0.666
+Damage_Falloff_Max_Range 1
+Gunshot_Rolloff_Distance 200
+
+
+
+
+Firerate 2
+Action Trigger
+
+Player_Damage 18
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 32
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 32
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.2
+
+Barricade_Damage 3
+Structure_Damage 3
+Vehicle_Damage 3
+Resource_Damage 3
+Object_Damage 5
+Durability 0.1
+
+Recoil_Min_X -4.8
+Recoil_Min_Y 40
+Recoil_Max_X 12.8
+Recoil_Max_Y 55
+
+Recover_X 0.95
+Recover_Y 0.95
+
+Shake_Min_X 0.01
+Shake_Min_Y -0.05
+Shake_Min_Z 0
+Shake_Max_X 0.1
+Shake_Max_Y 0.1
+Shake_Max_Z -0.01
+
+Recoil_Midair 1
+Spread_Aim 0.25
+Spread_Hip 0.03
+Spread_Midair 1
+

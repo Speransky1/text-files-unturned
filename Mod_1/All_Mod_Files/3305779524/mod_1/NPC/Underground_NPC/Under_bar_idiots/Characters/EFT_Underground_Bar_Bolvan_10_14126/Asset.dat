@@ -1,0 +1,21 @@
+﻿// Made in NPC Maker by BowieD
+GUID 81bfb0a624ae45c8898a40ec14bf823f
+ID 14126
+Type NPC
+Shirt 44690
+Pants 59065
+Vest 59782
+Primary 29114
+Tertiary 58233
+Equipped Tertiary
+Face 22
+Beard 15
+Hair 6
+Color_Skin #BEA582
+Color_Hair #3D0B0B
+Pose Sit
+Dialogue 12180
+Conditions 1
+Condition_0_Type Is_Full_Moon
+Condition_0_Value True
+

@@ -1,0 +1,51 @@
+﻿// Made in NPC Maker by BowieD
+GUID 7c1a338dd8814663b24cc69a531a8ef0
+Type Vendor
+ID 13024
+Selling 9
+Selling_0_ID 56714
+Selling_0_Cost 66666
+Selling_0_Conditions 1
+Selling_0_Condition_0_Type Quest
+Selling_0_Condition_0_ID 14054
+Selling_0_Condition_0_Status Completed
+Selling_0_Condition_0_Logic Equal
+Selling_0_Condition_0_Ignore_NPC False
+
+Selling_1_ID 48713
+Selling_1_Cost 55555
+Selling_1_Conditions 1
+Selling_1_Condition_0_Type Quest
+Selling_1_Condition_0_ID 14051
+Selling_1_Condition_0_Status Completed
+Selling_1_Condition_0_Logic Equal
+Selling_1_Condition_0_Ignore_NPC False
+
+Selling_2_ID 48712
+Selling_2_Cost 44444
+Selling_2_Conditions 1
+Selling_2_Condition_0_Type Quest
+Selling_2_Condition_0_ID 14049
+Selling_2_Condition_0_Status Completed
+Selling_2_Condition_0_Logic Equal
+Selling_2_Condition_0_Ignore_NPC False
+
+Selling_3_ID 48710
+Selling_3_Cost 25000
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Quest
+Selling_3_Condition_0_ID 14047
+Selling_3_Condition_0_Status Completed
+Selling_3_Condition_0_Logic Equal
+Selling_3_Condition_0_Ignore_NPC False
+
+Selling_4_ID 48718
+Selling_4_Cost 10000
+Selling_5_ID 41541
+Selling_5_Cost 30000
+Selling_6_ID 41542
+Selling_6_Cost 30000
+Selling_7_ID 41543
+Selling_7_Cost 30000
+Selling_8_ID 41544
+Selling_8_Cost 30000

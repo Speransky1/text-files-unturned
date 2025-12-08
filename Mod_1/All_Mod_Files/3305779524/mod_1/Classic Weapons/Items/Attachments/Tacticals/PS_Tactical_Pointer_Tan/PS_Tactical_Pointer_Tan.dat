@@ -1,0 +1,26 @@
+GUID dcc9272945d340f6a23a1e9037018a25
+Type Tactical
+Rarity Rare
+ID 31237
+
+Size_X 1
+Size_Y 1
+Size_Z 0.375
+
+Spread 0.9
+
+Calibers 1
+Caliber_0 25004
+
+Use_Auto_Icon_Measurements False
+
+Laser
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31233
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

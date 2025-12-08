@@ -1,0 +1,19 @@
+GUID e4cd8784e487414ab355998b92429299
+
+Type Sight
+Rarity Legendary
+ID 39167
+
+Size_X 2
+Size_Y 1
+Size_Z 0.18
+
+Spread 0.7
+Zoom 8
+ThirdPerson_Zoom 2
+
+Calibers 1
+Caliber_0 39208
+
+Use_Auto_Stat_Descriptions false
+Use_Auto_Icon_Measurements false

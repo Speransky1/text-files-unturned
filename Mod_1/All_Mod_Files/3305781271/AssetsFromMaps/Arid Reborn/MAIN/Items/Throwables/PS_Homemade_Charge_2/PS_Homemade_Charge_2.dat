@@ -1,0 +1,36 @@
+GUID 07d153c74614499c8e3e167fd5552298
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 19268
+
+Use_Auto_Stat_Descriptions False
+Bundle_Override_Path /Items/Throwables/PS_Homemade_Charge
+
+Size_X 2
+Size_Y 2
+Size_Z 0.22
+
+Player_Damage 120
+Zombie_Damage 120
+Animal_Damage 120
+Barricade_Damage 200
+Structure_Damage 255
+Vehicle_Damage 1700
+Resource_Damage 2700
+Object_Damage 1000
+
+Explosion_Launch_Speed 30
+
+Range 7
+Explosion 19011
+
+Explosive
+Sticky
+
+Fuse_Length 6
+
+Strong_Throw_Force 500
+Weak_Throw_Force 350
+
+Boost_Throw_Force_Multiplier 1

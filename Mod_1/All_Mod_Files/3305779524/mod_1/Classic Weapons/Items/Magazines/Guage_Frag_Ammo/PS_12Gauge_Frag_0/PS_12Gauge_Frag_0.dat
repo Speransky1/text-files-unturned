@@ -1,0 +1,56 @@
+GUID cc6e5c4cc91344c395cb8e37d5d515ea
+Type Magazine
+Rarity Epic
+ID 31050
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 6
+Count_Min 1
+Count_Max 6
+Ballistic_Damage_Multiplier 0.5
+
+Calibers 1
+Caliber_0 25032
+
+Delete_Empty
+
+Tracer 30055
+
+Range 5
+Player_Damage 3
+Zombie_Damage 6
+Animal_Damage 6
+Barricade_Damage 3
+Structure_Damage 3
+Vehicle_Damage 3
+Resource_Damage 10
+Object_Damage 10
+Explosion 30010
+Explosive
+
+Pellets 12
+
+Blueprints 4
+//12Guage (6)
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31050
+Blueprint_0_Build 30
+//12Guage (2)
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31051
+Blueprint_1_Build 30
+//AW-12 Drum
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31053
+Blueprint_2_Build 30
+//Serna Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31054
+Blueprint_3_Build 30

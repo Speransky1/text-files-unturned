@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "2b810cb30f18449d87b97cbf1b78cb1d"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Blockroad_0/Blockroad_0.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Blockroad_0/Blockroad_1.mat"
+		}
+	]
+}

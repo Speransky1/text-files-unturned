@@ -1,0 +1,41 @@
+GUID 5c4c1107b5574f5fb0114a3c7af04c74
+Type Spawn
+ID 10141
+
+Roots
+[
+	{
+		// Mercs_Deadzone_Guns (Spawn)
+		Guid 7be788f984674ca0aa50b7808a89f723
+		Weight 1
+	}
+	{
+		// locker_deadzone (Spawn)
+		Guid 56f5c48140ff441888b99a182692758a
+		Weight 6
+	}
+	{
+		// medbox_heal_deadzone+military (Spawn)
+		Guid 884a718c0be44e0dbe3ca95bc93835da
+		Weight 8
+	}
+]
+
+Tables
+[
+	{
+		// medbox_heal_deadzone+military (Spawn)
+		Guid 884a718c0be44e0dbe3ca95bc93835da
+		Weight 8
+	}
+	{
+		// locker_deadzone (Spawn)
+		Guid 56f5c48140ff441888b99a182692758a
+		Weight 6
+	}
+	{
+		// Mercs_Deadzone_Guns (Spawn)
+		Guid 7be788f984674ca0aa50b7808a89f723
+		Weight 1
+	}
+]

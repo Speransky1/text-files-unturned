@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "5035f8d84f214d4088cbbabe8adf97e7"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "obscured.masterbundle"
+		"Path" "Landscapes/Terrain/Materials/Burned.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "Foliage_Static"
+	"Foliage"
+	{
+		"GUID" "0a3a2998f6da4f63a70128c9c03a4f23"
+	}
+}

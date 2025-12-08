@@ -1,0 +1,40 @@
+GUID 7dbd9f18f99d4bcbad59a2b211f9ab7b
+Type Food
+Useable Consumeable
+ID 51488
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+Size2_Z 0.35
+
+Food 20
+Water 20
+ConsumeAudioClip core.masterbundle:Sounds/EatSquishy.mp3
+
+Quest_Rewards 2
+Quest_Reward_0_Type Rewards_List_Asset
+Quest_Reward_0_GUID dc71be756f984f68adb51b5e8cb887bc
+Quest_Reward_1_Type Rewards_List_Asset
+Quest_Reward_1_GUID 28c5bcb45f764f41a04be46201d18a73
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Source 51628
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Purify ▲
+Action_1_Tooltip Purify to remove impurities.
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 51416
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Use_Auto_Stat_Descriptions false

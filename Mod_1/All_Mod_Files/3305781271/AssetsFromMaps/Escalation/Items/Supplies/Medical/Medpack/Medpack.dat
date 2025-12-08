@@ -1,0 +1,25 @@
+GUID f6f946744fac49e68e9cdee020887dca
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 51407
+
+Size_X 2
+Size_Y 2
+Size_Z .3
+
+Aid
+Bleeding
+
+Health 100
+Disinfectant 30
+Energy 100
+
+// Med Book?
+Quest_Rewards 3
+Quest_Reward_0_Type Rewards_List_Asset
+Quest_Reward_0_GUID a15ae2da21914cb3acfb30b7ff64750c
+Quest_Reward_1_Type Rewards_List_Asset
+Quest_Reward_1_GUID 0153d5c26fe84b569b5a3d8f9a8bda99
+Quest_Reward_2_Type Rewards_List_Asset
+Quest_Reward_2_GUID 0159ead5441b46a78a8bb2f4e8773253

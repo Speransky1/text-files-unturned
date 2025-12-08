@@ -1,0 +1,12 @@
+GUID 8dc951775a854cb7a1bc185afabfd40d
+Type Spawn
+ID 10131
+
+Tables
+[
+	{
+		// Огнетушитель (Supply Item)
+		Guid 92647e6e27b1482da6bacb401612ec32
+		Weight 5
+	}
+]

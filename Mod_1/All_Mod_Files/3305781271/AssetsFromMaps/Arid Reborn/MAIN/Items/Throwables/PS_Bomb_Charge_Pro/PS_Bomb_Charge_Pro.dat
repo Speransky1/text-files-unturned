@@ -1,0 +1,12 @@
+GUID 9f83683947494d00854a3744872041a1
+Type Supply
+ID 19266
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Throwables/PS_Bomb_Charge_0
+
+Size_X 4
+Size_Y 2
+Size_Z 0.33
+
+Pro

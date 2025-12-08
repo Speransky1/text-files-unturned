@@ -1,0 +1,76 @@
+GUID 55ccfb8450cb43adaf50253ac26a808e
+
+Type Small
+Has_Clip_Prefab false
+ID 58001
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 5
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 57210
+Interactability_Reward_0_Value 0
+Interactability_Reward_0_Modification Assign
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 57209
+Interactability_Reward_1_Value 0
+Interactability_Reward_1_Modification Assign
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 57208
+Interactability_Reward_2_Value 0
+Interactability_Reward_2_Modification Assign
+Interactability_Reward_3_Type Flag_Short
+Interactability_Reward_3_ID 57207
+Interactability_Reward_3_Value 0
+Interactability_Reward_3_Modification Assign
+Interactability_Reward_4_Type Flag_Short
+Interactability_Reward_4_ID 57206
+Interactability_Reward_4_Value 1
+Interactability_Reward_4_Modification Increment
+
+Conditions 5
+Condition_0_Type Flag_Short
+Condition_0_ID 57210
+Condition_0_Value 4
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Short
+Condition_1_ID 57209
+Condition_1_Value 4
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Condition_2_Type Flag_Short
+Condition_2_ID 57208
+Condition_2_Value 3
+Condition_2_Logic Equal
+Condition_2_Allow_Unset
+
+Condition_3_Type Flag_Short
+Condition_3_ID 57207
+Condition_3_Value 4
+Condition_3_Logic Equal
+Condition_3_Allow_Unset
+
+Condition_4_Type Flag_Short
+Condition_4_ID 57206
+Condition_4_Value 9
+Condition_4_Logic Less_Than
+Condition_4_Allow_Unset
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 57466
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 57367
+Interactability_Condition_1_Value True
+Interactability_Condition_1_Logic Equal
+
+
+
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_Deposit

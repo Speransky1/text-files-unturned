@@ -1,0 +1,11 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Приветствую. Если снаряга нужна - тебе ко мне.
+Response_0 <color=white>Ты продаешь одежду?</color>
+Response_1 <color=white>А что насчет масок? Балаклавы может?</color>
+Response_2 <color=white>*Комплекты снаряжения*</color>
+Response_3 *Маски*
+Response_4 *Одежда*
+Response_5 *Шлемы*
+Response_6 *Бронежилеты*
+Response_7 *Рюкзаки*
+Response_8 *Уйти*

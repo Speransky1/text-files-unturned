@@ -1,0 +1,11 @@
+﻿GUID bade9fd298564ea0afe0d4bc9ad3b4e0
+
+Type Small
+Has_Clip_Prefab false
+Rubble Destroy
+Rubble_Reset 210
+Rubble_Health 5
+Rubble_Effect 41306
+Rubble_Reward_ID 41432
+Rubble_Reward_Probability 0.7
+Material_Palette 84ea61d540574074902c486a1fcd7f46

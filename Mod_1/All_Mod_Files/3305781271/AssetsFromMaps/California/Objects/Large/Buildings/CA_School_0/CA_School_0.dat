@@ -1,0 +1,8 @@
+GUID cdf49e64c0374eeda9ab85bd263f7b92
+Type Large
+ID 4685
+
+Material_Palette 3987063d60df43e2ac4ca66fe91880f1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/School_0

@@ -1,0 +1,31 @@
+GUID c90e8e943d29478eaa48cfcbe7046631
+
+Type Farm
+Rarity Uncommon
+Useable Barricade
+Build Farm
+ID 57201
+
+Size_X 1
+Size_Y 1
+Size_Z 0.19
+
+Health 1
+Range 4
+Radius 0.25
+Offset 0.35
+
+Growth 1200
+Grow 57202
+
+Explosion 43
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 57202
+Blueprint_0_Product 57201
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

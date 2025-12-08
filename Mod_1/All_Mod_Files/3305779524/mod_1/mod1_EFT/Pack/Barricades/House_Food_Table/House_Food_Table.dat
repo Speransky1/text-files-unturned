@@ -1,0 +1,23 @@
+GUID dc0356294e984fc8a012b24a93fdbceb
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 64803
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 5200
+Range 4
+Radius 0.45
+Offset 0.88
+
+Use_Auto_Stat_Descriptions false
+
+Explosion 19
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Salvage_Duration_Multiplier 0.25
+Use_Auto_Stat_Descriptions false

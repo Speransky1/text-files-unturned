@@ -1,0 +1,28 @@
+GUID b309c91bc6e4408cb6f1caf5810fb2d6
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 62270
+
+Soft
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Tire_2
+
+Conditions 1
+//исчезает при взятии
+Condition_0_Type Flag_Bool
+Condition_0_ID 17076
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17076
+Interactability_Reward_0_Value true

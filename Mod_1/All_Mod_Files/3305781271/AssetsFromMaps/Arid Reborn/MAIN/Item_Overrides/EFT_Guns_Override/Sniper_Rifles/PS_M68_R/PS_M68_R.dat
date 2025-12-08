@@ -1,0 +1,113 @@
+GUID 13492e986bd84067b5190343c0d6d9fc
+
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Primary
+ID 63849
+
+Size_X 4
+Size_Y 2
+Size_Z 0.421
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Guns/PS_M68_R
+
+Magazine 63800
+Grip 19751
+
+Hook_Sight
+Hook_Tactical
+
+Ammo_Min 2
+Ammo_Max 8
+
+
+Semi
+
+Attachment_Calibers 2
+Attachment_Caliber_0 18904
+Attachment_Caliber_1 18902
+
+Magazine_Calibers 1
+Magazine_Caliber_0 19800
+
+Firerate 50
+Action Bolt
+
+Player_Damage 63
+Player_Leg_Multiplier 0.3
+Player_Arm_Multiplier 0.3
+Player_Spine_Multiplier 0.7
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 105
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.9
+Zombie_Skull_Multiplier 1.3
+
+Animal_Damage 105
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 30
+Structure_Damage 30
+Vehicle_Damage 80
+Resource_Damage 85
+Object_Damage 110
+
+Durability 0.45
+
+Spread_Aim 0.005
+Spread_Hip 0.25
+
+Range 220
+Ballistic_Steps 43
+Ballistic_Travel 13
+Ballistic_Drop 0.00125
+
+Recoil_Min_X 3
+Recoil_Min_Y 12
+Recoil_Max_X 4
+Recoil_Max_Y 15
+
+Recover_X 0.6
+Recover_Y 0.6
+
+Shake_Min_X 0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.03
+Shake_Max_X 0.005
+Shake_Max_Y 0.005
+Shake_Max_Z -0.03
+
+Muzzle 19001
+
+Shell 19004
+
+Gunshot_Rolloff_Distance 800
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18398
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+Recoil_Crouch 0.8
+Recoil_Prone 0.7
+
+Spread_Prone 1
+Spread_Crouch 1
+
+
+Quality_Min 50
+Quality_Max 50

@@ -1,0 +1,17 @@
+﻿GUID bb4616af820241c5a0cbf2a5bab1ca72
+
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 41626
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Bones_Modifier Heal
+Virus 10
+Health 15
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions False

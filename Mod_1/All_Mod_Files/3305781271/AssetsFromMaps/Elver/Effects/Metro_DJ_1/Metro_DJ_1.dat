@@ -1,0 +1,12 @@
+GUID 79f217de90de4b90904d3f45a18cfe19
+
+Type Effect
+ID 57007
+
+Static
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57251
+Condition_0_Value True
+Condition_0_Logic Equal

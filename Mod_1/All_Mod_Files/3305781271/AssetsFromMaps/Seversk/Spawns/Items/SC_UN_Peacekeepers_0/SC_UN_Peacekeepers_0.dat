@@ -1,0 +1,82 @@
+GUID 0cb6743aee1c456785cf08f4e80c59ba
+Type Spawn
+ID 41448
+
+Tables
+[
+	{
+		// Military Knife (Melee Item)
+		Guid 22fd2b645f484ee3a0f5de7533d3dc08
+		Weight 55
+	}
+	{
+		// Military Knife (Melee Item)
+		Guid 9041885130df45478d97f2aae74e4405
+		Weight 55
+	}
+	{
+		// UN Top (Shirt Item)
+		LegacyAssetId 41356
+		Weight 50
+	}
+	{
+		// UN Bottom (Pants Item)
+		LegacyAssetId 41357
+		Weight 50
+	}
+	{
+		// PM Magazine (Magazine Item)
+		LegacyAssetId 41679
+		Weight 43
+	}
+	{
+		// UN Beret (Hat Item)
+		LegacyAssetId 41513
+		Weight 40
+	}
+	{
+		// Pack of Pistol Ammo (Supply Item)
+		LegacyAssetId 41685
+		Weight 39
+	}
+	{
+		// PM (Gun Item)
+		LegacyAssetId 41678
+		Weight 35
+	}
+	{
+		// 6L23 Magazine (Magazine Item)
+		LegacyAssetId 41743
+		Weight 35
+	}
+	{
+		// AK-74M (Gun Item)
+		LegacyAssetId 41744
+		Weight 25
+	}
+	{
+		// Protective Visor (Supply Item)
+		LegacyAssetId 41866
+		Weight 20
+	}
+	{
+		// Pack of Rifle Ammo (Supply Item)
+		Guid 7963085ec3ac4e7088f53f9e69affe70
+		Weight 14
+	}
+	{
+		// UN Bulletproof Vest (Vest Item)
+		LegacyAssetId 41358
+		Weight 10
+	}
+	{
+		// UN Bulletproof Helmet (Hat Item)
+		LegacyAssetId 41359
+		Weight 10
+	}
+	{
+		// 6L18 Magazine (Magazine Item)
+		LegacyAssetId 41756
+		Weight 5
+	}
+]

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "b3720a0c87c74dd0b6d7985cb759b2bc"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/Glass_black-1.mat"
+		}
+	]
+}

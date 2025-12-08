@@ -1,0 +1,44 @@
+﻿GUID c081e20feb4b475ab99c0bd845120152
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 41392
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 200
+Range 4
+Radius 0.4
+Offset 0.57
+
+Explosion 41302
+Vulnerable
+Blueprints
+[
+	{
+		CategoryTag "bfac6026305f4737a95fd275ebff65a6" // Utilities
+		InputItems
+		[
+			"edc4d492616c4bfa841f8a8a1c58df1e x 5" // Plastic Fragments
+			"1986846586774600b7b8779394e49fb6 x 2" // Glue
+			"bd0effdccacf482db431dd0c8db3dad0" // Fertilizer
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_1.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 0.3
+Has_Clip_Prefab false

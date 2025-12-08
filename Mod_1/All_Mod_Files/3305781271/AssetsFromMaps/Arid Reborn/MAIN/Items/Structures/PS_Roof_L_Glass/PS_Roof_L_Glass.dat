@@ -1,0 +1,28 @@
+GUID ed3552c48f5343819bb800ae77e4e32e
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Rare
+Useable Structure
+Construct Roof
+ID 10871
+
+SalvageItem ed3552c48f5343819bb800ae77e4e32e
+Min_Items_Dropped_On_Destroy 2
+Max_Items_Dropped_On_Destroy 3
+Item_Dropped_On_Destroy 39594c4aa2d249a2b701fac1898f4530
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2500
+Range 6
+
+Explosion 36
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.5

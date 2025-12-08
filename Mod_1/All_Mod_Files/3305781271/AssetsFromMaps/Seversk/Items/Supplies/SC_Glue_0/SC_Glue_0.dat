@@ -1,0 +1,33 @@
+﻿GUID 1986846586774600b7b8779394e49fb6
+
+Type Supply
+Rarity Uncommon
+ID 41352
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+InventoryAudio Sounds/Inventory/Default/Default.asset
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			"1a0d7d9d63a143289af253f1d111bfd7" // Chemicals
+			"e3b8a5017cc446aaa349c19e2905f64e x 2" // Foil
+		]
+		OutputItems this
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			"60f8b71311d3482eb7da3c96610bea74" // Bleach
+			"e3b8a5017cc446aaa349c19e2905f64e x 2" // Foil
+		]
+		OutputItems this
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]

@@ -1,0 +1,70 @@
+GUID a14ecad208ad4fdead678637a42e53fc
+Type Charge
+Rarity Legendary
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Charge
+ID 31575
+
+SalvageItem a14ecad208ad4fdead678637a42e53fc
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+
+PlacementAudioClip Sounds/BeepPlacing1.mp3
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 1
+Range 3
+Radius 0.1
+Offset 0.12
+
+Player_Damage 250
+Zombie_Damage 250
+Animal_Damage 250
+Barricade_Damage 2000
+Structure_Damage 2000
+Vehicle_Damage 1000
+Resource_Damage 4000
+Object_Damage 2000
+
+Explosion_Launch_Speed 100
+
+Range2 8
+Explosion2 30008
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Salvage_Duration_Multiplier 0.5
+
+Bypass_Pickup_Ownership True
+
+Allow_Placement_Inside_Clip_Volumes False
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems "801f0879effd42fabe66addb1d3415b7" // Demolition Charge
+		OutputItems this
+		Skill Craft
+		Skill_Level 3
+		Effect "7eceb9f7751d4634b572c8e236355104" // Rip
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "8ce5c560166545499432d6e01ce399cc" // Raw Explosives
+		Skill Craft
+		Skill_Level 2
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]

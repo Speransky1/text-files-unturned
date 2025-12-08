@@ -1,0 +1,31 @@
+﻿GUID 6885550d43e24e77844d6f1522442aec
+
+Type Supply
+Rarity Rare
+ID 41506
+Size_X 2
+Size_Y 3
+Size_Z 0.55
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset
+Use_Auto_Stat_Descriptions false
+
+Blueprints
+[
+	{
+		CategoryTag "d089feb7e43f40c5a7dfcefc36998cfb" // Supplies
+		InputItems
+		[
+			"159e927969ea4946a24602eaa05e3273 x 5" // Fabric Cloth
+			"928710c647bf4eb1bb1de7cfccdb1844 x 2" // Fabric Mesh
+			"60f8b71311d3482eb7da3c96610bea74 x 2" // Bleach
+			"1986846586774600b7b8779394e49fb6" // Glue
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]

@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "8bffdc103a884c09bcb39000ad5d44b6"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "mm_objects.masterbundle"
+			"Path" "assets/material_palettes/mm_random_brick_0/mm_random_brick_0_0.mat"
+		}
+		{
+			"Name" "mm_objects.masterbundle"
+			"Path" "assets/material_palettes/mm_random_brick_0/mm_random_brick_0_1.mat"
+		}
+		{
+			"Name" "mm_objects.masterbundle"
+			"Path" "assets/material_palettes/mm_random_brick_0/mm_random_brick_0_2.mat"
+		}
+		{
+			"Name" "mm_objects.masterbundle"
+			"Path" "assets/material_palettes/mm_random_brick_0/mm_random_brick_0_3.mat"
+		}
+	]
+}

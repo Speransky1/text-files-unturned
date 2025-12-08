@@ -1,0 +1,44 @@
+"Metadata"
+{
+	"GUID" "cfcdd28718f742e096ec98906145b7cc"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/residential_0.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/residential_1.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/residential_2.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/residential_3.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/residential_4.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/residential_5.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/residential_6.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/residential_7.mat"
+		}
+	]
+}

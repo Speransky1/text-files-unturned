@@ -1,0 +1,26 @@
+GUID ffd51292130a45b190d4713e29ef1de6
+
+
+Type Supply
+Rarity Epic
+ID 48713
+
+Size_X 3
+Size_Y 3
+Size_Z 0.14
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1 
+Blueprint_0_Supply_0_ID 48713
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 43333
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 54045
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 59088
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 27176
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Build 27
+

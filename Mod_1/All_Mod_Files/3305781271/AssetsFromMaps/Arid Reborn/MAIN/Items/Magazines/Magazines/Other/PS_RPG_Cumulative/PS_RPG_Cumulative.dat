@@ -1,0 +1,31 @@
+GUID 0651d55afec340018793e27a87e4be8b
+Type Magazine
+Rarity Legendary
+ID 19357
+
+Size_X 3
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Calibers 1
+Caliber_0 18834
+
+Tracer 12100
+
+Delete_Empty
+
+Range 8
+Player_Damage 125
+Zombie_Damage 250
+Animal_Damage 250
+Barricade_Damage 1550
+Structure_Damage 1350
+Vehicle_Damage 1600
+Resource_Damage 2000
+Object_Damage 32000
+Explosion 19020
+Explosive
+
+Explosion_Launch_Speed 30

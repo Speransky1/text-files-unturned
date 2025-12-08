@@ -1,0 +1,13 @@
+GUID b9d01a10c1da48edb6227a4b310fc82f
+Type Effect
+ID 26700
+
+Spawn_On_Dedicated_Server
+Randomize_Rotation False
+Relevant_Distance 5000
+Lifetime 1000
+Lifetime_Spread 0
+Should_Play_Anims_On_Dedicated_Server true
+Preload 10
+
+Exclude_From_Master_Bundle

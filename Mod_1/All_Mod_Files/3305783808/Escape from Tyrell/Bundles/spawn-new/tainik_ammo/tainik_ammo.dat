@@ -1,0 +1,77 @@
+GUID 9a39df1be0df4367968cc843782baac1
+
+Type Spawn
+ID 10162
+
+Roots
+[
+	{
+		// tainik_proper (Spawn)
+		Guid 1120a4f8114c4a31bf5c7600464d1b21
+		Weight 2
+	}
+]
+
+Tables
+[
+	{
+		// Коробка пистолетных патронов 9х19 (Supply Item)
+		Guid af09b8ebbbb844d281a1c02ee74cb8db
+		Weight 40
+	}
+	{
+		// Коробка промежуточных патронов 5.56х45 (Supply Item)
+		Guid 14244e333c874ea98cefbe8a473541c6
+		Weight 32
+	}
+	{
+		// Коробка промежуточных патронов 7.62х51 (Supply Item)
+		Guid 9d41487f40994dc7a22ec8b4b0ca58fa
+		Weight 27
+	}
+	{
+		// Коробка ружейных патронов 20 калибра (Supply Item)
+		Guid 7b8ad17a3de347da8380a92c685b3460
+		Weight 25
+	}
+	{
+		// Магазин Magpul для AR-15 (M16) (Magazine Item)
+		Guid 3de2883c6e984c2e8aacfdd8492b01b0
+		Weight 22
+	}
+	{
+		// Коробка винтовочных патронов (Supply Item)
+		Guid 86b174e7cbc449e695b437adb977207b
+		Weight 20
+	}
+	{
+		// Магазин Magpul для AR-15 (M4) (Magazine Item)
+		Guid 6a251e74b3544193a991c67347db7aac
+		Weight 15
+	}
+	{
+		// Патроны 12 калибра (Флешетта) (Magazine Item)
+		Guid 26ff2b2387ef43b7a48f5ae9a71e645f
+		Weight 10
+	}
+	{
+		// Патроны 12 калибра (Пулевые) (Magazine Item)
+		Guid 5ce0ca8881c746b2adbbf381892a8283
+		Weight 5
+	}
+	{
+		// Коробка ружейных патронов 12 калибра (Пулевые) (Supply Item)
+		Guid b386d4e6ba4d40fdaed72d9652dcca6a
+		Weight 2
+	}
+	{
+		// tainik_proper (Spawn)
+		Guid 1120a4f8114c4a31bf5c7600464d1b21
+		Weight 2
+	}
+	{
+		// Барабанный магазин для AR-15 (M4) (Magazine Item)
+		Guid 8bb7b09ccf7e43feb72e9bfd28afa711
+		Weight 1
+	}
+]

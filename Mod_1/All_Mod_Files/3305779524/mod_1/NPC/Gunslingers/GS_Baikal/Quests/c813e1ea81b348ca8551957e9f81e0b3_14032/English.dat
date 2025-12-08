@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=uncommon>Связной. Часть 2</color>
+Description <color=uncommon>Связной</color> оказался тем еще ублюдком. Самое главное чтобы <color=mythical>Байкал</color> не узнал, что пришлось уделить время на личные темки его злобного "подрядчика"
+Condition_0 <color=white>Вернуться к</color> <color=mythical>Байкалу</color> <color=white>и передать ему информацию</color> 
+Reward_4 <color=white>Новые рюкзакиу</color> <color=epic>Дюшеса</color>
+Reward_5 <color=white>Новый комплект у</color> <color=epic>Дюшеса:</color>
+Reward_7 <color=white>Новый бартер у</color> <color=#a92b75>Контрабандиста:</color>
+Reward_9 <color=epic>Разблокируются новые виды оружия у</color> <color=legendary>Саяны</color><color=epic>, а так же новые модули у</color> <color=epic>Тархуна</color>
+Reward_10 <color=yellow>Влияние: +100</color>

@@ -1,0 +1,47 @@
+﻿GUID adf8fd460c59463e911689abbb2dbe2a
+
+Type Tool
+Rarity Uncommon
+Useable Housing_Planner
+ID 41807
+
+Size_X 2
+Size_Y 1
+Size_Z 0.5
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			"365315eadce745c1911379f3b3d6d074 x 4" // Paper
+			"c822b20631624e2ebac6e3124141a92f" // Pen
+		]
+		OutputItems this
+		Effect "bb5d128bc7a64cfb8ae1df7b97785149" // SC_Paper_0
+	}
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			"365315eadce745c1911379f3b3d6d074 x 4" // Paper
+			"4d0e719abffc44f6b81942fd24dfb4b6" // Pen
+		]
+		OutputItems this
+		Effect "bb5d128bc7a64cfb8ae1df7b97785149" // SC_Paper_0
+	}
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			"365315eadce745c1911379f3b3d6d074 x 4" // Paper
+			"404e50b32afd46a185edd873445d5554" // Pen
+		]
+		OutputItems this
+		Effect "bb5d128bc7a64cfb8ae1df7b97785149" // SC_Paper_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/PaperRustle/Paper_Rustle.asset
+Use_Auto_Stat_Descriptions False

@@ -1,0 +1,20 @@
+GUID 3734daa9deea4d69975d38e346c27a24
+Type Water
+Useable Consumeable
+ID 45144
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Quality_Min 100
+
+Quality_Max 100
+
+Water 15
+Vision 75
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 45145
+Quest_Reward_0_Amount 1

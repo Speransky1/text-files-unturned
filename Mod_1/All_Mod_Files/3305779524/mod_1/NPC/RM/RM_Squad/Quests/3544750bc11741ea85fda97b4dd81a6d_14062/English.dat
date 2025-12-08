@@ -1,0 +1,11 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=epic>[Шуруп] Техничка</color>
+Description Димон хочет починить свою теехничку. Для этого ему нужны запчасти. Найди все, что нужно и принеси обратно
+Condition_0 Колесо #1 <color=uncommon>(Мельс)</color>
+Condition_1 Колесо #2 <color=uncommon>(Мельс)</color>
+Condition_2 Колесо #3 <color=rare>(Трэнт)</color>
+Condition_3 Колесо #4 <color=rare>(Трэнт)</color>
+Condition_4 Моторное масло <color=orange>(Стоянка дальнобойщиков)</color>
+Condition_5 Свеча зажигания <color=orange>(Стоянка дальнобойщиков)</color>
+Reward_1 <color=epic>АК-74М в обвесе</color>
+Reward_3 <color=white>Новый бартер у</color> <color=#a92b75>Контрабандиста:</color>

@@ -1,0 +1,30 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "725bef1762d54e14a4c2ad0858a06c75"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Minigun Parts"
+	"Entries"
+	[
+		{
+			"Item" "3f1b9bc77f644d04be5704f124cf32bd"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "c3b99d0ebad845d5bb83e628dc5ea8cd"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "07ac183d48574649bcd1ea1904949587"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+	]
+	"ID" "0"
+	"Asset_Bundle_Version" "1"
+}

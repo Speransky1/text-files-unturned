@@ -1,0 +1,47 @@
+﻿GUID 5e527a6beb1d4f0ea237d443b04aa636
+Type Spawn
+ID 41440
+
+Tables
+[
+	{
+		// Canned Cola (Water Item)
+		LegacyAssetId 41645
+		Weight 40
+	}
+	{
+		// Cheese (Food Item)
+		Guid 38cd955d8f1b4176a5e14eb9f7980854
+		Weight 38
+	}
+	{
+		// Bottle of Water (Water Item)
+		LegacyAssetId 41648
+		Weight 30
+	}
+	{
+		// Bottle of Kefir (Water Item)
+		LegacyAssetId 41647
+		Weight 30
+	}
+	{
+		// Cottage Cheese (Food Item)
+		Guid 71f37d22852a41e9896053eb5af45459
+		Weight 28
+	}
+	{
+		// Potato (Food Item)
+		Guid e04f4188e6124bd59ab27da11ad7396e
+		Weight 23
+	}
+	{
+		// Box of Milk (Water Item)
+		LegacyAssetId 41646
+		Weight 20
+	}
+	{
+		// Beet (Food Item)
+		Guid 12302d1a44564a35aae986efa0b9ab00
+		Weight 20
+	}
+]

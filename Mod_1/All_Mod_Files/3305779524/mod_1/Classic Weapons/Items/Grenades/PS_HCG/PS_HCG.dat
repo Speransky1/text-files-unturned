@@ -1,0 +1,31 @@
+GUID 7020d79e4171475aafc9abe8efe37fc6
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 31502
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Player_Damage 135
+Zombie_Damage 270
+Animal_Damage 270
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 135
+Resource_Damage 270
+Object_Damage 135
+
+Weak_Throw_Force 800
+Strong_Throw_Force 1000
+Boost_Throw_Force_Multiplier 1.25
+
+Range 8
+Fuse_Length 10
+Explosion 30012
+
+Explosive
+Explode_On_Impact
+Explosion_Launch_Speed 0
+Projectile_Explosion_Launch_Speed 0

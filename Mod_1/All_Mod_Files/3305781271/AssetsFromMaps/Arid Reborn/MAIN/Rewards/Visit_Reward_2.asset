@@ -1,0 +1,8 @@
+GUID 55525699b31e440d92a4426eef003100
+Type RewardsList
+
+//Visit Point Lima
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22623
+Reward_0_Value True

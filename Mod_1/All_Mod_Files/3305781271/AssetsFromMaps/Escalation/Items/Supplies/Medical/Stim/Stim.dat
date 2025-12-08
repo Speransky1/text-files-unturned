@@ -1,0 +1,51 @@
+GUID 249fe1c36cfa4714862b0fc0aabfc6b1
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 51408
+
+Size_X 1
+Size_Y 2
+Size_Z .3
+
+Aid
+
+Bleeding_Modifier Heal
+Health 25
+Disinfectant 50
+Energy 100
+
+Use_Auto_Icon_Measurements false
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 51409
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 51410
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 51411
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 32
+
+Quest_Rewards 7
+Quest_Reward_0_Type Rewards_List_Asset
+Quest_Reward_0_GUID e9c4dbee7e2e4c78b82341bdacdd6638
+Quest_Reward_1_Type Rewards_List_Asset
+Quest_Reward_1_GUID 9032ded9e20d4ae78921fda11a049b91
+
+// Med Book?
+Quest_Reward_2_Type Rewards_List_Asset
+Quest_Reward_2_GUID 44a4553ef6164c9c9bd92bfedee999ac
+Quest_Reward_2_GrantDelaySeconds 60
+Quest_Reward_3_Type Rewards_List_Asset
+Quest_Reward_3_GUID 10f16a26be744636bd91c24299516c96
+Quest_Reward_3_GrantDelaySeconds 6
+Quest_Reward_4_Type Rewards_List_Asset
+Quest_Reward_4_GUID d8b1c98d03c24ef79955cfc9432333c9
+Quest_Reward_5_Type Rewards_List_Asset
+Quest_Reward_5_GUID 08b3b1ca77e6466295048cf41dd9e540
+Quest_Reward_6_Type Rewards_List_Asset
+Quest_Reward_6_GUID 0159ead5441b46a78a8bb2f4e8773253
+
+

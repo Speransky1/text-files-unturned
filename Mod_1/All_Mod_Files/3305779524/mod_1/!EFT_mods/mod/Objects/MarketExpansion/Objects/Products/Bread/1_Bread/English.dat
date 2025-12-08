@@ -1,0 +1,5 @@
+Name ME Bread #1
+
+Interactability_Condition_0 Requires <color=#4E5D8E>10$</color> 
+
+Interact Purchase Bag of Bread for <color=#4E5D8E>10$</color>  [{0}]

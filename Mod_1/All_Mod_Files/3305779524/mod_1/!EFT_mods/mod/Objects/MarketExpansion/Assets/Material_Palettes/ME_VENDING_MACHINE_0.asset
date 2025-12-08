@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "6f6174340e8a4d7098f9f33825df9c89"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_VENDING_MACHINE_0/ME_VENDING_MACHINE_00.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_VENDING_MACHINE_0/ME_VENDING_MACHINE_01.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_VENDING_MACHINE_0/ME_VENDING_MACHINE_02.mat"
+		}
+	]
+}

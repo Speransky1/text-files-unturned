@@ -1,0 +1,133 @@
+GUID 922687b9e4ee4814921934c857f60366
+Type Gun
+Rarity Epic
+Useable Gun
+Requires_NonZero_Attachment_Caliber True
+Slot Secondary
+ID 30701
+
+EquipAudioClip classicweapons.masterbundle:Assets/Guns_Equip/Equip_GRM.wav
+Instantiated_Item_Name_Override 10583
+
+Size_X 3
+Size_Y 2
+Size_Z 0.4
+
+Unplace 0.01
+Replace 0.01
+EquipableModelParent SpineHook
+
+Magazine 31181
+
+Ammo_Min 0
+Ammo_Max 1
+
+Shell 9000
+
+Safety
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 25068
+
+Muzzle 30039
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+
+
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "42ed3dec53e943c08810f115b75e9302" // Metal Scrap
+				Amount 1
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			"7b82c125a5a54984b8bb26576b59e977" // Workbench
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems 
+		[
+			"21ede8ebffb14c5580e8c7ad149e335e x 4" // Metal Scrap
+			"e73a23b102f24520a32ec0b2afaa6157" // Maple Plank
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]
+
+////////////////////////////////////////Balance Stats
+
+Gunshot_Rolloff_Distance 300
+Range 400
+Ballistic_Steps 100
+Ballistic_Travel 4
+Ballistic_Drop 0.005
+
+
+
+Firerate 50
+Action Trigger
+
+Player_Damage 90
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.7
+
+Zombie_Damage 180
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.7
+
+Animal_Damage 180
+Animal_Leg_Multiplier 0.5
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1.7
+
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 5
+Resource_Damage 5
+Object_Damage 5
+
+Durability 0.5
+
+Recoil_Min_X -2.5
+Recoil_Min_Y 20
+Recoil_Max_X 2.5
+Recoil_Max_Y 21
+
+Recover_X 0.95
+Recover_Y 0.95
+
+Shake_Min_X -0.01
+Shake_Min_Y -0.03
+Shake_Min_Z 0
+Shake_Max_X 0.01
+Shake_Max_Y -0.04
+Shake_Max_Z -0.02
+
+Recoil_Midair 3
+
+Spread_Aim 0.06
+Spread_Hip 0.12
+Spread_Midair 3

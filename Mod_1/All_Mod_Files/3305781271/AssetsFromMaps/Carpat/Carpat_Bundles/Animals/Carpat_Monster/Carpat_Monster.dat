@@ -1,0 +1,18 @@
+GUID d0242af157564de9997f03f7cc8fa29a
+Type Animal
+ID 23503
+
+Speed_Run 15
+Speed_Walk 10
+
+Behaviour Offense
+
+Health 100
+Damage 35
+
+Pelt 23006
+Reward_XP 4
+Reward_Min 2
+Reward_Max 4
+
+Roars 3

@@ -1,0 +1,30 @@
+GUID 2078d23e9cc349c78a4db6cd55ec7ee6
+
+Type Magazine
+Rarity Uncommon
+ID 17028
+
+Size_X 1
+Size_Y 2
+Size_Z 0.25
+
+Amount 25
+Count_Min 18
+Count_Max 25
+
+Calibers 1
+Caliber_0 17104
+
+
+Tracer 17004
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 17028
+Blueprint_0_Build 30
+
+
+
+
+Use_Auto_Stat_Descriptions false

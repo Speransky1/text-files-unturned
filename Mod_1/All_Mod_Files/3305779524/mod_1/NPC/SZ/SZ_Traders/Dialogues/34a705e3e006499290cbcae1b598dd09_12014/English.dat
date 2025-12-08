@@ -1,0 +1,4 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Здарова, если есть лишняя провизия - куплю
+Response_0 *Торговать*
+Response_1 *Уйти*

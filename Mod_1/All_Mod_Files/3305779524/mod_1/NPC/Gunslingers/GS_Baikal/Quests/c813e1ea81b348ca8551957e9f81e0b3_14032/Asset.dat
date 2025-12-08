@@ -1,0 +1,69 @@
+﻿// Made in NPC Maker by BowieD
+GUID c813e1ea81b348ca8551957e9f81e0b3
+Type Quest
+ID 14032
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17005
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_0_Reset 
+
+Rewards 12
+Reward_0_Type Experience
+Reward_0_Value 2000
+
+Reward_1_Type Flag_Bool
+Reward_1_ID 17004
+Reward_1_Value False
+
+Reward_2_Type Item
+Reward_2_ID 29144
+Reward_2_Amount 1
+Reward_2_Auto_Equip True
+
+Reward_3_Type Item
+Reward_3_ID 33125
+Reward_3_Amount 3
+Reward_3_Auto_Equip False
+
+Reward_4_Type Item
+Reward_4_ID 59098
+Reward_4_Amount 0
+Reward_4_Auto_Equip False
+
+Reward_5_Type Item
+Reward_5_ID 59535
+Reward_5_Amount 0
+Reward_5_Auto_Equip False
+
+Reward_6_Type Item
+Reward_6_ID 48721
+Reward_6_Amount 0
+Reward_6_Auto_Equip False
+
+Reward_7_Type Item
+Reward_7_ID 59534
+Reward_7_Amount 0
+Reward_7_Auto_Equip False
+
+Reward_8_Type Item
+Reward_8_ID 19871
+Reward_8_Amount 0
+Reward_8_Auto_Equip False
+
+Reward_9_Type Item
+Reward_9_ID 62535
+Reward_9_Amount 0
+Reward_9_Auto_Equip False
+
+Reward_10_Type Item
+Reward_10_ID 52457
+Reward_10_Amount 0
+Reward_10_Auto_Equip False
+
+Reward_11_Type Flag_Short
+Reward_11_ID 54301
+Reward_11_Value 100
+Reward_11_Modification Increment
+

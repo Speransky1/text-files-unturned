@@ -1,0 +1,97 @@
+GUID 7be788f984674ca0aa50b7808a89f723
+Type Spawn
+ID 10116
+
+Tables
+[
+	{
+		// Коробка промежуточных патронов 5.56х45 (Supply Item)
+		Guid 14244e333c874ea98cefbe8a473541c6
+		Weight 150
+	}
+	{
+		// Тактическая рукоять Magpul RVG (Black) (Grip Item)
+		Guid 7b0ca586f742415b9770d1cf37bb5692
+		Weight 120
+	}
+	{
+		// Тактическая рукоять Magpul AFG Grip (Black) (Grip Item)
+		Guid 9ba762f5f0f9450fbe70ac7dbf473d7b
+		Weight 120
+	}
+	{
+		// Магазин Magpul для AR-15 (M4) (Magazine Item)
+		Guid 6a251e74b3544193a991c67347db7aac
+		Weight 110
+	}
+	{
+		// Коробка промежуточных патронов 7.62х51 (Supply Item)
+		Guid 9d41487f40994dc7a22ec8b4b0ca58fa
+		Weight 100
+	}
+	{
+		// ДТК Daniel Defense для AR-15 (Barrel Item)
+		Guid 42dd4e8e691847298ba85600b418231f
+		Weight 100
+	}
+	{
+		// Патроны 12 калибра (Пулевые) (Magazine Item)
+		Guid 5ce0ca8881c746b2adbbf381892a8283
+		Weight 70
+	}
+	{
+		// Патроны 12 калибра (Картечь) (Magazine Item)
+		Guid b1725c74971b4ba3b8256d05f82b9cdb
+		Weight 70
+	}
+	{
+		// AN/PEQ-15 Tactical Laser (Tactical Item)
+		Guid 04fe40c0d9d34937af898d050b444c9c
+		Weight 55
+	}
+	{
+		// Holosun multi laser (Tactical Item)
+		Guid 2fb4dff1416642f1b3c1f87003d02e4e
+		Weight 55
+	}
+	{
+		// Магазин для H&K MP-5 (Magazine Item)
+		Guid 5d464a4ba89c45128872f4b2f8e307e0
+		Weight 15
+	}
+	{
+		// Glock 17 (Gun Item)
+		Guid c928ae7e2dfa48edae3e52628f8a7f37
+		Weight 9
+	}
+	{
+		// H&K MP-5 (Gun Item)
+		Guid 41160ba2143344a3a11fb3d33a2b9a55
+		Weight 8
+	}
+	{
+		// Коротыш (Gun Item)
+		Guid 81a16c777da942329fd80ec7c76270f7
+		Weight 8
+	}
+	{
+		// Colt M4A1 (Gun Item)
+		Guid 362fedde98184e9eb5d260b5aacab54a
+		Weight 5
+	}
+	{
+		// Барабанный магазин для AR-15 (M4) (Magazine Item)
+		Guid 8bb7b09ccf7e43feb72e9bfd28afa711
+		Weight 3
+	}
+	{
+		// H&K G41-K (Gun Item)
+		Guid eff4e250c83846e491a9c21fe25bccf3
+		Weight 1
+	}
+	{
+		// Colt M4A1 SOPMOD-2 (Gun Item)
+		Guid f0b4e85b39d942b5ac85b66975a50aff
+		Weight 1
+	}
+]

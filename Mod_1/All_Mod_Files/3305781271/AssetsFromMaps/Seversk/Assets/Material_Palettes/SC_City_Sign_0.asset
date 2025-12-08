@@ -1,0 +1,36 @@
+﻿Metadata
+{
+	GUID bef468e7caf043389cde4db8dd0fe354
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_City_Sign_0/City_Sign_0.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_City_Sign_0/City_Sign_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_City_Sign_0/City_Sign_2.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_City_Sign_0/City_Sign_3.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_City_Sign_0/City_Sign_4.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_City_Sign_0/City_Sign_5.mat
+		}
+	]
+}

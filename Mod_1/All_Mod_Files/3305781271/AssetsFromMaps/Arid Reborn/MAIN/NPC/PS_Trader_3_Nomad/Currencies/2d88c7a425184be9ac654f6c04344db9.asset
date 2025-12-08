@@ -1,0 +1,30 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "2d88c7a425184be9ac654f6c04344db9"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} RPG Parts"
+	"Entries"
+	[
+		{
+			"Item" "5e16eca054e24157af8b7236d516bac4"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "03235fd834874048beb1ddf33f5f68d7"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "6bc5a056b3d646c28d4df765f8eb5158"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+	]
+	"ID" "0"
+	"Asset_Bundle_Version" "1"
+}

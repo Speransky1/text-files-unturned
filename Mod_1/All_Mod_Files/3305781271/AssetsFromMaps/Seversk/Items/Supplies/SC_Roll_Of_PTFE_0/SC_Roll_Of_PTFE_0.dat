@@ -1,0 +1,31 @@
+﻿GUID c566d0d9217d481fb56493e3d8fa8b2e
+
+Type Supply
+Rarity Epic
+ID 41563
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset
+
+Blueprints
+[
+	{
+		CategoryTag "d089feb7e43f40c5a7dfcefc36998cfb" // Supplies
+		InputItems
+		[
+			"876a753a1b39450395639346b645390c x 3" // Aramid Fabric
+			"c8208cf6b765409e854034383f6ce715 x 3" // Polyamide Fabric
+			"edc4d492616c4bfa841f8a8a1c58df1e x 10" // Plastic Fragments
+			"4b74f6b14f4f414fb8fc80329870e807 x 6" // Spool Thread
+			"28302cbb580641738db43ae62a045dbe x 2" // Insulating Tape
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]

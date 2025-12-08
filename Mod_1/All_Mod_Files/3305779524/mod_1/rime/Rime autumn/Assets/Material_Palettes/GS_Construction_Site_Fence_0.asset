@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "8fde355a9ad745d1978896dfb76032bd"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Construction_Site_Fence_0/Construction_Fence_2_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Construction_Site_Fence_0/Construction_Fence_3_M.mat"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+GUID d4061f28d47a410394b6134dfda7051b
+Type Small
+ID 20063
+
+Interactability Binary_State
+Interactability_Hint Fire
+Interactability_Power None
+Interactability_Emission
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 1
+Rubble_Effect 64

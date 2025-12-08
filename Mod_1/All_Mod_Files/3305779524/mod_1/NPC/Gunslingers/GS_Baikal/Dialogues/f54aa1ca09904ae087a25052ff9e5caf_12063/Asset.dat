@@ -1,0 +1,17 @@
+﻿// Made in NPC Maker by BowieD
+GUID f54aa1ca09904ae087a25052ff9e5caf
+Type Dialogue
+ID 12063
+Messages 1
+Message_0_Pages 2
+Responses 1
+Response_0_Dialogue 12059
+Response_0_Quest 14031
+Response_0_Rewards 2
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 14031
+
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 17003
+Response_0_Reward_1_Value False
+

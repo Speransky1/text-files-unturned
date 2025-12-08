@@ -1,0 +1,384 @@
+ManifestFileVersion: 0
+CRC: 3349441140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a063f4f0b4b1a0f7047ac6e69d0c5c3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a2d4966287b364291d1bc00819c7646
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23bb63b2766a59443af492610b99390b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_02.png
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Door_Test_0/Open.anim
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_01_Closed_Corner/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_3/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_4/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Turn_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_5/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_03_[2.5m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_01.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_05.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[2m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_5/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Hesco_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Debris_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_4/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Destroyed_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Glass_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_00.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Debris_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_00_[Gate 8m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_02.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barbed_Wire_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Spotlight_UV_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_03.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_3/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_06.png
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_01_[4m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Line_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_02_[5m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_4/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_3/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Security_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Spotlight_UV_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Barrel_02/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_05/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_Interior_2_A/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_04_[Gate 5m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Turn_0/Skybox.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Garbage_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_3/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[4m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_05.png
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[Roof]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Balcony_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_Interior_0_A/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Balcony_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Decals/PC_Decal_Blood_01/Decal.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bike_Rental_Cover_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Decals/PC_Decal_Blood_02/Decal.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Fence_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_4/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Glass_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_04_[Gate 2.5m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Destroyed_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_08.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Barrel_01/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_00_[4m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Decals/PC_Decal_Blood_04/Decal.png
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_01.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Hazard_Garbage_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Glass_0_Unbreakable/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_04.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_3/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Hesco_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Decals/PC_Decal_Blood_00/Decal.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_3/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_04_[Pillar]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_00.png
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_09.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_07.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_1_Fence_Destroyed/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_3/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bike_Rental_Cover_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Ramp_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_4/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_02.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Hesco_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Barrel_03/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Line_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_4/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Water_Tower_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_00_[Frame 4m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_4/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_01/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Debris_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Balcony_Fence_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_05.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_03.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Ramp_0/Skybox.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_06.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_04_[5m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Scaffhold_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[Pillar]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Small/PC_Hazard_Box_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Barrel_03/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_0_Fence/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_7/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Barrel_02/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_4/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Locker_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Dumpster_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Decals/PC_Decal_Blood_03/Decal.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_0_Fence_Destroyed/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Chair_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_01_Open_Corner/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[Roof]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_0_Fence_Destroyed/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[4m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_04_[Gate 5m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Balcony_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Spotlight_UV_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_3/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_00/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_3/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_4/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Scaffhold_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_3/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_5/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Turn_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_03/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_4/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_02/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_6/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_1_Fence_Destroyed/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_01.png
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_01_[4m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_4/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_Interior_1_A/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[Holes 4m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_01_Closed_Corner/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Coil_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Locker_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_5/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_03/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Bench_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Coil_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Small/PC_Hazard_Box_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_01/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_0_Destroyed/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Debris_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_00/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_05.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Beam_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Hazard_Garbage_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_7/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Fence_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_1_Destroyed/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bike_Rental_Cover_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_4/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Fence_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_02.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Destroyed_0/Skybox.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_02/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_00_[Frame 4m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_02/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Mobile_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_3/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Barrel_00/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_7/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_6/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_3/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Garbage_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_03_[5m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Dumpster_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_02/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_Interior_0_A/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Balcony_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Spotlight_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Debris_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_3/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Mobile_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_00_[Gate 8m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Spotlight_UV_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Spotlight_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_03.png
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_01_[8m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Beam_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Barrel_01/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_1_Fence/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Hesco_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_00_[8m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_03_[2.5m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_Interior_2_A/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_03/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_04.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_04.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Line_0/Skybox.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_5_Cover/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_3/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[Frame 4m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Glass_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Chair_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[Pillar]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_4/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_00/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_01_Open_Corner/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_6/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Mid_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_4/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_00_[4m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Barrel_00/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_5_Cover/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Security_0/Skybox.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_8/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_00.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Fence_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_04_[5m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Bench_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Door_Test_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_01/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_00_[8m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_7/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Spotlight_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_5/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_04/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_1_Destroyed/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_3/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_04/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_04_[Gate 2.5m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[Holes 4m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Balcony_Fence_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_3/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Top_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_6/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[Frame 4m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_0_Fence/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_6/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_6/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_00/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_4/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_03.mat
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Glass_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_1_Fence/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_3/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Door_Test_0/Close.anim
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_09.png
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Debris_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_04/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Shelf_05/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_04.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_5/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Glass_0_Unbreakable/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bridge_Ramp_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barbed_Wire_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_03_[5m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_00.png
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_03_[2m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Crate_8/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_03/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_04_[Pillar]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_08.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_04/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_02_[5m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_APARTMENT_0/PC_APARTMENT_0_01.png
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_3/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Balcony_Fence_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_2/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Wood_00_[2m]/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Balcony_Fence_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_Interior_3_A/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Table_01/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Spotlight_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tent_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_Interior_3_A/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_2/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Security_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_03_[2m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Fence_Metal_01_[8m]/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Material_Palettes/PC_HAZARD_TARP_0/PC_HAZARD_TARP_0_07.png
+- Assets/EXPANSIONS/PostChaos/Objects/Medium/PC_Door_Test_0/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Military_Wall_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Bike_Rental_Cover_1/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Fake_Interior_1/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Water_Tower_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Apartment_Interior_1_A/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Barricade_4/Nav.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Hazard_Tarp_Bottom_0/Object.prefab
+- Assets/EXPANSIONS/PostChaos/Objects/Large/PC_Catwalk_0_Destroyed/Nav.prefab
+Dependencies: []

@@ -1,0 +1,30 @@
+GUID 6dd26ba4953646fab682e2e985df37fc
+Type Generator
+Rarity Epic
+Useable Barricade
+Build Generator
+ID 59522
+
+Size_X 4
+Size_Y 4
+Size_Z 0.56
+
+Health 1000
+Range 4
+Radius 1.15
+Offset 1.26
+
+Capacity 30000
+Wirerange 64.0
+Burn 50
+
+Explosion 36
+
+Vulnerable
+
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Use_Auto_Icon_Measurements False
+
+Salvage_Duration_Multiplier 0.5

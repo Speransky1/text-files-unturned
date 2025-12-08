@@ -1,0 +1,8 @@
+GUID 83909c17d3ff4f00953d376c5415e368
+Type RewardsList
+
+//Visit Kubry Al-Mala'ika
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22622
+Reward_0_Value True

@@ -1,0 +1,131 @@
+GUID 01d99cb4a21b415bb8635c8878f938cc
+
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 63844
+
+Aim_In_Duration 0.3
+
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_Honey.wav
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Guns/Battle_Rifles/PS_Honeybee_Proto
+
+Size_X 4
+Size_Y 2
+Size_Z 0.35
+
+Sight 19293
+Magazine 63292
+Grip 19750
+
+Hook_Sight
+Hook_Tactical
+
+Ammo_Min 10
+Ammo_Max 20
+
+
+Semi
+Auto
+
+Unplace 0.1
+Replace 0.5
+
+Attachment_Calibers 2
+Attachment_Caliber_0 18904
+Attachment_Caliber_1 18902
+
+Magazine_Calibers 1
+Magazine_Caliber_0 19292
+
+Firerate 8
+Action Trigger
+
+Player_Damage 42
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.9
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 160
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 160
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 155
+Resource_Damage 200
+Object_Damage 200
+
+Durability 0.12
+
+Spread_Aim 0.033
+Spread_Hip 0.3
+
+Recoil_Min_X -0.4
+Recoil_Min_Y 1
+Recoil_Max_X 0.9
+Recoil_Max_Y 1.6
+
+Recover_X 0.2
+Recover_Y 0.1
+
+Range 600
+Ballistic_Steps 30
+Ballistic_Travel 13
+Ballistic_Drop 0.0007
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Muzzle 19014
+
+Shell 19015
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19619
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19294
+Blueprint_1_Product 19262
+Blueprint_1_Products 3
+Blueprint_1_Tool 19004
+Blueprint_1_Build 27
+
+Gunshot_Rolloff_Distance 700
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+Recoil_Crouch 0.8
+Recoil_Prone 0.6
+
+Spread_Prone 0.8
+Spread_Crouch 0.6
+
+Player_Damage_Bleeding Always
+
+Quality_Min 5
+Quality_Max 15

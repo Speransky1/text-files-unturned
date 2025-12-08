@@ -1,0 +1,18 @@
+GUID fd602d48baee43c3bf34314209ccdad6
+
+Type Sight
+Rarity Rare
+ID 17037
+
+Size_X 2
+Size_Y 1
+Size_Z 0.135
+
+Spread 0.7
+Zoom 3
+ThirdPerson_Zoom 1.5
+
+Calibers 1
+Caliber_0 17107
+
+Use_Auto_Stat_Descriptions false

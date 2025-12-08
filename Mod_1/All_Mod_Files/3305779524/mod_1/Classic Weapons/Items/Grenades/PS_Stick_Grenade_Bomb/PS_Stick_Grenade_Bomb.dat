@@ -1,0 +1,39 @@
+GUID 23e921acf67f498a9898ec9db34bbeb8
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 31510
+
+Size_X 2
+Size_Y 2
+Size_Z 0.62
+
+Player_Damage 300
+Zombie_Damage 300
+Animal_Damage 300
+Barricade_Damage 7
+Structure_Damage 7
+Vehicle_Damage 300
+Resource_Damage 300
+Object_Damage 1000
+
+Range 18
+Explosion 30027
+
+Explosive
+
+Strong_Throw_Force 300
+Weak_Throw_Force 300
+
+Boost_Throw_Force_Multiplier 1
+
+Fuse_Length 12
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31509
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Build 27
+
+Explosion_Launch_Speed 30

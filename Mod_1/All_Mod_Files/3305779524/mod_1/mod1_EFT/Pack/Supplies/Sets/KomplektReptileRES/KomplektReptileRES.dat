@@ -1,0 +1,25 @@
+GUID 7f67a4cbacac4433ad4b5da065add1f7
+
+Type Supply
+Rarity Rare
+ID 56887
+
+Size_X 3
+Size_Y 3
+Size_Z 0.14
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1 
+Blueprint_0_Supply_0_ID 56887
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 59427
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 46052
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 15355
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 15357
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Build 27
+

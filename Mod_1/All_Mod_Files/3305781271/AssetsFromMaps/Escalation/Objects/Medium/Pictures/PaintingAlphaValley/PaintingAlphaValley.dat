@@ -1,0 +1,13 @@
+GUID 9e1372999e87418cbe838faf1e9b831b
+Type Medium
+ID 51000
+
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 1
+Rubble_Effect 58
+Rubble_Reward_ID 51238
+// Rubble_Rewards_Min 1
+// Rubble_Rewards_Max 1

@@ -1,0 +1,122 @@
+GUID 566fa00047b04e5aa17cf76deb2f68d9
+Type Spawn
+ID 10128
+
+Tables
+[
+	{
+		// Осколки стекла (Supply Item)
+		Guid 9eb2830a79f74cecafa02930a7671811
+		Weight 80
+	}
+	{
+		// Куски металла (Supply Item)
+		Guid 640730beacec4f008a4b880a8086869f
+		Weight 80
+	}
+	{
+		// Консервная банка (Supply Item)
+		Guid d80514bf979c4f5ca52562f17e06f6b4
+		Weight 80
+	}
+	{
+		// Металлолом (Supply Item)
+		Guid 49929a679ece47ae9f5db2576661fad7
+		Weight 75
+	}
+	{
+		// Гайки (Supply Item)
+		Guid 078f5574eed241309da9b39d5f23e8ba
+		Weight 75
+	}
+	{
+		// Форма для выпечки (Supply Item)
+		Guid 576d9323c2db457bb0c43b19caec5a3d
+		Weight 65
+	}
+	{
+		// Ключ (Supply Item)
+		Guid d582f48c787040139b43fabc7f884874
+		Weight 65
+	}
+	{
+		// Лист металла (Supply Item)
+		Guid 91271cb1936749539e06224fff2134b0
+		Weight 60
+	}
+	{
+		// Совок (Supply Item)
+		Guid e53fbee8538945fabd965b19bebc9f39
+		Weight 55
+	}
+	{
+		// Гаечный ключ (Supply Item)
+		Guid f427e0b4edb849d0946450dfba824d35
+		Weight 55
+	}
+	{
+		// Ведро (Storage Item)
+		Guid 78ac499537094827b32dc54fda744bee
+		Weight 55
+	}
+	{
+		// Отвертка (Supply Item)
+		Guid 306849c0a04444c09f59de290bcb6f23
+		Weight 50
+	}
+	{
+		// Пропановый балон (Tank Item)
+		Guid 6dd5d46a704e4d799d95c37779ad23ca
+		Weight 45
+	}
+	{
+		// Тёрка (Supply Item)
+		Guid 519e382576b04990adaf9319ec2d7994
+		Weight 45
+	}
+	{
+		// Шурупы (Supply Item)
+		Guid a565e2d6c8c8468eb2f42161dfdfa78d
+		Weight 40
+	}
+	{
+		// Гвозди (Supply Item)
+		Guid bdeedcd393914cd39985393d8578190a
+		Weight 40
+	}
+	{
+		// Набор проводов (Supply Item)
+		Guid af7b1190229f4272a4632c4df0800b81
+		Weight 35
+	}
+	{
+		// Металлическая труба (Supply Item)
+		Guid e0f3b003264f40138e9bc9b53ef959a0
+		Weight 35
+	}
+	{
+		// Утюг (Supply Item)
+		Guid c7cbf2ad3e614117a183887648102d82
+		Weight 30
+	}
+	{
+		// Коробка болтов (Supply Item)
+		Guid 7c2818370ad74a75a912036574c767a8
+		Weight 30
+	}
+	{
+		// Стальная сетка (Supply Item)
+		Guid 41a4926bab2b490f9525cd0583901881
+		Weight 25
+	}
+	{
+		// Металлическая пружина (Supply Item)
+		Guid 58cfc475aae04c44b1e2457eeb90cfdc
+		Weight 25
+	}
+	{
+		// Лезвие пилы (Supply Item)
+		Guid 963a6bc48fb54fe18d45d0499c486104
+		Weight 15
+	}
+]

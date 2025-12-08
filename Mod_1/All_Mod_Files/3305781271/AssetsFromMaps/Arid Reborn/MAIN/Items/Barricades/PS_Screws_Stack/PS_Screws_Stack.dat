@@ -1,0 +1,34 @@
+GUID 42f61eaf22e44127b746f32eee3787b2
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Barricade
+ID 10564
+
+Size_X 2
+Size_Y 1
+Size_Z 0.45
+
+SalvageItem 42f61eaf22e44127b746f32eee3787b2
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy cabf03f5f77e437a80cae5f52c5ce9d9
+
+
+Health 60
+Range 4
+Radius 0.1
+Offset 0.127
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip aridreborn.masterbundle:Sounds/MiscPlacement.mp3
+
+Bypass_Pickup_Ownership True

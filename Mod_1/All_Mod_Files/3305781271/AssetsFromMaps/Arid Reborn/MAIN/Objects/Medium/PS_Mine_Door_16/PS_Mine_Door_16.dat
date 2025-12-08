@@ -1,0 +1,12 @@
+GUID 606d9aec2dfb4a22a30c33adcc0d544a
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60091
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint CV_Mine_Exit_0

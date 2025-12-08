@@ -1,0 +1,52 @@
+GUID 812ccfbdebde4b5285ac807d0fb62995
+Type Spawn
+ID 10110
+
+Tables
+[
+	{
+		// Отвертка (Supply Item)
+		Guid 306849c0a04444c09f59de290bcb6f23
+		Weight 70
+	}
+	{
+		// Рулетка (Supply Item)
+		Guid 35ec992360af46d7acc3e80e40aefdd1
+		Weight 70
+	}
+	{
+		// Смазка (Water Item)
+		Guid ff758a89bc4d4fc9bf5c8c61fcc02265
+		Weight 70
+	}
+	{
+		// Гаечный ключ (Supply Item)
+		Guid f427e0b4edb849d0946450dfba824d35
+		Weight 70
+	}
+	{
+		// Электрическая дрель (Supply Item)
+		Guid 9e4327f6a9f549dcb47682c2ecb823a4
+		Weight 55
+	}
+	{
+		// toolbox_plastic (Spawn)
+		Guid 45f6f3e1f047486da512021e74dcf14b
+		Weight 30
+	}
+	{
+		// Белый предохранитель (Supply Item)
+		Guid 8db351dc3bb44d109d5e68dde8a0b869
+		Weight 17
+	}
+	{
+		// Свеча зажигания (Supply Item)
+		Guid 6fa88a8b09a442f898c66abc972c939e
+		Weight 8
+	}
+	{
+		// Набор батареек Cockler (Supply Item)
+		Guid 5735da1524e343778478292fc4dfc10c
+		Weight 1
+	}
+]

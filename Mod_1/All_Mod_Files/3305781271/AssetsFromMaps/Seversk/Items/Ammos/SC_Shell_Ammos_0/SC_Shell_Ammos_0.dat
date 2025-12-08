@@ -1,0 +1,69 @@
+﻿GUID fc6a7c3120074cd5b9d7239d997c2d4f
+Type Supply
+Rarity Uncommon
+ID 41704
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Calibers 1
+Caliber_0 43007
+
+Blueprints
+[
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		InputItems this
+		OutputItems "5d33dc07d76c4ef5bab21dfb1d3af788 x 12" // Green Shells
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		InputItems this
+		OutputItems "7324306b55e84d44b71368c5c5482b72 x 3" // Red Shells
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID "365315eadce745c1911379f3b3d6d074" // Note Paper
+				Amount 2
+			}
+			{
+				ID "58b45f8f7807426289e372b7341d10d2" // Gunpowder
+				Amount 3
+			}
+			{
+				ID "c4f3449e46f944ae8f8ca9ae54623a1b" // Gun Parts
+				Amount 3
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/ShellRustle/Shell_Rustle.asset
+Use_Auto_Icon_Measurements True
+Use_Auto_Stat_Descriptions false
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 3
+Action_0_Blueprint_0_Index 0
+Action_0_Text Hunting Shells
+Action_0_Tooltip Pull out <color=#uncommon>Hunting Shells</color> from the box
+
+Action_1_Type Blueprint
+Action_1_Blueprints 3
+Action_1_Blueprint_0_Index 1
+Action_1_Text Sporting Shells
+Action_1_Tooltip Pull out <color=#uncommon>Sporting Shells</color> from the box

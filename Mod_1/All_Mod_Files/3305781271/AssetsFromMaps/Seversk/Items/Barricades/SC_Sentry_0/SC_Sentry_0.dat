@@ -1,0 +1,71 @@
+﻿GUID 64bd6cdd4fa3476db7d9d3821c4005c7
+Type Sentry
+Rarity Epic
+Useable Barricade
+Build Sentry
+ID 41439
+
+Size_X 2
+Size_Y 3
+Size_Z 0.5
+
+Health 450
+Range 4
+Radius 0.4
+Offset 0.54
+
+Storage_X 5
+Storage_Y 2
+Display
+Locked
+Mode Hostile
+Explosion 41330
+Salvage_Duration_Multiplier 0.8
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Icon_Measurements false
+
+Blueprints
+[
+	{
+		CategoryTag "bfac6026305f4737a95fd275ebff65a6" // Utilities
+		InputItems
+		[
+			{
+				ID "7dac0e02638e493aaef279e2ed9d5c2d" // Metal Sheet
+				Amount 4
+			}
+			{
+				ID "e3b8a5017cc446aaa349c19e2905f64e" // Foil
+				Amount 4
+			}
+			{
+				ID "c4f3449e46f944ae8f8ca9ae54623a1b" // Gun Parts
+				Amount 4
+			}
+			{
+				ID "fc66e44ca92f49d0b8d4fca4bd512190" // Electronic Fragments
+				Amount 4
+			}
+			{
+				ID "c7c3b3efd7f5412a91bd3efdc8481747" // Cooler
+				Amount 2
+			}
+			{
+				ID "9caf145b825b42ffa533f36b6c50f8ce" // Video Transmitter
+				Amount 1
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/Placement_2.ogg
+Use_Auto_Stat_Descriptions false
+Has_Clip_Prefab fals

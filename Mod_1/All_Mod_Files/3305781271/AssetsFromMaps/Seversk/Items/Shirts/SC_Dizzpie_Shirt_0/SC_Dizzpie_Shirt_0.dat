@@ -1,0 +1,18 @@
+﻿GUID ce1e9b5c96e249f986ad27ae5dd7604b
+
+Type Shirt
+Rarity Uncommon
+Useable Clothing
+ID 41855
+Size_X 3
+Size_Y 2
+Size_Z 0.55
+
+Quality_Min 100
+Quality_Max 100
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Use_Auto_Icon_Measurements false
+
+Armor 0

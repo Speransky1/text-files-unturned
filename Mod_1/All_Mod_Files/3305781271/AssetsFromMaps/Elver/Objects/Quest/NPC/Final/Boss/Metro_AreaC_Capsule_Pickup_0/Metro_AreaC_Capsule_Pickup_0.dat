@@ -1,0 +1,22 @@
+GUID 68a29497fb5247fbb67af71a2efa23fb
+
+Type Small
+Has_Clip_Prefab false
+ID 58104
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57124
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57124
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Objects/Quest/NPC/Final/Boss/Metro_AreaC_Capsule_Pickup

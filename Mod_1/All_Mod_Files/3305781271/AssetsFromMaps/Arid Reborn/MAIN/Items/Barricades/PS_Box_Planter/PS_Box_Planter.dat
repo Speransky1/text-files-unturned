@@ -1,0 +1,22 @@
+GUID 7548d94cbf304c7f976ec7bd0868ef10
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 59360
+
+Size_X 2
+Size_Y 1
+Size_Z 0.35
+
+Health 250
+Range 4
+Radius 0.3
+Offset 0.375
+
+Explosion 19
+Vulnerable
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

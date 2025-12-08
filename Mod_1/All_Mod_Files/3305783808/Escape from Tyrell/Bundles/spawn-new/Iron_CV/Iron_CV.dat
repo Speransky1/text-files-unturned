@@ -1,0 +1,12 @@
+GUID 14e8be654ca2457eadd7d3bdc9655cb9
+Type Spawn
+ID 10513
+
+Tables
+[
+	{
+		// Железная руда (Supply Item)
+		Guid 0a1597af2fa84edaaf0a0b748221f49e
+		Weight 1
+	}
+]

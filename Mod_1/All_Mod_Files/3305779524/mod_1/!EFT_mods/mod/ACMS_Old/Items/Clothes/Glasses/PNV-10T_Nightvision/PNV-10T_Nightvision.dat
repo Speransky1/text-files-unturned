@@ -1,0 +1,19 @@
+GUID e505da0fe2c4421b8129048f31053eb1
+Type Glasses
+Rarity Common
+Useable Clothing
+ID 37557
+
+Size_X 2
+Size_Y 1
+Size_Z 0.175
+
+Vision Military
+
+Hair
+Beard
+
+Nightvision_Color_R 0
+Nightvision_Color_G 104
+Nightvision_Color_B 57
+Nightvision_Fog_Intensity 1.3

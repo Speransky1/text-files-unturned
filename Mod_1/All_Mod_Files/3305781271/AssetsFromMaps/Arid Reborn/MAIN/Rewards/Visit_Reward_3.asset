@@ -1,0 +1,8 @@
+GUID 8b223b7d065249d19f7a8f8d71acde3b
+Type RewardsList
+
+//Visit Train Station
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22624
+Reward_0_Value True

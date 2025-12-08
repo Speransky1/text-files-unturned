@@ -1,0 +1,28 @@
+﻿GUID f2349a0e8dff477182ea189e04616d4c
+
+Type Medical
+Useable Consumeable
+ID 41618
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Aid
+Bones_Modifier Heal
+Health 10
+
+Blueprints
+[
+	{
+		CategoryTag "d089feb7e43f40c5a7dfcefc36998cfb" // Supplies
+		InputItems
+		[
+			"4b74f6b14f4f414fb8fc80329870e807 x 3" // Spool Thread
+			"8ae387a91c1c4964be2a12be7aeabfb9 x 2" // Wooden Stick
+		]
+		OutputItems this
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]

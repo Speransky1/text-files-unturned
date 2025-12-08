@@ -1,0 +1,23 @@
+GUID efeaeff099054718a158a603e258e522
+
+Type Resource
+Has_Clip_Prefab False
+ID 59015
+
+Health 866
+Radius 5
+Scale 0
+
+Explosion 59012
+
+Reset 240
+
+No_Debris
+
+BladeID 10
+
+Reward_ID 59331
+
+Reward_XP 0
+Reward_Min 3
+Reward_Max 5

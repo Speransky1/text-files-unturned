@@ -1,0 +1,24 @@
+GUID f97d0073be3041ac82b08f71af97e539
+Type Supply
+Rarity Epic
+ID 10002
+
+Size_X 3
+Size_Y 3
+Size_Z 0.69
+
+Use_Auto_Icon_Measurements False
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10002
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 19011
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 19819
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 19010
+Blueprint_0_Output_2_Amount 6
+Blueprint_0_Tool 19376
+Blueprint_0_Build 27

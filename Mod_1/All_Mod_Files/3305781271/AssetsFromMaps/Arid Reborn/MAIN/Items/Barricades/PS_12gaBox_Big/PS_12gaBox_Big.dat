@@ -1,0 +1,51 @@
+GUID 84b7e050a4464df8900fb56e0f77d20b
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab False
+Build Barricade
+ID 10545
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+SalvageItem 84b7e050a4464df8900fb56e0f77d20b
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 55a5b983cdb647b492aebfddd64325d6
+
+Health 50
+Range 4
+Radius 0.2
+Offset 0.475
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10545
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 10543
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Open ammo box.
+Action_0_Tooltip Open ammo box.
+
+
+
+PlacementAudioClip aridreborn.masterbundle:Sounds/MiscPlacement.mp3
+
+Use_Auto_Icon_Measurements False

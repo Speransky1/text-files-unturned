@@ -1,0 +1,23 @@
+GUID 7cf5eed3148345b9bb869ab60a009ace
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Gate
+ID 59224
+
+Size_X 2
+Size_Y 1
+Size_Z 0.35
+
+Health 300
+Range 4
+Radius 1.5
+Offset 1.25
+
+Locked
+
+Explosion 19
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

@@ -1,0 +1,19 @@
+GUID e4b45dd78f5c43b18ddb15c00e6efefb
+
+
+Type Mask
+Rarity Common
+Useable Clothing
+ID 43330
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Hair
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2

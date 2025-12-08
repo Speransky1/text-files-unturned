@@ -1,0 +1,43 @@
+﻿// Made in NPC Maker by BowieD
+GUID 2f0b325b6cf5449683f21a31fc4ea773
+Type Dialogue
+ID 12027
+Messages 1
+Message_0_Pages 1
+Responses 9
+Response_0_Dialogue 12196
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 14025
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Ignore_NPC False
+
+Response_1_Dialogue 12198
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 14003
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC False
+
+Response_2_Vendor 13018
+Response_3_Vendor 13037
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 14003
+Response_3_Condition_0_Status Completed
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC False
+
+Response_4_Vendor 13034
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 14025
+Response_4_Condition_0_Status Completed
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Ignore_NPC False
+
+Response_5_Vendor 13035
+Response_6_Vendor 13032
+Response_7_Vendor 13075

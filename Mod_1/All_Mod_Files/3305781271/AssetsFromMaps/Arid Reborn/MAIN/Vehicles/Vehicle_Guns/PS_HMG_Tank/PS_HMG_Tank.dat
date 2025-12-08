@@ -1,0 +1,83 @@
+GUID 017161b40ec14ad8a41a6b78a88a16eb
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 19105
+
+Sight 19116
+Magazine 10030
+
+Ammo_Min 75
+Ammo_Max 75
+
+Auto
+
+Shell 0
+
+Should_Delete_Empty_Magazines true
+
+Caliber 10029
+
+Range 611
+Ballistic_Steps 47
+Ballistic_Travel 13
+Ballistic_Drop 0.00125
+
+Shake_Min_X 0.004
+Shake_Min_Y -0.005
+Shake_Min_Z -0.01
+Shake_Max_X -0.004
+Shake_Max_Y -0.005
+Shake_Max_Z -0.01
+
+Muzzle 19016
+
+Firerate 6
+Action Trigger
+
+Player_Damage 50
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 155
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 155
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 111
+Object_Damage 90
+
+Aim_In_Duration 0.5
+Spread_Aim 0.05
+Spread_Hip 0.1
+
+Recoil_Min_X -0.5
+Recoil_Min_Y 0.25
+Recoil_Max_X 0.5
+Recoil_Max_Y 1
+
+Recover_X 1
+Recover_Y 0.1
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Gunshot_Rolloff_Distance 1000
+
+Reload_Time 4.4
+Turret
+
+Player_Damage_Bleeding Always

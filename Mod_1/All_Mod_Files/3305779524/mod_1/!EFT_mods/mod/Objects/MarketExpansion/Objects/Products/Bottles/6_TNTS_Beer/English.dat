@@ -1,0 +1,5 @@
+Name ME Liquor Bottle #6
+
+Interactability_Condition_0 Requires <color=#4E5D8E>8$</color> 
+
+Interact Purchase TNTS Beer for <color=#4E5D8E>8$</color>  [{0}]

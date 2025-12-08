@@ -1,0 +1,24 @@
+GUID a2da474b69b14b0fae44685e9158d026
+Type Magazine
+Rarity Epic
+ID 31189
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 25070
+
+Tracer 30047
+
+Delete_Empty
+
+Range 5
+Explosion 30014
+Explosive
+Ballistic_Damage_Multiplier 0.5

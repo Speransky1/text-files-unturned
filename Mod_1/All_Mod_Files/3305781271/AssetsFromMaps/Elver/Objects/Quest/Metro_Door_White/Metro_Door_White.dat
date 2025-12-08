@@ -1,0 +1,15 @@
+GUID 07ec451354c447d0803582a7b14512b1
+
+Type Medium
+Has_Clip_Prefab false
+ID 57409
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 57002
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Binary_State
+Interactability_Delay 2
+Interactability_Hint Use

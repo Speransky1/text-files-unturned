@@ -1,0 +1,39 @@
+GUID 0faf9c449b8846a3b4306d91803a06d8
+Type Vest
+Rarity Common
+Useable Clothing
+ID 37368
+
+Size_X 3
+Size_Y 4
+Size_Z 0.6
+
+Width 2
+Height 1
+
+Armor 0.6
+Armor_Explosion 0.71
+Movement_Speed_Multiplier 0.88
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 37354
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_State_Transfer
+Blueprint_1_Type Apparel
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 37368
+Blueprint_1_Supply_1_ID 37335
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 37369
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 37368
+Action_0_Blueprints 0
+Action_0_Blueprint_0_Index 1
+Action_0_Text Add Rig
+Action_0_Tooltip Combining body armor with rig.

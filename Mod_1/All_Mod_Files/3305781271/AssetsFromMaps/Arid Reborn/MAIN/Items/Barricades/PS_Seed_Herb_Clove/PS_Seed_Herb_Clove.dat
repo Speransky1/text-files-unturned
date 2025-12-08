@@ -1,0 +1,35 @@
+GUID e53a48264cce4c97b433e5b760893248
+Type Farm
+Rarity Uncommon
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Farm
+ID 19903
+
+SalvageItem e53a48264cce4c97b433e5b760893248
+Min_Items_Dropped_On_Destroy 0
+Max_Items_Dropped_On_Destroy 0
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Health 1
+Range 4
+Radius 0.25
+Offset 0.325
+
+Growth 1200
+Grow 19905
+
+Explosion 43
+Vulnerable
+
+PlacementAudioClip Sounds/PlantPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Unpickupable
+Unrepairable

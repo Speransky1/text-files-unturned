@@ -1,0 +1,10 @@
+GUID 67f58634fd6248d4b5cd5a1af9c1b677
+Type Large
+ID 42002
+
+Material_Palette f7132e632eca40b5b8f6044d8b133d37
+
+LOD Mesh
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Warehouse_1

@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "4074777783324b41a1fea66f0cd03813"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/School_1.mat"
+		}
+	]
+}

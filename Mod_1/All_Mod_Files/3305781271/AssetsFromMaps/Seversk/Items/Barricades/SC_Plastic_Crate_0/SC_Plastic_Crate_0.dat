@@ -1,0 +1,44 @@
+﻿GUID 2a5d04428b8b444ebc84e49e1c9d89d9
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 41402
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 350
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 10
+Storage_Y 6
+
+Explosion 41302
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.15
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem 2a5d04428b8b444ebc84e49e1c9d89d9
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			"edc4d492616c4bfa841f8a8a1c58df1e x 5" // Plastic Fragments
+			"4b74f6b14f4f414fb8fc80329870e807 x 2" // Spool Thread
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/Placement_1.ogg
+Has_Clip_Prefab false

@@ -1,0 +1,52 @@
+﻿GUID b12338c18a4c4fa98d88dce4d858b4b9
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 41391
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 200
+Range 4
+Radius 0.4
+Offset 0.57
+Vulnerable
+Explosion 41302
+
+Blueprints
+[
+	{
+		CategoryTag "bfac6026305f4737a95fd275ebff65a6" // Utilities
+		InputItems
+		[
+			{
+				ID "e162f0162f154033935a7a1e3d58e57e" // Wooden Plank
+				Amount 4
+			}
+			{
+				ID "022caafdda4e4937804a7cf79157dd91" // Nails
+				Amount 2
+			}
+			{
+				ID "bd0effdccacf482db431dd0c8db3dad0" // Fertilizer
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_1.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 0.3
+Has_Clip_Prefab false

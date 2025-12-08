@@ -1,0 +1,92 @@
+GUID 4ee2527692454d5db2d2137e2c674c79
+Type Spawn
+ID 10120
+
+Tables
+[
+	{
+		// Коробок спичек (Supply Item)
+		Guid 3871dc93d12f41bba3328f2b3d39397f
+		Weight 30
+	}
+	{
+		// Зажигалка (Supply Item)
+		Guid cecf935f4eeb4165aaa80c8c36ad641c
+		Weight 30
+	}
+	{
+		// Ключ (Supply Item)
+		Guid d582f48c787040139b43fabc7f884874
+		Weight 30
+	}
+	{
+		// Разбитая лампочка (Supply Item)
+		Guid d98f8bf0ae494b6cbb22563ff617606b
+		Weight 30
+	}
+	{
+		// Отвертка (Supply Item)
+		Guid 306849c0a04444c09f59de290bcb6f23
+		Weight 30
+	}
+	{
+		// Рулетка (Supply Item)
+		Guid 35ec992360af46d7acc3e80e40aefdd1
+		Weight 30
+	}
+	{
+		// Лампочка (Supply Item)
+		Guid 4b346f18070d488fa16f6b08aff3e044
+		Weight 30
+	}
+	{
+		// Веревка (Supply Item)
+		Guid c38d46f8c88e467097837aa3e7bb8a36
+		Weight 25
+	}
+	{
+		// Медный провод (Supply Item)
+		Guid 2132f791a6d64c9d8c306b6c7ccbfd6b
+		Weight 20
+	}
+	{
+		// Сода (Water Item)
+		Guid 6e652e81dea9430390f2206eeb7bcd74
+		Weight 10
+	}
+	{
+		// Сломанные электронные часы (Supply Item)
+		Guid 4687c559e8fe4d3692a0258bde7308f1
+		Weight 10
+	}
+	{
+		// Конфеты (Food Item)
+		Guid c55b2546df0a425ca79c0e028d6d41d9
+		Weight 8
+	}
+	{
+		// Тяжелый кабель (Supply Item)
+		Guid 8632ca4c1068403ba4174f3384958559
+		Weight 6
+	}
+	{
+		// Сломанное радио (Supply Item)
+		Guid 8ae25545de0d4d29995313b42ec3926a
+		Weight 6
+	}
+	{
+		// Электрическая дрель (Supply Item)
+		Guid 9e4327f6a9f549dcb47682c2ecb823a4
+		Weight 4
+	}
+	{
+		// Белый предохранитель (Supply Item)
+		Guid 8db351dc3bb44d109d5e68dde8a0b869
+		Weight 4
+	}
+	{
+		// Защищенная папка (Supply Item)
+		Guid f92c17b4f04942a395564f7d88fa53f1
+		Weight 1
+	}
+]

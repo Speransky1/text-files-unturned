@@ -1,0 +1,42 @@
+GUID 5f10255c8de14be897327a77953015c3
+Type Spawn
+ID 10118
+
+Tables
+[
+	{
+		// Антисептик (Supply Item)
+		Guid 33d8ec1f1ac04fa2a4a29c80c0596493
+		Weight 80
+	}
+	{
+		// Клейкая лента (Supply Item)
+		Guid 174aa4006f3743878f366be92dc82a3f
+		Weight 75
+	}
+	{
+		// Бумажные полотенца (Supply Item)
+		Guid 498768c7a572493aa82bbe6706635c5d
+		Weight 70
+	}
+	{
+		// Упаковка чая (Supply Item)
+		Guid 03d304865ae4425387c7f966cbc26623
+		Weight 55
+	}
+	{
+		// Бутылка воды 5/5 (Water Item)
+		Guid d173033643204e0c945a175a0c5f32c2
+		Weight 40
+	}
+	{
+		// Шоколад (Food Item)
+		Guid 9c95ec8f431c4aed8795a23e70fe8914
+		Weight 40
+	}
+	{
+		// Пинцет (Supply Item)
+		Guid e7f3fb351cc843f3b37f211c902b215e
+		Weight 35
+	}
+]

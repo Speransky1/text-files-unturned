@@ -1,0 +1,19 @@
+GUID f0f5ac07efb14fcfb3fd54f284defdfe
+
+Type Backpack
+Rarity Rare
+Useable Clothing
+ID 8082
+
+Size_X 3
+Size_Y 3
+Size_Z 0.55
+
+Width 5
+Height 4
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

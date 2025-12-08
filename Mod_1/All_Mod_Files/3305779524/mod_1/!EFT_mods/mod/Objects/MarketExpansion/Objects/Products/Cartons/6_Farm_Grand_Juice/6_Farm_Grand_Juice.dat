@@ -1,0 +1,16 @@
+GUID e1f8ce13379743aca171e8ca851b2954
+Type Medium
+ID 45368
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Conditions 1
+Interactability_Condition_0_Type Currency
+Interactability_Condition_0_Value 15
+Interactability_Condition_0_GUID fb2b14af67b641fbbd062f8fbc40b288
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+Interactability_Rewards 1
+Interactability_Reward_0_Type Item
+Interactability_Reward_0_ID 45205
+Interactability_Reward_0_Amount 1

@@ -1,0 +1,28 @@
+GUID cc6c5bb074c845a2813f206091c96e83
+
+
+Type Vest
+Rarity Mythical
+Useable Clothing
+ID 61674
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 10
+Height 10
+
+Armor 0.1
+Armor_Explosion 0.1
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+Quality_Min 55
+Quality_Max 65
+

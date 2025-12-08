@@ -1,0 +1,47 @@
+﻿Metadata
+{
+	GUID 223371608a5a4b1eb70b816a6e975791
+	Type SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Foliage
+	[
+		{
+			Asset
+			{
+				GUID 1fa342a6a2e34b69b4edec843acc64e4
+			}
+			Weight 1
+		}
+		{
+			Asset
+			{
+				GUID 142a457388604de59403f27c93724c22
+			}
+			Weight 1
+		}
+		{
+			Asset
+			{
+				GUID bfe6f44e18b34941a120cfabf804a612
+			}
+			Weight 1
+		}
+		{
+			Asset
+			{
+				GUID 7e8858caf2144b12b1fbfe94b367e9a0
+			}
+			Weight 1
+		}
+		{
+			Asset
+			{
+				GUID fe16007aa4da4c8886eb670c8148bf90
+			}
+			Weight 1
+		}
+	]
+}

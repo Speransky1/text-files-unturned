@@ -1,0 +1,6 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Message_0_Page_0 To reset, abandon required active Random Quest type.
+Response_0 Reset <color=#4b64fa>Random Rare Quest</color> for 300 <color=#ffffff>Experience</color>
+Response_1 Reset <color=#964BFA>Random Epic Quest</color> for 600 <color=#ffffff>Experience</color>
+Response_2 Reset <color=#C832FA>Random Legendary Quest</color> for 1200 <color=#ffffff>Experience</color>
+Response_3 Return.

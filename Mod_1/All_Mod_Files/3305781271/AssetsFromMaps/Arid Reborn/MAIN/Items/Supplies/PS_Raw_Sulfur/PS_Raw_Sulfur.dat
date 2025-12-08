@@ -1,0 +1,27 @@
+GUID 001cc537ad714a79a6885f19d5169010
+Type Supply
+Rarity Rare
+ID 19709
+
+Size_X 1
+Size_Y 1
+Size_Z 0.62
+
+Blueprints 1
+
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19709
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 19710
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Собрать
+Action_0_Tooltip Compactify.

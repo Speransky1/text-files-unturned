@@ -1,0 +1,19 @@
+GUID 3a11cdd9c162454197f8e43effc7190c
+
+Type Sight
+Rarity Uncommon
+ID 17014
+
+Size_X 1
+Size_Y 1
+Size_Z 0.135
+
+Holographic
+Zoom 1.5
+Zoom_Using_Eyes True
+ThirdPerson_Zoom 1.5
+
+Calibers 1
+Caliber_0 17103
+
+Use_Auto_Stat_Descriptions false

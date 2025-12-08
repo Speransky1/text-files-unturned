@@ -1,0 +1,37 @@
+GUID 5b1d819ab50d41cc8d41846c34052c22
+Type Barricade
+Useable Barricade
+Build Barricade_Wall
+Rarity Rare
+ID 21900
+
+SalvageItem 5b1d819ab50d41cc8d41846c34052c22
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 307eb0bac9374e30a3caa9cc98c18615
+
+Size_X 3
+Size_Y 2
+Size_Z 0.3
+Use_Auto_Icon_Measurements False
+
+Health 25
+Range 4
+Radius 0.02
+Offset 0.1
+
+Explosion 19
+Vulnerable
+Salvage_Duration_Multiplier 0.15
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Bypass_Pickup_Ownership True
+
+Has_Clip_Prefab False
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 21900
+Blueprint_0_Product 19202
+Blueprint_0_Products 3
+Blueprint_0_Build 27

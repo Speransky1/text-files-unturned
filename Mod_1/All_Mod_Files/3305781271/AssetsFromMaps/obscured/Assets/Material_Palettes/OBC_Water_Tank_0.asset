@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "38b64a94eb1e455d8119f406068de2d1"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Water_Tank_0/Water_Tank_1.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Water_Tank_0/Water_Tank_2.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Water_Tank_0/Water_Tank_3.mat"
+		}
+	]
+}

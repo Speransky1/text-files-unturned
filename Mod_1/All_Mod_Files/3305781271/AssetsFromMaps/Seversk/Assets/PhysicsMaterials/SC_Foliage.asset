@@ -1,0 +1,27 @@
+﻿Metadata
+{
+	GUID 26658e6b4a4c49488cfa2b01fad9a281
+	Type SDG.Unturned.PhysicsMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	UnityNames
+	[
+		Sov_Foliage
+	]
+	AudioDefs
+	{
+		BipedLand Effects/Physics/BipedLand/SC_Foliage_Jump/Foliage_Jump.asset
+		FootstepWalk Effects/Physics/Footsteps/SC_Foliage_Walk/Foliage_Walk.asset
+		FootstepRun Effects/Physics/Footsteps/SC_Foliage_Run/Foliage_Run.asset
+		BulletCasingBounce Effects/Physics/Bullet_Bounce/SC_Rifle_Caliber_0/Rifle_Caliber_0.asset
+		ShotgunShellBounce Effects/Physics/Bullet_Bounce/SC_Shotgun_Caliber_0/Shotgun_Caliber_0.asset
+		BulletImpact Effects/Physics/Impact_Sounds/Foliage_Impact.asset
+		LegacyImpact Effects/Physics/Impact_Sounds/Foliage_Impact.asset
+		MeleeImpact Effects/Physics/Impact_Sounds/Foliage_Impact.asset
+	}
+	WipDoNotUseTemp_BulletImpactEffect "04ccd5115dec48dba46b309df71f7543" // Foliage_Impact
+	TireMotionEffect "071f9156ccd14e2cbf98fd8f0d03e6ed" // Foliage_Tiremotion
+	IsArable true
+	HasOil true
+}

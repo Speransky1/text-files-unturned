@@ -1,0 +1,82 @@
+"Metadata"
+{
+	"GUID" "676986671819468db01353093905d3c2"
+	"Type" "SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Fade_In_Duration" "40.0"
+	"Fade_Out_Duration" "40.0"
+	"Ambient_Audio_Clip" "Effects/Weather/Kuwait_Sandstorm_Ambience_0/Effect.ogg"
+	"Override_Fog" "true"
+	"Override_Atmospheric_Fog" "true"
+	"Shadow_Strength_Multiplier" "0.7"
+	"Stamina_Per_Second" "1"
+	"Dawn"
+	{
+		"Fog_Color"
+		{
+			"R" "108"
+			"G" "89"
+			"B" "74"
+		}
+		"Fog_Density" "0.4"
+		"Brightness_Multiplier" "0.85"
+	}
+	"Midday"
+	{
+		"Fog_Color"
+		{
+			"R" "136"
+			"G" "118"
+			"B" "101"
+		}
+		"Fog_Density" "0.75"
+		"Brightness_Multiplier" "0.7"
+	}
+	"Dusk"
+	{
+		"Fog_Color"
+		{
+			"R" "105"
+			"G" "83"
+			"B" "74"
+		}
+		"Fog_Density" "0.85"
+		"Brightness_Multiplier" "0.85"
+	}
+	"Midnight"
+	{
+		"Fog_Color"
+		{
+			"R" "73"
+			"G" "60"
+			"B" "67"
+		}
+		"Fog_Density" "0.95"
+	}
+	"Effects"
+	[
+		{
+			"Prefab" "aridreborn.masterbundle:Effects/Weather/Kuwait_Dust_0/Effect.prefab"
+			"Emission_Exponent" "10"
+			"Pitch" "0"
+			"Translate_With_View" "true"
+			"Rotate_Yaw_With_Wind" "true"
+		}
+		{
+			"Prefab" "aridreborn.masterbundle:Effects/Weather/Kuwait_Dust_1/Effect.prefab"
+			"Emission_Exponent" "10"
+			"Pitch" "-10"
+			"Translate_With_View" "true"
+			"Rotate_Yaw_With_Wind" "true"
+		}
+		{
+			"Prefab" "aridreborn.masterbundle:Effects/Weather/Kuwait_Dust_2/Effect.prefab"
+			"Emission_Exponent" "10"
+			"Pitch" "-25"
+			"Translate_With_View" "true"
+			"Rotate_Yaw_With_Wind" "true"
+		}
+	]
+}

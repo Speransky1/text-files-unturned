@@ -1,0 +1,51 @@
+GUID 6d3d1e159a154d4481b2c58dcc78c692
+Type Barricade
+Rarity Rare
+Useable Barricade
+Has_Clip_Prefab False
+Build Barricade
+ID 19841
+
+SalvageItem 6d3d1e159a154d4481b2c58dcc78c692
+Min_Items_Dropped_On_Destroy 4
+Max_Items_Dropped_On_Destroy 4
+Item_Dropped_On_Destroy 25225640df5446d5a965ffd4cf35dfd0
+
+Size_X 2
+Size_Y 2
+Size_Z 0.51
+
+Health 100
+Range 4
+Radius 0.25
+Offset 0.3
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19841
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59564
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Распаковать
+Action_0_Tooltip Разложить
+
+PlacementAudioClip Sounds/ClothPlacement.mp3
+
+InventoryAudio core.masterbundle:Sounds/Inventory/LightCloth.asset

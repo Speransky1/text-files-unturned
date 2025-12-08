@@ -1,0 +1,11 @@
+GUID 37741a313c6a414abfd729595d38226d
+
+
+
+Lifetime 25
+Type Effect
+ID 51015
+CameraShake_Radius 12
+CameraShake_MagnitudeDegrees 32
+Spawn_On_Dedicated_Server
+Relevant_Distance 5000

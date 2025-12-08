@@ -1,0 +1,30 @@
+GUID 026dbcefb1c04e2e98358b7400a7b84d
+
+Type Grip
+Rarity Epic
+ID 51088
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Recoil_X 0.7
+Recoil_Y 0.7
+Aim_Duration_Multiplier 1.1
+
+Spread 0.7
+Sway 0.5
+Shake 0.4
+
+Bipod
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51088
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 51017
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 51028
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Build 27

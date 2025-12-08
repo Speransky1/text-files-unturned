@@ -1,0 +1,32 @@
+"Metadata"
+{
+	"GUID" "b127a6c030f346a8a6adbe83facc65c4"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/Fast_0/Material_0.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/Fast_0/Material_1.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/Fast_0/Material_2.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/Fast_0/Material_3.mat"
+		}
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/Fast_0/Material_4.mat"
+		}
+	]
+}

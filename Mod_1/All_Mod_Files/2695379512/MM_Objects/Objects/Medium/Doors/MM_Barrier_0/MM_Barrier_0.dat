@@ -1,0 +1,8 @@
+GUID 702b44dd0c8345f9948765533049e8bd
+Type Medium
+ID 20170
+
+Interactability Binary_State
+Interactability_Delay 1
+Interactability_Hint Door
+Interactability_Nav Off

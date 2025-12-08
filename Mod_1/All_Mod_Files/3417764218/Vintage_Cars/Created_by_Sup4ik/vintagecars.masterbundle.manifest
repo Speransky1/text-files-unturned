@@ -1,0 +1,383 @@
+ManifestFileVersion: 0
+CRC: 3564614591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43b15bb0c7966e7a5693ce4923ecb2a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db233240baff8554f1ba7a0d21ffce2b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78740986f845bd943b99707a83731520, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5b6c0e528f36d54e96c15dbac815a92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ae1fb12dd76d6f4c817ecad8be6636f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e854a062516b19e408d34000c8d2104c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5a055d20c9046847bdb1afda3abfd26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 851463f9b107a3146a0057e73b10cc15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 138
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 153
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 1773428102
+  Script: {instanceID: 0}
+- Class: 1818360608
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/DeLorean/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Gray/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/Ems_Material.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Pnevma_2109.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/Delorean.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Red_Roadblock/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Cresta/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_White/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Gray_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Green_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Orange/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Pathfinder/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Brown/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Hazards_Caprice.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/RuchkaKPP_Caprice_Forward.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Brown_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Magenta/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Eldorado_2/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Savanna/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/POLICE_WARNING.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Drift.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/DeLorean.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Hazards_OFF.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Orchid/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/E24/E24.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Car_Mesh.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Taillights_Model.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/engine_klin_kaput.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Tech_Parts/FireTruck_Magazine/Magazine.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Car_Mesh2.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Car_Mesh3.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/FireTruck/Horn.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/steam-ris.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/LowriderRims.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Impala/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/RuchkaKPP_Caprice.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Material_Cars_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/FireBird/firebird.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Clip_Box/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Effects/Car_Explosion/C4.ogg
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Skyline_R32/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Orchid_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Savanna/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Engine_Medium7.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Cruiser/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_White/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Vehicle 2.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Green_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Cyan/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/NULL_LOOP1.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Cherokee_Police/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Engine_Medium5.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Deville/Deville.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/noiseTexture1_1 1.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Prelude_Headlights.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/RuchkaKPP_Back.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/E24/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Caprice/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/SIREN_2.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Clip_Box/Barricade.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Testarossa/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Police_Siren_Caprice_Loop.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Blush/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Drift.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Red_Roadblock/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Vehicle_Spraypaint.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Black_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/SIREN_1.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/AE86_Stylized/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Charger/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/LightGray_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Yellow_Light_Box/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/AE86/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Yellow_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/BLOWOUT_COMPOSITE.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/DeLorean_Stylized/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Blue_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/White_Roadblock/Barricade.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Purple/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/White_Roadblock/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Cresta_Stance/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Otrstrel_Cresta.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Engine_Medium1.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Red/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Yellow_Light_Box/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Prelude_Dopi.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Blue/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Car_Mesh2.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Cruiser/Cruiser.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/E350_Ambulance/Doras_Ambulance.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/firebird.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Orange_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Luk_Bmw_e24.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Gray/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Brown_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Yellow_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Eldorado_2_Lowrider/spring.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/Shrapnel_E.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Purple/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Material_w.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Ignition_Medium3.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/lock_unlock.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Engine_Medium3.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Yellow_Light_Box/Barricade.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Hazards.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/Police.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Red_Roadblock/Barricade.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Blush_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Red_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Sirens_Police_Caprice.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Orange_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/ToyCar_1/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Texture_Cars.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Tahoe/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Green/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Glass_Red.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Click_Zamok.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Volvo_740/volvo 740.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Audi_200/audi.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/RX7_Stance/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Tahoe/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Countach/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/White_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_LightGray/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/RX7/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Blush_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/SprayCan_Bag/Barricade.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/gunny_stuff.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Volvo_740/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Skyline_R32/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Headlights_Model_Eldorado.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/LowriderRims.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Hilux/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/White_Roadblock/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Engine_Medium4.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/RX7_Stance/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/VAZ2109/VAZ.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Blush/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_LightGray/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Eldorado_LowRider/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Cyan_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Vehicle 1.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Audi_200/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/ToyCar_1/toycar_1.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Caprice_Police/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Headlights_Model_Caprice.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Clip_Box/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/subaru.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Porsche_964/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Eldorado_Sirens.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Pnevma_2109.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Buick/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Countach/Countach.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Purple_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Red/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/SprayCan_Bag/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Ignition_Medium1.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/close_door.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Horn_Small1.ogg
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/SprayCan_Bag/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Eldorado/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/Shrapnel.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Orange/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Cherokee/cherokee.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/RuchkaKPP_Forward.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Skyline_C10/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Cyan/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/E350_Ambulance/Sirens_Ambulance.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Magenta_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Engine_Medium6.ogg
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Impala/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Volvo_740_wagon/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Black/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/AE_Perdelka.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/FireTruck/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Rearlights_White.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/White_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Orchid/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/Shrapnel.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Prelude_Headlights.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Cherokee/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Pathfinder/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/LightGray_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Cresta/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Wrangler/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Red_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Headlights_Model_Eldorado.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Police_Siren_Caprice_On.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Caprice/Caprice.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Orchid_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Engine_Medium2.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Red_Roadblock/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Engine_Medium8.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Prelude_Dopi.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Taillights_On.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/DeLorean/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Eldorado_2_Lowrider/Tires.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Green/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Magenta/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Eldorado_2_Lowrider/EldoradoLowridere.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Brown/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Otrstrel_Cresta.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Prelude/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Yellow_Light_Box/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Skyline_C10/skyline.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Ignition_Medium2.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Tech_Parts/FireTruck_Cannon/Projectile.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/INTERNAL_GEAR_CHANGE_Old.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Eldorado/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Ignition_Medium4.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Magenta_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Car_Mesh 2.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/engine_klin_kaput2.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Cyan_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Chaika_14/VC_Car_Mesh 1.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/Antenka.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Tech_Parts/FireTruck_Magazine/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/Clip_Box/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/Horn_Medium1.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/EMS_Texture-1.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Effects/Car_Explosion/C4Distant.ogg
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/AE86_Stylized/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/White_Light_Box/Barricade.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Charger/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Purple_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Car_Mesh 2.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Zhelezo.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/White_Light_Box/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Tech_Parts/FireTruck_Cannon/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Car_Mesh.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/White_Light_Box/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/INTERNAL_GEAR_CHANGE_Classic.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Prelude/prelude.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Blue_Paint_M.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Quattro/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/subaru.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Dop_Lights_Huilax.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Black_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/Police_Fignyushechka.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Chaika_14/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Effects/Car_Explosion/Effect.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/samara.mp3
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/FireBird/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Savanna_Stance/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Chaika_14/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/VAZ2109/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Glass.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/E350_Ambulance/Sirens_Ambulance.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Yellow/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Chaika_14/VC_Car_Mesh 1.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/RuchkaKPPCaprice.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Wrangler/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sounds/tormoz.wav
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Blue/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Texture_Cars_For_Blender.png
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Yellow/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/HeadLights_White_Yellow_Caprice.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Savanna_Stance/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Porsche_964/Porsche_964.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/gunny_Stuff.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Charger_HeadLights.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/Barricades/SprayCan_Bag/Animations.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Luk_Bmw_e24.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/RuchkaKPP.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Material_Cars.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Dop_Lights_Huilax.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/Firebird.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Spraypaint_Black/Item.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Deville/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Testarossa/testarossa.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/RuchkaKPP_Caprice_Back.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Buick/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/E350_Ambulance/Sirens_Ambulance_off.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Eldorado_Sirens.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Zhelezo.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Eldorado_2_Lowrider/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Items/SprayPaints/Materials/Gray_Paint_M.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Charger_HeadLights.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Animator_Controllers/Rearlights_White.controller
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/E350_Ambulance/untitled.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Eldorado_2/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Sources/VC_Material_Cars_Emmission.mat
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/E350_Ambulance/Doras_Ambulance.anim
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/E350_Ambulance/Vehicle.prefab
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Quattro/quattro.fbx
+- Assets/Vintage_Cars/Created_by_Sup4ik/Bundle/Vehicles/Hilux/Vehicle.prefab
+Dependencies: []

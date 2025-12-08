@@ -1,0 +1,28 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "196bab0d5ce043df9790594377f6affe"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Conditions" "0"
+	"Message_0_Rewards" "0"
+	"Responses" "4"
+	"Response_0_Dialogue" "19075"
+	"Response_0_Conditions" "0"
+	"Response_0_Rewards" "0"
+	"Response_1_Dialogue" "19076"
+	"Response_1_Conditions" "0"
+	"Response_1_Rewards" "0"
+	"Response_2_Dialogue" "19077"
+	"Response_2_Conditions" "0"
+	"Response_2_Rewards" "0"
+	"Response_3_Dialogue" "19074"
+	"Response_3_Conditions" "0"
+	"Response_3_Rewards" "0"
+	"ID" "19068"
+	"Asset_Bundle_Version" "1"
+}

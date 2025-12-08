@@ -1,0 +1,14 @@
+GUID 2e2cca09f04e4813bb7ec387470def6a
+Type Resource
+ID 42004
+
+Health 1
+Radius 3
+Scale 0.1
+
+Explosion 43
+
+Log 272
+Forage
+
+Reset 1000

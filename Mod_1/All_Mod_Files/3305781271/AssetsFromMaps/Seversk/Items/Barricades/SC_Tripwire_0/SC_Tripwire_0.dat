@@ -1,0 +1,74 @@
+﻿GUID eda192ba56d34c988c321668cf680504
+Type Trap
+Rarity Rare
+Useable Barricade
+Build Spike
+ID 41457
+
+Size_X 1
+Size_Y 1
+Size_Z 0.33
+
+Health 1
+Range 4
+Radius 0.05
+Offset 0.27
+SalvageItem eda192ba56d34c988c321668cf680504
+Player_Damage 140
+Zombie_Damage 180
+Animal_Damage 180
+Barricade_Damage 100
+Vehicle_Damage 100
+Object_Damage 100
+Resource_Damage 0
+Structure_Damage 0
+Use_Auto_Icon_Measurements false
+Range2 8
+Explosion2 41351
+
+Explosive
+Explosion 41342
+Vulnerable
+Unrepairable
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID "8ae387a91c1c4964be2a12be7aeabfb9" // Wooden Stick
+				Amount 2
+			}
+			{
+				ID "af9dd73a46df4870aa574370eb9eed8b" // Twine
+			}
+			{
+				ID "f1bd4c22507544e9bf9558eef0ea4548" // Metal Can
+			}
+			{
+				ID "022caafdda4e4937804a7cf79157dd91" // Nails
+				Amount 6
+			}
+			{
+				ID "58b45f8f7807426289e372b7341d10d2" // Gunpowder
+				Amount 2
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Allow_Placement_Inside_Clip_Volumes True
+PlacementAudioClip Sounds/Placement_0.ogg
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.08
+InventoryAudio Sounds/Inventory/NailsRustle/Nails_Rustle.asset
+Use_Auto_Stat_Descriptions false

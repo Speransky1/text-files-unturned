@@ -1,0 +1,19 @@
+GUID d10bf797fd2f42778ba1ed7d5dbe2c27
+Type Shirt
+Rarity Common
+Useable Clothing
+ID 37504
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 3
+Height 3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 32

@@ -1,0 +1,25 @@
+GUID e6c0556e800b4c1688bc56d929ff13ec
+Type Hat
+Rarity Common
+Useable Clothing
+ID 37438
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor_Explosion 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 37438
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32

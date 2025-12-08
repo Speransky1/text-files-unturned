@@ -1,0 +1,59 @@
+GUID 48c1ea8a904e45d38b52055ae64db60f
+
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 51288
+
+Sight 1301
+Magazine 51323
+Turret
+Ammo_Min 1
+Ammo_Max 1
+
+Semi
+
+Caliber 29
+
+Firerate 0
+Action Rocket
+
+Durability 0
+Quality_Min 100
+Quality_Max 100
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 1000
+Structure_Damage 1000
+Vehicle_Damage 5000
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 14
+Explosion 51045
+Projectile_Lifespan 60
+Aim_In_Duration 0.3
+
+Ballistic_Force 500
+
+Recoil_Min_X 0
+Recoil_Max_X 0
+
+Recoil_Min_Y 12
+Recoil_Max_Y 18
+
+Spread_Aim 0.4
+Spread_Hip 0.1
+
+Recover_X 0
+Recover_Y 1
+
+Muzzle 
+
+Reload_Time .5
+
+Gunshot_Rolloff_Distance 512

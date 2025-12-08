@@ -1,0 +1,29 @@
+GUID 0e68aea01b5740919c2a23dae8ae0dad
+Type Throwable
+Useable Throwable
+Rarity Uncommon
+ID 31512
+
+Size_X 1
+Size_Y 1
+Size_Z 0.55
+
+Player_Damage 8
+Zombie_Damage 155
+Animal_Damage 155
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Range 3.5
+Explosion 30007
+
+Explosive
+Explode_On_Impact
+Fuse_Length 30
+
+Explosion_Launch_Speed 0
+
+Boost_Throw_Force_Multiplier 1

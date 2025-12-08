@@ -1,0 +1,13 @@
+GUID 5059626679ba40038ca44e5a1f46fccd
+Type Small
+ID 20060
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 5
+Rubble_Effect 72

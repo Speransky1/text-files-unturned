@@ -1,0 +1,25 @@
+GUID 6fc5dbcf175e42cbb94fac36a2bcd2a7
+
+Type Small
+Has_Clip_Prefab false
+ID 57510
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57100
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 57610 
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57100
+Interactability_Reward_0_Value True

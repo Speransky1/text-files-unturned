@@ -1,0 +1,78 @@
+﻿GUID 14be0414cfd242b1b1caf1aabf43f03b
+
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 41609
+
+Size_X 3
+Size_Y 2
+Size_Z 0.42
+
+Beard
+Armor 0.45
+Armor_Explosion 0.4
+
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Quality_Min 10
+Quality_Max 20
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems
+		[
+			"0bdc71e618be4eccb966cfb449bfed1b" // Military Protective Helmet
+			"5b9db9710e624830b4bbd8210ed3d372" // Protective Visor
+		]
+		StateTransfer true
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 4
+			}
+			{
+				ID "7199b3d4758449148c42114f0b5214e4" // Armor Plate
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "6e627ecd63f34f2680369a89bc57c48f" // Military Protective Helmet Mk. II
+		StateTransfer true
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 2
+Action_0_Text Lower
+Action_0_Tooltip Lower the Protective Visor
+Add_Default_Actions false
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Salvage
+Action_1_Tooltip Salvage into component materials.

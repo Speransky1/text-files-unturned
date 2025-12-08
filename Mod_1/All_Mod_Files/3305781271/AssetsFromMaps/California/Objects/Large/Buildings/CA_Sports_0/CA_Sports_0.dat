@@ -1,0 +1,8 @@
+GUID d9a5647be0654aad958f9c745d34da30
+Type Large
+ID 4681
+
+Material_Palette 3987063d60df43e2ac4ca66fe91880f1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Mooki/Sports_0

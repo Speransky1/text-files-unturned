@@ -1,0 +1,20 @@
+GUID 6533354f193c4bbc9c6ddcb2bb35efef
+
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 17011
+
+Size_X 1
+Size_Y 1
+Size_Z 0.34
+
+Use_Auto_Icon_Measurements True
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Should_Delete_After_Use False
+
+Flash

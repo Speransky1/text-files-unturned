@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "d5e2f9bd9dc74cfe8b5d375f5376b361"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Fridge_0/Fridge_0_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Fridge_0/Fridge_1_M.mat"
+		}
+	]
+}

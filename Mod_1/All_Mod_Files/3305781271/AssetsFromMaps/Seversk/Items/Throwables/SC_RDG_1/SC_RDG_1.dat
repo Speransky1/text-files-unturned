@@ -1,0 +1,37 @@
+﻿GUID 1526e375634942af804f8138f5ab37c7
+
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 41372
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+Strong_Throw_Force 1200
+Weak_Throw_Force 600
+Boost_Throw_Force_Multiplier 1
+InventoryAudio Sounds/Inventory/Default/Default.asset
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems
+		[
+			"4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+			"159e927969ea4946a24602eaa05e3273 x 2" // Cloth
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

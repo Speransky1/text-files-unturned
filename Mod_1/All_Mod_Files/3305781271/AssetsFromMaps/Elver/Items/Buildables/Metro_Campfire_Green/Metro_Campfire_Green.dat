@@ -1,0 +1,29 @@
+GUID 5657d3b8b0944d40bdd4e9a95e052af6
+
+Type Barricade
+Has_Clip_Prefab false
+Useable Barricade
+Build Campfire
+ID 57586 
+
+Size_X 2
+Size_Y 1
+Size_Z 0.39
+
+Health 100
+Range 4
+Radius 0.6
+Offset 0.7
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 41
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 57092
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Map Elver

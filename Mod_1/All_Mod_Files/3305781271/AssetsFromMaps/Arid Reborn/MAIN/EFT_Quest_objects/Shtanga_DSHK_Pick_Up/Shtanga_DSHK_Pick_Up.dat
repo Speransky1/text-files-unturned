@@ -1,0 +1,22 @@
+GUID 77738f9e0e4d4448b4b431ff2d5b5ab4
+
+Type Small
+ID 62269
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Dshk_0
+
+Conditions 1
+//исчезает при взятии
+Condition_0_Type Flag_Bool
+Condition_0_ID 30209
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 30209
+Interactability_Reward_0_Value true

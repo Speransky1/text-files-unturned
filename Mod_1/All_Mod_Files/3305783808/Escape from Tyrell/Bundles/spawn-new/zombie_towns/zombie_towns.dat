@@ -1,0 +1,41 @@
+GUID e1a196ef5f964a6b9c96d94f74be0814
+Type Spawn
+ID 10136
+
+Roots
+[
+	{
+		// food_canned (Spawn)
+		Guid a09a148543524a6786aff7c470a0bb70
+		Weight 3
+	}
+	{
+		// food_other (Spawn)
+		Guid 820d987bcd3440c6a76b3e2bbec18ed5
+		Weight 2
+	}
+	{
+		// water (Spawn)
+		Guid 55a8e69c66f64094a7f38877e7978f3d
+		Weight 2
+	}
+]
+
+Tables
+[
+	{
+		// food_canned (Spawn)
+		Guid a09a148543524a6786aff7c470a0bb70
+		Weight 3
+	}
+	{
+		// food_other (Spawn)
+		Guid 820d987bcd3440c6a76b3e2bbec18ed5
+		Weight 2
+	}
+	{
+		// water (Spawn)
+		Guid 55a8e69c66f64094a7f38877e7978f3d
+		Weight 2
+	}
+]

@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 227587546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b42b5dce9ac46c9deec69453cd0d595
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3e677df98ba14a6a0f20619461f79cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 192
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DrunkenClamMaterBundle/Items/Plush_6/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_3/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_2/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/DrunkenClam.blend
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Plush_2.mat
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Clam_Brick_0.png
+- Assets/DrunkenClamMaterBundle/Items/Plush_9/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Item.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack_Glow.png
+- Assets/DrunkenClamMaterBundle/Items/Plush_5/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Plush_1.png
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Plush_3.png
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack.blend
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Plush_1.mat
+- Assets/DrunkenClamMaterBundle/Items/Plush_8/Item.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack_Brick_1.png
+- Assets/DrunkenClamMaterBundle/Items/Plush_1/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_5/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Items/Shark_0/Item.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack_Roof.mat
+- Assets/DrunkenClamMaterBundle/Items/Plush_6/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Clam_Floor.png
+- Assets/DrunkenClamMaterBundle/Items/Plush_3/Item.prefab
+- Assets/DrunkenClamMaterBundle/Items/Shark_0/Shark.png
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack_Brick_0.png
+- Assets/DrunkenClamMaterBundle/Items/Shark_0/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack_Brick_1.mat
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Clam_Brick_1.mat
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/DrunkenClam.png
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Plush.png
+- Assets/DrunkenClamMaterBundle/Items/Shark_0/Shark_Source.blend
+- Assets/DrunkenClamMaterBundle/Items/Plush_7/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_10/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_2/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_8/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_1/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_9/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Skybox.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_7/Item.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_10/Item.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/DrunkenClamGlow.png
+- Assets/DrunkenClamMaterBundle/Items/Shark_0/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Items/Shark_0/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_10/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Clam_Render.png
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Clam_Brick_0.mat
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Sign.png
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Plush_2.png
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Clam_Brick_1.png
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack_Roof.png
+- Assets/DrunkenClamMaterBundle/Items/Plush_4/Item.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_8/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_7/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_5/Item.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_3/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Plush.mat
+- Assets/DrunkenClamMaterBundle/Items/Plush_3/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Slots.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_9/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_10/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_9/Item.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Clam_Floor.mat
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Object.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_0/Plush_3.mat
+- Assets/DrunkenClamMaterBundle/Items/Plush_5/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack_Render.png
+- Assets/DrunkenClamMaterBundle/Items/Plush_4/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_2/Item.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_1/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_4/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack.png
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack_Brick_0.mat
+- Assets/DrunkenClamMaterBundle/Items/Plush_7/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Skybox.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_6/Animations.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_1/Item.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_2/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_8/Nav.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Clam_Glow.mat
+- Assets/DrunkenClamMaterBundle/Items/Shark_0/Shark.mat
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Slots.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Shack.mat
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Clam_Glow.mat
+- Assets/DrunkenClamMaterBundle/Items/Plush_4/Barricade.prefab
+- Assets/DrunkenClamMaterBundle/Items/Plush_6/Item.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Mystery_Shack_0/Object.prefab
+- Assets/DrunkenClamMaterBundle/Objects/Drunken_Clam_0/Clam.mat
+Dependencies: []

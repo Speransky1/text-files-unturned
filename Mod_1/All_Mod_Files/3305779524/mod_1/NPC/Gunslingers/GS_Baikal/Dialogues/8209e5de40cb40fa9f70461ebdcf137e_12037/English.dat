@@ -1,0 +1,38 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Чем бы тебя нагрузить...
+Response_0 <color=white>Охотник на монстров</color>
+Response_1 <color=white>Охотник на монстров. Завершить</color>
+Response_2 <color=white>Мародёр</color>
+Response_3 <color=white>Мародёр. Завершить</color>
+Response_4 <color=uncommon>Пост</color>
+Response_5 <color=uncommon>Пост. Завершить</color>
+Response_6 <color=uncommon>Чистильщик</color>
+Response_7 <color=uncommon>Чистильщик. Завершить</color>
+Response_8 <color=uncommon>Связной. Часть 1</color>
+Response_9 <color=uncommon>Связной. Часть 2. Завершить</color>
+Response_10 <color=rare>Зачистка. Часть 1</color>
+Response_11 <color=rare>Зачистка. Часть 1. Завершить</color>
+Response_12 <color=rare>Офисный работник</color>
+Response_13 <color=rare>Офисный работник. Завершить</color>
+Response_14 <color=rare>Взрывное дело</color>
+Response_15 <color=rare>Взрывное дело. Завершить</color>
+Response_16 <color=rare>Помощь извне</color>
+Response_17 <color=rare>Помощь извне. Завершить</color>
+Response_18 <color=epic>Расследование. Часть 1</color>
+Response_19 <color=epic>Расследование. Часть 1. Завершить</color>
+Response_20 <color=epic>Расследование. Часть 2</color>
+Response_21 <color=epic>Расследование. Часть 2. Завершить</color>
+Response_22 <color=epic>Расследование. Часть 3</color>
+Response_23 <color=epic>Расследование. Часть 3. Завершить</color>
+Response_24 <color=epic>Соломон</color>
+Response_25 <color=epic>Соломон. Завершить</color>
+Response_26 <color=legendary>Радист</color>
+Response_27 <color=legendary>Радист. Завершить</color>
+Response_28 <color=legendary>Инженерная авантюра</color>
+Response_29 <color=legendary>Инженерная авантюра. Завершить</color>
+Response_30 <color=legendary>Зачистка. Часть 2</color>
+Response_31 <color=legendary>Зачистка. Часть 2. Завершить</color>
+Response_32 <color=legendary>Государственное имущество</color>
+Response_33 <color=legendary>Государственное имущество. Завершить</color>
+Response_34 Сигнальные флаеры
+Response_35 *Уйти*

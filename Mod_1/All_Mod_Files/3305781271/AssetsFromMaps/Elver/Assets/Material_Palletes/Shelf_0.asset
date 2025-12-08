@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "1195e2aabf6e43678db4cb9856a8144b"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "metro.masterbundle"
+			"Path" "Terrain/Metro/Material_Palletes/Shelf_0/Material_0.mat"
+		}
+	]
+}

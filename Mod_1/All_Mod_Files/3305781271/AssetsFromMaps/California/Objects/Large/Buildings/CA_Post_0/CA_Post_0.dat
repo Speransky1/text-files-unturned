@@ -1,0 +1,8 @@
+GUID c593613cf7944cab8166c818fca17ed1
+Type Large
+ID 4691
+
+Material_Palette 3987063d60df43e2ac4ca66fe91880f1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Post_0

@@ -1,0 +1,53 @@
+GUID 97ea6dc6bbf843ccb02a027f9d705a7e
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 44039
+
+Size_X 5
+Size_Y 2
+Size_Z 0.3
+
+Muzzle 44005
+
+Magazine 44038
+
+Ammo_Min 69
+Ammo_Max 69
+
+Auto
+
+Caliber 44007
+
+Firerate 1
+Replace 0.5
+Action Rocket
+
+Player_Damage 60
+Zombie_Damage 4200
+Animal_Damage 4200
+Barricade_Damage 4200
+Structure_Damage 4200
+Vehicle_Damage 200
+Resource_Damage 4200
+Object_Damage 100
+
+Range 3.5
+
+Spread_Aim 0
+Spread_Hip 0
+
+Ballistic_Force 3269
+
+Shake_Min_Z -0.018
+Shake_Max_Z -0.03
+
+Infinite_Ammo True
+
+Can_Use_Underwater True
+
+Allow_Magazine_Change False
+
+Asset_Bundle_Version 2

@@ -1,0 +1,20 @@
+GUID 1cc3275a5c334bd3b150d254f939f60e
+
+Type Medium
+Has_Clip_Prefab false
+ID 58179
+
+Interactability Binary_State
+Interactability_Delay 1
+Interactability_Hint Door
+Interactability_Nav Off
+Interactability_Reset 5
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 57194
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Final/Metro_Door_Key

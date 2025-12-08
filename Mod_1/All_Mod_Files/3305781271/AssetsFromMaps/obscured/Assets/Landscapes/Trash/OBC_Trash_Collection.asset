@@ -1,0 +1,180 @@
+"Metadata"
+{
+	"GUID" "cda0930460b744d4927ad0d44f70bfae"
+	"Type" "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			"Asset"
+			{
+				"GUID" "f6fa85b885f343d2983cee14c339b7c9"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "6b194d1c39444d4994486a94527397a4"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "367603952882400abca4ae056e2c5b03"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "281366d95bdb4a8996c405ffecab8e89"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "eae2d009dd404f11baeb3931dd6fb33d"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "51be82a9f566441282db12d8853bc8bf"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "a0cc9efeacb34dbc8685cb732b187a37"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "f33ae498584f42a88f334754cf112ca5"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "3a0f109de1f2412c9cd74c296c0ce9ab"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "b94610e2fc8149a5a6a635d09447aea3"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "2231c83c2b544a6e9ff716c2cdad9fc4"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "0b04bf5cac9a47088aae78560f875e66"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "0b04bf5cac9a47088aae78560f875e66"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "3b34da6aac6d415c99cda35531deb797"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "2ac0742689bc4dfeaa0ab634649757bd"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "f57e670ef98f4ad1a54fa4ccaa25d1c7"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "6f242972f60847f9b418a9464f6c419f"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "01a0dd11fd324045ade1c9df38295ed2"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "fb5dcc83534c47ac90f7d3324c3d0e27"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "9de1455d8a3148f98fba32b0eb0fd403"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "82513fa53573492cbd0f8c56b2d9e0b2"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "9d564c01a4cb4b7890657226b9a16432"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "b8289fc847244ec6a89d531fef1379e6"
+			}
+			"Weight" "1"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "1bc582f802d147589ac20a8538f5832b"
+			}
+			"Weight" "1"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+GUID e210cdd0432248408231f62a1c766618
+
+Type Trap
+Rarity Epic
+Useable Barricade
+Build Wire
+ID 17999
+
+Size_X 4
+Size_Y 2
+Size_Z 0.8
+
+Health 70
+Range 4
+Radius 0.15
+Offset 0.2
+
+Player_Damage 37
+Zombie_Damage 65
+Animal_Damage 33
+
+Explosion 36
+
+Unrepairable
+
+Unpickupable
+
+Proof_Explosion
+
+Can_Be_Damaged False
+
+Has_Clip_Prefab false

@@ -1,0 +1,22 @@
+GUID 6393fad1f3474d0db4d2ba604f121668
+
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 39140
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 5
+Height 2
+
+Armor 0.6
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

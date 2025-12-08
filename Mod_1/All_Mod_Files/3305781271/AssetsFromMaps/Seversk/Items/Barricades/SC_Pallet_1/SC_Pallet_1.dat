@@ -1,0 +1,47 @@
+﻿GUID c9183ae01c774ea2bef7c95bba312ecd
+
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 41398
+
+Size_X 2
+Size_Y 1
+Size_Z 0.25
+
+Health 100
+Range 4
+Radius 0.1
+Offset 0.2
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.3
+Explosion 41302
+Can_Be_Damaged true
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem c9183ae01c774ea2bef7c95bba312ecd
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			"edc4d492616c4bfa841f8a8a1c58df1e x 5" // Plastic Fragments
+			"8ae387a91c1c4964be2a12be7aeabfb9 x 3" // Wooden Stick
+			"1986846586774600b7b8779394e49fb6" // Glue
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+PlacementAudioClip Sounds/Placement_1.ogg
+Has_Clip_Prefab false

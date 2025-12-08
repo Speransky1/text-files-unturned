@@ -1,0 +1,20 @@
+GUID f24a374de87b43cd9ebf32c2b5bc1bbd
+
+
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 58104
+
+Size_X 1
+Size_Y 1
+Size_Z 0.18
+
+Quality_Min 50
+Quality_Max 100
+
+Food 5
+Water 5
+
+
+Asset_Bundle_Version 3

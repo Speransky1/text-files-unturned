@@ -1,0 +1,18 @@
+GUID cd1a8af91fd140f58c5b155a43f1b616
+Type Mask
+Rarity Common
+Useable Clothing
+ID 37544
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Hair
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

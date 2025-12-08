@@ -1,0 +1,42 @@
+GUID fbd427dad131406a93847b14efd0c346
+Type Spawn
+ID 10147
+
+Tables
+[
+	{
+		// Зашифрованный передатчик (Supply Item)
+		Guid f9da3d6aeaa141eda1a5bf6ed28278ca
+		Weight 70
+	}
+	{
+		// Передатчик (Barricade Item)
+		Guid 6700f0da61ee470eb296ba380169caba
+		Weight 50
+	}
+	{
+		// USB-накопитель (Supply Item)
+		Guid fc0121594a3048eb9e0d9566e5de6487
+		Weight 40
+	}
+	{
+		// SSD (Supply Item)
+		Guid b45d22f0e9b145238b6c845a1038fd96
+		Weight 30
+	}
+	{
+		// Журнал боевых действий WRG от 25.10.2022. (Supply Item)
+		Guid 21a6c1e0d8564a6eaa969f744f811d7b
+		Weight 3
+	}
+	{
+		// Рапорт WRG от 14.06.2022 (Supply Item)
+		Guid caf62ad1fc4a47c385863fb549bc14c0
+		Weight 2
+	}
+	{
+		// Квантум кола (Water Item)
+		Guid c19036d3300441ae978c6ecde2e18382
+		Weight 1
+	}
+]

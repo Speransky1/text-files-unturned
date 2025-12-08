@@ -1,0 +1,32 @@
+GUID 54409a2f4a544596a5ebe252101b5636
+Type Magazine
+Rarity Epic
+ID 19412
+
+Size_X 3
+Size_Y 2
+Size_Z 0.55
+
+Amount 8
+
+Calibers 1
+Caliber_0 19412
+
+Use_Auto_Icon_Measurements False
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19649
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 30
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 19649
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Supply_1_ID 19009
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Tool 19376
+Blueprint_1_Tool_Critical
+Blueprint_1_Build 27

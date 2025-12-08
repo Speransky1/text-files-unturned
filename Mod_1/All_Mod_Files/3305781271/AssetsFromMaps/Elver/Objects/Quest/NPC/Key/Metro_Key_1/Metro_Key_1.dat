@@ -1,0 +1,15 @@
+GUID c7093beac14b46088fe647ef9388532a
+
+Type Small
+Has_Clip_Prefab false
+ID 57605
+
+Interactability Binary_State
+Interactability_Reset 1
+Interactability_Hint Use
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 57102
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal

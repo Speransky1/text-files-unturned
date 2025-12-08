@@ -1,0 +1,40 @@
+GUID 0cbcdf23228148408ca05bf2dd71de51
+Type Magazine
+Rarity Epic
+ID 10537
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 18850
+
+Tracer 19030
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+
+Delete_Empty
+
+Range 5
+Player_Damage 1
+Zombie_Damage 1
+Animal_Damage 1
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 1
+Resource_Damage 1
+Object_Damage 1
+Explosion 18010
+Explosive

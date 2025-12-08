@@ -1,0 +1,27 @@
+GUID 3d939e9a6d994f059d094d5124f48b04
+
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 56242
+
+Size_X 3
+Size_Y 3
+Size_Z 0.6
+
+Width 5
+Height 4
+
+Armor 0.5
+Armor_Explosion 0.75
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 32
+
+Quality_Min 55
+Quality_Max 65
+

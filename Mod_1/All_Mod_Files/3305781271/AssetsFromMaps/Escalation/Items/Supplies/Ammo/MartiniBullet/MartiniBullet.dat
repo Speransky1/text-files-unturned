@@ -1,0 +1,18 @@
+GUID f6cf574f9a2f4b439635989460e9a8a5
+Type Magazine
+Rarity Uncommon
+ID 51917
+
+Delete_Empty
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 1
+Count_Min 1
+Count_Max 1
+Delete
+Calibers 1
+Caliber_0 51015
+

@@ -1,0 +1,32 @@
+GUID c7eb3da3f92448e0845a751ddf7d5f12
+Type Spawn
+ID 10154
+
+Tables
+[
+	{
+		// Футболка (Shirt Item)
+		Guid a5cd5b40de7a48b6808d282b7140e03f
+		Weight 1
+	}
+	{
+		// Футболка (Shirt Item)
+		Guid 37ea066d632948568bc5185ac6c31e0b
+		Weight 1
+	}
+	{
+		// Футболка (Shirt Item)
+		Guid 9f45691c962d4cbcbf806e0702de50ed
+		Weight 1
+	}
+	{
+		// Футболка (Shirt Item)
+		Guid eda5c1755eaf48ccb7df36d1f0919c6d
+		Weight 1
+	}
+	{
+		// Футболка (Shirt Item)
+		Guid 6ece7f583d8e47ecaeb577cf39ad0958
+		Weight 1
+	}
+]

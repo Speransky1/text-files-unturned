@@ -1,0 +1,27 @@
+GUID 2950d593298a45e5a426ff4d83d611f6
+Type Magazine
+Rarity Uncommon
+ID 28001
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+Amount 6
+Count_Min 6
+Count_Max 6
+
+Calibers 1
+Caliber_0 6969
+
+Tracer 55
+
+Speed 1.15
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 28001
+Blueprint_0_Build 30
+
+Delete_Empty

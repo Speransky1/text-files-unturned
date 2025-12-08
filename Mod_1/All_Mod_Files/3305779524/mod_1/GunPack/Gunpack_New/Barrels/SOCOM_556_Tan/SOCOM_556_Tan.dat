@@ -1,0 +1,24 @@
+GUID f82af0f4dc264470aeff38913398495a
+
+Type Barrel
+Rarity Rare
+ID 34109
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 23904
+
+Silenced 
+Volume 0.3
+
+Recoil_X 0.75
+Recoil_Y 0.55
+
+Gunshot_Rolloff_Distance_Multiplier 0.75
+
+
+
+Ballistic_Drop 1.3

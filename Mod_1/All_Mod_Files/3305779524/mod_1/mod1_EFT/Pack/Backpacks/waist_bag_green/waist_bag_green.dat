@@ -1,0 +1,19 @@
+GUID 1bb4a0074ca64e6b8181ebc2faeb7915
+
+Type Backpack
+Rarity Common
+Useable Clothing
+ID 58465
+
+Size_X 2
+Size_Y 1
+Size_Z 0.5
+
+Width 4
+Height 3
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

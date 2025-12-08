@@ -1,0 +1,40 @@
+GUID 07e53368a742470f9f0e6931afdcd623
+
+Type Magazine
+Rarity Uncommon
+ID 63407
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 15
+Count_Min 15
+Count_Max 15
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Swift_Ammo/PS_C99_Clip
+
+Calibers 1
+Caliber_0 19407
+
+Speed 0.7
+
+Tracer 19002
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 19999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19407
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63325
+Blueprint_2_Build 30

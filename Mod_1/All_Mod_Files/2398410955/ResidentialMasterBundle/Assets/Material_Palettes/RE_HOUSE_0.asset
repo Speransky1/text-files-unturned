@@ -1,0 +1,44 @@
+"Metadata"
+{
+	"GUID" "60d0da0248824a348b1f1bbf39c9cf8f"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_HOUSE_0/RE_HOUSE_0_00.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_HOUSE_0/RE_HOUSE_0_01.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_HOUSE_0/RE_HOUSE_0_02.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_HOUSE_0/RE_HOUSE_0_03.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_HOUSE_0/RE_HOUSE_0_04.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_HOUSE_0/RE_HOUSE_0_05.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_HOUSE_0/RE_HOUSE_0_06.mat"
+		}
+		{
+			"Name" "residential.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/RE_HOUSE_0/RE_HOUSE_0_07.mat"
+		}
+	]
+}

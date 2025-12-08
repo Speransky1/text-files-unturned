@@ -1,0 +1,7 @@
+Name Metro Mystery #2 [Give Present]
+
+Interact Unlock Present [{0}]
+
+Interactability_Condition_0 
+Interactability_Condition_1 Sacrifice a <color=#C832FA>Scripture</color> at the Town or Gas Station
+Interactability_Condition_2 Complete <color=#88D3E0>Festive Part 1</color>

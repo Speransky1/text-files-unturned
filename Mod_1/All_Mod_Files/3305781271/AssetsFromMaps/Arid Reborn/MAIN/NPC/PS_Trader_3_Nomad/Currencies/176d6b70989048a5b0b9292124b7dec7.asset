@@ -1,0 +1,45 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+"Metadata"
+{
+	"GUID" "176d6b70989048a5b0b9292124b7dec7"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Gun Parts"
+	"Entries"
+	[
+		{
+			"Item" "0cbd349e54814e63b580329ab0001d54"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "eeed51f5c7574aa1810f59c2a9d1d238"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "72286fed274142c8a076ad1996763582"
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "36ba41a79c024694bbee5ad45ed126d1"
+			"Value" "3"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "6a9e430dfd2e4aaab93645b9c6021e5c"
+			"Value" "4"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+		{
+			"Item" "74ddbf15134e4abe9519240c1582f30a"
+			"Value" "4"
+			"Is_Visible_In_Vendor_Menu" "true"
+		}
+	]
+	"ID" "0"
+	"Asset_Bundle_Version" "1"
+}

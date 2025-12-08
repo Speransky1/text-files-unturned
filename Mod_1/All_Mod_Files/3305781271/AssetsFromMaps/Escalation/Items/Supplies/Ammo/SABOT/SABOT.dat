@@ -1,0 +1,30 @@
+GUID c7b398d4f5d04c9e94327d4664034d88
+Type Magazine
+Rarity Mythical
+ID 51916
+
+Delete_Empty
+
+Size_X 1
+Size_Y 1
+Size_Z 0.05
+
+Amount 10
+Count_Min 1
+Count_Max 10
+Delete
+Calibers 1
+Caliber_0 51014
+Explosive
+Explosion 51008
+Tracer 51000
+Range 8
+Player_Damage 50
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 100
+Structure_Damage 100
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 50
+Explosion_Launch_Speed 30

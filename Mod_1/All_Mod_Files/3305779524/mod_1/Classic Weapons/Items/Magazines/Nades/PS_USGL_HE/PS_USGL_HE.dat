@@ -1,0 +1,34 @@
+GUID 1a61a3977d544d3aaea4a6b317d93df0
+Type Magazine
+Rarity Legendary
+ID 31183
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 25070
+
+Tracer 30047
+
+Delete_Empty
+
+Range 9
+Player_Damage 100
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 75
+Structure_Damage 75
+Vehicle_Damage 75
+Resource_Damage 125
+Object_Damage 125
+Explosion 30020
+Explosive
+Ballistic_Damage_Multiplier 0.5
+
+Explosion_Launch_Speed 15

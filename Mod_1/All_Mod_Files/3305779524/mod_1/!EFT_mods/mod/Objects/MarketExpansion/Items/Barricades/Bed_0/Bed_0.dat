@@ -1,0 +1,16 @@
+GUID 34f45a0c5bdc46068bd4dc4289f07072
+Type Barricade
+Useable Barricade
+Build Bed
+ID 45375
+
+Size_X 4
+Size_Y 2
+Size_Z 0.35
+
+Health 350
+Range 4
+Radius 0.4
+Offset 0.5
+
+Explosion 37

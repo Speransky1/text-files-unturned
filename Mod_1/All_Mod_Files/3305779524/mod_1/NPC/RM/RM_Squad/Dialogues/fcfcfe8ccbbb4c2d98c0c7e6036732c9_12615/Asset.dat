@@ -1,0 +1,38 @@
+﻿// Made in NPC Maker by BowieD
+GUID fcfcfe8ccbbb4c2d98c0c7e6036732c9
+Type Dialogue
+ID 12615
+Messages 1
+Message_0_Pages 1
+Responses 1
+Response_0_Dialogue 12161
+Response_0_Quest 14154
+Response_0_Rewards 7
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 14154
+
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 30213
+Response_0_Reward_1_Value False
+
+Response_0_Reward_2_Type Flag_Bool
+Response_0_Reward_2_ID 30214
+Response_0_Reward_2_Value False
+
+Response_0_Reward_3_Type Flag_Bool
+Response_0_Reward_3_ID 30215
+Response_0_Reward_3_Value False
+
+Response_0_Reward_4_Type Flag_Bool
+Response_0_Reward_4_ID 30216
+Response_0_Reward_4_Value False
+
+Response_0_Reward_5_Type Flag_Bool
+Response_0_Reward_5_ID 30217
+Response_0_Reward_5_Value False
+
+Response_0_Reward_6_Type Item
+Response_0_Reward_6_ID 59515
+Response_0_Reward_6_Amount 5
+Response_0_Reward_6_Auto_Equip False
+

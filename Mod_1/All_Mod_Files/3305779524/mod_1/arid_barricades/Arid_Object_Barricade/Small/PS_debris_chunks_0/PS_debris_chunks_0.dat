@@ -1,0 +1,22 @@
+GUID 79bc3ccc540d4b80b0b2e667f318ea58
+
+Type Barricade
+Rarity Mythical
+Useable Barricade
+Build Barricade
+ID 62874
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 5200
+Range 4
+Radius 0.45
+Offset 0.58
+
+Salvage_Duration_Multiplier 0.25
+
+Explosion 19
+
+eblan

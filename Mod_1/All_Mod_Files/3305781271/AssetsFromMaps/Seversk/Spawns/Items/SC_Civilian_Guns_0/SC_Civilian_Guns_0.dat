@@ -1,0 +1,107 @@
+﻿GUID 43ca78dec69a449cb090e5cf245176af
+Type Spawn
+ID 41443
+
+Tables
+[
+	{
+		// TT Magazine (Magazine Item)
+		LegacyAssetId 41687
+		Weight 50
+	}
+	{
+		// TT (Gun Item)
+		LegacyAssetId 41686
+		Weight 40
+	}
+	{
+		// AKMN Blocked Magazine (Magazine Item)
+		LegacyAssetId 41716
+		Weight 40
+	}
+	{
+		// AKMN Shortened Magazine (Magazine Item)
+		LegacyAssetId 41715
+		Weight 30
+	}
+	{
+		// Pack of Pistol Ammo (Supply Item)
+		LegacyAssetId 41685
+		Weight 30
+	}
+	{
+		// Shotgun Compensator (Barrel Item)
+		LegacyAssetId 41710
+		Weight 30
+	}
+	{
+		// VPO-136 (Gun Item)
+		LegacyAssetId 41722
+		Weight 25
+	}
+	{
+		// MP-43 Hunting Shotgun (Gun Item)
+		LegacyAssetId 41703
+		Weight 24
+	}
+	{
+		// Pistol Muzzle (Barrel Item)
+		LegacyAssetId 41700
+		Weight 24
+	}
+	{
+		// OP-SKS (Gun Item)
+		LegacyAssetId 41814
+		Weight 20
+	}
+	{
+		// Box of Shotgun Shells (Supply Item)
+		LegacyAssetId 41704
+		Weight 20
+	}
+	{
+		// Shotgun Muzzle (Barrel Item)
+		LegacyAssetId 41712
+		Weight 20
+	}
+	{
+		// SKS Detachable Magazine (Magazine Item)
+		LegacyAssetId 41811
+		Weight 20
+	}
+	{
+		// PK-A Scope (Sight Item)
+		LegacyAssetId 41730
+		Weight 19
+	}
+	{
+		// Pistol Suppressor (Barrel Item)
+		LegacyAssetId 41681
+		Weight 16
+	}
+	{
+		// MP-133 (Gun Item)
+		LegacyAssetId 41708
+		Weight 16
+	}
+	{
+		// Shotgun Sound Moderator (Barrel Item)
+		LegacyAssetId 41711
+		Weight 15
+	}
+	{
+		// Pistol Flash Hider (Barrel Item)
+		LegacyAssetId 41816
+		Weight 13
+	}
+	{
+		// MP-153 (Gun Item)
+		LegacyAssetId 41709
+		Weight 13
+	}
+	{
+		// PK-AS Reflex Sight (Sight Item)
+		LegacyAssetId 41731
+		Weight 10
+	}
+]

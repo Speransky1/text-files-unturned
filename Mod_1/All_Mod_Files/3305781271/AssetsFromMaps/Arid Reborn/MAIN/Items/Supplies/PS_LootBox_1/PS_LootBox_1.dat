@@ -1,0 +1,17 @@
+GUID 0014af9457624e749121af3b2fb7b17a
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 10658
+
+Size_X 3
+Size_Y 2
+
+Quest_Rewards 2
+
+Quest_Reward_0_Type Item_Random
+Quest_Reward_0_ID 22227
+Quest_Reward_0_Amount 5
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 19505
+Quest_Reward_1_Amount 2

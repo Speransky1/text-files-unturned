@@ -1,0 +1,12 @@
+GUID bbefc2c4320b4c1aa01229b897737ff4
+Type Barrel
+ID 31203
+
+Size_X 5
+Size_Y 5
+Size_Z 1
+
+Silenced 
+Volume 1
+
+Gunshot_Rolloff_Distance_Multiplier 1

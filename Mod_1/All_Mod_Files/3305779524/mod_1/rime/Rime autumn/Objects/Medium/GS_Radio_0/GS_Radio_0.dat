@@ -1,0 +1,9 @@
+GUID 12f989e930dc43878da92bd17a991bfc
+
+Type Small
+Has_Clip_Prefab false
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power None
+Interactability_Emission

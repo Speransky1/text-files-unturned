@@ -1,0 +1,57 @@
+GUID df59c2a62b85499a85538e8bd81bb93f
+
+Type Magazine
+Rarity Mythical
+ID 63940
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Guage_Frag_Ammo/PS_Shotgun_Drum_Frag
+
+
+Size_X 2
+Size_Y 2
+Size_Z 0.29
+
+Amount 20
+Count_Min 2
+Count_Max 11
+
+Calibers 1
+Caliber_0 19929
+
+Tracer 19043
+
+Blueprints 4
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63929
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63944
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 63547
+Blueprint_3_Build 30
+
+Range 5.5
+Player_Damage 15
+Zombie_Damage 55
+Animal_Damage 66
+Barricade_Damage 12
+Structure_Damage 12
+Vehicle_Damage 35
+Resource_Damage 222
+Object_Damage 40
+Explosion 19065
+Explosive
+
+Explosion_Launch_Speed 0

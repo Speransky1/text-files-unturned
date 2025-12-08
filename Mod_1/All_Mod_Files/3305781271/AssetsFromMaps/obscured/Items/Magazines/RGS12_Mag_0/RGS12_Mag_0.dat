@@ -1,0 +1,23 @@
+GUID abe58891c4d14dab9625a0d3567f58a9
+
+Type Magazine
+Rarity Mythical
+ID 39164
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Amount 12
+Count_Min 12
+Count_Max 12
+
+Calibers 1
+Caliber_0 39206
+
+Pellets 4
+
+Tracer 39114
+
+Use_Auto_Stat_Descriptions false
+

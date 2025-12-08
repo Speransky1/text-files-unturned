@@ -1,0 +1,19 @@
+GUID d60b85f5423f46f49e8df1ad90c21174
+
+Type Animal
+ID 25304
+
+Speed_Run 12
+Speed_Walk 4
+
+Behaviour Offense
+Damage 25
+Horizontal_Attack_Range 5
+
+Health 500
+
+Reward_ID 10149
+Reward_Min 1
+Reward_Max 1
+
+Glance_Anim_Variants 2

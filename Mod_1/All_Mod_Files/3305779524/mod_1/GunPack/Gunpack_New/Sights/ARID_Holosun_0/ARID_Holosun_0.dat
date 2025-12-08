@@ -1,0 +1,17 @@
+GUID 62541784852e400da54a77ecd65d0037
+
+Type Sight
+Rarity Rare
+ID 32113
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Holographic
+
+Calibers 2
+Caliber_0 18904
+Caliber_1 23905
+
+Use_Auto_Icon_Measurements False

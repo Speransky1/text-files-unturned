@@ -1,0 +1,15 @@
+GUID c508a73395014211a82d66d54871ac73
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 31507
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Strong_Throw_Force 1300
+
+Weak_Throw_Force 500
+
+Boost_Throw_Force_Multiplier 1

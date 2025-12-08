@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "f5265766ef1c480fa09388be9cce9949"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "california.masterbundle"
+			"Path" "palettes/lamp/lamp_0.mat"
+		}
+	]
+}

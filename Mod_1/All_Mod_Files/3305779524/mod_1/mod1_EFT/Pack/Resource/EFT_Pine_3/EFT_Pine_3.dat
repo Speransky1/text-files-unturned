@@ -1,0 +1,19 @@
+GUID e4c560054bda454d8fbd8bff67ff3593
+
+
+Type Resource
+ID 44227
+
+Health 1000
+Radius 5
+
+
+Explosion 40
+Reward_ID 0
+Reward_Min 0
+Reward_Max 0
+
+BladeID 20
+Has_Clip_Prefab false
+Auto_Skybox
+Reset 600

@@ -1,0 +1,6 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Consumable V
+Description Mark 3 places on Fort Knell with possible provisions and medical supplies.
+Condition_0 {0}/{1} Planted Markers
+Reward_4 More barters.
+Reward_5 Stim Vial Blueprint Unlocked

@@ -1,0 +1,13 @@
+GUID 8642de20f39a42538a31a75b064f6eaa
+Type Medium
+Has_Clip_Prefab False
+ID 51000
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 52005
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override pbs.masterbundle
+Bundle_Override_Path /Objects/Medium/SpecialSounds/NPCSmoke

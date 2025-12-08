@@ -1,0 +1,23 @@
+GUID 6cb970f40d87419a92cc324e4d49e374
+
+Type Magazine
+Rarity Legendary
+ID 17045
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 13
+Count_Min 13
+Count_Max 13
+
+Calibers 1
+Caliber_0 17111
+
+Tracer 17004
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+Should_Fill_After_Detach True

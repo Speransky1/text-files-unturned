@@ -1,0 +1,71 @@
+GUID 45f6f3e1f047486da512021e74dcf14b
+Type Spawn
+ID 10109
+
+Roots
+[
+	{
+		// toolbox_plastic_supplies (Spawn)
+		Guid 812ccfbdebde4b5285ac807d0fb62995
+		Weight 18
+	}
+]
+
+Tables
+[
+	{
+		// Смазка (Water Item)
+		Guid ff758a89bc4d4fc9bf5c8c61fcc02265
+		Weight 20
+	}
+	{
+		// Электрические детали (Supply Item)
+		Guid ace25590f8b54ecf83a15be330d55bdf
+		Weight 20
+	}
+	{
+		// Тяжелый кабель (Supply Item)
+		Guid 8632ca4c1068403ba4174f3384958559
+		Weight 15
+	}
+	{
+		// Техническая документация (Supply Item)
+		Guid 06f52f54965e4e58821457fad812b6d2
+		Weight 15
+	}
+	{
+		// Газовый ключ (Melee Item)
+		Guid 8c7e6d4cd58043e69a75ad4dae181ec4
+		Weight 15
+	}
+	{
+		// Электрическая дрель (Supply Item)
+		Guid 9e4327f6a9f549dcb47682c2ecb823a4
+		Weight 12
+	}
+	{
+		// Стальная сетка (Supply Item)
+		Guid 41a4926bab2b490f9525cd0583901881
+		Weight 6
+	}
+	{
+		// Свеча зажигания (Supply Item)
+		Guid 6fa88a8b09a442f898c66abc972c939e
+		Weight 5
+	}
+	{
+		// Прокладка головки (Supply Item)
+		Guid c8e661de6aff43afa87946a1389469e8
+		Weight 4
+	}
+	{
+		// Белый предохранитель (Supply Item)
+		Guid 8db351dc3bb44d109d5e68dde8a0b869
+		Weight 4
+	}
+	{
+		// Nailgun (Gun Item)
+		Guid e7142d8176804a118b2a54563454734c
+		Weight 1
+	}
+]

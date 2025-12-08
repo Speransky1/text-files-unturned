@@ -1,0 +1,5 @@
+Name PS Armored Door Openable #5 (Point Sigma)
+
+Interactability_Condition_0 No Power [{0}/1]
+
+Interact Use [{0}]

@@ -1,0 +1,25 @@
+GUID 9f195707c5104d09989e31555126ea47
+
+Type Sight
+Rarity Legendary
+ID 31304
+
+Size_X 2
+Size_Y 1
+Size_Z 0.19
+
+Sway 1.6
+Zoom 5
+Aim_Duration_Multiplier 1.12
+
+Calibers 1
+Caliber_0 25202
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31304
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

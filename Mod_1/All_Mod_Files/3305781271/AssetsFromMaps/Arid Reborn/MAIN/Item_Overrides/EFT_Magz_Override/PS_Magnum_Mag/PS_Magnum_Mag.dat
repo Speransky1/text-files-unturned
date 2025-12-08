@@ -1,0 +1,40 @@
+GUID 705e418a547a4b539f6f0e41462c17f8
+
+Type Magazine
+Rarity Rare
+ID 63289
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Magnum_Ammo/PS_Pass_Mag
+
+Size_X 1
+Size_Y 1
+Size_Z 0.19
+
+Amount 8
+Count_Min 3
+Count_Max 6
+
+Calibers 1
+Caliber_0 19290
+
+Speed 0.8
+
+Tracer 19002
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 63999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63289
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63288
+Blueprint_2_Build 30

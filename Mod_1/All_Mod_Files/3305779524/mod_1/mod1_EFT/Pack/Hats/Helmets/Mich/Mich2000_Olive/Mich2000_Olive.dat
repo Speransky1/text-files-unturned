@@ -1,0 +1,24 @@
+GUID 6833cbf47ff44408bee8c6bb18c584cf
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 55239
+
+Size_X 2
+Size_Y 2
+Size_Z 0.425
+
+Beard
+
+Armor 0.85
+Armor_Explosion 0.9
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59816
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+Quality_Min 55
+Quality_Max 65

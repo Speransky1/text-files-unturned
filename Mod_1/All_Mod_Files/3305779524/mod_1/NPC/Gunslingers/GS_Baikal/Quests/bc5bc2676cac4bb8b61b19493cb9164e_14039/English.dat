@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=epic>Расследование. Часть 3</color>
+Description Дело выглядит крайне странным. Ответов больше не стало, а вот вопросов - да. Что движет <color=white>теми</color> кто оставляет эти рисунки и... алтари?... От <color=mythical>Байкала</color> поступила информация, что что-то похожее видели и в Подземке. Найди их и вернись в Бар
+Condition_0 Найти "алтари" в Подземке
+Condition_1 Найти странные граффити в Подземке
+Reward_1 <color=white>Новые рюкзакиу</color> <color=epic>Дюшеса</color>
+Reward_2 <color=white>Новая тактическая одежда у</color> <color=epic>Дюшеса</color>
+Reward_3 <color=white>Новый бартер у</color> <color=#a92b75>Контрабандиста:</color>
+Reward_6 <color=yellow>Влияние: +400</color>

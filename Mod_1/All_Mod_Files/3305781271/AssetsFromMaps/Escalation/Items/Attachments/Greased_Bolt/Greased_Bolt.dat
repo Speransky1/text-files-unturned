@@ -1,0 +1,25 @@
+GUID e0bfb91a315747b3b0ef5a99a3d3e8bc
+
+Type Tactical
+Rarity Epic
+ID 51075
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Firerate 1
+Spread 1.375
+Recoil_Y 1.15
+Ballistic_Damage_Multiplier 0.85
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51075
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 51033
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 51017
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27

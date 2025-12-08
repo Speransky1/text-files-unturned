@@ -1,0 +1,51 @@
+GUID 77c368411b2145029338c7149a3d79d4
+Type Magazine
+Rarity Legendary
+ID 31180
+
+Size_X 2
+Size_Y 2
+Size_Z 0.245
+
+Amount 6
+Count_Min 1
+Count_Max 6
+
+Calibers 1
+Caliber_0 25069
+
+Tracer 30047
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31180
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31181
+Blueprint_1_Build 30
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31181
+Blueprint_2_Supply_0_Amount 6
+Blueprint_2_Build 30
+
+Delete_Empty
+
+Range 9
+Player_Damage 100
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 75
+Structure_Damage 75
+Vehicle_Damage 75
+Resource_Damage 125
+Object_Damage 125
+Explosion 30013
+Explosive
+Ballistic_Damage_Multiplier 0.5
+
+Explosion_Launch_Speed 15

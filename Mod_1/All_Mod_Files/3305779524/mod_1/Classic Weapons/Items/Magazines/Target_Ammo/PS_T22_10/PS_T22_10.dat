@@ -1,0 +1,39 @@
+GUID 726c8f9af84b456db761531ec66566ea
+Type Magazine
+Rarity Common
+ID 31000
+
+Size_X 1
+Size_Y 1
+Size_Z 0.14
+
+Amount 20
+Count_Min 10
+Count_Max 20
+
+Calibers 1
+Caliber_0 25025
+
+Tracer 30052
+
+Blueprints 4
+//Target Mag
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31000
+Blueprint_0_Build 30
+//Target Extended Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31001
+Blueprint_1_Build 30
+//Target Drum
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31002
+Blueprint_2_Build 30
+//Target Ammo Box
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31003
+Blueprint_3_Build 30

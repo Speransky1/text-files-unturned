@@ -1,0 +1,15 @@
+GUID 0ddcb31356fb41f485980835808d5f3b
+
+Type Water
+Useable Consumeable
+Rarity Epic
+ID 44072
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Water 100
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Water/Box_Milk

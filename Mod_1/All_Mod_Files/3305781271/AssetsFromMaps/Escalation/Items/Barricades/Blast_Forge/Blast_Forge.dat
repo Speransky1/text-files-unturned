@@ -1,0 +1,37 @@
+GUID e31f96f1a42f47e49b24302630003e8e
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Oven
+ID 51621
+
+SalvageItem e31f96f1a42f47e49b24302630003e8e
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 500
+Range 4
+Radius 0.5
+Offset 0.55
+
+Explosion 36
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+Has_Clip_Prefab false
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 51018
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 51030
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 51949
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Supply_3_ID 51033
+Blueprint_0_Supply_3_Amount 4
+Blueprint_0_Supply_4_ID 51061
+Blueprint_0_Supply_4_Amount 2
+Blueprint_0_Build 27

@@ -1,0 +1,23 @@
+GUID 3f7a3d314867478793b195f2df77f4e4
+
+
+Type Pants
+Rarity Epic
+Useable Clothing
+ID 54019
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 6
+Height 4
+
+Armor 0.95
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

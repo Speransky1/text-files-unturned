@@ -1,0 +1,63 @@
+﻿GUID 53b2a4d3f19d4d56a57d5267c673c638
+
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 41432
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 1500
+Range 4
+Radius 0.5
+Offset 0.9
+
+Storage_X 10
+Storage_Y 10
+
+Explosion 41330
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.8
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+Locked
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "7dac0e02638e493aaef279e2ed9d5c2d" // Metal Sheet
+				Amount 6
+			}
+			{
+				ID "7199b3d4758449148c42114f0b5214e4" // Armor Plate
+				Amount 4
+			}
+			{
+				ID "ad7a88dea0eb455d9d6b772c93776e31" // Bolts
+				Amount 4
+			}
+			{
+				ID "aa51e7a26f784d448afd98c95e74e73f" // Blowtorch
+				Delete false
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/Placement_2.ogg
+Has_Clip_Prefab false

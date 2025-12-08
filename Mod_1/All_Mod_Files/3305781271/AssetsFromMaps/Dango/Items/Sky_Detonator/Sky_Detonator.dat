@@ -1,0 +1,14 @@
+GUID 753f4266e8994fd598e1999cb8ae14ea
+
+Type Detonator
+Rarity Epic
+Useable Detonator
+ID 44041
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Backward
+
+Should_Drop_On_Death False

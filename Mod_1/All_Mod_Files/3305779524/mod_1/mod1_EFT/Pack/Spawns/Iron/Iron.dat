@@ -1,0 +1,9 @@
+GUID 07688db97c0646a4b0082f8a10a836db
+Type Spawn
+ID 20012
+
+Tables 1
+Table_0_Asset_ID 20005
+Table_0_Weight 100
+
+Exclude_From_Master_Bundle

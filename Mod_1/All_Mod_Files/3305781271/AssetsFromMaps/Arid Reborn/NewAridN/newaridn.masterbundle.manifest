@@ -1,0 +1,161 @@
+ManifestFileVersion: 0
+CRC: 758350397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e0b592127de04f1332a0f8ba6fe197d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 082b6b1626f21c19165f9a1a54a66df3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 75
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78740986f845bd943b99707a83731520, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5b6c0e528f36d54e96c15dbac815a92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd86c6cc78e983c41835bf31f3fd031c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ae1fb12dd76d6f4c817ecad8be6636f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/PS_Painting_0/PS_Painting_0_Object/Object.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/Minigun.ogg
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/PS_Painting_0/PS_Painting_0.fbx
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/Thunderbolt_0.mat
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Rings.mat
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_3/Magazine.prefab
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/PS_Painting_0/Nav.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Arid_Part/Fire.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Arid_Part/Smoke_1.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/PS_Jet/Ignition.mp3
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_1/item.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Materials/Heli.mat
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/Res/PS_Painting_Atlas_0.png
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/PS_Painting_0/Animations.prefab
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_2/item.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/Civilian/Res/PS_Vehicles_Civilian_1.mat
+- Assets/Main/NewAridN.masterbundle/Vehicles/Civilian/Res/PS_Vehicles_Civilian_0_Mask.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Rotor.png
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_1/Magazine.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/PS_Jet/Engine.ogg
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/PS_Jet_Gun_Launcher/Shoot.ogg
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/PS_Jet/Vehicle.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/PS_Jet_Gun_Launcher/Item.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Jet_1.png
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/PS_Painting_0/Item.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Fog.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Materials/Rotor.mat
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/Vehicle.prefab
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS3_RPG_0/Animations.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/Thunderbolt_Glass.mat
+- Assets/Main/NewAridN.masterbundle/NewArid/Assets/Arid2/Tank_Shell/AbramsShell.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/PS_Jet_Gun_Launcher/Projectile.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/Thunderbolt_0.png
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/PS_Painting_0/PS_Painting_0_Object/Nav.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Fog 1.mat
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Arid_Part/Fire.mat
+- Assets/Main/NewAridN.masterbundle/Vehicles/Civilian/Res/PS_Vehicles_Civilian_0.mat
+- Assets/Main/NewAridN.masterbundle/DT_Assets/Souds/SmokeTruck.ogg
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Plane.fbx
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/ThunderBolt.fbx
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/Brrr_Dist.ogg
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/Res/Equip.anim
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_1/Res/PS3_RPG_Mag_1.fbx
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_3/item.prefab
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS3_RPG_0/Res/PS3_RPG_0.mat
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS3_RPG_0/Item.prefab
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_2/Res/PS3_RPG_Mag_2.fbx
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Fog.mat
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Jet_Glass.mat
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/Res/PS_Painting_Atlas_0.mat
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Cross.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Civilian/PS_ZAV_0/PS_ZAV_0.fbx
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Jet.fbx
+- Assets/Main/NewAridN.masterbundle/DT_Assets/Assets/Materials/Helments/MHG.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Rings.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Arid_Part/Smoke.mat
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_3/Res/PS3_RPG_Mag_3.fbx
+- Assets/Main/NewAridN.masterbundle/Vehicles/Civilian/PS_ZAV_0/Vehicle.prefab
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_0/item.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Materials/glass_out
+  3.mat
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_0/Res/PS3_RPG_Mag_0.fbx
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/PS_Jet_Gun_Launcher/Reload.mp3
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Arid_Part/Fire 2.png
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_2/Magazine.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/a10engine.ogg
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS3_RPG_0/Res/PS3_RPG_0.fbx
+- Assets/Main/NewAridN.masterbundle/NewArid/Assets/Arid2/Heli.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/PS_Jet_Gun_Launcher/ffar_proj_far_loop.ogg
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Arid_Part/Smoke_2.mat
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/PS_Painting_0/Barricade.prefab
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/a10engine_Dist.wav
+- Assets/Main/NewAridN.masterbundle/Vehicles/PS_Thunderbolt/Ignition.wav
+- Assets/Main/NewAridN.masterbundle/NewArid/Assets/T62/Dshk_1.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Cross.mat
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Arid_Part/Smoke_Dark.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Civilian/Res/PS_Vehicles_Civilian_0.png
+- Assets/Main/NewAridN.masterbundle/Vehicles/Jet/res/Jet_Assets/Materials/Jet_1.mat
+- Assets/Main/NewAridN.masterbundle/Items/RPG/PS_RPG_Mag_0/Magazine.prefab
+- Assets/Main/NewAridN.masterbundle/NewArid/Assets/Arid2/Ammo_Belt_0.png
+- Assets/Main/NewAridN.masterbundle/Items/Barricades/Paintings/Res/Use.anim
+Dependencies: []

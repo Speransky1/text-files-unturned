@@ -1,0 +1,21 @@
+GUID 4113db7fa9314905af55fc527596649a
+Type Sight
+Rarity Epic
+ID 52058
+
+Aim_Duration_Multiplier 1.25
+Spread 0.75
+Zoom 6
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 52058
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51017
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Build 27

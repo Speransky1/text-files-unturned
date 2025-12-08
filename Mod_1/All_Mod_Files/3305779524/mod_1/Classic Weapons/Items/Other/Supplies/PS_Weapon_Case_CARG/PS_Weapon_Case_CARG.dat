@@ -1,0 +1,20 @@
+GUID 562c1f7f091843c3bd9c524af126ebd7
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 31621
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Quest_Rewards 3
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 30200
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 31012
+Quest_Reward_1_Amount 2
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 31580
+Quest_Reward_2_Amount 1

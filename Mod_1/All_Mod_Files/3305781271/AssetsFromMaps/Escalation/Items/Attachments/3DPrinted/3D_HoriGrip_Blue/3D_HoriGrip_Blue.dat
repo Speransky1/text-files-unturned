@@ -1,0 +1,39 @@
+GUID 4a07becdbe83479a9d4d27dc64a1bf10
+Type Grip
+Rarity Rare
+ID 51361
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Recoil_X 0.7
+Recoil_Y 0.9
+Aim_Duration_Multiplier 1.1
+
+Spread 0.9
+Sway 0.75
+Shake 0.8
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 51010
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 51017
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 51000
+Blueprint_0_Tool_Critical
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51361
+Blueprint_0_Output_0_Amount 1
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51361
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 51028
+Blueprint_1_Output_0_Amount 2
+
+Blueprint_0_Build 27
+Blueprint_1_Build 27

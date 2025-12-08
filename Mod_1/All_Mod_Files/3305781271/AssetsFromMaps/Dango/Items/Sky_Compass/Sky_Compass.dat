@@ -1,0 +1,15 @@
+GUID 7f3a0f3888cb40febddc4b4ada758b52
+Type Compass
+Rarity Epic
+ID 44036
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Enables_Compass
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Maps/Compass
+
+Should_Drop_On_Death False

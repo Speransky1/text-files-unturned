@@ -1,0 +1,40 @@
+GUID 801279f0515348e5a907bf3743e80be2
+
+Type Vehicle
+Has_Clip_Prefab false
+Rarity Legendary
+ID 57013
+
+Speed_Min -2.5
+Speed_Max 20
+
+Steer_Min 64
+Steer_Max 64
+
+Fuel 2000
+
+Health_Min 800
+Health_Max 900
+Health 7500
+
+Exit 5
+
+Cam_Follow_Distance 16
+
+LockMouse
+Engine Helicopter
+
+Invulnerable
+
+Trunk_Storage_X 10
+Trunk_Storage_Y 6
+
+Explosion 20
+
+Physics_Profile bf8d0df794dd411e8afeeb1b11d50d98
+
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging

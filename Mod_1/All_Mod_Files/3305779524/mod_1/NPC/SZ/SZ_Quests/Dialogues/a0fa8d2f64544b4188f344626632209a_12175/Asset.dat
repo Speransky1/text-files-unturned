@@ -1,0 +1,55 @@
+﻿// Made in NPC Maker by BowieD
+GUID a0fa8d2f64544b4188f344626632209a
+Type Dialogue
+ID 12175
+Messages 1
+Message_0_Pages 1
+Responses 6
+Response_0_Vendor 13036
+Response_1_Dialogue 12176
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 14060
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC False
+
+Response_2_Dialogue 12177
+Response_2_Quest 14060
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 14060
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC False
+Response_2_Condition_0_Reset 
+
+Response_3_Dialogue 12175
+Response_3_Quest 14063
+Response_3_Conditions 2
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 14063
+Response_3_Condition_0_Status None
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC False
+
+Response_3_Condition_1_Type Quest
+Response_3_Condition_1_ID 14060
+Response_3_Condition_1_Status Completed
+Response_3_Condition_1_Logic Equal
+Response_3_Condition_1_Ignore_NPC False
+
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 14063
+
+Response_4_Dialogue 12175
+Response_4_Quest 14063
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 14063
+Response_4_Condition_0_Status Ready
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Ignore_NPC False
+Response_4_Condition_0_Reset 
+

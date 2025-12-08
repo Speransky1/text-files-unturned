@@ -1,0 +1,110 @@
+GUID 082ee3758c5b422eb7180d7486aefc02
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 10821
+
+Size_X 6
+Size_Y 3
+Size_Z 0.8
+
+Magazine 10032
+
+Ammo_Min 1
+Ammo_Max 1
+
+Auto
+
+Magazine_Calibers 1
+Magazine_Caliber_0 18843
+
+Muzzle 19016
+
+Can_Player_Equip False
+Infinite_Ammo True
+Allow_Magazine_Change False
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+Player_Damage_Bleeding Always
+
+Blueprints 2
+
+//Craft
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+//HMG Item
+Blueprint_0_Supply_0_ID 10034
+Blueprint_0_Supply_0_Amount 1
+//Illegal Gun Parts
+Blueprint_0_Supply_1_ID 19342
+Blueprint_0_Supply_1_Amount 1
+//Stack Gun Parts (High)
+Blueprint_0_Supply_2_ID 19964
+Blueprint_0_Supply_2_Amount 1
+//Extra Supply (AP Ammo Belt)
+Blueprint_0_Supply_3_ID 19937
+Blueprint_0_Supply_3_Amount 4
+Blueprint_0_Tool 19376
+Blueprint_0_Build 27
+
+//Salvage
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10821
+Blueprint_1_Outputs 2
+//Supply (High Tier Gun Parts)
+Blueprint_1_Output_0_ID 19262
+Blueprint_1_Output_0_Amount 6
+//Supply (Illegal Gun Parts)
+Blueprint_1_Output_1_ID 19342
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Tool 19004
+Blueprint_1_Build 27
+
+////////////////////////////////////////Balance Stats
+
+Range 400
+Ballistic_Steps 40
+Ballistic_Drop 0.0011
+Damage_Falloff_Multiplier 0.6
+Damage_Falloff_Range 0.666
+Damage_Falloff_Max_Range 1
+Gunshot_Rolloff_Distance 800
+
+Firerate 5
+Action Trigger
+
+Player_Damage 50
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1
+
+Zombie_Damage 100
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1
+
+Animal_Damage 100
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1
+
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 50
+Resource_Damage 100
+Object_Damage 100
+
+Durability 0
+
+Spread_Aim 0.1
+Spread_Hip 0.2
+

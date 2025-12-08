@@ -1,0 +1,14 @@
+GUID a6519086a7ba4857a36380fdcc2fd1bd
+
+Type Large
+ID 2935
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Material_Palette 3987063d60df43e2ac4ca66fe91880f1
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle

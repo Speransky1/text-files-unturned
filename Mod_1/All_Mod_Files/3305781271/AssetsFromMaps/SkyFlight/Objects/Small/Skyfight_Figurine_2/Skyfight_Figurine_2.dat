@@ -1,0 +1,13 @@
+GUID 44dd208881864c969dc96847fe6c21fa
+
+Type Small
+ID 38874
+
+Interactability Quest
+Interactability_Hint Use
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 38874
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal

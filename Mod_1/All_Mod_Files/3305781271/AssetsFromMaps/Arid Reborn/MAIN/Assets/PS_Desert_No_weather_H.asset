@@ -1,0 +1,11 @@
+"Metadata"
+{
+	"GUID" "da0806e31b204b7a8747d93292a3a08d"
+	"Type" "SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Stamina_Per_Second" "1"
+	"Fade_In_Duration" "0.9"
+	"Fade_Out_Duration" "0.9"
+}

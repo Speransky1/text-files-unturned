@@ -1,0 +1,13 @@
+"Metadata"
+{
+	"GUID" "50097dd7faa94af1852dbf64bc0aa100"
+	"Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Wheel_Drive_Model" "All"
+	"Wheel_Brake_Model" "Rear"
+	"Brake_Torque_Multiplier" "50"
+	"Brake_Torque_Traction_Multiplier" "0.5"
+	"Carjack_Force_Multiplier" "5"
+}

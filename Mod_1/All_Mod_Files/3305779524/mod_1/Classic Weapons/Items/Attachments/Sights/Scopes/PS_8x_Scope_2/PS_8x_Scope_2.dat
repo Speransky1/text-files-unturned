@@ -1,0 +1,32 @@
+GUID 736901468cee43f9a7c184f54417e011
+Type Sight
+Rarity Legendary
+ID 31273
+
+Size_X 2
+Size_Y 1
+Size_Z 0.165
+
+Sway 1.8
+Zoom 8
+Aim_Duration_Multiplier 1.16
+
+Vision Civilian
+
+Nightvision_Fog_Intensity 0.35
+
+Calibers 1
+Caliber_0 25202
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31273
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27
+
+
+Master_Bundle_Override classicweapons.masterbundle
+Bundle_Override_Path /Items/Attachments/Sights/Scopes/PS_8x_Scope_0

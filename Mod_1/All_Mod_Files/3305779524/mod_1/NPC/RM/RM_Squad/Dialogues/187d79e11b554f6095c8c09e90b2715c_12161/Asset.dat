@@ -1,0 +1,141 @@
+﻿// Made in NPC Maker by BowieD
+GUID 187d79e11b554f6095c8c09e90b2715c
+Type Dialogue
+ID 12161
+Messages 1
+Message_0_Pages 1
+Responses 12
+Response_0_Dialogue 12600
+Response_0_Conditions 2
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 14054
+Response_0_Condition_0_Status Completed
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Ignore_NPC False
+
+Response_0_Condition_1_Type Quest
+Response_0_Condition_1_ID 14062
+Response_0_Condition_1_Status None
+Response_0_Condition_1_Logic Equal
+Response_0_Condition_1_Ignore_NPC False
+
+Response_1_Dialogue 12601
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 14150
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC False
+
+Response_1_Condition_1_Type Quest
+Response_1_Condition_1_ID 14062
+Response_1_Condition_1_Status Completed
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_1_Ignore_NPC False
+
+Response_2_Dialogue 12603
+Response_2_Quest 14150
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 14150
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC False
+Response_2_Condition_0_Reset 
+
+Response_3_Dialogue 12604
+Response_3_Conditions 2
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 14150
+Response_3_Condition_0_Status Completed
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC False
+
+Response_3_Condition_1_Type Quest
+Response_3_Condition_1_ID 14151
+Response_3_Condition_1_Status None
+Response_3_Condition_1_Logic Equal
+Response_3_Condition_1_Ignore_NPC False
+
+Response_4_Dialogue 12606
+Response_4_Quest 14151
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 14151
+Response_4_Condition_0_Status Ready
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Ignore_NPC False
+Response_4_Condition_0_Reset 
+
+Response_5_Dialogue 12607
+Response_5_Conditions 2
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 14151
+Response_5_Condition_0_Status Completed
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Ignore_NPC False
+
+Response_5_Condition_1_Type Quest
+Response_5_Condition_1_ID 14152
+Response_5_Condition_1_Status None
+Response_5_Condition_1_Logic Equal
+Response_5_Condition_1_Ignore_NPC False
+
+Response_6_Dialogue 12610
+Response_6_Quest 14152
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_ID 14152
+Response_6_Condition_0_Status Ready
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_Ignore_NPC False
+Response_6_Condition_0_Reset 
+
+Response_7_Dialogue 12611
+Response_7_Conditions 2
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 14152
+Response_7_Condition_0_Status Completed
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_Ignore_NPC False
+
+Response_7_Condition_1_Type Quest
+Response_7_Condition_1_ID 14153
+Response_7_Condition_1_Status None
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_1_Ignore_NPC False
+
+Response_8_Dialogue 12613
+Response_8_Quest 14153
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_ID 14153
+Response_8_Condition_0_Status Ready
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_Ignore_NPC False
+Response_8_Condition_0_Reset 
+
+Response_9_Dialogue 12614
+Response_9_Conditions 2
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_ID 14153
+Response_9_Condition_0_Status Completed
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_Ignore_NPC False
+
+Response_9_Condition_1_Type Quest
+Response_9_Condition_1_ID 14154
+Response_9_Condition_1_Status None
+Response_9_Condition_1_Logic Equal
+Response_9_Condition_1_Ignore_NPC False
+
+Response_10_Dialogue 12616
+Response_10_Quest 14154
+Response_10_Conditions 1
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_ID 14154
+Response_10_Condition_0_Status Ready
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_Ignore_NPC False
+Response_10_Condition_0_Reset 
+

@@ -1,0 +1,19 @@
+﻿// Made in NPC Maker by BowieD
+GUID 87d40b82dc4042f99495491cb8edc07a
+Type Quest
+ID 14152
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 30209
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Rewards 2
+Reward_0_Type Item
+Reward_0_ID 62172
+Reward_0_Amount 12
+Reward_0_Auto_Equip True
+
+Reward_1_Type Experience
+Reward_1_Value 2500
+

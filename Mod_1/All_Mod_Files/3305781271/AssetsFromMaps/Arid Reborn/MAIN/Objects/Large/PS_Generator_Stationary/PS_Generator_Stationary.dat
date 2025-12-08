@@ -1,0 +1,26 @@
+GUID fe1da6fc2f66487da8a352db1754b4ff
+Type Generator
+Rarity Legendary
+Useable Barricade
+Has_Clip_Prefab False
+Build Generator
+ID 20015
+
+Size_X 5
+Size_Y 5
+Size_Z 0.56
+
+Health 50000
+Range 8
+Radius 1.15
+Offset 1.26
+
+Can_Be_Damaged False
+Proof_Explosion
+Unsalvageable
+
+Capacity 500
+Wirerange 64.0
+Burn 50
+
+Explosion 36

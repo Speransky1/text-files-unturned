@@ -1,0 +1,39 @@
+GUID cc44413af90947229f3feab692fb1bb5
+Type Sentry
+Rarity Legendary
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Sentry
+ID 19979
+
+SalvageItem cc44413af90947229f3feab692fb1bb5
+Min_Items_Dropped_On_Destroy 4
+Max_Items_Dropped_On_Destroy 6
+Item_Dropped_On_Destroy dd26bb098a1f4284abde6d455d4c9988
+
+Size_X 2
+Size_Y 3
+Size_Z 0.55
+
+Health 1600
+Range 4
+Radius 1.5
+Offset 2.05
+
+Storage_X 6
+Storage_Y 3
+Display
+Locked
+Mode Hostile
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Allow_Placement_On_Vehicle False
+
+Salvage_Duration_Multiplier 0.6

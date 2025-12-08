@@ -1,0 +1,27 @@
+GUID eba549c57e4b4a7f85f30b52448379b9
+
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 59059
+
+Size_X 2
+Size_Y 2
+Size_Z 0.54
+
+Quality_Min 10
+Quality_Max 60
+
+Quest_Rewards 4
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59046
+Quest_Reward_0_Amount 4
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 59053
+Quest_Reward_1_Amount 4
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 59630
+Quest_Reward_2_Amount 2
+Quest_Reward_3_Type Item
+Quest_Reward_3_ID 11127
+Quest_Reward_3_Amount 2

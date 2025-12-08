@@ -1,0 +1,29 @@
+GUID f7dfe4446e5049cca1cce02adfdf44e2
+Type Barricade
+Rarity Rare
+Useable Barricade
+
+SalvageItem f7dfe4446e5049cca1cce02adfdf44e2
+
+Has_Clip_Prefab False
+
+Build Barricade
+ID 31600
+
+Size_X 2
+Size_Y 2
+Size_Z 0.53
+
+Health 200
+Range 4
+Radius 0.17
+Offset 0.21
+
+Explosion 36
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True

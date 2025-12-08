@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "4d03c529818b4012abc16bab22c35d2c"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "hawaii.masterbundle"
+		"Path" "Terrain/6 farm.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "FOLIAGE_STATIC"
+	"Foliage"
+	{
+		"GUID" "e1f05137f5004bde9ea3fcaa3ffb4ad8"
+	}
+}

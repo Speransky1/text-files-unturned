@@ -1,0 +1,22 @@
+GUID baa22f67288044149c7d48df13a0b6aa
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 62708
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 18004
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Echo_Enter
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Large/PS_Base_Door_1

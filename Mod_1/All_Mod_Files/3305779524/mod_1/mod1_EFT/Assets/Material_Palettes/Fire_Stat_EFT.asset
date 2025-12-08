@@ -1,0 +1,16 @@
+"Metadata"
+{
+	"GUID" "66ca41e9bc4d4174b3a04a42b7e75569"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/palettes/residential_0/Fire_Stat_EFT.mat"
+		}
+	]
+}

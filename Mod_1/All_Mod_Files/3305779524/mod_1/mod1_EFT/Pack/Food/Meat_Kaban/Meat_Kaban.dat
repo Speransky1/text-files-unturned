@@ -1,0 +1,28 @@
+GUID 4795b6be55c84ebbb932ba7b57b04913
+
+Type Supply
+Rarity Uncommon
+ID 58290
+
+Size_X 2
+Size_Y 2
+Size_Z 0.75
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 58289
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 58290
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 58291
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Product 41114
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 41114
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 42131
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Product 41115

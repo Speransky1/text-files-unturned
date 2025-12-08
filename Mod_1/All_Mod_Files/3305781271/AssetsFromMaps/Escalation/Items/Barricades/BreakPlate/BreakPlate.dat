@@ -1,0 +1,37 @@
+GUID 460ca8268d1f46428ba1b2a042fa4427
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Freeform
+ID 51610
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51023
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False
+
+Allow_Placement_Inside_Clip_Volumes True
+Unsalvageable
+Unsaveable
+// Bypass_Claim
+
+Health 100
+Range 4
+Radius 0.1
+Offset 1.4
+
+Explosion 36
+Vulnerable
+
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Has_Clip_Prefab False

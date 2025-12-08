@@ -1,0 +1,11 @@
+GUID de834bb25c304a72b6f949098a3637b1
+Type Medium
+ID 42217
+
+Asset_Bundle_Version 2
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 50
+Interactability_Effect 68
+Has_Clip_Prefab false

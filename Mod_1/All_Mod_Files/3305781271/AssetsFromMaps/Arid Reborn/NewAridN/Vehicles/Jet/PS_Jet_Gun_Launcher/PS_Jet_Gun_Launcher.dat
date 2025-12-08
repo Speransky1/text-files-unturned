@@ -1,0 +1,48 @@
+GUID d4c9316a0fae47cc8bff740007a099ec
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 11724
+
+Sight 1301
+Magazine 10565
+
+Ammo_Min 0
+Ammo_Max 60
+
+Auto
+Semi
+
+BladeIDs 3
+BladeID_0 0
+BladeID_1 2
+BladeID_2 3
+
+Ammo_Per_Shot 2
+
+Caliber 10724
+
+Firerate 10
+Action Rocket
+
+
+Spread_Aim 0.03
+Spread_Hip 0.08
+
+Ballistic_Force 0
+
+Gunshot_Rolloff_Distance 300
+
+Recoil_Min_X -0.2
+Recoil_Min_Y 0.4
+Recoil_Max_X 0.2
+Recoil_Max_Y 0.6
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Muzzle 19066
+
+Reload_Time 11
+Turret

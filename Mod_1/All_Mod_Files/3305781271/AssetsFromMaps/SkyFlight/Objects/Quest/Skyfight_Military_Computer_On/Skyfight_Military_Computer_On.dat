@@ -1,0 +1,20 @@
+GUID 441b5f51892f43e8b85b441244fc0599
+
+Type Medium
+ID 38907
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 38808
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 38809
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint VOLCANO

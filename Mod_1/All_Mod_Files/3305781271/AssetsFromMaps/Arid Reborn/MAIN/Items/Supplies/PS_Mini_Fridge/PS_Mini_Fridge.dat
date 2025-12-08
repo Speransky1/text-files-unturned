@@ -1,0 +1,30 @@
+GUID cf9f06467e7a4e7c9c703e49b3933476
+
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 59607
+
+Size_X 3
+Size_Y 3
+Size_Z 0.52
+
+Health 250
+Range 4
+Radius 0.32
+Offset 0.355
+
+Storage_X 4
+Storage_Y 4
+
+Explosion 36
+Vulnerable
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True

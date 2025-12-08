@@ -1,0 +1,14 @@
+GUID 3bdf73e236ed4c4a8b61d87926a4a254
+Type Medium
+ID 15936
+
+Add_Night_Light_Script
+
+Landmark_Quality Low
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 275
+Rubble_Effect 72

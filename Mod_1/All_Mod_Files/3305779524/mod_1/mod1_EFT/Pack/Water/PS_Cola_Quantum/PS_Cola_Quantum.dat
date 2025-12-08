@@ -1,0 +1,24 @@
+GUID c19036d3300441ae978c6ecde2e18382
+Type Water
+Rarity Legendary
+Useable Consumeable
+ID 11128
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Health 100
+Water 100
+Virus 25
+Energy 100
+
+Quality_Min 100
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59561
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Вкуснятина-то какая :3
+Quest_Reward_1_Duration 1

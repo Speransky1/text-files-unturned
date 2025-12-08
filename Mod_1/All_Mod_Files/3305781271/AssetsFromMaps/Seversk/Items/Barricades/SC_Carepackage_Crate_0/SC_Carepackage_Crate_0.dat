@@ -1,0 +1,19 @@
+﻿GUID 46d53753201b4734bfc0caafbbfdd3ef
+Type Storage
+Build Storage
+ID 41304
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Health 560
+Storage_X 6
+Storage_Y 6
+Explosion 41302
+Invulnerable
+Unrepairable
+Unpickupable
+Unsaveable
+Should_Close_When_Outside_Range true
+Has_Clip_Prefab false
+Can_Be_Damaged True

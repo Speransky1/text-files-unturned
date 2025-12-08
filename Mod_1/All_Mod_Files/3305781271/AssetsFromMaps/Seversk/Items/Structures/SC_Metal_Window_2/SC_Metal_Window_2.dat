@@ -1,0 +1,51 @@
+﻿GUID 2f2400f94dcb4a67820a782353607589
+
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Wall
+ID 41443
+
+Size_X 2
+Size_Y 1
+Size_Z 0.36
+
+Health 2100
+Range 8
+Min_Items_Dropped_On_Destroy 3
+Max_Items_Dropped_On_Destroy 6
+Item_Dropped_On_Destroy 2f2400f94dcb4a67820a782353607589
+Explosion 41330
+
+Blueprints
+[
+	{
+		CategoryTag "71d9e182c18b4aad8e87778e4f621995" // Structures
+		InputItems
+		[
+			{
+				ID "7dac0e02638e493aaef279e2ed9d5c2d" // Metal Sheet
+				Amount 5
+			}
+			{
+				ID "ad7a88dea0eb455d9d6b772c93776e31" // Bolts
+				Amount 3
+			}
+			{
+				ID "aa51e7a26f784d448afd98c95e74e73f" // Blowtorch
+				Delete false
+			}
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_2.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 1.3
+
+Has_Clip_Prefab false
+
+Requires_Pillars false

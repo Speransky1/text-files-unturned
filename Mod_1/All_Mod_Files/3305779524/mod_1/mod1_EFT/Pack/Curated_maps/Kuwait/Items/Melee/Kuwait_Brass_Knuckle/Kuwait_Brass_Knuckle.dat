@@ -1,0 +1,48 @@
+GUID 068e5898c5ec4fe79939697fea593aa7
+
+Type Melee
+Rarity Epic
+Useable Melee
+Slot Any
+ID 5137
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Range 2
+Strength 1.25
+Stamina 5
+Weak 0.4
+Strong 0.6
+
+Player_Damage 33
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 75
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 15
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 1
+Resource_Damage 5
+Object_Damage 2
+
+Durability 0.1
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 59000
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27

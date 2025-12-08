@@ -1,0 +1,24 @@
+GUID a8c548576f9a440f851f0ee986ce74b0
+
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Ladder
+ID 62884
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 5280
+Range 4
+Offset 0.125
+
+Explosion 36
+
+eblan
+
+Salvage_Duration_Multiplier 0.1

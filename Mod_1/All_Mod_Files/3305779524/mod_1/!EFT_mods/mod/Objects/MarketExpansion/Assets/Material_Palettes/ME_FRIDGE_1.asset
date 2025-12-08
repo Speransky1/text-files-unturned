@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "4cc362b9d9fd4cc898a13488cb716eac"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_1/ME_FRIDGE_00.mat"
+		}
+		{
+			"Name" "market.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/ME_FRIDGE_1/ME_FRIDGE_01.mat"
+		}
+	]
+}

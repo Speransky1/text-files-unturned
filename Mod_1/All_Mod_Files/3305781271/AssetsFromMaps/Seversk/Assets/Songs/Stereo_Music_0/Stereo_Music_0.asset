@@ -1,0 +1,15 @@
+﻿Metadata
+{
+	GUID d19968aa28124470a05b2d8ba323887f
+	Type SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	Song
+	{
+		MasterBundle sovcore.masterbundle
+		AssetPath Music/StereoMusic_0.ogg
+	}
+	Link_URL https://freesound.org/people/Nancy_Sinclair/sounds/749476/
+	Is_Loop true
+}

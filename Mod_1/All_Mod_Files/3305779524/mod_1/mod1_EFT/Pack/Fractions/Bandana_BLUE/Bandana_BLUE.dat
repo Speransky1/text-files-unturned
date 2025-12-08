@@ -1,0 +1,18 @@
+GUID 6c2099ca6da040fc8253cf2a3312e083
+
+Type Mask
+Rarity Epic
+Useable Clothing
+ID 44650
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Hair
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2

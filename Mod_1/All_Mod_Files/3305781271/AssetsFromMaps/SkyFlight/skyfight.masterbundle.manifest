@@ -1,0 +1,522 @@
+ManifestFileVersion: 0
+CRC: 2935091165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0faafd27e6de1344098b7701ffed0b63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a65cf9fa148cb2a7463143e0fb0da87
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 75
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e854a062516b19e408d34000c8d2104c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 851463f9b107a3146a0057e73b10cc15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Megaphone_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Aircraft_1/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_7/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Bullet_Jet/Shoot.mp3
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Antenna_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Effects/Trail_0/Material 1.mat
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Key_Quest_Pick/Clip.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/skyfight/Sand.png
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Electricity_Close/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Monitor_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Orion_Jet/Shoot.wav
+- Assets/Skyfight_Masterbundle/Effects/Opening_0/Effect.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Brambles_01_Material.mat
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Graffiti_3/Decal.png
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Canister_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_2/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Switch_Off/Clip.prefab
+- Assets/Nepal_Masterbundle/Assets/Game/Bundles/Terrain/Details/Pebbles_2.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Electricity_Broken/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Info_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Border_0/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Figurine_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Tool_Quest_Pick/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Door_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Effects/Button_0/Effect.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Celebration_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Assets/Landscapes/Material_Palettes/Gravel_0.mat
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Lamp_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Wire_Quest_Place/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_4/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Pipe_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Clean_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_7/Object.prefab
+- Assets/Skyfight_Masterbundle/Items/Kill_Timer/Clock.wav
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Info_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Top/Material.mat
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Trophy_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/Launcher_Thunderbolt/Magazine.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_7/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_4/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Button_Quest_On/Clip.prefab
+- Assets/Skyfight_Masterbundle/Assets/Landscapes/Material_Palettes/Grass_0.mat
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_8/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Lamp_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_11/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_10/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Geyser_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Military_Computer_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Military_Computer_On/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Radar_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Wire_Quest_Place/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_9/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Control_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Control_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Top/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_4/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Military_Computer_Final/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Control_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Military_Computer_Final/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Electricity_Fixed/Nav.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/skyfight/Grass.png
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Wire_Quest_Placed/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Vest_1/Vest.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_4/Nav.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Storm_Jet/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Orion_Jet/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_0/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Switch_Off/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Aircraft_0/Skybox.prefab
+- Assets/CoreMasterBundle/Terrain/Foliage/Grass/Skyfight/Grass_01.png
+- Assets/Skyfight_Masterbundle/Items/HMG_Bullet_Jet/Reload.mp3
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Toolbox_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_1/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Items/Launcher_Thunderbolt_Jet/Projectile.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Geyser_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Brambles_00.png
+- Assets/Skyfight_Masterbundle/Items/HMG_Storm_Jet/Shoot.wav
+- Assets/Skyfight_Masterbundle/Items/Pilot_Bottom_1/Animations.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_6/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Detail_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Monitor_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Border_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Table_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Thunderbolt_Jet/Ignition.mp3
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_2/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_2/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_9/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Border_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Assets/Landscapes/Material_Palettes/Sand_0.mat
+- Assets/Skyfight_Masterbundle/Vehicles/Bullet_Jet/Ignition.mp3
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Toolbox_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_9/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_5/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Control_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_4/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Pipe_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Thunderbolt_Jet/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Military_Computer_On/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_8/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Pipe_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Lights_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Effects/Trail_1/Bullet 1.png
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Note_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Military_Computer_Final/Nav.prefab
+- Assets/Skyfight_Masterbundle/Music/Outro.mp3
+- Assets/Skyfight_Masterbundle/Items/Pilot_Bottom_1/Pants.png
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_2/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Orion/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Table_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Orion_Jet/Ignition.mp3
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Control_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Items/Kill_Timer/Barricade.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Pipe_2/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Wire_Quest_Pick/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Graffiti_5/Decal.png
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/skyfight/Gravel.png
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Note_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Storm_Jet/Engine.ogg
+- Assets/Skyfight_Masterbundle/Vehicles/Storm_Jet/Vehicle.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Top_1/Material.mat
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_2/Nav.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Helmet/Hat.prefab
+- Assets/Nepal_Masterbundle/Assets/Game/Bundles/Terrain/Details/Grass_0.fbx
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Canister_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Bullet/Magazine.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Aircraft_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Effects/Trail_2/Bullet 1.png
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_11/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Rock_Material.mat
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_3/Nav.prefab
+- Assets/Skyfight_Masterbundle/Items/Muffin/Item.prefab
+- Assets/CoreMasterBundle/Terrain/Foliage/Grass/Skyfight/Grass_00.png
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Canister_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Graffiti_2/Decal.png
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Alarm_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Electricity_Fixed/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_7/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_8/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Military_Computer_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Electricity_Broken/Nav.prefab
+- Assets/Skyfight_Masterbundle/Effects/Fix_0/Effect.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Detail_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Volcano_0/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Lights_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_2/Nav.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Grass_0.fbx
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Geyser_1/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Bullet_Jet/Engine.ogg
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_7/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_8/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Control_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_3/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Note_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Bottom/Animations.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Figurine_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_10/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Graffiti_1/Decal.png
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Items/Muffin/Animations.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Geyser_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Clean_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Pebbles_2.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Thunderbolt_Jet/Engine.ogg
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_8/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Button_Quest/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_10/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_10/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Bottom_1/Material.mat
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Radar_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Storm_Jet/FireDelay.wav
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Lights_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Storm/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Megaphone_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Table_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Effects/Trail_2/Material 1.mat
+- Assets/Skyfight_Masterbundle/Items/Launcher_Thunderbolt_Jet/Shoot.mp3
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Aircraft_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Electricity_Fixed/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Alarm_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_11/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Orion_Jet/Vehicle.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_8/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Pipe_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Celebration_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Storm_Jet/Reload.mp3
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Figurine_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_5/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Figurine_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Clean_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_5/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Helmet_1/Hat.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_4/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_3/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Figurine_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Thunderbolt_Jet/Vehicle.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Bottom/Pants.png
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Detail_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/Kill_Timer/Animations.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Border_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_2/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Button_Quest_On/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Info_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Door_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Control_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Detail_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Aircraft_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Radar_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Radar_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/skyfight/Dirt.png
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Pebbles_0.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Vest_1/Animations.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Bullet_Jet/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Canister_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_2/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Disappear_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Electricity_Close/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_6/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Radar_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_6/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_5/Nav.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Bullet/Item.prefab
+- Assets/Skyfight_Masterbundle/Effects/Explosion_0/Effect.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Antenna_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_6/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_4/Nav.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/skyfight/Road.png
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Lights_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Vest/Item.prefab
+- Assets/Skyfight_Masterbundle/Items/Launcher_Thunderbolt/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Clean_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Lamp_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Top/Animations.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Brambles_00_Material.mat
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_3/Nav.prefab
+- Assets/Skyfight_Masterbundle/Effects/Trail_0/Bullet 1.png
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_0/Object.prefab
+- Assets/CoreMasterBundle/Terrain/Foliage/Grass/Skyfight/Grass_00_Material.mat
+- Assets/Skyfight_Masterbundle/Items/Launcher_Thunderbolt_Jet/Reload.mp3
+- Assets/Skyfight_Masterbundle/Items/Launcher_Thunderbolt_Jet/Fire.mp3
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Monitor_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_9/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Radar_0/Nav.prefab
+- Assets/Nepal_Masterbundle/Assets/Game/Bundles/Terrain/Details/Brambles_00.png
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Military_Computer_On/Object.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Brambles_01.png
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Figurine_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Pebbles_1.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_3/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_3/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Note_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_1/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Orion_Jet/Reload.mp3
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Items/Binoculars/Animations.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Switch_On/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_4/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_2/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_6/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_9/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Clean_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Detail_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Music/Theme.mp3
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Tool_Quest_Pick/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Geyser_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/skyfight/Snow.png
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Clean_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_3/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_8/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Disappear_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Military_Computer_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Table_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Detail_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Table_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_7/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_5/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Lamp_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Helmet/Animations.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Top_1/Animations.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_6/Nav.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Helmet_1/Animations.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_11/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Control_2/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/skyfight/Leaves.png
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Geyser_0/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_4/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Megaphone_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_3/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_7/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Pipe_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Storm_Jet/Item.prefab
+- Assets/Skyfight_Masterbundle/Effects/Typing_0/Effect.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Control_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Lamp_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Antenna_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Aircraft_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Orion_Jet/Engine.ogg
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Monitor_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Helmet_1/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Monitor_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Aircraft_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_4/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_0/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Switch_On/Clip.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/Details/Materials/unnamed.mat
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Canister_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Lamp_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Table_1/Nav.prefab
+- Assets/Skyfight_Masterbundle/Effects/Explosion_2/Effect.prefab
+- Assets/Skyfight_Masterbundle/Effects/Trail_0/Effect.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Helmet/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Note_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Figurine_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Button_Quest/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Note_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Detail_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_2/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Volcano_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Assets/Landscapes/Material_Palettes/Farm_0.mat
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Electricity_Close/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Canister_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_1/Nav.prefab
+- Assets/Nepal_Masterbundle/Assets/Game/Bundles/Terrain/Details/Brambles_01.png
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Toolbox_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Assets/Landscapes/Material_Palettes/Leaves_0.mat
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Door_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Volcano_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Rockets_2/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Geyser_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Items/Binoculars/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Detail_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Effects/Trail_1/Material 1.mat
+- Assets/Skyfight_Masterbundle/Items/HMG_Orion/Magazine.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Vest/Vest.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Vest_1/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Graffiti_0/Decal.png
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_9/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Pipe_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_5/Clip.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Top_1/Item.prefab
+- Assets/Skyfight_Masterbundle/Items/HMG_Storm/Magazine.prefab
+- Assets/Skyfight_Masterbundle/Assets/Game/Bundles/Terrain/skyfight/Farm.png
+- Assets/Skyfight_Masterbundle/Vehicles/Bullet_Jet/Vehicle.prefab
+- Assets/CoreMasterBundle/Terrain/Foliage/Grass/Skyfight/Grass_01_Material.mat
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Note_2/Clip.prefab
+- Assets/Nepal_Masterbundle/Assets/Game/Bundles/Terrain/Details/Pebbles_0.prefab
+- Assets/Nepal_Masterbundle/Assets/Game/Bundles/Terrain/Details/Pebbles_1.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_3/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Aircraft_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_3/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Crate_3/Object.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Top_1/Shirt.png
+- Assets/Skyfight_Masterbundle/Vehicles/Bullet_Jet/Clip.prefab
+- Assets/Skyfight_Masterbundle/Effects/Trail_1/Effect.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Megaphone_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Effects/Trail_2/Effect.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_5/Nav.prefab
+- Assets/Skyfight_Masterbundle/Assets/Landscapes/Material_Palettes/Road_0.mat
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Pipe_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Figurine_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Electricity_Broken/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Wreck_5/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Bottom_1/Item.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Bottom/Material.mat
+- Assets/Skyfight_Masterbundle/Effects/Explosion_1/Effect.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Radio_5/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Wire_Quest_Placed/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Rock_1/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_9/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Geyser_1/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Wreck_6/Clip.prefab
+- Assets/Skyfight_Masterbundle/Assets/Landscapes/Material_Palettes/Dirt_0.mat
+- Assets/Skyfight_Masterbundle/Assets/Landscapes/Material_Palettes/Snow_0.mat
+- Assets/Skyfight_Masterbundle/Items/Pilot_Top/Shirt.png
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Wire_Quest_Pick/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Key_Quest_Pick/Object.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Note_0/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Quest/Skyfight_Volcano_1/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Graffiti_4/Decal.png
+- Assets/Skyfight_Masterbundle/Items/Kill_Timer/Item.prefab
+- Assets/Skyfight_Masterbundle/Items/Launcher_Thunderbolt_Jet/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Small/Skyfight_Trophy_0/Object.prefab
+- Assets/Skyfight_Masterbundle/Items/Pilot_Vest/Animations.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Storm_Jet/Ignition.mp3
+- Assets/Skyfight_Masterbundle/Items/Pilot_Bottom/Item.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Boulder_5/Skybox.prefab
+- Assets/Skyfight_Masterbundle/Vehicles/Orion_Jet/Clip.prefab
+- Assets/Skyfight_Masterbundle/Objects/Medium/Skyfight_Monitor_0/Nav.prefab
+- Assets/Skyfight_Masterbundle/Objects/Large/Skyfight_Jet_0/Nav.prefab
+Dependencies: []

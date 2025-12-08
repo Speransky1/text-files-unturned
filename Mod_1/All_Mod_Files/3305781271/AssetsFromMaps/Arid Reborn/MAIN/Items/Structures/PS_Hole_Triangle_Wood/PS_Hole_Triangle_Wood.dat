@@ -1,0 +1,29 @@
+GUID b3419667556f4e2ca943f8abcc93416f
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Common
+Useable Structure
+Construct Roof_Poly
+ID 19216
+
+SalvageItem b3419667556f4e2ca943f8abcc93416f
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 882c55cf32b04c5f8a8ae97d7289af63
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1000
+Range 6
+
+Explosion 19
+
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

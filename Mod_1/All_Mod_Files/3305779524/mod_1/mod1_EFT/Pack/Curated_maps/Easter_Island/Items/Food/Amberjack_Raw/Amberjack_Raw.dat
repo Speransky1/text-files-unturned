@@ -1,0 +1,13 @@
+GUID 2b803bba04d547dfbe9831c7730986db
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 6606
+
+Size_X 3
+Size_Y 2
+Size_Z 0.42
+
+Food 40
+Virus 40
+Health 5

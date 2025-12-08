@@ -1,0 +1,37 @@
+GUID 69ac0856957346b3a937507fc3340691
+Type Spawn
+ID 10142
+
+Tables
+[
+	{
+		// Кучка угля (Supply Item)
+		Guid 6f31932730ff47d094337a1be971ebab
+		Weight 40
+	}
+	{
+		// Кучка серы (Supply Item)
+		Guid d9c58bfa1ec0411cb610f7911a543831
+		Weight 30
+	}
+	{
+		// Уголь (Supply Item)
+		Guid ebc76c4a13b6467aab33d0427d00bbab
+		Weight 20
+	}
+	{
+		// Кристал серы (Supply Item)
+		Guid 001cc537ad714a79a6885f19d5169010
+		Weight 10
+	}
+	{
+		// Металлический брусок (Supply Item)
+		Guid 1253bdb829b34a0e80f5be5a9979bcaf
+		Weight 7
+	}
+	{
+		// Железная руда (Supply Item)
+		Guid 0a1597af2fa84edaaf0a0b748221f49e
+		Weight 5
+	}
+]

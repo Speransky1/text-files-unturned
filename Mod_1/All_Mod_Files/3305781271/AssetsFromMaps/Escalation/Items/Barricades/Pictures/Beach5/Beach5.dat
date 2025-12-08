@@ -1,0 +1,33 @@
+GUID 115277615f02478a95dad02a5e23f439
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 52113
+
+SalvageItem 115277615f02478a95dad02a5e23f439
+
+Size_X 1
+Size_Y 1
+Size_Z 0.6
+
+Health 20
+Range 4
+Radius 0.1
+Offset 0.2
+
+Explosion 58
+Vulnerable
+Salvage_Duration_Multiplier 0.25
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Bypass_Pickup_Ownership True
+
+Has_Clip_Prefab False
+// Use_Auto_Icon_Measurements False
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 52113
+Blueprint_0_Product 51020
+Blueprint_0_Products 1
+Blueprint_0_Build 27

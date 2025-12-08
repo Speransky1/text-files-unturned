@@ -1,0 +1,22 @@
+GUID fd5d118c1b6f4c28b18d75626f52a0a2
+
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 17024
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 8
+Height 3
+
+Armor 0.8
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

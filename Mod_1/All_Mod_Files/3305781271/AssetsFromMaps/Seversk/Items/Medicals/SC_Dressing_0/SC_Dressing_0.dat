@@ -1,0 +1,17 @@
+﻿GUID 35a791f5b3d8418d84b3e8302e2c31ff
+
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 41545
+
+Size_X 1
+Size_Y 1
+Size_Z 0.33
+
+Aid
+Bleeding_Modifier Heal
+Health 35
+Disinfectant 25
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset

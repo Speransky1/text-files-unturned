@@ -1,0 +1,18 @@
+GUID 174aa4006f3743878f366be92dc82a3f
+
+Type Supply
+Rarity Uncommon
+ID 59625
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59625
+Blueprint_0_Product 59002
+Blueprint_0_Products 1
+Blueprint_0_Tool 59005
+Blueprint_0_Build 32

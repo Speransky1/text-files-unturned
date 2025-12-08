@@ -1,0 +1,28 @@
+GUID 7aedd28062034fffb4782db0c8225bf4
+
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 51306
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Explode_On_Impact
+Flash
+
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 10000
+
+Range 8
+Explosion 51001
+
+
+Explosive

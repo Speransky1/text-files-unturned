@@ -1,0 +1,32 @@
+GUID 5e69d01e3169469e8d295b7ece7a9664
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Barricade
+ID 10636
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+SalvageItem 5e69d01e3169469e8d295b7ece7a9664
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 554fa6b0e74e4dd981903df64f716710
+
+Has_Clip_Prefab False
+
+Health 50
+Range 4
+Radius 0.08
+Offset 0.12
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip aridreborn.masterbundle:Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True

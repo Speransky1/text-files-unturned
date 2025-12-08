@@ -1,0 +1,10 @@
+GUID 8843819d66254232811e9b56d781ce18
+Type Medium
+ID 4584
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Medium/Business/Shelf_3
+
+Material_Palette 6c9cbbcb45564de6aab82cc3b93f3f05

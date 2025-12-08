@@ -1,0 +1,12 @@
+﻿GUID 8f6ac251e61a4d82bbd3224f5d3289a4
+
+Type Spawn
+ID 41404
+
+Tables 3
+Table_0_Asset_ID 41503
+Table_0_Weight 10
+Table_1_Asset_ID 41505
+Table_1_Weight 20
+Table_2_Asset_ID 41506
+Table_2_Weight 20

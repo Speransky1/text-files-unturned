@@ -1,0 +1,30 @@
+GUID ea5a422793d84fd5a6c5a3b55c038fe0
+
+Rarity Rare
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 10676
+
+SalvageItem dd7e291528444bb08ded2c8b83a10c72
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 2
+Item_Dropped_On_Destroy 1b35307fb6b74c68ae1bf4c6a25a29d2
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 500
+Range 5
+Radius 0.5
+Offset 0.5
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementPreviewPrefab Items/Barricades/PS_Hesko/Placement.prefab
+
+Explosion 36
+
+
+Has_Clip_Prefab false

@@ -1,0 +1,94 @@
+GUID c75094d716d64c75a806a6428207b482
+Type Magazine
+Rarity Epic
+ID 31080
+
+Size_X 1
+Size_Y 2
+Size_Z 0.32
+
+Amount 20
+Count_Min 10
+Count_Max 20
+
+Calibers 1
+Caliber_0 25030
+
+Tracer 30052
+
+Blueprints 15
+//Covert Mag
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31080
+Blueprint_0_Build 30
+//Covert Extended Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31081
+Blueprint_1_Build 30
+//Drachenzahn Box
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31082
+Blueprint_2_Build 30
+//Ranger Ammo Box
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31083
+Blueprint_3_Build 30
+//Ranger Ammo Package
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 31084
+Blueprint_4_Build 30
+//Recon Mag
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 31085
+Blueprint_5_Build 30
+//Zolakov Mag
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 31086
+Blueprint_6_Build 30
+//Zolash Drum
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 31087
+Blueprint_7_Build 30
+//Zolash Drum Gold
+Blueprint_8_Type Ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 31088
+Blueprint_8_Build 30
+//Zolash Extended Mag
+Blueprint_9_Type Ammo
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 31089
+Blueprint_9_Build 30
+//Zolash Extended Mag (100)
+Blueprint_10_Type Ammo
+Blueprint_10_Supplies 1
+Blueprint_10_Supply_0_ID 31090
+Blueprint_10_Build 30
+//Zolash Mag
+Blueprint_11_Type Ammo
+Blueprint_11_Supplies 1
+Blueprint_11_Supply_0_ID 31091
+Blueprint_11_Build 30
+//Zolash P-Mag
+Blueprint_12_Type Ammo
+Blueprint_12_Supplies 1
+Blueprint_12_Supply_0_ID 31092
+Blueprint_12_Build 30
+//Zolash Short Mag
+Blueprint_13_Type Ammo
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 31093
+Blueprint_13_Build 30
+//Karus-27 Mag
+Blueprint_14_Type Ammo
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 31116
+Blueprint_14_Build 30

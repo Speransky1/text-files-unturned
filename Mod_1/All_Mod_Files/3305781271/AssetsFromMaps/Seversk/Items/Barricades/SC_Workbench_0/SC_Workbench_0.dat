@@ -1,0 +1,71 @@
+﻿GUID 334f86e514824cbc9e9e511385139e9d
+
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 41665
+
+Size_X 3
+Size_Y 2
+Size_Z 0.43
+Vulnerable
+Health 400
+Range 4
+Radius 0.5
+Offset 0.6
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.5
+Explosion 41302
+Can_Be_Damaged true
+PlacementAudioClip Sounds/Placement_0.ogg
+InventoryAudio Sounds/Inventory/ToolboxRustle/Toolbox_Rustle.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem 334f86e514824cbc9e9e511385139e9d
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "e162f0162f154033935a7a1e3d58e57e" // Wooden Plank
+				Amount 4
+			}
+			{
+				ID "8ae387a91c1c4964be2a12be7aeabfb9" // Wooden Stick
+				Amount 3
+			}
+			{
+				ID "4f9fb8c83c494e2486329e494674813c" // Metal Parts
+				Amount 3
+			}
+			{
+				ID "022caafdda4e4937804a7cf79157dd91" // Nails
+				Amount 2
+			}
+			{
+				ID "28302cbb580641738db43ae62a045dbe" // Insulating Tape
+				Amount 2
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+			{
+				ID "615a4030662e4ea7abad12b5a4e9a675" // Screwdriver
+				Delete false
+			}
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Has_Clip_Prefab false
+
+PlaceableProvidesCraftingTags
+[
+	65b8e05955074c02b64a021be2b98c59
+]

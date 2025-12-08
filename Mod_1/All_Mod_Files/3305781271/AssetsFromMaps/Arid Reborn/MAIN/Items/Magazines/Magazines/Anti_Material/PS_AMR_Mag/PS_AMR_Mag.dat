@@ -1,0 +1,51 @@
+GUID 469c22bfa69b4ad7ae7951fe7f2b2ea1
+Type Magazine
+Rarity Legendary
+ID 19834
+
+Size_X 2
+Size_Y 2
+Size_Z 0.29
+
+Amount 10
+Count_Min 0
+Count_Max 0
+
+Calibers 1
+Caliber_0 18847
+
+Tracer 19040
+
+Use_Auto_Icon_Measurements False
+
+Range 4
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 19059
+Explosive
+
+Blueprints 3
+//Debug
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 18999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+//AM Ammo Box
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 19835
+Blueprint_1_Build 30
+//AMR mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 19834
+Blueprint_2_Build 30

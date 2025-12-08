@@ -1,0 +1,15 @@
+GUID 99054af9772c4e71974d70f0fa756224
+
+Type Small
+ID 62267
+
+Conditions 1
+
+//If planted, appears
+Condition_0_Type Flag_Bool
+Condition_0_ID 30207
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Smol/PS_Marking_Flare_0

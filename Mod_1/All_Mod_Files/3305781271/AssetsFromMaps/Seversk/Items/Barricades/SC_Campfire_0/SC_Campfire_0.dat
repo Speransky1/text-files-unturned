@@ -1,0 +1,46 @@
+﻿GUID 52272a76560d4b08ad3905eeccb54cc9
+
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Campfire
+ID 41366
+
+Size_X 1
+Size_Y 2
+Size_Z 0.7
+
+Health 100
+Range 4
+Radius 0.4
+Offset 0.5
+
+Explosion 41302
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "bfac6026305f4737a95fd275ebff65a6" // Utilities
+		InputItems
+		[
+			"8ae387a91c1c4964be2a12be7aeabfb9 x 6" // Wooden Stick
+			"365315eadce745c1911379f3b3d6d074 x 3" // Paper
+			"3e658cbc0ccf43b5a1cd25ff8c928861" // Matches
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+PlacementAudioClip Sounds/Placement_1.ogg
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 3
+Item_Dropped_On_Destroy 23554dec78734cd2b2dd011c80596f57
+SalvageItem 8ae387a91c1c4964be2a12be7aeabfb9
+Can_Be_Damaged true
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.3
+Has_Clip_Prefab false

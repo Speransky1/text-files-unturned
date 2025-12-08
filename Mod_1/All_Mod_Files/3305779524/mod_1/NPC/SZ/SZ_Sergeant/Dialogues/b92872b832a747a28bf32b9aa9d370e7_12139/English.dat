@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Дай подумаю...
+Response_0 <color=uncommon>Добро пожаловать в Тайрелл</color>
+Response_1 <color=uncommon>Добро пожаловать в Тайрелл. Завершить</color>
+Response_2 <color=uncommon>Поисковая операция</color>
+Response_3 <color=uncommon>Поисковая операция. Завершить</color>
+Response_4 <color=uncommon>Самозащита</color>
+Response_5 <color=uncommon>Самозащита. Завершить</color>
+Response_6 *Уйти*

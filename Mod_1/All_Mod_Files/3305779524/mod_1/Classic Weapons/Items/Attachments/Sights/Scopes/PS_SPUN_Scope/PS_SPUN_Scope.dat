@@ -1,0 +1,32 @@
+GUID 04c44064e683469c8a7cc46e612656d9
+Type Sight
+Rarity Legendary
+ID 31301
+
+Size_X 2
+Size_Y 1
+Size_Z 0.19
+
+Sway 1.7
+Zoom 7
+Aim_Duration_Multiplier 1.14
+
+Vision Military
+
+Nightvision_Color_R 39
+Nightvision_Color_G 135
+Nightvision_Color_B 43
+
+Nightvision_Fog_Intensity 0.35
+
+Calibers 1
+Caliber_0 25001
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31301
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

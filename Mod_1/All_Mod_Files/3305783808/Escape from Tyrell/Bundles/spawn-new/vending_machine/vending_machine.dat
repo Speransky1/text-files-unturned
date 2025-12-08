@@ -1,0 +1,27 @@
+GUID 8a921de80b484fd09cd12fc95e420287
+Type Spawn
+ID 10157
+
+Tables
+[
+	{
+		// Сода (Water Item)
+		Guid 6e652e81dea9430390f2206eeb7bcd74
+		Weight 8
+	}
+	{
+		// Бутылка воды 5/5 (Water Item)
+		Guid d173033643204e0c945a175a0c5f32c2
+		Weight 6
+	}
+	{
+		// Шоколад (Food Item)
+		Guid 9c95ec8f431c4aed8795a23e70fe8914
+		Weight 4
+	}
+	{
+		// Конфеты (Food Item)
+		Guid c55b2546df0a425ca79c0e028d6d41d9
+		Weight 4
+	}
+]

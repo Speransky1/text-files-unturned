@@ -1,0 +1,13 @@
+GUID 42770f3b1e29458e91a1d0d101c4b836
+
+Type Small
+Has_Clip_Prefab false
+ID 58066
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Sky
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Final/Metro_TP_Final

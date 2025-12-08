@@ -1,0 +1,54 @@
+﻿GUID 022caafdda4e4937804a7cf79157dd91
+
+Type Supply
+ID 41334
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+InventoryAudio Sounds/Inventory/NailsRustle/Nails_Rustle.asset
+
+
+
+
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this x 10
+		OutputItems "3e0c5ab7b32340dabc88a9ea307a785b" // Box of Nails
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "4f9fb8c83c494e2486329e494674813c" // Metal Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems "4f9fb8c83c494e2486329e494674813c x 2" // Metal Parts
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Stack
+Action_0_Tooltip Pile items together for free up space.
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text Salvage
+Action_1_Tooltip Salvage into component materials.
+Add_Default_Actions false

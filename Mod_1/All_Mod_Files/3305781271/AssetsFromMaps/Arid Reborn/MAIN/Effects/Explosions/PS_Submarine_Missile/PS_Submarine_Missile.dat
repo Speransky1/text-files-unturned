@@ -1,0 +1,11 @@
+GUID 3f226e1884eb4005867baaa10e3c3097
+Type Effect
+ID 10511
+
+
+Blast 137
+
+Relevant_Distance 5000
+
+CameraShake_Radius 80
+CameraShake_MagnitudeDegrees 75

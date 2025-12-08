@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "8ac2ad4f47a54dad8a2ea325350a1d9d"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Runerave.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "metro.masterbundle"
+		"AssetPath" "Objects/Quest/NPC/Runerave.mp3"
+	}
+	"Link_URL" "https://www.youtube.com/watch?v=1IPPVYpsnvg"
+}

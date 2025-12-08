@@ -1,0 +1,6 @@
+GUID 3b8e63b431484133bf5a001161081846
+Type Effect
+ID 19077
+
+CameraShake_Radius 5
+CameraShake_MagnitudeDegrees 15

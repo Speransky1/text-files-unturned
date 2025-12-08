@@ -1,0 +1,9 @@
+GUID a4adbf1167174a84829ad883e3c3b372
+
+Type Effect
+ID 51043
+CameraShake_Radius 10
+CameraShake_MagnitudeDegrees 10
+Spawn_On_Dedicated_Server
+Relevant_Distance 5000
+Randomize_Rotation False

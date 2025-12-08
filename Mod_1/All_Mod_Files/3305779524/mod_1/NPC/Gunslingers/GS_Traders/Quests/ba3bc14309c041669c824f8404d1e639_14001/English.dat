@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=uncommon>Доставщик #2</color>
+Description Найди и принеси <color=epic>Бармену</color> 4 <color=uncommon>пачки крекеров</color> и 2 <color=uncommon>бутылки воды</color> 
+Condition_0 Крекеры {0}/{1}
+Condition_1 Бутылки воды {0}/{1}

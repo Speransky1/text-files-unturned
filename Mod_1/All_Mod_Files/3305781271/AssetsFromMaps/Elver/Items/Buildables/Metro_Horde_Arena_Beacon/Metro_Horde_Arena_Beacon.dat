@@ -1,0 +1,41 @@
+GUID d2a6f61c7d904b98a177cb992b12b18e
+
+Type Beacon
+Rarity Legendary
+Useable Barricade
+Build Beacon
+ID 57724
+
+Size_X 2
+Size_Y 3
+Size_Z 1.1
+
+Health 1000
+Range 4
+Radius 0.5
+Offset 0.5
+
+Explosion 36
+Unpickupable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 57025
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 57585
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Bool
+Blueprint_0_Condition_0_ID 57220
+Blueprint_0_Condition_0_Value True
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_0_Build 27
+Blueprint_0_Map Elver
+
+//61
+Wave 61
+Rewards 0
+Reward_ID 1

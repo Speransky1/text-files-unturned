@@ -1,0 +1,41 @@
+﻿GUID 15775a657396487eab816d69ca7db4b3
+Type Barricade
+Useable Barricade
+Build Barricade_Wall
+ID 41829
+
+Size_X 2
+Size_Y 3
+Size_Z 0.5
+
+Health 50
+Range 4
+Radius 1
+Offset 0.2
+
+Explosion 41306
+Vulnerable
+SalvageItem 10acd74c901849c5a0ebc498cf125cfb
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			"365315eadce745c1911379f3b3d6d074 x 4" // Paper
+			"4b74f6b14f4f414fb8fc80329870e807 x 2" // Spool Thread
+		]
+		OutputItems this
+		Effect "bb5d128bc7a64cfb8ae1df7b97785149" // SC_Paper_0
+	}
+]
+
+Use_Auto_Stat_Descriptions false
+Can_Be_Damaged true
+Salvage_Duration_Multiplier 0.1
+Bypass_Pickup_Ownership true
+Allow_Placement_On_Vehicle false
+Has_Clip_Prefab false
+PlacementAudioClip Sounds/Placement_3.ogg
+InventoryAudio Sounds/Inventory/PaperRustle/Paper_Rustle.asset

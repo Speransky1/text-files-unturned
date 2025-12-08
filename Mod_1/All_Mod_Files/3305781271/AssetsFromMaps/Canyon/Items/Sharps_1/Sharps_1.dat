@@ -1,0 +1,19 @@
+GUID 0bc2493ded6b42aab52648e03c87cbe8
+Type Magazine
+Rarity Epic
+ID 28005
+
+Size_X 1
+Size_Y 1
+Size_Z 0.11
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 6971
+
+Tracer 55
+
+Delete_Empty

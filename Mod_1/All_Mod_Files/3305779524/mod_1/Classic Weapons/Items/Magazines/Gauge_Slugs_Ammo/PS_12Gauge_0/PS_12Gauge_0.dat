@@ -1,0 +1,44 @@
+GUID 29cc441f00864388994ecf884a892c5c
+Type Magazine
+Rarity Rare
+ID 31040
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 6
+Count_Min 1
+Count_Max 6
+
+Damage 4
+Spread 0.15
+
+Calibers 1
+Caliber_0 25032
+
+Delete_Empty
+
+Tracer 30060
+
+Blueprints 4
+//12Guage (6)
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31040
+Blueprint_0_Build 30
+//12Guage (2)
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31041
+Blueprint_1_Build 30
+//AW-12 Drum
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31044
+Blueprint_2_Build 30
+//Serna Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 31043
+Blueprint_3_Build 30

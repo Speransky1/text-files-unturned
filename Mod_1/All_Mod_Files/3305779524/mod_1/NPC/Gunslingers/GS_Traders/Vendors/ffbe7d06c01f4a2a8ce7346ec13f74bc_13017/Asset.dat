@@ -1,0 +1,664 @@
+﻿// Made in NPC Maker by BowieD
+GUID ffbe7d06c01f4a2a8ce7346ec13f74bc
+Type Vendor
+ID 13017
+Selling 84
+Selling_0_ID 17000
+Selling_0_Cost 1200
+Selling_1_ID 30014
+Selling_1_Cost 2800
+Selling_1_Conditions 1
+Selling_1_Condition_0_Type Quest
+Selling_1_Condition_0_ID 14025
+Selling_1_Condition_0_Status Completed
+Selling_1_Condition_0_Logic Equal
+Selling_1_Condition_0_Ignore_NPC False
+
+Selling_2_ID 63408
+Selling_2_Cost 1400
+Selling_3_ID 10807
+Selling_3_Cost 2500
+Selling_4_ID 30000
+Selling_4_Cost 3000
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Quest
+Selling_4_Condition_0_ID 14025
+Selling_4_Condition_0_Status Completed
+Selling_4_Condition_0_Logic Equal
+Selling_4_Condition_0_Ignore_NPC False
+
+Selling_5_ID 39149
+Selling_5_Cost 3000
+Selling_6_ID 39153
+Selling_6_Cost 3500
+Selling_7_ID 63961
+Selling_7_Cost 2700
+Selling_8_ID 63960
+Selling_8_Cost 2700
+Selling_9_ID 63409
+Selling_9_Cost 4500
+Selling_9_Conditions 1
+Selling_9_Condition_0_Type Quest
+Selling_9_Condition_0_ID 14027
+Selling_9_Condition_0_Status Completed
+Selling_9_Condition_0_Logic Equal
+Selling_9_Condition_0_Ignore_NPC False
+
+Selling_10_ID 63950
+Selling_10_Cost 7000
+Selling_10_Conditions 1
+Selling_10_Condition_0_Type Quest
+Selling_10_Condition_0_ID 14027
+Selling_10_Condition_0_Status Completed
+Selling_10_Condition_0_Logic Equal
+Selling_10_Condition_0_Ignore_NPC False
+
+Selling_11_ID 29148
+Selling_11_Cost 5500
+Selling_12_ID 29140
+Selling_12_Cost 7200
+Selling_13_ID 29139
+Selling_13_Cost 7200
+Selling_14_ID 17029
+Selling_14_Cost 8000
+Selling_14_Conditions 1
+Selling_14_Condition_0_Type Quest
+Selling_14_Condition_0_ID 14025
+Selling_14_Condition_0_Status Completed
+Selling_14_Condition_0_Logic Equal
+Selling_14_Condition_0_Ignore_NPC False
+
+Selling_15_ID 29145
+Selling_15_Cost 8000
+Selling_15_Conditions 1
+Selling_15_Condition_0_Type Quest
+Selling_15_Condition_0_ID 14025
+Selling_15_Condition_0_Status Completed
+Selling_15_Condition_0_Logic Equal
+Selling_15_Condition_0_Ignore_NPC False
+
+Selling_16_ID 17032
+Selling_16_Cost 9000
+Selling_16_Conditions 1
+Selling_16_Condition_0_Type Quest
+Selling_16_Condition_0_ID 14027
+Selling_16_Condition_0_Status Completed
+Selling_16_Condition_0_Logic Equal
+Selling_16_Condition_0_Ignore_NPC False
+
+Selling_17_ID 29144
+Selling_17_Cost 9200
+Selling_17_Conditions 1
+Selling_17_Condition_0_Type Quest
+Selling_17_Condition_0_ID 14027
+Selling_17_Condition_0_Status Completed
+Selling_17_Condition_0_Logic Equal
+Selling_17_Condition_0_Ignore_NPC False
+
+Selling_18_ID 17027
+Selling_18_Cost 10000
+Selling_18_Conditions 1
+Selling_18_Condition_0_Type Quest
+Selling_18_Condition_0_ID 14027
+Selling_18_Condition_0_Status Completed
+Selling_18_Condition_0_Logic Equal
+Selling_18_Condition_0_Ignore_NPC False
+
+Selling_19_ID 63627
+Selling_19_Cost 10000
+Selling_19_Conditions 1
+Selling_19_Condition_0_Type Quest
+Selling_19_Condition_0_ID 14025
+Selling_19_Condition_0_Status Completed
+Selling_19_Condition_0_Logic Equal
+Selling_19_Condition_0_Ignore_NPC False
+
+Selling_20_ID 29132
+Selling_20_Cost 10800
+Selling_20_Conditions 1
+Selling_20_Condition_0_Type Quest
+Selling_20_Condition_0_ID 14027
+Selling_20_Condition_0_Status Completed
+Selling_20_Condition_0_Logic Equal
+Selling_20_Condition_0_Ignore_NPC False
+
+Selling_21_ID 29147
+Selling_21_Cost 10800
+Selling_21_Conditions 1
+Selling_21_Condition_0_Type Quest
+Selling_21_Condition_0_ID 14027
+Selling_21_Condition_0_Status Completed
+Selling_21_Condition_0_Logic Equal
+Selling_21_Condition_0_Ignore_NPC False
+
+Selling_22_ID 30218
+Selling_22_Cost 14450
+Selling_22_Conditions 1
+Selling_22_Condition_0_Type Quest
+Selling_22_Condition_0_ID 14032
+Selling_22_Condition_0_Status Completed
+Selling_22_Condition_0_Logic Equal
+Selling_22_Condition_0_Ignore_NPC False
+
+Selling_23_ID 29134
+Selling_23_Cost 16000
+Selling_23_Conditions 1
+Selling_23_Condition_0_Type Quest
+Selling_23_Condition_0_ID 14037
+Selling_23_Condition_0_Status Completed
+Selling_23_Condition_0_Logic Equal
+Selling_23_Condition_0_Ignore_NPC False
+
+Selling_24_ID 30202
+Selling_24_Cost 18000
+Selling_24_Conditions 1
+Selling_24_Condition_0_Type Quest
+Selling_24_Condition_0_ID 14037
+Selling_24_Condition_0_Status Completed
+Selling_24_Condition_0_Logic Equal
+Selling_24_Condition_0_Ignore_NPC False
+
+Selling_25_ID 63494
+Selling_25_Cost 11000
+Selling_26_ID 63802
+Selling_26_Cost 13000
+Selling_26_Conditions 1
+Selling_26_Condition_0_Type Quest
+Selling_26_Condition_0_ID 14027
+Selling_26_Condition_0_Status Completed
+Selling_26_Condition_0_Logic Equal
+Selling_26_Condition_0_Ignore_NPC False
+
+Selling_27_ID 30611
+Selling_27_Cost 14000
+Selling_27_Conditions 1
+Selling_27_Condition_0_Type Quest
+Selling_27_Condition_0_ID 14025
+Selling_27_Condition_0_Status Completed
+Selling_27_Condition_0_Logic Equal
+Selling_27_Condition_0_Ignore_NPC False
+
+Selling_28_ID 30610
+Selling_28_Cost 15000
+Selling_28_Conditions 1
+Selling_28_Condition_0_Type Quest
+Selling_28_Condition_0_ID 14025
+Selling_28_Condition_0_Status Completed
+Selling_28_Condition_0_Logic Equal
+Selling_28_Condition_0_Ignore_NPC False
+
+Selling_29_ID 23108
+Selling_29_Cost 9100
+Selling_30_ID 23107
+Selling_30_Cost 10000
+Selling_31_ID 30118
+Selling_31_Cost 16000
+Selling_31_Conditions 1
+Selling_31_Condition_0_Type Quest
+Selling_31_Condition_0_ID 14025
+Selling_31_Condition_0_Status Completed
+Selling_31_Condition_0_Logic Equal
+Selling_31_Condition_0_Ignore_NPC False
+
+Selling_32_ID 30114
+Selling_32_Cost 16900
+Selling_32_Conditions 1
+Selling_32_Condition_0_Type Quest
+Selling_32_Condition_0_ID 14025
+Selling_32_Condition_0_Status Completed
+Selling_32_Condition_0_Logic Equal
+Selling_32_Condition_0_Ignore_NPC False
+
+Selling_33_ID 30117
+Selling_33_Cost 18000
+Selling_33_Conditions 1
+Selling_33_Condition_0_Type Quest
+Selling_33_Condition_0_ID 14025
+Selling_33_Condition_0_Status Completed
+Selling_33_Condition_0_Logic Equal
+Selling_33_Condition_0_Ignore_NPC False
+
+Selling_34_ID 30113
+Selling_34_Cost 18000
+Selling_34_Conditions 1
+Selling_34_Condition_0_Type Quest
+Selling_34_Condition_0_ID 14025
+Selling_34_Condition_0_Status Completed
+Selling_34_Condition_0_Logic Equal
+Selling_34_Condition_0_Ignore_NPC False
+
+Selling_35_ID 23112
+Selling_35_Cost 23700
+Selling_35_Conditions 1
+Selling_35_Condition_0_Type Quest
+Selling_35_Condition_0_ID 14037
+Selling_35_Condition_0_Status Completed
+Selling_35_Condition_0_Logic Equal
+Selling_35_Condition_0_Ignore_NPC False
+
+Selling_36_ID 23111
+Selling_36_Cost 24900
+Selling_36_Conditions 1
+Selling_36_Condition_0_Type Quest
+Selling_36_Condition_0_ID 14037
+Selling_36_Condition_0_Status Completed
+Selling_36_Condition_0_Logic Equal
+Selling_36_Condition_0_Ignore_NPC False
+
+Selling_37_ID 17012
+Selling_37_Cost 25000
+Selling_37_Conditions 1
+Selling_37_Condition_0_Type Quest
+Selling_37_Condition_0_ID 14037
+Selling_37_Condition_0_Status Completed
+Selling_37_Condition_0_Logic Equal
+Selling_37_Condition_0_Ignore_NPC False
+
+Selling_38_ID 23101
+Selling_38_Cost 25000
+Selling_38_Conditions 1
+Selling_38_Condition_0_Type Quest
+Selling_38_Condition_0_ID 14032
+Selling_38_Condition_0_Status Completed
+Selling_38_Condition_0_Logic Equal
+Selling_38_Condition_0_Ignore_NPC False
+
+Selling_39_ID 23104
+Selling_39_Cost 26000
+Selling_39_Conditions 1
+Selling_39_Condition_0_Type Quest
+Selling_39_Condition_0_ID 14037
+Selling_39_Condition_0_Status Completed
+Selling_39_Condition_0_Logic Equal
+Selling_39_Condition_0_Ignore_NPC False
+
+Selling_40_ID 30115
+Selling_40_Cost 27000
+Selling_40_Conditions 1
+Selling_40_Condition_0_Type Quest
+Selling_40_Condition_0_ID 14037
+Selling_40_Condition_0_Status Completed
+Selling_40_Condition_0_Logic Equal
+Selling_40_Condition_0_Ignore_NPC False
+
+Selling_41_ID 30116
+Selling_41_Cost 29000
+Selling_41_Conditions 1
+Selling_41_Condition_0_Type Quest
+Selling_41_Condition_0_ID 14037
+Selling_41_Condition_0_Status Completed
+Selling_41_Condition_0_Logic Equal
+Selling_41_Condition_0_Ignore_NPC False
+
+Selling_42_ID 30122
+Selling_42_Cost 29990
+Selling_43_ID 64688
+Selling_43_Cost 30000
+Selling_43_Conditions 1
+Selling_43_Condition_0_Type Quest
+Selling_43_Condition_0_ID 14037
+Selling_43_Condition_0_Status Completed
+Selling_43_Condition_0_Logic Equal
+Selling_43_Condition_0_Ignore_NPC False
+
+Selling_44_ID 29149
+Selling_44_Cost 17777
+Selling_44_Conditions 1
+Selling_44_Condition_0_Type Quest
+Selling_44_Condition_0_ID 14032
+Selling_44_Condition_0_Status Completed
+Selling_44_Condition_0_Logic Equal
+Selling_44_Condition_0_Ignore_NPC False
+
+Selling_45_ID 29115
+Selling_45_Cost 20000
+Selling_45_Conditions 1
+Selling_45_Condition_0_Type Quest
+Selling_45_Condition_0_ID 14025
+Selling_45_Condition_0_Status Completed
+Selling_45_Condition_0_Logic Equal
+Selling_45_Condition_0_Ignore_NPC False
+
+Selling_46_ID 29119
+Selling_46_Cost 22000
+Selling_46_Conditions 1
+Selling_46_Condition_0_Type Quest
+Selling_46_Condition_0_ID 14025
+Selling_46_Condition_0_Status Completed
+Selling_46_Condition_0_Logic Equal
+Selling_46_Condition_0_Ignore_NPC False
+
+Selling_47_ID 29114
+Selling_47_Cost 22000
+Selling_47_Conditions 1
+Selling_47_Condition_0_Type Quest
+Selling_47_Condition_0_ID 14025
+Selling_47_Condition_0_Status Completed
+Selling_47_Condition_0_Logic Equal
+Selling_47_Condition_0_Ignore_NPC False
+
+Selling_48_ID 29116
+Selling_48_Cost 25000
+Selling_48_Conditions 1
+Selling_48_Condition_0_Type Quest
+Selling_48_Condition_0_ID 14027
+Selling_48_Condition_0_Status Completed
+Selling_48_Condition_0_Logic Equal
+Selling_48_Condition_0_Ignore_NPC False
+
+Selling_49_ID 29120
+Selling_49_Cost 26500
+Selling_49_Conditions 1
+Selling_49_Condition_0_Type Quest
+Selling_49_Condition_0_ID 14025
+Selling_49_Condition_0_Status Completed
+Selling_49_Condition_0_Logic Equal
+Selling_49_Condition_0_Ignore_NPC False
+
+Selling_50_ID 29113
+Selling_50_Cost 27000
+Selling_50_Conditions 1
+Selling_50_Condition_0_Type Quest
+Selling_50_Condition_0_ID 14034
+Selling_50_Condition_0_Status Completed
+Selling_50_Condition_0_Logic Equal
+Selling_50_Condition_0_Ignore_NPC False
+
+Selling_51_ID 29170
+Selling_51_Cost 28000
+Selling_51_Conditions 1
+Selling_51_Condition_0_Type Quest
+Selling_51_Condition_0_ID 14032
+Selling_51_Condition_0_Status Completed
+Selling_51_Condition_0_Logic Equal
+Selling_51_Condition_0_Ignore_NPC False
+
+Selling_52_ID 29123
+Selling_52_Cost 30000
+Selling_52_Conditions 1
+Selling_52_Condition_0_Type Quest
+Selling_52_Condition_0_ID 14037
+Selling_52_Condition_0_Status Completed
+Selling_52_Condition_0_Logic Equal
+Selling_52_Condition_0_Ignore_NPC False
+
+Selling_53_ID 29118
+Selling_53_Cost 29000
+Selling_53_Conditions 1
+Selling_53_Condition_0_Type Quest
+Selling_53_Condition_0_ID 14037
+Selling_53_Condition_0_Status Completed
+Selling_53_Condition_0_Logic Equal
+Selling_53_Condition_0_Ignore_NPC False
+
+Selling_54_ID 29121
+Selling_54_Cost 29000
+Selling_54_Conditions 1
+Selling_54_Condition_0_Type Quest
+Selling_54_Condition_0_ID 14037
+Selling_54_Condition_0_Status Completed
+Selling_54_Condition_0_Logic Equal
+Selling_54_Condition_0_Ignore_NPC False
+
+Selling_55_ID 29122
+Selling_55_Cost 31000
+Selling_55_Conditions 1
+Selling_55_Condition_0_Type Quest
+Selling_55_Condition_0_ID 14041
+Selling_55_Condition_0_Status Completed
+Selling_55_Condition_0_Logic Equal
+Selling_55_Condition_0_Ignore_NPC False
+
+Selling_56_ID 29124
+Selling_56_Cost 35000
+Selling_56_Conditions 1
+Selling_56_Condition_0_Type Quest
+Selling_56_Condition_0_ID 14043
+Selling_56_Condition_0_Status Completed
+Selling_56_Condition_0_Logic Equal
+Selling_56_Condition_0_Ignore_NPC False
+
+Selling_57_ID 29103
+Selling_57_Cost 22000
+Selling_57_Conditions 1
+Selling_57_Condition_0_Type Quest
+Selling_57_Condition_0_ID 14032
+Selling_57_Condition_0_Status Completed
+Selling_57_Condition_0_Logic Equal
+Selling_57_Condition_0_Ignore_NPC False
+
+Selling_58_ID 29110
+Selling_58_Cost 22000
+Selling_58_Conditions 1
+Selling_58_Condition_0_Type Quest
+Selling_58_Condition_0_ID 14025
+Selling_58_Condition_0_Status Completed
+Selling_58_Condition_0_Logic Equal
+Selling_58_Condition_0_Ignore_NPC False
+
+Selling_59_ID 29111
+Selling_59_Cost 25000
+Selling_59_Conditions 1
+Selling_59_Condition_0_Type Quest
+Selling_59_Condition_0_ID 14027
+Selling_59_Condition_0_Status Completed
+Selling_59_Condition_0_Logic Equal
+Selling_59_Condition_0_Ignore_NPC False
+
+Selling_60_ID 29104
+Selling_60_Cost 26500
+Selling_60_Conditions 1
+Selling_60_Condition_0_Type Quest
+Selling_60_Condition_0_ID 14032
+Selling_60_Condition_0_Status Completed
+Selling_60_Condition_0_Logic Equal
+Selling_60_Condition_0_Ignore_NPC False
+
+Selling_61_ID 29112
+Selling_61_Cost 28000
+Selling_61_Conditions 1
+Selling_61_Condition_0_Type Quest
+Selling_61_Condition_0_ID 14037
+Selling_61_Condition_0_Status Completed
+Selling_61_Condition_0_Logic Equal
+Selling_61_Condition_0_Ignore_NPC False
+
+Selling_62_ID 29101
+Selling_62_Cost 28000
+Selling_62_Conditions 1
+Selling_62_Condition_0_Type Quest
+Selling_62_Condition_0_ID 14037
+Selling_62_Condition_0_Status Completed
+Selling_62_Condition_0_Logic Equal
+Selling_62_Condition_0_Ignore_NPC False
+
+Selling_63_ID 29102
+Selling_63_Cost 30000
+Selling_63_Conditions 1
+Selling_63_Condition_0_Type Quest
+Selling_63_Condition_0_ID 14041
+Selling_63_Condition_0_Status Completed
+Selling_63_Condition_0_Logic Equal
+Selling_63_Condition_0_Ignore_NPC False
+
+Selling_64_ID 29106
+Selling_64_Cost 30000
+Selling_64_Conditions 1
+Selling_64_Condition_0_Type Quest
+Selling_64_Condition_0_ID 14041
+Selling_64_Condition_0_Status Completed
+Selling_64_Condition_0_Logic Equal
+Selling_64_Condition_0_Ignore_NPC False
+
+Selling_65_ID 29107
+Selling_65_Cost 32500
+Selling_65_Conditions 1
+Selling_65_Condition_0_Type Quest
+Selling_65_Condition_0_ID 14034
+Selling_65_Condition_0_Status Completed
+Selling_65_Condition_0_Logic Equal
+Selling_65_Condition_0_Ignore_NPC False
+
+Selling_66_ID 29100
+Selling_66_Cost 35000
+Selling_66_Conditions 1
+Selling_66_Condition_0_Type Quest
+Selling_66_Condition_0_ID 14043
+Selling_66_Condition_0_Status Completed
+Selling_66_Condition_0_Logic Equal
+Selling_66_Condition_0_Ignore_NPC False
+
+Selling_67_ID 29130
+Selling_67_Cost 22000
+Selling_67_Conditions 1
+Selling_67_Condition_0_Type Quest
+Selling_67_Condition_0_ID 14027
+Selling_67_Condition_0_Status Completed
+Selling_67_Condition_0_Logic Equal
+Selling_67_Condition_0_Ignore_NPC False
+
+Selling_68_ID 29131
+Selling_68_Cost 28000
+Selling_68_Conditions 1
+Selling_68_Condition_0_Type Quest
+Selling_68_Condition_0_ID 14032
+Selling_68_Condition_0_Status Completed
+Selling_68_Condition_0_Logic Equal
+Selling_68_Condition_0_Ignore_NPC False
+
+Selling_69_ID 29129
+Selling_69_Cost 27000
+Selling_69_Conditions 1
+Selling_69_Condition_0_Type Quest
+Selling_69_Condition_0_ID 14032
+Selling_69_Condition_0_Status Completed
+Selling_69_Condition_0_Logic Equal
+Selling_69_Condition_0_Ignore_NPC False
+
+Selling_70_ID 29127
+Selling_70_Cost 35000
+Selling_70_Conditions 1
+Selling_70_Condition_0_Type Quest
+Selling_70_Condition_0_ID 14041
+Selling_70_Condition_0_Status Completed
+Selling_70_Condition_0_Logic Equal
+Selling_70_Condition_0_Ignore_NPC False
+
+Selling_71_ID 29128
+Selling_71_Cost 38000
+Selling_71_Conditions 1
+Selling_71_Condition_0_Type Quest
+Selling_71_Condition_0_ID 14043
+Selling_71_Condition_0_Status Completed
+Selling_71_Condition_0_Logic Equal
+Selling_71_Condition_0_Ignore_NPC False
+
+Selling_72_ID 29135
+Selling_72_Cost 25000
+Selling_72_Conditions 1
+Selling_72_Condition_0_Type Quest
+Selling_72_Condition_0_ID 14032
+Selling_72_Condition_0_Status Completed
+Selling_72_Condition_0_Logic Equal
+Selling_72_Condition_0_Ignore_NPC False
+
+Selling_73_ID 29136
+Selling_73_Cost 28500
+Selling_73_Conditions 1
+Selling_73_Condition_0_Type Quest
+Selling_73_Condition_0_ID 14032
+Selling_73_Condition_0_Status Completed
+Selling_73_Condition_0_Logic Equal
+Selling_73_Condition_0_Ignore_NPC False
+
+Selling_74_ID 29138
+Selling_74_Cost 30000
+Selling_74_Conditions 1
+Selling_74_Condition_0_Type Quest
+Selling_74_Condition_0_ID 14032
+Selling_74_Condition_0_Status Completed
+Selling_74_Condition_0_Logic Equal
+Selling_74_Condition_0_Ignore_NPC False
+
+Selling_75_ID 29137
+Selling_75_Cost 35000
+Selling_75_Conditions 1
+Selling_75_Condition_0_Type Quest
+Selling_75_Condition_0_ID 14037
+Selling_75_Condition_0_Status Completed
+Selling_75_Condition_0_Logic Equal
+Selling_75_Condition_0_Ignore_NPC False
+
+Selling_76_ID 39165
+Selling_76_Cost 26000
+Selling_76_Conditions 1
+Selling_76_Condition_0_Type Quest
+Selling_76_Condition_0_ID 14043
+Selling_76_Condition_0_Status Completed
+Selling_76_Condition_0_Logic Equal
+Selling_76_Condition_0_Ignore_NPC False
+
+Selling_77_ID 63857
+Selling_77_Cost 24000
+Selling_77_Conditions 1
+Selling_77_Condition_0_Type Quest
+Selling_77_Condition_0_ID 14034
+Selling_77_Condition_0_Status Completed
+Selling_77_Condition_0_Logic Equal
+Selling_77_Condition_0_Ignore_NPC False
+
+Selling_78_ID 63896
+Selling_78_Cost 30000
+Selling_78_Conditions 1
+Selling_78_Condition_0_Type Quest
+Selling_78_Condition_0_ID 14034
+Selling_78_Condition_0_Status Completed
+Selling_78_Condition_0_Logic Equal
+Selling_78_Condition_0_Ignore_NPC False
+
+Selling_79_ID 30634
+Selling_79_Cost 32000
+Selling_79_Conditions 1
+Selling_79_Condition_0_Type Quest
+Selling_79_Condition_0_ID 14032
+Selling_79_Condition_0_Status Completed
+Selling_79_Condition_0_Logic Equal
+Selling_79_Condition_0_Ignore_NPC False
+
+Selling_80_ID 63320
+Selling_80_Cost 38000
+Selling_80_Conditions 1
+Selling_80_Condition_0_Type Quest
+Selling_80_Condition_0_ID 14043
+Selling_80_Condition_0_Status Completed
+Selling_80_Condition_0_Logic Equal
+Selling_80_Condition_0_Ignore_NPC False
+
+Selling_81_ID 30506
+Selling_81_Cost 45000
+Selling_81_Conditions 1
+Selling_81_Condition_0_Type Quest
+Selling_81_Condition_0_ID 14043
+Selling_81_Condition_0_Status Completed
+Selling_81_Condition_0_Logic Equal
+Selling_81_Condition_0_Ignore_NPC False
+
+Selling_82_ID 30507
+Selling_82_Cost 50000
+Selling_82_Conditions 1
+Selling_82_Condition_0_Type Quest
+Selling_82_Condition_0_ID 14043
+Selling_82_Condition_0_Status Completed
+Selling_82_Condition_0_Logic Equal
+Selling_82_Condition_0_Ignore_NPC False
+
+Selling_83_ID 30601
+Selling_83_Cost 55000
+Selling_83_Conditions 1
+Selling_83_Condition_0_Type Quest
+Selling_83_Condition_0_ID 14043
+Selling_83_Condition_0_Status Completed
+Selling_83_Condition_0_Logic Equal
+Selling_83_Condition_0_Ignore_NPC False
+
+Disable_Sorting

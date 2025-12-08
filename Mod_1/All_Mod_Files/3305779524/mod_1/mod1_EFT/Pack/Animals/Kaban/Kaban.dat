@@ -1,0 +1,17 @@
+GUID ff35cd63648d493bb59d12e21d647877
+
+Type Animal
+ID 58161
+
+
+Speed_Run 12
+Speed_Walk 6
+
+Behaviour Offense
+
+Health 120
+Regen 0.9
+Damage 20
+
+
+Roars 1

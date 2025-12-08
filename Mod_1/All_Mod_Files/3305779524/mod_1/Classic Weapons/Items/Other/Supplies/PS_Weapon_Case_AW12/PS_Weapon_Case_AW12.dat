@@ -1,0 +1,20 @@
+GUID f4e98b2d85f545f1a18ca7d9ad5dd777
+Type Food
+Rarity Legendary
+Useable Consumeable
+ID 31620
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Quest_Rewards 3
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 30100
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 31034
+Quest_Reward_1_Amount 1
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 31581
+Quest_Reward_2_Amount 1

@@ -1,0 +1,62 @@
+﻿GUID 565f57a22954430a9a62e99445eb8d49
+Type Barricade
+Useable Barricade
+Rarity Rare
+Build Bed
+Has_Clip_Prefab False
+ID 41416
+Size_X 3
+Size_Y 2
+Size_Z 0.4
+Health 400
+Range 4
+Radius 0.4
+Offset 0.4
+
+Explosion 41331
+Can_Be_Damaged true
+PlacementAudioClip Sounds/Clothy_Placement.ogg
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset
+Use_Auto_Stat_Descriptions false
+Vulnerable
+Bypass_Pickup_Ownership false
+Use_Auto_Icon_Measurements false
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "159e927969ea4946a24602eaa05e3273" // Cloth
+				Amount 4
+			}
+			{
+				ID "8ae387a91c1c4964be2a12be7aeabfb9" // Wooden Stick
+				Amount 4
+			}
+			{
+				ID "876a753a1b39450395639346b645390c" // Aramid Fabric
+				Amount 2
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 2
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Salvage_Duration_Multiplier 0.4

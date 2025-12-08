@@ -1,0 +1,20 @@
+GUID a3d141060220402d845d54e5e153e449
+Type Supply
+Rarity Epic
+ID 31583
+
+Size_X 2
+Size_Y 2
+Size_Z 0.56
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31583
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 31504
+Blueprint_0_Output_0_Amount 5
+Blueprint_0_Build 27
+
+Master_Bundle_Override classicweapons.masterbundle
+Bundle_Override_Path /Items/Other/Supplies/PS_Grenade_Box

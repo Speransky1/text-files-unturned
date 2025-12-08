@@ -1,0 +1,12 @@
+GUID 2e0799e235a74e04b68459d1c68908c2
+Type Spawn
+ID 10510
+
+Tables
+[
+	{
+		// Иридий (Supply Item)
+		Guid ffc677a2c0154215bcfa0d1a49697082
+		Weight 1
+	}
+]

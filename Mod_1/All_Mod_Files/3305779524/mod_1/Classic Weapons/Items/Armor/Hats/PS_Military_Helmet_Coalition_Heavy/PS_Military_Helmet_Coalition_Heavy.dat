@@ -1,0 +1,53 @@
+GUID e6723bced0bf4c8481801ce29b4b31d2
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 31718
+
+Size_X 2
+Size_Y 2
+Size_Z 0.425
+
+Beard
+
+Movement_Speed_Multiplier 0.98
+
+Armor 0.40
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "21ede8ebffb14c5580e8c7ad149e335e x 4" // Metal Scrap
+		Effect "7eceb9f7751d4634b572c8e236355104" // Rip
+	}
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			"a1e1a778c4f74bdc82f24a8ed7e839ff" // Helmet
+			"f7dfe4446e5049cca1cce02adfdf44e2" // Mod Kit
+		]
+		OutputItems this
+		Skill Craft
+		Skill_Level 1
+		RequiresNearbyCraftingTags
+		[
+			"7b82c125a5a54984b8bb26576b59e977" // Workbench
+		]
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems "ad819b3c8df549528c8abce6ea5043f6" // Metal Scrap
+		RequiresNearbyCraftingTags
+		[
+			"2ac5ddc545a848008c0308d21f5d2e6b" // Spinning Wheel
+		]
+		Effect "7eceb9f7751d4634b572c8e236355104" // Rip
+	}
+]

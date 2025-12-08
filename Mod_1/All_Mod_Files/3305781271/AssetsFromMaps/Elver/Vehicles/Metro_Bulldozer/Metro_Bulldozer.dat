@@ -1,0 +1,46 @@
+GUID 33fbec4e61f94d8cad65b44dc26ddecd
+
+Type Vehicle
+Has_Clip_Prefab false
+Rarity Common
+ID 57033
+
+Speed_Min -6
+Speed_Max 10
+
+Steer_Min 24
+Steer_Max 32
+
+Brake 24
+
+Fuel_Min 500
+Fuel_Max 750
+Fuel 2000
+
+Health_Min 400
+Health_Max 500
+Health 800
+
+Traction
+
+Cam_Follow_Distance 7.5
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 3
+
+Physics_Profile ece2cc1ec6ea45e385a3c133641c7f16
+
+Can_Be_Locked False
+
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging
+
+Bumper_Multiplier 10
+Explosion 20
+Tires_Invulnerable
+Environment_Invulnerable
+Bumper_Invulnerable
+Crawler

@@ -1,0 +1,17 @@
+GUID 4366ce96b44e49ea9478839ead0779f8
+
+Type Small
+ID 61650
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17075
+Condition_0_Value false
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17075
+Interactability_Reward_0_Value true

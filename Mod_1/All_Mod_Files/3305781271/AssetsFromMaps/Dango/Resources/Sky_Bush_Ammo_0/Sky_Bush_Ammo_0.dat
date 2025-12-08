@@ -1,0 +1,17 @@
+GUID a60cd382efce4af8a00f32e8aeb50109
+
+Type Resource
+ID 44000
+
+Health 1
+Radius 3
+Scale 0.1
+
+Explosion 43
+
+Log 44004
+Forage
+
+Reset 2
+
+Asset_Bundle_Version 2

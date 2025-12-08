@@ -1,0 +1,41 @@
+﻿GUID afa9691aed894325b622265a2492cc0b
+
+Type Structure
+Rarity Uncommon
+Useable Structure
+Construct Wall
+ID 41376
+
+Size_X 2
+Size_Y 1
+Size_Z 0.36
+
+Health 800
+Range 8
+
+Explosion 41302
+
+Blueprints
+[
+	{
+		CategoryTag "71d9e182c18b4aad8e87778e4f621995" // Structures
+		InputItems
+		[
+			{
+				ID "cfe0e0e457e948b9b0b4cfec48cc0d93" // Wooden Log
+				Amount 5
+			}
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_1.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 0.8
+
+Has_Clip_Prefab false
+
+Requires_Pillars false

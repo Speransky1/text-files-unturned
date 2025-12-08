@@ -1,0 +1,16 @@
+GUID 5cbe1c506e1a4d2f906f80b4ba8c05e4
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 51497
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+Size2_Z 0.35
+
+Food 45
+Virus 45
+ConsumeAudioClip core.masterbundle:Sounds/EatCrunchy.mp3
+
+Use_Auto_Stat_Descriptions false

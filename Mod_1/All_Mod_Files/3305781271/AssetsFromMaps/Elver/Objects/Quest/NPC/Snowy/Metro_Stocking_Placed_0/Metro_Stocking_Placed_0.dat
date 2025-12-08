@@ -1,0 +1,22 @@
+GUID 189e5081577f46cc9d4a720ccc3d3ffb
+
+Type Small
+Has_Clip_Prefab false
+ID 57921
+
+Conditions 2
+
+//If planted, appears
+Condition_0_Type Flag_Bool
+Condition_0_ID 57346
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 57335
+Condition_1_Value True
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Snowy/Metro_Stocking_Placed

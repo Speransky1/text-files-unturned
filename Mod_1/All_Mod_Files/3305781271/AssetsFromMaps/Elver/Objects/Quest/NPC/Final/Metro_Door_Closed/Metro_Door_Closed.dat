@@ -1,0 +1,20 @@
+GUID 17b1de5d3ffb4c9ba9a31aa27f45d758
+
+Type Medium
+Has_Clip_Prefab false
+ID 57644
+
+Interactability Binary_State
+Interactability_Delay 1
+Interactability_Hint Door
+Interactability_Nav Off
+Interactability_Reset 5
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 56999
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Final/Metro_Door_Closed

@@ -1,0 +1,59 @@
+﻿GUID 37b5fbc52c5a490ab5387efd2fd7b51a
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 41428
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 700
+Range 4
+Radius 0.5
+Offset 1.32
+
+Storage_X 6
+Storage_Y 12
+
+Explosion 41302
+Allow_Placement_On_Vehicle false
+Salvage_Duration_Multiplier 0.5
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+SalvageItem 37b5fbc52c5a490ab5387efd2fd7b51a
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "e162f0162f154033935a7a1e3d58e57e" // Wooden Plank
+				Amount 6
+			}
+			{
+				ID "022caafdda4e4937804a7cf79157dd91" // Nails
+				Amount 3
+			}
+			{
+				ID "8ae387a91c1c4964be2a12be7aeabfb9" // Wooden Stick
+				Amount 2
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/Placement_1.ogg
+Has_Clip_Prefab false

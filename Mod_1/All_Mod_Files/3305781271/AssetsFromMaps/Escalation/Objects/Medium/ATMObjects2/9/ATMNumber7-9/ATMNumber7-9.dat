@@ -1,0 +1,13 @@
+GUID 211c0e142df44eb4a4f3f1d3255dcac0
+Type Medium
+Has_Clip_Prefab False
+ID 51000
+
+Master_Bundle_Override PBS.masterbundle
+Bundle_Override_Path /Objects/Medium/ATMObjects/ATMNumber7
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 52854
+Condition_0_Value 7
+Condition_0_Logic Equal

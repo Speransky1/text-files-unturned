@@ -1,0 +1,13 @@
+GUID f7e2f1f14d404cffae9a51c3e500dbd1
+Type RewardsList
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 22640
+Condition_0_Value 11
+Condition_#_Logic Greater_Than_Or_Equal_To
+
+Rewards 1
+Reward_0_Type Item
+Reward_0_ID 10924
+Reward_0_Amount 1

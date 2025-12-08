@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "d79ce30a877d45a1b9e0948330de3116"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "obscured.masterbundle"
+		"Path" "Landscapes/Terrain/Materials/Grass.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "Foliage_Static"
+	"Foliage"
+	{
+		"GUID" "17080072b29049d58da9bbd72c9dae43"
+	}
+}

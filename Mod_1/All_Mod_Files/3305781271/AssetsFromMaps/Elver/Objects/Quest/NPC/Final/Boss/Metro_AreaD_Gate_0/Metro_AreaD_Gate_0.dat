@@ -1,0 +1,16 @@
+GUID d09650680f54460e9ffabd6304c4e110
+
+Type Medium
+Has_Clip_Prefab false
+ID 58173
+
+Interactability Binary_State
+Interactability_Delay 5
+Interactability_Hint Use
+Interactability_Reset 120
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 57193
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal

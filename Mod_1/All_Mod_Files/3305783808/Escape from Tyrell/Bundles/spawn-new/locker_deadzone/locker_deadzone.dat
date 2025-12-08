@@ -1,0 +1,101 @@
+GUID 56f5c48140ff441888b99a182692758a
+Type Spawn
+ID 10115
+
+Roots
+[
+	{
+		// Mercs_Deadzone_Guns (Spawn)
+		Guid 7be788f984674ca0aa50b7808a89f723
+		Weight 300
+	}
+]
+
+Tables
+[
+	{
+		// Низкокачественные оружейные детали (Supply Item)
+		Guid f6b306766237448ab6bfc4f67e4f7900
+		Weight 500
+	}
+	{
+		// ИРП Армии США (Food Item)
+		Guid 8523cc36e8c34c628d6c61b24d11b294
+		Weight 500
+	}
+	{
+		// Высококачественные оружейные детали (Supply Item)
+		Guid ee1142f8610b40a8ad3cf84ab557b3a1
+		Weight 500
+	}
+	{
+		// Набор для починки оружия (Supply Item)
+		Guid f21c6335f64a40d6abb12ae104ac0d74
+		Weight 470
+	}
+	{
+		// Набор для починки брони (Supply Item)
+		Guid b1b1b47558104746a4260773260852b4
+		Weight 470
+	}
+	{
+		// Компонент взрывчатки (Supply Item)
+		Guid be4f328bd4984b619b541f1e9258902b
+		Weight 375
+	}
+	{
+		// Банка пороха (Supply Item)
+		Guid 4e8a6d5beb7043b1966fc92d23cf4b28
+		Weight 375
+	}
+	{
+		// Зашифрованный диск (Supply Item)
+		Guid 4c918a5f31654c4cb65414e4aef5b6f4
+		Weight 375
+	}
+	{
+		// Бронещит (Supply Item)
+		Guid 44c5118b832f4576bc3c6d072ee82a8f
+		Weight 350
+	}
+	{
+		// Зашифрованный передатчик (Supply Item)
+		Guid f9da3d6aeaa141eda1a5bf6ed28278ca
+		Weight 325
+	}
+	{
+		// Mercs_Deadzone_Guns (Spawn)
+		Guid 7be788f984674ca0aa50b7808a89f723
+		Weight 300
+	}
+	{
+		// Передатчик (Barricade Item)
+		Guid 6700f0da61ee470eb296ba380169caba
+		Weight 265
+	}
+	{
+		// Осколочная мина  (Magazine Item)
+		Guid 5a27892542c8447d8b6299d4b931e3ee
+		Weight 265
+	}
+	{
+		// Сломанный ПНВ (Supply Item)
+		Guid be207d904a3e42169ef94365ae4ec817
+		Weight 265
+	}
+	{
+		// Ключ-карта (Supply Item)
+		Guid 7d470758ba544a9b940c72b9bf4f4100
+		Weight 48
+	}
+	{
+		// АКБ фирмы DEXP (Supply Item)
+		Guid 5fa18a9dec264cc6ae26430d367b3cb8
+		Weight 10
+	}
+	{
+		// Беспроводной передатчик сигналов (Supply Item)
+		Guid 6692a6e6787142bcbf7b5355ed9c8f3f
+		Weight 10
+	}
+]

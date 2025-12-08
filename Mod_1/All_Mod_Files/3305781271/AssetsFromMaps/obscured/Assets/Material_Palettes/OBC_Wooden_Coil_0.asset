@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "79a997d44a8d4da8af2ffed8fd111e3d"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Wooden_Coil_0/Wooden_Coil_0.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Wooden_Coil_0/Wooden_Coil_1.mat"
+		}
+		{
+			"Name" "obscured.masterbundle"
+			"Path" "Material_Palettes/OBC_Wooden_Coil_0/Wooden_Coil_2.mat"
+		}
+	]
+}

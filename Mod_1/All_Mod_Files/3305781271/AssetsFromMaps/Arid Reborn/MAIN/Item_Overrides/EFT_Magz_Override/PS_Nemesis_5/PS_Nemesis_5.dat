@@ -1,0 +1,49 @@
+GUID fd7c2932c3b54c38a2361c703edbee5e
+
+Type Magazine
+Rarity Legendary
+ID 63510
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Magazines/Magazines/Hypervelocity_Ammo/PS_Nemesis_5
+
+Amount 5
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 18830
+
+Tracer 19040
+
+Blueprints 5
+//HyperRounds Mag
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 63316
+Blueprint_0_Build 30
+//Hypervelocity Ammo Box
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63311
+Blueprint_1_Build 30
+//DMR Mag
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63836
+Blueprint_2_Build 30
+//Drakonov Mag
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 63312
+Blueprint_3_Build 30
+//Nemesis Mag
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 19391
+Blueprint_4_Build 30
+

@@ -1,0 +1,32 @@
+﻿GUID c8d2910e3f73493fad99ba95a919bda5
+
+Type Tool
+Rarity Epic
+Useable Carlockpick
+ID 41655
+
+Size_X 1
+Size_Y 2
+Size_Z 0.42
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "4f9fb8c83c494e2486329e494674813c x 2" // Metal Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Keys/Keys.asset
+Use_Auto_Stat_Descriptions False
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

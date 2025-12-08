@@ -1,0 +1,34 @@
+﻿GUID dd40451eb586424da5f67137c4083dfc
+
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 41628
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Aid
+Bleeding_Modifier Heal
+Health 47
+Bones_Modifier Heal
+Disinfectant 35
+InventoryAudio Sounds/Inventory/TabletsShaking/Tablets_Shaking.asset
+Use_Auto_Stat_Descriptions False
+
+Blueprints
+[
+	{
+		CategoryTag "d089feb7e43f40c5a7dfcefc36998cfb" // Supplies
+		InputItems
+		[
+			"d94a7c7464374cbda2b047a64d09050d x 2" // Bandage
+			"63832123425444fba92df06811ab3d70" // Antibiotics
+			"fb9c25f2196645ff8272c50e6f1bd8a1 x 1" // Splint
+			"edc4d492616c4bfa841f8a8a1c58df1e x 4" // Plastic Fragments
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]

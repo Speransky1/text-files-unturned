@@ -1,0 +1,8 @@
+GUID 0e74ebd378164d88aa6201ea739c68cb
+Type Effect
+ID 19059
+
+Relevant_Distance 611
+
+CameraShake_Radius 1.5
+CameraShake_MagnitudeDegrees 4

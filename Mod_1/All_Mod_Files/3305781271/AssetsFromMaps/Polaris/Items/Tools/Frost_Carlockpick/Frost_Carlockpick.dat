@@ -1,0 +1,12 @@
+GUID fa38ceafe93a4eb4808683bb3bb08920
+
+Type Tool
+Rarity Epic
+Useable Carlockpick
+ID 36580
+
+Size_X 2
+
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Tools/Carlockpick

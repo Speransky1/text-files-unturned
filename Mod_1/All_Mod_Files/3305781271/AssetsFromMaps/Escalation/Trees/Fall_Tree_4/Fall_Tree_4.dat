@@ -1,0 +1,21 @@
+GUID eb09de8dcce34bab8f4d0239ac333cd8
+Type Resource
+ID 51023
+
+Health 1200
+Radius 5
+Scale 0.3
+
+Explosion 23
+Reward_ID 51002
+Reward_XP 6
+Reward_Min 5
+Reward_Max 8
+
+Reset 750
+
+Auto_Skybox
+
+
+
+Has_Clip_Prefab false

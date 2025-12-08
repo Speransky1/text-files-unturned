@@ -1,0 +1,124 @@
+GUID db881553e8b04717b386eeb9a5fc19b0
+
+
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Secondary
+ID 63290
+
+Size_X 2
+Size_Y 2
+Size_Z 0.321
+
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_Colt.wav
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Guns/Handguns/PS_Colt
+
+Magazine 63289
+Grip 19750
+
+Ammo_Per_Shot 1
+
+Aim_In_Duration 0.1
+
+Hook_Sight
+Hook_Barrel
+
+Ammo_Min 4
+Ammo_Max 8
+
+Semi
+
+Attachment_Calibers 2
+Attachment_Caliber_0 18900
+Attachment_Caliber_1 18901
+
+Magazine_Calibers 1
+Magazine_Caliber_0 19290
+
+Firerate 7
+Action Trigger
+
+Player_Damage 41
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.4
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 100
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 100
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 15
+Structure_Damage 15
+Vehicle_Damage 40
+Resource_Damage 25
+Object_Damage 40
+
+Durability 0.35
+
+Spread_Aim 0.07
+Spread_Hip 0.15
+
+Recoil_Min_X -3
+Recoil_Min_Y 8
+Recoil_Max_X -3
+Recoil_Max_Y 8
+Use_Auto_Stat_Descriptions false
+
+Recover_X 0.3
+Recover_Y 0.3
+
+Shake_Min_X 0.007
+Shake_Min_Y -0.03
+Shake_Min_Z -0.02
+Shake_Max_X 0.007
+Shake_Max_Y -0.03
+Shake_Max_Z -0.02
+
+Range 120
+Ballistic_Steps 75
+Ballistic_Travel 8
+Ballistic_Drop 0.002
+
+Damage_Falloff_Range 0.05
+Damage_Falloff_Max_Range 0.25
+Damage_Falloff_Multiplier 0.6
+
+Muzzle 30035
+
+Shell 30000
+
+Blueprints 1
+//Repair
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+Recoil_Crouch 0.8
+Recoil_Prone 1
+
+Spread_Prone 1
+Spread_Crouch 1
+
+Player_Damage_Bleeding Always
+
+Quality_Min 60
+Quality_Max 75

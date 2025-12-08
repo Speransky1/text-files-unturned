@@ -1,0 +1,8 @@
+﻿GUID 9dd1300c302e4cc6a1574d28261add4e
+
+Type Large
+Has_Clip_Prefab false
+Interactability Dropper
+Interactability_Delay 3600
+Interactability_Hint Custom
+Interactability_Reward_ID 41425

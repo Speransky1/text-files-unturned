@@ -1,0 +1,54 @@
+GUID dcd5fe7571ee4ccab88054dbba82b3e1
+Type Magazine
+Rarity Legendary
+ID 51330
+
+Size_X 2
+Size_Y 2
+Size_Z 0.1
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Spawn_Explosion_On_Dedicated_Server True
+
+Calibers 1
+Caliber_0 51050
+
+Tracer 55
+
+Range 3
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 51094
+Explosive
+
+Use_Auto_Stat_Descriptions False
+
+Delete_Empty
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+// Blank Module
+Blueprint_0_Supply_0_ID 51329
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+// Charges
+Blueprint_0_Supply_1_ID 51308
+Blueprint_0_Supply_1_Amount 2
+// Adhesive Compound
+Blueprint_0_Supply_2_ID 51061
+Blueprint_0_Supply_2_Amount 2
+// Circuitboards
+Blueprint_0_Supply_3_ID 51030
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Product 51330
+Blueprint_0_Build 27

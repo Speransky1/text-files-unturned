@@ -1,0 +1,19 @@
+GUID 98f6ac6e4e0b46adbed9883bfd6f538b
+Type Small
+ID 51000
+
+Conditions 3
+Condition_0_Type Flag_Bool
+Condition_0_ID 52554
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Quest
+Condition_1_ID 52583
+Condition_1_Status None
+Condition_1_Logic Not_Equal
+Condition_2_Type Quest
+Condition_2_ID 52583
+Condition_2_Status Completed
+Condition_2_Logic Not_Equal
+
+Has_Clip_Prefab false

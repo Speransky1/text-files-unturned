@@ -1,0 +1,11 @@
+GUID 51d596cf670a468c9040b33502325e7e
+
+Type Large
+Has_Clip_Prefab false
+ID 58201
+
+Interactability Quest
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Credits

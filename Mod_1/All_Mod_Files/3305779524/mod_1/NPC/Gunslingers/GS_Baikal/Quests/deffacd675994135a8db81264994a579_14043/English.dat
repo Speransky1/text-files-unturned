@@ -1,0 +1,11 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=legendary>Зачистка. Часть 2</color>
+Description <color=mythical>Байкал</color> поручил отправиться на Заброшенный Завод в Верхнем Контоне и зачистить территорию от Зараженных. Помимо этого, нужно раздобыть флешку в административном здании, на которой должны содержаться данные о деятельности корпорации <color=blue>Werner Research Group</color> на этом предприятии после рейдерского захвата незадолго перед "Вспышкой"
+Condition_0 Убито Зараженных на Заброшенном заводе {0}/{1}
+Condition_1 Найти флешку в офисном здании
+Reward_1 <color=white>Новые товары у</color> <color=epic>Дюшеса:</color>
+Reward_3 <color=legendary>Шлема Crye Precision Airframe с забралом</color>
+Reward_4 <color=epic>Тактические клетчатые рубашки Hors Tactical Clothes</color>
+Reward_5 <color=white>Новый бартер у</color> <color=#a92b75>Контрабандиста:</color>
+Reward_7 <color=legendary>Разблокируются новые виды оружия у</color> <color=legendary>Саяны</color>
+Reward_8 <color=yellow>Влияние: +500</color>

@@ -1,0 +1,162 @@
+GUID 99b2bad328704decb5d4aba3c55d4b5a
+Type Spawn
+ID 41453
+
+Tables
+[
+	{
+		// SR-1MP "Gyurza" Magazine (Magazine Item)
+		LegacyAssetId 41906
+		Weight 47
+	}
+	{
+		// Tactical Light "Klesch-2U" (Tactical Item)
+		LegacyAssetId 41907
+		Weight 45
+	}
+	{
+		// Tactical Light "Klesch-2" V2.1 (Tactical Item)
+		LegacyAssetId 41908
+		Weight 43
+	}
+	{
+		// SR-1MP "Gyurza" (Gun Item)
+		LegacyAssetId 41905
+		Weight 39
+	}
+	{
+		// Tactical Laser "Perst-1IK" (Tactical Item)
+		LegacyAssetId 41909
+		Weight 39
+	}
+	{
+		// Military Rig (Vest Item)
+		LegacyAssetId 41583
+		Weight 30
+	}
+	{
+		// RGD-5 Frag Grenade (Throwable Item)
+		LegacyAssetId 41564
+		Weight 30
+	}
+	{
+		// Pack of Sniper Ammo (Supply Item)
+		LegacyAssetId 41770
+		Weight 30
+	}
+	{
+		// OTs-14 "Groza" Muzzle Handle (Barrel Item)
+		Guid 8bdedd6127f646a4bd5da72295d22b36
+		Weight 30
+	}
+	{
+		// Military Rig (Vest Item)
+		LegacyAssetId 41584
+		Weight 30
+	}
+	{
+		// Military Rig (Vest Item)
+		LegacyAssetId 41584
+		Weight 30
+	}
+	{
+		// OTs-12 "Tiss" Magazine (Magazine Item)
+		Guid fdd83327f85844f38b3f8bda6b6d7791
+		Weight 30
+	}
+	{
+		// PO 4x34 Scope (Sight Item)
+		Guid 41254b86acf64579ad77a2141ab55bcc
+		Weight 30
+	}
+	{
+		// AK-9 Magazine (Magazine Item)
+		Guid 1cc045b6789a459db871e90501b10fe0
+		Weight 28
+	}
+	{
+		// PSO-1 Scope (Sight Item)
+		LegacyAssetId 41726
+		Weight 25
+	}
+	{
+		// Flashbang Grenade "Zarya" (Throwable Item)
+		LegacyAssetId 41567
+		Weight 25
+	}
+	{
+		// RGN Impact Grenade (Throwable Item)
+		LegacyAssetId 41565
+		Weight 25
+	}
+	{
+		// 6L18 Magazine (Magazine Item)
+		LegacyAssetId 41756
+		Weight 25
+	}
+	{
+		// 6L18 Magazine (Magazine Item)
+		LegacyAssetId 41755
+		Weight 25
+	}
+	{
+		// OTs-14 "Groza" Suppressor (Barrel Item)
+		Guid a44013197cc1432c995da95c613adb88
+		Weight 23
+	}
+	{
+		// AK-9 (Gun Item)
+		Guid 5acb6a50736e442eb83f2753f5b9e62d
+		Weight 22
+	}
+	{
+		// OTs-14 "Groza" (Gun Item)
+		Guid c83a79e97ce6440fba9e96f86e3bfbf1
+		Weight 22
+	}
+	{
+		// Pack of Rifle Ammo (Supply Item)
+		LegacyAssetId 41713
+		Weight 20
+	}
+	{
+		// Military Titan Helmet (Hat Item)
+		LegacyAssetId 41614
+		Weight 20
+	}
+	{
+		// Military Titan Helmet (Hat Item)
+		LegacyAssetId 41613
+		Weight 20
+	}
+	{
+		// Military Body Armor Mk. II (Vest Item)
+		LegacyAssetId 41581
+		Weight 20
+	}
+	{
+		// AKMN Extended Magazine (Magazine Item)
+		LegacyAssetId 41717
+		Weight 20
+	}
+	{
+		// NSPU Nightvision Scope (Sight Item)
+		LegacyAssetId 41727
+		Weight 20
+	}
+	{
+		// Ammo Belt (Magazine Item)
+		Guid 29100ea3365f4ab3a913942af78ef870
+		Weight 18
+	}
+	{
+		// Military Protective Helmet (Hat Item)
+		LegacyAssetId 41605
+		Weight 10
+	}
+	{
+		// 1PN93 "Malysh" Nightvision Scope (Sight Item)
+		LegacyAssetId 41735
+		Weight 10
+	}
+]

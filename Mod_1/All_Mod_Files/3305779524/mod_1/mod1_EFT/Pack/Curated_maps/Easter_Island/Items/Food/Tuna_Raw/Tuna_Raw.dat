@@ -1,0 +1,14 @@
+GUID 7b5cc807a6124ef697f683c7d452f752
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 6628
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Food 30
+Virus 30
+
+Bypass_ID_Limit

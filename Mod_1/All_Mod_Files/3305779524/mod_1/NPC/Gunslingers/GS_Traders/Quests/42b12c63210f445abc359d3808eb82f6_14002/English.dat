@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=uncommon>Доставщик #3</color>
+Description Найди 4 столовых набора из <color=uncommon>ложек</color>, <color=uncommon>вилок</color>, <color=uncommon>ножей</color> и принеси <color=epic>Бармену</color>
+Condition_0 Ложки {0}/{1}
+Condition_1 Вилки {0}/{1}
+Condition_2 Ножи {0}/{1}

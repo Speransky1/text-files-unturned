@@ -1,0 +1,33 @@
+GUID 0df0d01c045d46809becd55d68868de7
+
+Type Food
+Useable Consumeable
+ID 51404
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+Size2_Z 0.35
+
+Food 40
+ConsumeAudioClip core.masterbundle:Sounds/EatSquishy.mp3
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 51405
+Quest_Reward_0_Amount 1
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 51416
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Purify ▲
+Action_0_Tooltip Purify to remove impurities.
+
+Use_Auto_Stat_Descriptions false

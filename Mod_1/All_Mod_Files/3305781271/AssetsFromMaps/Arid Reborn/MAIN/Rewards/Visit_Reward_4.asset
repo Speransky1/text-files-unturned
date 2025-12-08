@@ -1,0 +1,8 @@
+GUID 1a360c891eea412ab8272d789df8938c
+Type RewardsList
+
+//Visit Sa'id Palace
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22625
+Reward_0_Value True

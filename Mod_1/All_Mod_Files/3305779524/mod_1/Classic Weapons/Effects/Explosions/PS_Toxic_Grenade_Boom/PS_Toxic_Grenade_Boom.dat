@@ -1,0 +1,11 @@
+GUID 10c2068e4f4c48f788e0e7adaf060a90
+Type Effect
+ID 30031
+
+Relevant_Distance 500
+
+CameraShake_Radius 5
+CameraShake_MagnitudeDegrees 50
+
+Lifetime 50
+Lifetime_Spread 0

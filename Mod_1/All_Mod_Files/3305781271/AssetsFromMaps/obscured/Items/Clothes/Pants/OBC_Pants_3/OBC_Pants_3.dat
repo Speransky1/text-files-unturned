@@ -1,0 +1,17 @@
+GUID 9b9a32247def41ceaf1c6a8150aac896
+
+Type Pants
+Rarity Rare
+Useable Clothing
+ID 39131
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

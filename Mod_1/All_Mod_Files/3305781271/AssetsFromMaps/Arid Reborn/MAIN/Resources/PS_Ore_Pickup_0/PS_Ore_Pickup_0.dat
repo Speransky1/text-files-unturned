@@ -1,0 +1,16 @@
+GUID 7abb53928cce4c41affb20a1326c6daf
+
+Type Resource
+Has_Clip_Prefab False
+ID 19027
+
+Health 1
+Radius 3
+Scale 0
+
+Explosion 19053
+
+Log 19709
+Forage
+
+Reset 1260

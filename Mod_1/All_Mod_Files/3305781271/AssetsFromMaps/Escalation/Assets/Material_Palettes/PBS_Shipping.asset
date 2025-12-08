@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "b8c84fa328b247f8941c5cb18f490264"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Shipping/Shipping_Green.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Shipping/Shipping_Red.mat"
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Shipping/Shipping_Blue.mat"	
+		}
+		{
+			"Name" "pbs.masterbundle"
+			"Path" "Material_Palette/PBS_Shipping/Shipping_White.mat"
+		}	
+	]
+}

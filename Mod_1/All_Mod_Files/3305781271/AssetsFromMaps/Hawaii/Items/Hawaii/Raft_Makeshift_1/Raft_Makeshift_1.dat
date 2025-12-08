@@ -1,0 +1,33 @@
+GUID 0193a546199c4a4eaf59726b398ee5fa
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Vehicle
+ID 2021
+
+Size_X 5
+Size_Y 2
+Size_Z 0.35
+
+Range 8
+Radius 3.5
+Offset 3.75
+
+Explosion 848
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 1208
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 69
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 39
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Supply_3_ID 458
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Hawaii

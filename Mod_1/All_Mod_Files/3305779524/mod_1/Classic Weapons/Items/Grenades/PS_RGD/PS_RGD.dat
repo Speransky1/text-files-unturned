@@ -1,0 +1,33 @@
+GUID 29462faff83b4e88be4b6ce5f72b3d54
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 31505
+
+Size_X 1
+Size_Y 1
+Size_Z 0.33
+
+Boost_Throw_Force_Multiplier 1
+
+Player_Damage 135
+Zombie_Damage 270
+Animal_Damage 270
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 135
+Resource_Damage 270
+Object_Damage 135
+
+Range 13
+Explosion 30012
+
+Explosive
+
+Strong_Throw_Force 1400
+
+Weak_Throw_Force 600
+
+Explosion_Launch_Speed 15
+
+Fuse_Length 3

@@ -1,0 +1,22 @@
+GUID 2d9e35300bd14fc8ae3fc22aa935045b
+
+Type Small
+Has_Clip_Prefab false
+ID 57636
+
+//ADD APPEAR CONDITION
+
+Conditions 2
+//Disappears after interaction
+Condition_0_Type Flag_Bool
+Condition_0_ID 58002
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+//Appears after final quest
+Condition_1_Type Flag_Bool
+Condition_1_ID 58100
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Asset_Bundle_Version 3

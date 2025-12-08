@@ -1,0 +1,20 @@
+GUID efb712b1907d42ea909c27200c641d6d
+
+
+Type Mask
+Rarity Legendary
+Useable Clothing
+ID 47572
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Hair
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

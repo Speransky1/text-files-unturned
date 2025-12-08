@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID 4560665518ed409997ee9911729755da
+	Type SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Materials
+	[
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Bardur_0/Bardur_0.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Bardur_0/Bardur_1.mat
+		}
+		{
+			Name sovcore.masterbundle
+			Path Material_Palettes/SC_Bardur_0/Bardur_2.mat
+		}
+	]
+}

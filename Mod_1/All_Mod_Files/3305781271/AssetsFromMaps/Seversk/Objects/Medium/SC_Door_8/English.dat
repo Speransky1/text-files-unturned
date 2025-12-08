@@ -1,0 +1,5 @@
+Name SC Door #9 [Interactive]
+
+Interactability_Condition_0 S2 exit key required
+
+Interact Exit S2 [{0}]

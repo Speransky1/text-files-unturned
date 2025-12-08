@@ -1,0 +1,19 @@
+GUID f05430a80cf24e57acd07467f3d720aa
+
+Type Large
+
+Has_Clip_Prefab False
+
+
+Interactability Binary_State
+Interactability_Delay 4
+Interactability_Hint Use
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 20068
+Interactability_Condition_0_Value 2
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Large/PS_Offices_Door_Openable_4

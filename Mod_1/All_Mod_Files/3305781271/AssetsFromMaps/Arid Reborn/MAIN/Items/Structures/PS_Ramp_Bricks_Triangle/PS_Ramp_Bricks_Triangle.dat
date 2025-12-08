@@ -1,0 +1,43 @@
+GUID 3a19c47944ce448992a6c968f660d4e9
+
+Type Structure
+
+Has_Clip_Prefab False
+
+Rarity Uncommon
+Useable Structure
+Construct Roof
+ID 10866
+
+SalvageItem 3a19c47944ce448992a6c968f660d4e9
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 1b35307fb6b74c68ae1bf4c6a25a29d2
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2000
+Range 6
+
+Explosion 19
+
+Blueprints 2
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19440
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10866
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 19440
+Blueprint_1_Output_0_Amount 2
+Blueprint_1_Tool 19169
+Blueprint_1_Build 27
+PlacementAudioClip aridreborn.masterbundle:Items/Barricades/PS_Blockade/Use.wav
+
+Salvage_Duration_Multiplier 0.4

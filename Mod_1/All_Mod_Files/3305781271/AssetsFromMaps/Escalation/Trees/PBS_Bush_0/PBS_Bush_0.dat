@@ -1,0 +1,9 @@
+GUID ab7feba9ef2546b7a932e50650078e72
+
+Type Resource
+ID 51006
+
+Health 1000
+Radius 3
+Scale 0.1
+Has_Clip_Prefab false

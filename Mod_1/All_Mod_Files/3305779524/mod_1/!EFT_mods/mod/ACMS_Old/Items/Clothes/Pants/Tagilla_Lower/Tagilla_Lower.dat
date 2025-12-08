@@ -1,0 +1,19 @@
+GUID 7dc217f074a6420d8818d3ace5d6f8c8
+Type Pants
+Rarity Common
+Useable Clothing
+ID 37515
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 2
+Height 1
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

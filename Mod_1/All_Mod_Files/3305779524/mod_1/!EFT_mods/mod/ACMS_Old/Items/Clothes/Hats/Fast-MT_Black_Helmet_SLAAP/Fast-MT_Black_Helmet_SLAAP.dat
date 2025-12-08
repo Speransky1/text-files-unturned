@@ -1,0 +1,38 @@
+GUID e905ed0365cb4cba99ce215eaa77a1ed
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 37411
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.65
+Armor_Explosion 0.9
+
+
+Blueprints 3
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 37355
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_State_Transfer
+Blueprint_1_Type Apparel
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 37412
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 37411
+Blueprint_1_Output_1_ID 37427
+Blueprint_1_Build 27
+Blueprint_2_State_Transfer
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 37409
+Blueprint_2_Supply_1_ID 37428
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 37411
+Blueprint_2_Build 27

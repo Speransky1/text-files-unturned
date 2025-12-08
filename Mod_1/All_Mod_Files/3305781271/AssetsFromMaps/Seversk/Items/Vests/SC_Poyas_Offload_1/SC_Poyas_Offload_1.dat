@@ -1,0 +1,74 @@
+﻿GUID 1c7cd3690cad48fa863f47a0afc44faf
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 41584
+
+Size_X 3
+Size_Y 3
+Size_Z 0.6
+
+Width 6
+Height 4
+Armor 0.9
+Armor_Explosion 0.9
+Use_Auto_Stat_Descriptions False
+InventoryAudio Sounds/Inventory/ClothesRustle/Clothes_Rustle.asset
+WearAudio Sounds/Sleeve.ogg
+Quality_Min 20
+Quality_Max 50
+Movement_Speed_Multiplier 1.05
+
+Blueprints
+[
+	{
+		CategoryTag "ebe755533bdd42d1871c3ac66b89530f" // Apparel
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"b31404eb2e2e4f53a4e3658c80c45eca x 2" // Ammo Pouch
+			"4b74f6b14f4f414fb8fc80329870e807 x 6" // Spool Thread
+			"159e927969ea4946a24602eaa05e3273 x 2" // Cloth
+			"876a753a1b39450395639346b645390c" // Aramid Fabric
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems
+		[
+			{
+				ID "b31404eb2e2e4f53a4e3658c80c45eca" // Pouch
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 3
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Use_Auto_Icon_Measurements true
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

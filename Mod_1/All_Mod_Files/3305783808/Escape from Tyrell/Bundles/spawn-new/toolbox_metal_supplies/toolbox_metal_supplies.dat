@@ -1,0 +1,76 @@
+GUID aeb95097c8184a2eac82a10f2ee1407f
+Type Spawn
+ID 10111
+
+Roots
+[
+	{
+		// toolbox_metal_tools (Spawn)
+		Guid 4ac21923d0b544b9a36c4cb40929a223
+		Weight 16
+	}
+]
+
+Tables
+[
+	{
+		// Рулетка (Supply Item)
+		Guid 35ec992360af46d7acc3e80e40aefdd1
+		Weight 52
+	}
+	{
+		// Гаечный ключ (Supply Item)
+		Guid f427e0b4edb849d0946450dfba824d35
+		Weight 52
+	}
+	{
+		// Отвертка (Supply Item)
+		Guid 306849c0a04444c09f59de290bcb6f23
+		Weight 52
+	}
+	{
+		// Шурупы (Supply Item)
+		Guid a565e2d6c8c8468eb2f42161dfdfa78d
+		Weight 52
+	}
+	{
+		// Металлолом (Supply Item)
+		Guid 49929a679ece47ae9f5db2576661fad7
+		Weight 38
+	}
+	{
+		// Лампочка (Supply Item)
+		Guid 4b346f18070d488fa16f6b08aff3e044
+		Weight 38
+	}
+	{
+		// toolbox_metal_tools (Spawn)
+		Guid 4ac21923d0b544b9a36c4cb40929a223
+		Weight 36
+	}
+	{
+		// Электрические детали (Supply Item)
+		Guid ace25590f8b54ecf83a15be330d55bdf
+		Weight 36
+	}
+	{
+		// Гайки (Supply Item)
+		Guid 078f5574eed241309da9b39d5f23e8ba
+		Weight 34
+	}
+	{
+		// Набор проводов (Supply Item)
+		Guid af7b1190229f4272a4632c4df0800b81
+		Weight 20
+	}
+	{
+		// Лезвие пилы (Supply Item)
+		Guid 963a6bc48fb54fe18d45d0499c486104
+		Weight 10
+	}
+	{
+		// Набор батареек Cockler (Supply Item)
+		Guid 5735da1524e343778478292fc4dfc10c
+		Weight 1
+	}
+]

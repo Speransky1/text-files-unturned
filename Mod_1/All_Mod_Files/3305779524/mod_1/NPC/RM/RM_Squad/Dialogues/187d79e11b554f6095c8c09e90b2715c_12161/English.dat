@@ -1,0 +1,14 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Вот же ж ебаный пиздец.
+Response_0 <color=white>Здарова, работу не подкинешь?</color>
+Response_1 <color=white>Шурупу помог, так че за маза то?</color>
+Response_2 <color=#4B64FA>[Штанга] Эрзац-движуха. Завершить</color>
+Response_3 <color=#4B64FA>[Штанга] Железный капут</color> 
+Response_4 <color=#4B64FA>[Штанга] Железный капут. Завершить</color> 
+Response_5 <color=#4B64FA>[Штанга] Крупнокалиберный прикол</color>
+Response_6 <color=#4B64FA>[Штанга] Крупнокалиберный прикол. Завершить</color>
+Response_7 <color=#4B64FA>[Штанга] Умельцы не сумели</color>
+Response_8 <color=#4B64FA>[Штанга] Умельцы не сумели. Завершить</color>
+Response_9 <color=#C832FA>[Штанга] Земляки</color>
+Response_10 <color=#C832FA>[Штанга] Земляки. Завершить</color>
+Response_11 Именно так

@@ -1,0 +1,37 @@
+GUID 6ed646b1473b4d68926812aea0618f9a
+
+Type Small
+Has_Clip_Prefab false
+ID 57623
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 57472 
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 57102
+Interactability_Condition_1_Value True
+Interactability_Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 57018
+Interactability_Rewards 4
+Interactability_Reward_0_Type Item_Random
+Interactability_Reward_0_ID 57138
+Interactability_Reward_0_Amount 1
+Interactability_Reward_1_Type Item_Random
+Interactability_Reward_1_ID 57141
+Interactability_Reward_1_Amount 1
+Interactability_Reward_2_Type Item_Random
+Interactability_Reward_2_ID 57142
+Interactability_Reward_2_Amount 1
+Interactability_Reward_3_Type Item_Random
+Interactability_Reward_3_ID 57143
+Interactability_Reward_3_Amount 1
+
+
+Asset_Bundle_Version 3
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Metro_Box_Text

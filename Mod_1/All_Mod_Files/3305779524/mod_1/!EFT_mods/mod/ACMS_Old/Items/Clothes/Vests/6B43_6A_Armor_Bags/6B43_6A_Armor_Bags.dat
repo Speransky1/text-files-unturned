@@ -1,0 +1,30 @@
+GUID 72c35d4b3a2c48489427b98ba61987c4
+Type Vest
+Rarity Common
+Useable Clothing
+ID 37304
+
+Size_X 4
+Size_Y 4
+Size_Z 0.9
+
+Width 4
+Height 2
+
+Armor 0.3
+Armor_Explosion 0.6
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 37356
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_State_Transfer
+Blueprint_1_Type Apparel
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 37303
+Blueprint_1_Supply_1_ID 37305
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 37304
+Blueprint_1_Build 27

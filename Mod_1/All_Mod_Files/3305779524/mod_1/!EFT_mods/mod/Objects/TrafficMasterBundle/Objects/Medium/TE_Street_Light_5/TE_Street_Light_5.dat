@@ -1,0 +1,12 @@
+GUID 07d2a145934e4f79b819ff140ccc3654
+Type Medium
+ID 15940
+
+Add_Night_Light_Script
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 275
+Rubble_Effect 72

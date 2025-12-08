@@ -1,0 +1,17 @@
+GUID 3bcff196cd1b48869cd2f0b20b270645
+Type Magazine
+Rarity Legendary
+ID 19508
+
+Size_X 10
+Size_Y 10
+Size_Z 10
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 18843
+
+Tracer 19002

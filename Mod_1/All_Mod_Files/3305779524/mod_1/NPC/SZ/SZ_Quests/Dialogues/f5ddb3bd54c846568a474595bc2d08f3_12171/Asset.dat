@@ -1,0 +1,25 @@
+﻿// Made in NPC Maker by BowieD
+GUID f5ddb3bd54c846568a474595bc2d08f3
+Type Dialogue
+ID 12171
+Messages 1
+Message_0_Pages 1
+Responses 3
+Response_0_Dialogue 12172
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 14059
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Ignore_NPC False
+
+Response_1_Dialogue 12174
+Response_1_Quest 14059
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 14059
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC False
+Response_1_Condition_0_Reset 
+

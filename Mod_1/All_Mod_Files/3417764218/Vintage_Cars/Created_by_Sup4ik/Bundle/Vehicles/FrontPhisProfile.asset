@@ -1,0 +1,12 @@
+"Metadata"
+{
+	"GUID" "8acd5d1e4a61449fbd4928058f62a8a6"
+	"Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Wheel_Drive_Model" "Front"
+	"Wheel_Brake_Model" "All"
+	"Motor_Torque_Multiplier" "2"
+	"Motor_Torque_Clamp_Multiplier" "1"
+}

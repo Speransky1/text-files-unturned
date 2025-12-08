@@ -1,0 +1,19 @@
+GUID 5c1596f0e01c43d58e2eb5d6b1a48f07
+
+
+Type Mask
+Rarity Common
+Useable Clothing
+ID 43307
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2

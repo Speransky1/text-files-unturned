@@ -1,0 +1,6 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Recovery I
+Description Mark satellite crash site & retrieve black box.
+Condition_0 {0}/{1} Planted Markers
+Condition_1 Black Box Found
+Reward_0 3x <color=#4b64fa>Secured Folder</color>.

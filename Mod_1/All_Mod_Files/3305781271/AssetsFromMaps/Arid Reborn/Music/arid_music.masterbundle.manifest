@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2221531552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2db6edab210b4c7ddadbd809ef58d045
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PS_Music/Search_And_Destroy/Search And Destroy.wav
+- Assets/PS_Music/Market_Music_1/Retail Ragtime.wav
+- Assets/PS_Music/Photocathode/Photocathode.wav
+- Assets/PS_Music/Market_Music_0/Market Melody.wav
+- Assets/PS_Music/Safezone_Music_0/Wasteland Serenade.wav
+Dependencies: []

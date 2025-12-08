@@ -1,0 +1,8 @@
+GUID 6d5c511807fb4ce8a71a696e0d6ab71e
+
+Type Small
+Has_Clip_Prefab false
+ID 57995
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path /Objects/Quest/NPC/Bank/Metro_Deposit_Unavailable

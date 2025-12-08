@@ -1,0 +1,31 @@
+GUID dc0bf7409fae409a99207c2914f10428
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 62260
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17065
+Condition_0_Value false
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17065
+Interactability_Reward_0_Value true
+
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Duration 15 
+
+Material_Palette 77694250016a40228264f7d306646509
+
+Soft
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Barrel_Cache_0

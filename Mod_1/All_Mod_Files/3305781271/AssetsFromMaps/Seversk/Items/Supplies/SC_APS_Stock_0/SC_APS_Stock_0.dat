@@ -1,0 +1,33 @@
+﻿GUID 13ae72f49add4e7596dec57e2585f836
+Type Supply
+Rarity Uncommon
+ID 41701
+Size_X 2
+Size_Y 1
+Size_Z 0.23
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Icon_Measurements False
+Use_Auto_Stat_Descriptions false
+
+Blueprints
+[
+	{
+		CategoryTag "cdb2df24b76d4c6e9d8411c940d8337f" // Gear
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"e162f0162f154033935a7a1e3d58e57e x 2" // Wooden Planks
+			"4f9fb8c83c494e2486329e494674813c x 2" // Metal Parts
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]

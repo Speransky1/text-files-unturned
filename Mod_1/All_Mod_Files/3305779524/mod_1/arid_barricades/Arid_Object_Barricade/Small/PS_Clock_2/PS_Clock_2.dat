@@ -1,0 +1,22 @@
+GUID eb00b56993674d1eaba6a28df0a419bc
+
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Clock
+ID 62873
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Salvage_Duration_Multiplier 0.25
+
+Health 5200
+Range 4
+Radius 0.45
+Offset 0.05
+
+Explosion 19
+
+eblan

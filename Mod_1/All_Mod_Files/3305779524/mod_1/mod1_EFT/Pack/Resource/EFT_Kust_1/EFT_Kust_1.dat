@@ -1,0 +1,23 @@
+GUID 514374c4f3f64fc7a420288e2b8d1ee6
+
+Type Resource
+ID 43706
+
+Health 1000
+Radius 5
+
+Scale 0.2
+
+Interact HUI
+
+Vertical_Offset -2.07
+
+Explosion 22
+
+Reset 6
+
+Auto_Skybox
+
+Asset_Bundle_Version 3
+
+Has_Clip_Prefab false

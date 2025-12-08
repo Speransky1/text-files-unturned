@@ -1,0 +1,5 @@
+Name ME Ramen #6
+
+Interactability_Condition_0 Requires <color=#4E5D8E>25$</color> 
+
+Interact Purchase Vegetables Ramen for <color=#4E5D8E>25$</color>  [{0}]

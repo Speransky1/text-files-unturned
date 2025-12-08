@@ -1,0 +1,22 @@
+GUID 93c8fc92141f443b99638beddd2030a2
+Type Spawn
+ID 41486
+
+Tables
+[
+	{
+		// Bolts (Supply Item)
+		LegacyAssetId 41341
+		Weight 40
+	}
+	{
+		// Metal Sheet (Supply Item)
+		LegacyAssetId 41344
+		Weight 50
+	}
+	{
+		// Metal Parts (Supply Item)
+		LegacyAssetId 41317
+		Weight 70
+	}
+]

@@ -1,0 +1,21 @@
+GUID 60a658c6e46b4d5eaaae5ca72f8f2e05
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 4054
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 4
+Height 4
+
+Armor 0.7
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 32

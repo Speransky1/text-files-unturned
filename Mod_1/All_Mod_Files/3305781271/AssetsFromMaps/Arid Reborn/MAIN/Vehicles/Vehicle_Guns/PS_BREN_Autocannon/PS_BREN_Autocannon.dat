@@ -1,0 +1,76 @@
+GUID b65260eaabe74f1a82e6f9ded22e1916
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 19507
+
+Size_X 6
+Size_Y 2
+Size_Z 0.35
+
+Magazine 19508
+
+Ammo_Min 1
+Ammo_Max 1
+
+Auto
+
+Magazine_Calibers 1
+Magazine_Caliber_0 18843
+
+Muzzle 19001
+
+Can_Player_Equip False
+Infinite_Ammo True
+Allow_Magazine_Change False
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+Player_Damage_Bleeding Always
+
+
+////////////////////////////////////////Balance Stats (Turret)
+
+Range 400
+Ballistic_Steps 40
+Ballistic_Drop 0.0011
+Damage_Falloff_Multiplier 0.6
+Damage_Falloff_Range 0.666
+Damage_Falloff_Max_Range 1
+Gunshot_Rolloff_Distance 800
+
+Firerate 6
+Action Trigger
+
+Player_Damage 75
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1
+
+Zombie_Damage 150
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1
+
+Animal_Damage 150
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 1
+
+Barricade_Damage 75
+Structure_Damage 75
+Vehicle_Damage 75
+Resource_Damage 150
+Object_Damage 150
+
+Durability 0
+
+Spread_Aim 0.05
+Spread_Hip 0.1

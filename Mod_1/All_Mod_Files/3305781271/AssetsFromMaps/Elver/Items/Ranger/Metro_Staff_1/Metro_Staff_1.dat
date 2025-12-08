@@ -1,0 +1,51 @@
+GUID 25f89a6d098f4bfc99f41409fb6d9a8c
+
+Type Melee
+Useable Melee
+Slot Secondary
+ID 57093 
+
+Size_X 1
+Size_Y 4
+Size_Z 0.9
+
+Range 3
+Strength 1.1
+Stamina 22
+
+Player_Damage 33
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 25
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 100
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 100
+Resource_Damage 10
+Object_Damage 25
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 42
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 57093
+Blueprint_1_Product 42
+Blueprint_1_Products 3
+Blueprint_1_Build 27
+
+Asset_Bundle_Version 3

@@ -1,0 +1,8 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=white>Охотник на монстров</color>
+Description <color=mythical>Байкал</color> поручил разобраться с Зараженными в туннеле, ведущим в Торговый Пост. Уничтожь Зараженных и вернись к <color=mythical>Байкалу</color>
+Condition_0 Убито Зараженных в туннеле у Бара   {0}/{1}
+Reward_1 <color=white>Возможность купить тактическую одежду у</color> <color=epic>Дюшеса</color>
+Reward_2 <color=white>Новый комплект у</color> <color=epic>Дюшеса:</color>
+Reward_4 <color=uncommon>Разблокируются новые виды оружия у</color> <color=legendary>Саяны</color><color=uncommon>, а так же новые модули у</color> <color=epic>Тархуна</color>
+Reward_5 <color=yellow>Влияние: +60</color>

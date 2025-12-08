@@ -1,0 +1,22 @@
+GUID dd3ab6455a9a4387a1242824d9372b16
+
+Type Small
+Has_Clip_Prefab false
+ID 58141
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57138
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57138
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Objects/Quest/NPC/Final/Boss/Metro_AreaC_Crate_Pickup

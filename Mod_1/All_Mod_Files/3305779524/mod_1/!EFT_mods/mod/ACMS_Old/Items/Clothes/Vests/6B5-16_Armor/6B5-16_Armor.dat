@@ -1,0 +1,22 @@
+GUID 9e2df2842b384054807bce836ec98ab2
+Type Vest
+Rarity Uncommon
+Useable Clothing
+ID 37302
+
+Size_X 3
+Size_Y 4
+Size_Z 0.5
+
+Width 5
+Height 2
+
+Armor 0.7
+Armor_Explosion 0.7
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 37354
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27

@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=legendary>Инженерная авантюра</color>
+Description <color=mythical>Байкалу</color> нужны разные редкие штуки, которые он передаст своему технику для создания какой-то странной приколюхи. Инженерная авантюра, бессмысленная и беспощадная
+Reward_1 <color=rare>AAC Honeybadger в обвесе</color>
+Reward_3 <color=white>Новый комплект у</color> <color=epic>Дюшеса:</color>
+Reward_5 <color=white>Новый бартер у</color> <color=#a92b75>Контрабандиста:</color>

@@ -1,0 +1,20 @@
+GUID 7d7c219c86d34a748ec7d67aee96d6bd
+
+
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 49251
+
+Beard
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

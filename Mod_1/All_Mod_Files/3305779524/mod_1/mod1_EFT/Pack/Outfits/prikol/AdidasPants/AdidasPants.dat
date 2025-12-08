@@ -1,0 +1,23 @@
+GUID 4ce4cfd15e4a4b74af9b5c429c61a472
+
+
+Type Pants
+Rarity Legendary
+Useable Clothing
+ID 44677
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 6
+
+Armor 0.95
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

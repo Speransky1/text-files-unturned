@@ -1,0 +1,14 @@
+GUID 9d8b5e5ad00b4a19b9afbe6334242387
+Type Effect
+ID 18010
+
+CameraShake_Radius 10
+CameraShake_MagnitudeDegrees 5
+
+Lifetime 30.5
+Lifetime_Spread 0
+Blast 137
+Relevant_Distance 5000
+Preload 10
+Should_Play_Anims_On_Dedicated_Server true
+Spawn_Explosion_On_Dedicated_Server

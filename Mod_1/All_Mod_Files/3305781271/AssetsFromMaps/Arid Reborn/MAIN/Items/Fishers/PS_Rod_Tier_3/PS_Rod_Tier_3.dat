@@ -1,0 +1,20 @@
+GUID 471267d26f7d42f89f33baedf210b5ae
+Type Fisher
+Rarity Rare
+Useable Fisher
+ID 19729
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Reward_ID 19226
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19728
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27

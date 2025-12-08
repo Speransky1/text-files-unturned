@@ -1,0 +1,25 @@
+GUID 8e11d13b9c004df8b4b93271935cfc07
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 62167 
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Cardboard_2
+
+Conditions 1
+//исчезает при взятии
+Condition_0_Type Flag_Bool
+Condition_0_ID 17002
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17002
+Interactability_Reward_0_Value True

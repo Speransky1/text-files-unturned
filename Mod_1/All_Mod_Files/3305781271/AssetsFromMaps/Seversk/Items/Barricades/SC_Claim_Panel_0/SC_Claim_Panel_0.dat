@@ -1,0 +1,63 @@
+﻿GUID f3a0160cfa054128b3ca30e202f9c86d
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Claim
+ID 41426
+SalvageItem f3a0160cfa054128b3ca30e202f9c86d
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 150
+Range 4
+Radius 0.1
+Offset 0.5
+
+Explosion 41329
+Vulnerable
+Proof_Explosion
+
+Blueprints
+[
+	{
+		CategoryTag "bfac6026305f4737a95fd275ebff65a6" // Utilities
+		InputItems
+		[
+			{
+				ID "85e18fd29b184a55bb802d3dc075a9f7" // Wooden Chair
+			}
+			{
+				ID "641f3dacc68a414691262e586dd5170c" // Military Battery
+			}
+			{
+				ID "fc66e44ca92f49d0b8d4fca4bd512190" // Electronic Fragments
+				Amount 5
+			}
+			{
+				ID "6cf962ee942941efa9d5b19ff8d85e6d" // Light Bulb
+				Amount 2
+			}
+			{
+				ID "e3b8a5017cc446aaa349c19e2905f64e" // Foil
+				Amount 2
+			}
+			{
+				ID "28302cbb580641738db43ae62a045dbe" // Insulating Tape
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_1.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 0.6
+Has_Clip_Prefab false

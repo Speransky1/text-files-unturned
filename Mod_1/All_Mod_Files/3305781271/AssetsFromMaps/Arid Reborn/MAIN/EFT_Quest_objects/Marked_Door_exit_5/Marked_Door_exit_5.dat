@@ -1,0 +1,27 @@
+GUID 937c50226ca942238194dc9820fcf6aa
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 62711
+
+Interactability Quest
+Interactability_Rewards 4
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Foxtrot_Exit
+
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 18005
+Interactability_Reward_1_Value False
+Interactability_Reward_1_Logic Equal
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 54301
+Interactability_Reward_2_Value 100
+Interactability_Reward_2_Modification Increment
+Interactability_Reward_3_Type Hint
+Interactability_Reward_3_Duration 15 
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/Large/PS_Offices_Door_1

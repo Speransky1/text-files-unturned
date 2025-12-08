@@ -1,0 +1,21 @@
+GUID e3d7e07b383c4c73827cb0167b2c3807
+
+Type Small
+Has_Clip_Prefab false
+ID 58133
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57135
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57135
+Interactability_Reward_0_Value False
+
+Master_Bundle_Override metro.masterbundle
+Bundle_Override_Path Objects/Quest/NPC/Final/Boss/Metro_AreaC_Lever_Down

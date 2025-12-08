@@ -1,0 +1,13 @@
+GUID 30f230fc3d864a75aa6fdbedbeabb9ee
+Type Effect
+ID 18000
+
+CameraShake_Radius 10
+CameraShake_MagnitudeDegrees 5
+
+Lifetime 30.5
+Lifetime_Spread 0
+Blast 137
+Relevant_Distance 5000
+// Preload 10
+Should_Play_Anims_On_Dedicated_Server true

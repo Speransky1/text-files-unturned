@@ -1,0 +1,9 @@
+﻿GUID 57fb7fde7b744c2c90e0dd9b543c1dac
+
+Type Medium
+Has_Clip_Prefab false
+Interactability Dropper
+Interactability_Delay 180
+Interactability_Hint Custom
+Interactability_Reward_ID 41434
+Interactability_Reward_Probability 0.3

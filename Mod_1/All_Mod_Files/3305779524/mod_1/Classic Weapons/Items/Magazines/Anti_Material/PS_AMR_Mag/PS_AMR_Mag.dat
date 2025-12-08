@@ -1,0 +1,43 @@
+GUID dea7a10b3f224961967e2cb60cb31a1c
+Type Magazine
+Rarity Legendary
+ID 31130
+
+Size_X 2
+Size_Y 2
+Size_Z 0.29
+
+Amount 10
+Count_Min 0
+Count_Max 0
+
+Calibers 1
+Caliber_0 25067
+
+Tracer 30061
+
+Use_Auto_Icon_Measurements False
+
+Range 4
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 30030
+Explosive
+
+Blueprints 2
+//AM Ammo Box
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31131
+Blueprint_0_Build 30
+//AMR Mag
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31130
+Blueprint_1_Build 30

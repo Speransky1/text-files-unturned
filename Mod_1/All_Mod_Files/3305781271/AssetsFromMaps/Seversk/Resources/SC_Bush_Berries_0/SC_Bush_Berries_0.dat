@@ -1,0 +1,14 @@
+﻿GUID 5c67e15769864da2b9748d83de04d3c9
+Type Resource
+ID 41302
+Health 1000
+Radius 3
+Scale 0.1
+Has_Clip_Prefab false
+Explosion 41313
+Forage
+
+Reward_XP 0
+
+Log 41332
+Reset 410

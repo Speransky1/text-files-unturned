@@ -1,0 +1,36 @@
+GUID fa8bd9d4a80b493bad3c9d13dcaf120b
+Type Throwable
+Rarity Legendary
+Useable Throwable
+ID 19265
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Items/Throwables/PS_Bomb_Charge_0
+
+Size_X 4
+Size_Y 2
+Size_Z 0.33
+
+Player_Damage 150
+Zombie_Damage 150
+Animal_Damage 150
+Barricade_Damage 560
+Structure_Damage 755
+Vehicle_Damage 5500
+Resource_Damage 2000
+Object_Damage 4000
+Explosion_Launch_Speed 30
+
+Range 15
+Explosion 19095
+
+Explosive
+
+Fuse_Length 22
+
+Strong_Throw_Force 15
+Weak_Throw_Force 15
+
+Boost_Throw_Force_Multiplier 1
+
+Use_Auto_Stat_Descriptions False

@@ -1,0 +1,34 @@
+﻿GUID e2ccefd4a7244e65a6471d82f09334db
+Type Supply
+ID 41668
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Icon_Measurements False
+
+Blueprints
+[
+	{
+		CategoryTag "cdb2df24b76d4c6e9d8411c940d8337f" // Gear
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems "4f9fb8c83c494e2486329e494674813c x 4" // Metal Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

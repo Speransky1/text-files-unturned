@@ -1,0 +1,14 @@
+GUID f33915bd321047298a9785973a3304da
+
+Type Shirt
+Useable Clothing
+ID 44053
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 2
+
+Should_Drop_On_Death False

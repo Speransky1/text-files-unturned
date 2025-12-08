@@ -1,0 +1,39 @@
+GUID c2f38c3176b1467e9f66b5dc78e8857a
+Type Magazine
+Rarity Uncommon
+ID 6694
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 6692
+
+Damage 0.8
+
+Pellets 3
+
+Tracer 48
+
+Delete_Empty
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1056
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_0_Map Easter Island
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 1057
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Products 1
+Blueprint_1_Build 27
+Blueprint_1_Map Easter Island

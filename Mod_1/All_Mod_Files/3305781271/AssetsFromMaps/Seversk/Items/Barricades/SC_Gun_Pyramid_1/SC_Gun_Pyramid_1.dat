@@ -1,0 +1,55 @@
+﻿GUID 5cdbee9db9114a498ec120bd1db64933
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Storage
+ID 41419
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 300
+Range 4
+Radius 0.1
+Offset 0.56
+SalvageItem 5cdbee9db9114a498ec120bd1db64933
+Storage_X 5
+Storage_Y 3
+Display
+Vulnerable
+Explosion 41302
+Can_Be_Damaged true
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false
+Bypass_Pickup_Ownership false
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID "edc4d492616c4bfa841f8a8a1c58df1e" // Plastic Fragments
+				Amount 4
+			}
+			{
+				ID "28302cbb580641738db43ae62a045dbe" // Insulating Tape
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+]
+
+PlacementAudioClip Sounds/Placement_1.ogg
+Salvage_Duration_Multiplier 0.4
+
+Should_Close_When_Outside_Range true
+Has_Clip_Prefab false

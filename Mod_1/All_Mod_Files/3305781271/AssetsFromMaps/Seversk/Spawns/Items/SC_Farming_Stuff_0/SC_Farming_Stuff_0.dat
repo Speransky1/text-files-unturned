@@ -1,0 +1,82 @@
+﻿GUID 5fa3976e6b0148ab911e33b5aa8d1bde
+Type Spawn
+ID 41449
+
+Tables
+[
+	{
+		// Hammer (Melee Item)
+		LegacyAssetId 41348
+		Weight 54
+	}
+	{
+		// Shovel (Melee Item)
+		LegacyAssetId 41659
+		Weight 44
+	}
+	{
+		// Handsaw (Supply Item)
+		LegacyAssetId 41347
+		Weight 40
+	}
+	{
+		// Pickaxe (Melee Item)
+		LegacyAssetId 41627
+		Weight 38
+	}
+	{
+		// Lumberjack Axe (Melee Item)
+		LegacyAssetId 41363
+		Weight 38
+	}
+	{
+		// Screwdriver (Melee Item)
+		LegacyAssetId 41343
+		Weight 38
+	}
+	{
+		// Box of Shotgun Shells (Supply Item)
+		LegacyAssetId 41704
+		Weight 30
+	}
+	{
+		// Canteen (Refill Item)
+		LegacyAssetId 41684
+		Weight 30
+	}
+	{
+		// Binoculars (Optic Item)
+		LegacyAssetId 41653
+		Weight 30
+	}
+	{
+		// Potato Seed (Farm Item)
+		LegacyAssetId 41644
+		Weight 30
+	}
+	{
+		// Beet Seed (Farm Item)
+		LegacyAssetId 41642
+		Weight 30
+	}
+	{
+		// Fertilizer (Grower Item)
+		LegacyAssetId 41399
+		Weight 22
+	}
+	{
+		// MP-133 (Gun Item)
+		LegacyAssetId 41708
+		Weight 16
+	}
+	{
+		// MP-153 (Gun Item)
+		LegacyAssetId 41709
+		Weight 16
+	}
+	{
+		// MP-43 Hunting Shotgun (Gun Item)
+		LegacyAssetId 41703
+		Weight 14
+	}
+]

@@ -1,0 +1,105 @@
+GUID bb44caeeac0e4fe48184fb6ab416fc60
+
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Secondary
+ID 39153
+
+Size_X 2
+Size_Y 2
+Size_Z 0.27
+
+Magazine 39154
+Tactical 39155
+
+Ammo_Min 19
+Ammo_Max 19
+
+Auto
+Semi
+
+Range 180
+Firerate 4
+Action Trigger
+
+Use_Auto_Icon_Measurements True
+Use_Auto_Stat_Descriptions false
+
+
+Unplace 0.2
+Replace 0.7
+
+Muzzle 19023
+Shell 39112
+
+Magazine_Calibers 1
+Magazine_Caliber_0 39202
+
+
+
+Player_Damage 31
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 80
+Zombie_Leg_Multiplier 0.6
+Zombie_Arm_Multiplier 0.7
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 80
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.4
+
+Barricade_Damage 15
+Structure_Damage 15
+Vehicle_Damage 40
+Resource_Damage 80
+Object_Damage 80
+
+Durability 0.2
+
+Aim_In_Duration 0.28
+Spread_Aim 0.1
+Spread_Hip 0.16
+
+Recoil_Min_X 0.4
+Recoil_Min_Y 2
+Recoil_Max_X 1
+Recoil_Max_Y 2.5
+
+Recover_X 0.3
+Recover_Y 0.4
+
+Shake_Min_X -0.003
+Shake_Min_Y 0.004
+Shake_Min_Z -0.05
+Shake_Max_X 0.007
+Shake_Max_Y -0.005
+Shake_Max_Z -0.075
+
+Recoil_Crouch 0.9
+Recoil_Prone 1
+
+Spread_Prone 1
+Spread_Crouch 1
+
+Ballistic_Steps 20
+Ballistic_Travel 9
+Ballistic_Drop 0.005
+
+Damage_Falloff_Range 0.05
+Damage_Falloff_Max_Range 0.3
+Damage_Falloff_Multiplier 0.4
+
+Gunshot_Rolloff_Distance 450
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27

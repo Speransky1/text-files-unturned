@@ -1,0 +1,57 @@
+GUID f61ea2f79c3e4f218fa4c2e4c7146987
+Type Spawn
+ID 10502
+
+Tables
+[
+	{
+		// Кубик Рубика (Barricade Item)
+		Guid b9010b9fd51b4efcbde75327ccbc5675
+		Weight 18
+	}
+	{
+		// Фигурка динозавра (Barricade Item)
+		Guid 25bb2ea9ea894b18a3f40ae0a7c1a074
+		Weight 18
+	}
+	{
+		// Егермейстер (Supply Item)
+		Guid 5b95dac08db7448291dca1eddb3a97ac
+		Weight 18
+	}
+	{
+		// Доллары (Barricade Item)
+		Guid 83602cc6166d43f8bfd8654879843a6d
+		Weight 18
+	}
+	{
+		// Огненная вода (Barricade Item)
+		Guid fa7ff11502704750be464f7d7788b90a
+		Weight 15
+	}
+	{
+		// Родиевая монета (Supply Item)
+		Guid 8e18102142cd4fd5af64b137a352b08b
+		Weight 4
+	}
+	{
+		// Догекоин (Supply Item)
+		Guid 27f2984ea3674dc889ba468d2227c23c
+		Weight 4
+	}
+	{
+		// Золотая монета (Supply Item)
+		Guid bb43eb9aa18b46c288dfe66dd4475527
+		Weight 3
+	}
+	{
+		// Резиновая уточка (Barricade Item)
+		Guid 4e1bc918feee484197f6cb28af08ef3e
+		Weight 2
+	}
+	{
+		// Золотой слиток (Supply Item)
+		Guid 4fb4bee8de8142fdb001a940035d6fa2
+		Weight 1
+	}
+]

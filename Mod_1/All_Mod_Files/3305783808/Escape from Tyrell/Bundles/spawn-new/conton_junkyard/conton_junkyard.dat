@@ -1,0 +1,27 @@
+GUID 35eb31683d4b40bf9003331d13a00572
+Type Spawn
+ID 10132
+
+Tables
+[
+	{
+		// towns_scrap (Spawn)
+		Guid 195ba294c79b4908866478a5168ed89b
+		Weight 260
+	}
+	{
+		// towns_car_stuffs (Spawn)
+		Guid cb7c8c72a3bc4bcfbfc67984892e4cc4
+		Weight 160
+	}
+	{
+		// towns_computers_stuffs (Spawn)
+		Guid 02e463dc0b154723b27503b11259a786
+		Weight 45
+	}
+	{
+		// toolbox_metal_tools (Spawn)
+		Guid 4ac21923d0b544b9a36c4cb40929a223
+		Weight 20
+	}
+]

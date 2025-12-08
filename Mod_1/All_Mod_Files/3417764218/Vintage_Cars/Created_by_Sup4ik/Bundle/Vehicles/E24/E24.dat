@@ -1,0 +1,169 @@
+GUID c4c3af5a4ff64e6180768d8cd32ef318
+Type Vehicle
+Rarity Rare
+ID 19318
+
+Cam_Follow_Distance 5.4
+
+Speed_Min -7
+Speed_Max 20
+
+Steer_Min 12
+Steer_Max 46
+
+Brake 40
+
+Exit 3
+
+Physics_Profile 8acd5d1e4a61449fbd4928058f62a8a6
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1100
+
+IgnitionAudioClip vintagecars.masterbundle:Bundle/Sounds/Ignition_Medium1.mp3
+HornAudioClip vintagecars.masterbundle:Bundle/Sounds/Horn_Medium1.mp3
+
+Health_Min 400
+Health_Max 700
+Health 900
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 4
+
+Explosion d739c4d35a634be7b2e30458c07beb7f
+
+Has_Clip_Prefab false
+Cam_Driver_Offset -0.07
+
+Pitch_Idle -0.1
+Pitch_Drive 0.03
+
+Valid_Speed_Horizontal 150
+
+Fuel_Burn_Rate 1
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_3
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_3
+		ModelUseColliderPose true
+	}
+]
+
+
+ReverseGearRatio 2
+ForwardGearRatios
+[
+	9
+	7
+	6
+	5.8
+	5
+]
+GearShift_UpThresholdRPM 2300
+GearShift_DownThresholdRPM 1000
+GearShift_Duration 0.2
+GearShift_Interval 0.9
+EngineIdleRPM 800
+EngineMaxRPM 5500
+EngineMaxTorque 90
+
+EngineSound_Type EngineRPMSimple
+EngineSound
+{
+	IdlePitch 0.55
+	IdleVolume 0.5
+	MaxPitch 1.5
+	MaxVolume 1.0
+}
+
+PaintableSections
+[
+    {
+        Path Objects/Car_Model
+        MaterialIndex 0
+    }
+    {
+        Path Objects/Car_Model
+        MaterialIndex 1
+    }
+    {
+        Path Failure/Car_Model (1)
+        MaterialIndex 0
+    }
+    {
+        Path Failure/Car_Model (1)
+        MaterialIndex 1
+    }
+    {
+        Path Failure/Car_Model (2)
+        MaterialIndex 0
+    }
+    {
+        Path Failure/Car_Model (2)
+        MaterialIndex 1
+    }
+    {
+        Path Objects/Car_Model_LOD_1
+        MaterialIndex 0
+    }
+    {
+        Path Headlights_Model/Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Headlights_Model/Model_0
+        MaterialIndex 1
+    }
+]
+
+DefaultPaintColors
+[
+    #c1c0c1
+    #363536
+    #d9b517
+    #714b74
+    #a2292a
+    #c77629
+    #346b33
+    #5b5c5b
+    #3c6c95
+    #7b6d61
+]
+
+Asset_Bundle_Version 5
+
+//White
+//Black
+//Yellow
+//Purple
+//Red
+//Orange
+//Green
+//Gray
+//Blue

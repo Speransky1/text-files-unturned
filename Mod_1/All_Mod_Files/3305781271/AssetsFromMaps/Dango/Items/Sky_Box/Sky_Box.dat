@@ -1,0 +1,18 @@
+GUID afeb8df7658b46b88e6be706e98caf42
+
+Type Water
+Useable Consumeable
+Rarity Epic
+ID 44073
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Bleeding
+Broken
+Health 26
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Medkit

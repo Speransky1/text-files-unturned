@@ -1,0 +1,21 @@
+GUID 340f71a1dffd4ac28b0ad2726cac4ed0
+
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Barricade
+ID 62845
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Health 5200
+Range 4
+Radius 0.45
+Offset 0.57
+Salvage_Duration_Multiplier 0.25
+
+Explosion 37
+
+eblan

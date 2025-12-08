@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "987b775a740041788f6120fc6755eb8b"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Water_Tank_0/Water_Tank_0_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Water_Tank_0/Water_Tank_1_M.mat"
+		}
+		{
+			"Name" "cobalt.masterbundle"
+			"Path" "Material_Palettes/CO_Water_Tank_0/Water_Tank_2_M.mat"
+		}
+	]
+}

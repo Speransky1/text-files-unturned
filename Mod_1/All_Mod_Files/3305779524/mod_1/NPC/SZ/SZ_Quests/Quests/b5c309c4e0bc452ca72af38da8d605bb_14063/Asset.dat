@@ -1,0 +1,32 @@
+﻿// Made in NPC Maker by BowieD
+GUID b5c309c4e0bc452ca72af38da8d605bb
+Type Quest
+ID 14063
+Conditions 3
+Condition_0_Type Quest
+Condition_0_ID 14005
+Condition_0_Status Completed
+Condition_0_Logic Equal
+Condition_0_Ignore_NPC False
+
+Condition_1_Type Quest
+Condition_1_ID 14016
+Condition_1_Status Completed
+Condition_1_Logic Equal
+Condition_1_Ignore_NPC False
+
+Condition_2_Type Quest
+Condition_2_ID 14024
+Condition_2_Status Completed
+Condition_2_Logic Equal
+Condition_2_Ignore_NPC False
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 10000
+
+Reward_1_Type Item
+Reward_1_ID 11917
+Reward_1_Amount 0
+Reward_1_Auto_Equip False
+

@@ -1,0 +1,17 @@
+GUID d78f7951998d4f178b949d2c56a521f1
+
+Type Large
+Has_Clip_Prefab false
+ID 58200
+
+Interactability Binary_State
+Interactability_Delay 2
+Interactability_Reset 120
+Interactability_Hint Door
+Interactability_Nav Off
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 57087
+Interactability_Condition_0_Value 4
+Interactability_Condition_0_Logic Equal

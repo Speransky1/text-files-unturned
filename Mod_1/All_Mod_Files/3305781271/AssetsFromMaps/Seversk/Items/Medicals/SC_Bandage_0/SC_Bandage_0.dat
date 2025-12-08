@@ -1,0 +1,48 @@
+﻿GUID d94a7c7464374cbda2b047a64d09050d
+
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 41354
+
+Size_X 1
+Size_Y 1
+Size_Z 0.33
+
+Aid
+Bleeding_Modifier Heal
+Health 20
+Disinfectant 15
+Use_Auto_Stat_Descriptions False
+
+Blueprints
+[
+	{
+		CategoryTag "d089feb7e43f40c5a7dfcefc36998cfb" // Supplies
+		InputItems
+		[
+			{
+				ID this
+				Amount 2
+			}
+			{
+				ID "4b74f6b14f4f414fb8fc80329870e807" // Spool Thread
+				Amount 4
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		OutputItems "35a791f5b3d8418d84b3e8302e2c31ff x 2" // Dressing
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Craft Dressing
+Action_0_Tooltip Improve quality
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset

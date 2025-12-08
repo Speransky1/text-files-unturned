@@ -1,0 +1,33 @@
+"Metadata"
+{
+	"GUID" "9514a193114e4c1f9bae50fcf53073d7"
+	"Type" "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Foliage"
+	[
+		{
+			"Asset"
+			{
+				"GUID" "1aad3e2854ad41a1bba29183f5762e57"
+			}
+			"Weight" "2"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "1c9ef202dc9b42769d1eba3458c75de6"
+			}
+			"Weight" "2"
+		}
+		{
+			"Asset"
+			{
+				"GUID" "741e51ce7a8b40639d6d1cbf33605e65"
+			}
+			"Weight" "2"
+		}
+	]
+}

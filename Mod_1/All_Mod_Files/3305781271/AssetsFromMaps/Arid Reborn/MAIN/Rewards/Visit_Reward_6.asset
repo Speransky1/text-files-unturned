@@ -1,0 +1,8 @@
+GUID 07beffa78d5e424681c1f9603ee196c0
+Type RewardsList
+
+//Visit Al-Mahjoora
+Rewards 1
+Reward_0_Type Flag_Bool
+Reward_0_ID 22627
+Reward_0_Value True

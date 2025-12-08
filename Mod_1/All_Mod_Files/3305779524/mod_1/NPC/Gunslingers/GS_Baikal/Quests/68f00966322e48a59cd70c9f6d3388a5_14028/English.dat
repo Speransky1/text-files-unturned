@@ -1,0 +1,7 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=uncommon>Чистильщик</color>
+Description Прошлые задания были довольно простыми. Теперь придется заняться грязной работой. <color=mythical>Байкалу</color> нужно чтобы ты сократил увеличившуюся популяцию крыс в Подземке. Чем больше - тем лучше. Как сделаешь дело, возвращайся в Бар
+Condition_0 Крыс убито {0}/{1}
+Reward_2 <color=white>Новая тактическая одежда у</color> <color=epic>Дюшеса</color>
+Reward_3 <color=white>Новые рюкзаки у</color> <color=epic>Дюшеса</color>
+Reward_4 <color=white>Новый комплект у</color> <color=epic>Дюшеса:</color>

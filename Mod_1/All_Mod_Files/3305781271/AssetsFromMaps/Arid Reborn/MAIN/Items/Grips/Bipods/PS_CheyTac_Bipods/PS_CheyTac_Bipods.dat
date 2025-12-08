@@ -1,0 +1,49 @@
+GUID 650e8dfe1a0b458c911fc5aa4dfef5be
+Type Grip
+Rarity Legendary
+ID 10698
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Bipod
+
+Recoil_X 0.5
+Recoil_Y 0.5
+
+Aim_Duration_Multiplier 2
+Shake 0.45
+Spread 0.75
+Sway 0.45
+
+Calibers 1
+Caliber_0 10683
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10698
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 19000
+Blueprint_0_Output_0_Amount 5
+Blueprint_0_Output_1_ID 19262
+Blueprint_0_Output_1_Amount 3
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10698
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 10699
+Blueprint_1_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Blueprint_0_Link
+Action_0_Text Close Bipods
+Action_0_Tooltip Close rifle Bipods.

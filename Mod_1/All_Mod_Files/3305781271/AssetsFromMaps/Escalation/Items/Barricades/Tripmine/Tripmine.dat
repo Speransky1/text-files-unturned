@@ -1,0 +1,50 @@
+GUID 118ea3cfe3f44f28a829b6dd6945731e
+Type Trap
+Rarity Epic
+Useable Barricade
+Build Spike
+ID 51304
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+SalvageItem 118ea3cfe3f44f28a829b6dd6945731e
+
+Health 1
+Range 4
+Radius 0.1
+Offset 0.15
+
+Player_Damage 91
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 175
+Resource_Damage 625
+Object_Damage 100
+
+Range2 8
+Explosion2 51008
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
+Allow_Placement_On_Vehicle False
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 51300
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical True
+Blueprint_0_Supply_1_ID 51017
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 32
+Has_Clip_Prefab false
+
+Bypass_Claim
+Bypass_Pickup_Ownership True

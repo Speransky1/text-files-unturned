@@ -1,0 +1,42 @@
+GUID 40a5927329d04d5c94696fb61cbfd472
+Type Magazine
+Rarity Common
+ID 31176
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Amount 1
+
+Calibers 1
+Caliber_0 25073
+
+Tracer 30062
+
+Stuck 25
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems "21ede8ebffb14c5580e8c7ad149e335e" // Metal Scrap
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems
+		[
+			{
+				ID this
+				Prioritization LowestAmount
+				CountEmptyAsOne true
+			}
+		]
+		OutputItems "21ede8ebffb14c5580e8c7ad149e335e" // Metal Scrap
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]

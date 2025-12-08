@@ -1,0 +1,52 @@
+GUID 053e04dea4ed4ec7bec580ab5294c427
+Type Spawn
+ID 10130
+
+Tables
+[
+	{
+		// Чистящая щетка (Supply Item)
+		Guid 8fce2592d3544b5588b956a199dc439a
+		Weight 45
+	}
+	{
+		// Бумажные полотенца (Supply Item)
+		Guid 498768c7a572493aa82bbe6706635c5d
+		Weight 45
+	}
+	{
+		// Упаковка чая (Supply Item)
+		Guid 03d304865ae4425387c7f966cbc26623
+		Weight 40
+	}
+	{
+		// Веревка (Supply Item)
+		Guid c38d46f8c88e467097837aa3e7bb8a36
+		Weight 35
+	}
+	{
+		// Рыбацкая сеть (Supply Item)
+		Guid 314c9fdf3bc743c2ad3ddf2bed132c71
+		Weight 35
+	}
+	{
+		// Рыбацкая леска (Supply Item)
+		Guid 8b2b757476594eb1b9f5fa2aee877a93
+		Weight 30
+	}
+	{
+		// Зубочистка (Melee Item)
+		Guid 959681a2610a4f96be6a40064605b9cd
+		Weight 30
+	}
+	{
+		// Лопата (Melee Item)
+		Guid 8fe5dc233a8340ca9b89646cd6d39cd5
+		Weight 20
+	}
+	{
+		// Брезент (Supply Item)
+		Guid 15add61a146844429574f3d300bb4ced
+		Weight 15
+	}
+]

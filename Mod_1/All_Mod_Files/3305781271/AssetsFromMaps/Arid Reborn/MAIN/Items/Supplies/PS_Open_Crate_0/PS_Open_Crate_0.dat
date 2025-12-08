@@ -1,0 +1,22 @@
+GUID f3168c44c00142db95126ad19f1b5266
+Type Food
+Rarity Legendary
+Useable Consumeable
+ID 10628
+
+Size_X 3
+Size_Y 2
+
+Quest_Rewards 3
+
+Quest_Reward_0_Type Item_Random
+Quest_Reward_0_ID 19288
+Quest_Reward_0_Amount 12
+
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 19725
+Quest_Reward_1_Amount 1
+
+Quest_Reward_2_Type Hint
+Quest_Reward_2_Text Box Unpacked
+Quest_Reward_2_Duration 1

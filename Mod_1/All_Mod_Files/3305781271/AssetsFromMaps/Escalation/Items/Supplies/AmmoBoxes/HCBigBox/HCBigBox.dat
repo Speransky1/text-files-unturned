@@ -1,0 +1,24 @@
+GUID e17a99f39e9446899d184eb78e736833
+Type Supply
+Rarity Legendary
+ID 51947
+
+Size_X 3
+Size_Y 2
+Size_Z 0.5
+
+Amount 100
+Count_Min 50
+Count_Max 100
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51946
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51947
+Blueprint_1_Build 30
+
+InventoryAudio core.masterbundle:Sounds/Inventory/SmallGunAttachment.asset

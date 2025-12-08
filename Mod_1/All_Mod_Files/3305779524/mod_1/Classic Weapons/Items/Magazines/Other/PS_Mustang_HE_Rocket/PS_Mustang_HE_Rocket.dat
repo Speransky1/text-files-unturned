@@ -1,0 +1,31 @@
+GUID b581e98d391b4d7c9638b07af050802f
+Type Magazine
+Rarity Epic
+ID 31173
+
+Size_X 3
+Size_Y 2
+Size_Z 0.275
+
+Amount 1
+
+Calibers 1
+Caliber_0 25076
+
+Tracer 30063
+
+Delete_Empty
+
+Range 10
+Player_Damage 100
+Zombie_Damage 100
+Animal_Damage 100
+Barricade_Damage 1000
+Structure_Damage 1000
+Vehicle_Damage 400
+Resource_Damage 400
+Object_Damage 400
+Explosion 30024
+Explosive
+
+Explosion_Launch_Speed 30

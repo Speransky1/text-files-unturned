@@ -1,0 +1,26 @@
+GUID fe1b2902c04440bf8bd23a448efdb81c
+
+
+
+Type Sight
+Rarity Epic
+
+ID 51084
+Zoom_Using_Eyes True
+Zoom 1.2
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Holographic
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51084
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 51029
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 51017
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Build 27

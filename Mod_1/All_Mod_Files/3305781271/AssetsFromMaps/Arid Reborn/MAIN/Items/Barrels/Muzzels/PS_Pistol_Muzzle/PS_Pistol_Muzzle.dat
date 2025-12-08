@@ -1,0 +1,31 @@
+GUID a3eb7d07813147ff8c429d2049b443c4
+Type Barrel
+Rarity Uncommon
+ID 19301
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+Calibers 1
+Caliber_0 18900
+
+Recoil_X 1.1
+Recoil_Y 0.75
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19301
+Blueprint_0_Product 19000
+Blueprint_0_Products 1
+Blueprint_0_Tool 19004
+Blueprint_0_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Scrap
+Action_0_Tooltip Turn into <color=#ffffff>Metal</color>.

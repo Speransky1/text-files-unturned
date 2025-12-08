@@ -1,0 +1,25 @@
+GUID 2f9a6534fd0a4d9a9dd12a8652869e97
+
+
+Type Small
+
+Has_Clip_Prefab False
+
+ID 62181
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17003
+Condition_0_Value False
+Condition_0_Logic Equal
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17003
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override aridreborn.masterbundle
+Bundle_Override_Path /Objects/smol/PS_Radar_Station_Key_0

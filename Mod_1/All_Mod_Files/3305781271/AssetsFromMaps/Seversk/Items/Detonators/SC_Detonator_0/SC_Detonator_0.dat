@@ -1,0 +1,54 @@
+﻿GUID 33d3cdfadadc4c0dbb2c22a029de7a10
+
+Type Detonator
+Rarity Rare
+Useable Detonator
+ID 41511
+
+Size_X 1
+Size_Y 3
+Size_Z 0.7
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/Default/Default.asset
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID "34f318433802448582725f19347d0eac" // Broken Walkie Talkie
+			}
+			{
+				ID "fc66e44ca92f49d0b8d4fca4bd512190" // Electronic Fragments
+				Amount 5
+			}
+			{
+				ID "28302cbb580641738db43ae62a045dbe" // Insulating Tape
+			}
+		]
+		RequiresNearbyCraftingTags
+		[
+			// Workbench
+			65b8e05955074c02b64a021be2b98c59
+		]
+		OutputItems this
+		Effect "e7d295146cc54e37b1e4791dc9543b90" // SC_Workbench_0
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems
+		[
+			{
+				ID this
+			}
+		]
+		OutputItems
+		[
+			"34f318433802448582725f19347d0eac" // Broken Walkie Talkie
+			"fc66e44ca92f49d0b8d4fca4bd512190 x 2" // Electronic Fragments
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]

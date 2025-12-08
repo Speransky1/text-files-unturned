@@ -1,0 +1,37 @@
+﻿GUID 22caae2a010946d3a591293e3ee4f18a
+
+Type Medical
+Rarity Common
+Useable Consumeable
+ID 41355
+
+Size_X 1
+Size_Y 1
+Size_Z 0.33
+
+Aid
+Bleeding_Modifier Heal
+Health 10
+Use_Auto_Stat_Descriptions False
+
+Blueprints
+[
+	{
+		CategoryTag "d089feb7e43f40c5a7dfcefc36998cfb" // Supplies
+		InputItems
+		[
+			this x 4
+			"c02845419a134db5a85013fe6f5f1dc3" // Bottle of Disinfectant
+		]
+		OutputItems "d94a7c7464374cbda2b047a64d09050d x 2" // Bandage
+		Effect "696463dfeba44e14814d3315ab45d7ae" // SC_Fabric_Tearing_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Craft Bandage
+Action_0_Tooltip Disinfect the bandages.
+InventoryAudio Sounds/Inventory/FabricRustle/Fabric_Rustle.asset

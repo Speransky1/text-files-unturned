@@ -1,0 +1,27 @@
+GUID a199629a627c4959ad293fac0b266cab
+Type Magazine
+Rarity Rare
+ID 51912
+
+Size_X 1
+Size_Y 2
+Size_Z 0.1
+
+Amount 50
+Count_Min 25
+Count_Max 50
+
+Calibers 1
+Caliber_0 51008
+
+Tracer 51000
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51912
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 32267
+Blueprint_1_Build 30

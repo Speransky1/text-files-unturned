@@ -1,0 +1,19 @@
+GUID 0618d12501e74409b42467e8a598592b
+Type Resource
+ID 39122
+
+Health 1000
+Radius 3
+Scale 0.1
+
+Reward_XP 0
+
+Log 39101
+Forage
+
+Reset 60
+
+Has_Clip_Prefab false
+
+Explosion 39110
+

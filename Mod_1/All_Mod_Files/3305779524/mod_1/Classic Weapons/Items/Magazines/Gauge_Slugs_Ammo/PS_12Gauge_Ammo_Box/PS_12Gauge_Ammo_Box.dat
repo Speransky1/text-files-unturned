@@ -1,0 +1,38 @@
+GUID 92842071536e497ebaa1fa4599a2c6af
+Type Supply
+Rarity Rare
+ID 31042
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31042
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 31040
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Build 30
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31042
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 31041
+Blueprint_1_Output_0_Amount 9
+Blueprint_1_Build 30
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Extract 3 clips from 6 rounds.
+Action_0_Tooltip Open ammo box.
+
+Action_1_Type Blueprint
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text Extract 9 clips from 2 rounds.
+Action_1_Tooltip Open ammo box.

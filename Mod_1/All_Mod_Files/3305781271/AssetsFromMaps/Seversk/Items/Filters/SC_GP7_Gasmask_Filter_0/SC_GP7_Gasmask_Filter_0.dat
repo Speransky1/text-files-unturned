@@ -1,0 +1,50 @@
+﻿GUID b2a21c691ec24401a457d6c81caccaec
+
+Type Filter
+Rarity Epic
+Useable Filter
+ID 41558
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID "edc4d492616c4bfa841f8a8a1c58df1e" // Plastic Fragments
+				Amount 5
+			}
+			{
+				ID "ac8bf20423f44fd1863391b218d05adf" // Absorbent Cotton
+				Amount 2
+			}
+			{
+				ID "928710c647bf4eb1bb1de7cfccdb1844" // Fabric Mesh
+				Amount 2
+			}
+			{
+				ID "1986846586774600b7b8779394e49fb6" // Glue
+			}
+			{
+				ID "199df8a6814b47d49e34de8b44641384" // Scissors
+				Delete false
+			}
+		]
+		OutputItems this
+		Skill Cook
+		Skill_Level 3
+		RequiresNearbyCraftingTags
+		[
+			"20f30322bbcc4b01a4f116d22b24c21a" // Heat Source
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Use_Auto_Stat_Descriptions false

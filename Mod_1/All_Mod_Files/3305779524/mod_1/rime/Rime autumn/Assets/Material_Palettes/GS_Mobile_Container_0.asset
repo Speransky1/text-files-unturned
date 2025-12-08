@@ -1,0 +1,28 @@
+"Metadata"
+{
+	"GUID" "cf630ae0fd49418ab41e42edc71ca00d"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Mobile_Container_0/Mobile_Container_0_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Mobile_Container_0/Mobile_Container_1_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Mobile_Container_0/Mobile_Container_2_M.mat"
+		}
+		{
+			"Name" "goldenish.masterbundle"
+			"Path" "Material_Palettes/GS_Mobile_Container_0/Mobile_Container_3_M.mat"
+		}
+	]
+}

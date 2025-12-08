@@ -1,0 +1,39 @@
+GUID e6bf600f48c542109cdb88efaa159850
+Type Magazine
+Rarity Legendary
+ID 31193
+
+Size_X 2
+Size_Y 2
+Size_Z 0.245
+
+Amount 6
+Count_Min 1
+Count_Max 6
+
+Calibers 1
+Caliber_0 25069
+
+Tracer 30047
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31193
+Blueprint_0_Build 30
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31194
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 31194
+Blueprint_2_Build 30
+
+Delete_Empty
+
+Range 5
+Explosion 30065
+Explosive
+Ballistic_Damage_Multiplier 0.5

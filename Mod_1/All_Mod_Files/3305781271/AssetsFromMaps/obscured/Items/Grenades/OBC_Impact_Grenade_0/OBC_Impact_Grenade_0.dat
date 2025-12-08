@@ -1,0 +1,31 @@
+GUID e42e250085314cdab8a54bedb19ef648
+
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 39147
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Player_Damage 168
+Zombie_Damage 220
+
+Object_Damage 690
+
+Explosion 39111
+Range 10
+
+Explosive
+Explode_On_Impact
+Fuse_Length 90
+
+Strong_Throw_Force 1200
+Weak_Throw_Force 540
+Explosion_Launch_Speed 6
+Boost_Throw_Force_Multiplier 1
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False

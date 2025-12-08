@@ -1,0 +1,31 @@
+GUID 947bb92a1edb4eeb8fe014dee8e4e43f
+Type Spawn
+ID 10139
+
+Roots
+[
+	{
+		// national_guard_blockposts (Spawn)
+		Guid e578e17205e947a1926978a69d966efc
+		Weight 3
+	}
+	{
+		// towns_scrap (Spawn)
+		Guid 195ba294c79b4908866478a5168ed89b
+		Weight 5
+	}
+]
+
+Tables
+[
+	{
+		// towns_scrap (Spawn)
+		Guid 195ba294c79b4908866478a5168ed89b
+		Weight 5
+	}
+	{
+		// national_guard_blockposts (Spawn)
+		Guid e578e17205e947a1926978a69d966efc
+		Weight 3
+	}
+]

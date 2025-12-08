@@ -1,0 +1,37 @@
+GUID 5c7d773f997940b1a2d02857716dd19f
+
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 57721 
+
+Size_X 2
+Size_Y 2
+Size_Z 0.75
+
+Health 100
+Range 4
+Radius 0.25
+Offset 0.9
+
+Storage_X 5
+Storage_Y 4
+Vulnerable
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 67 
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 63
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 57580
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_2_Critical
+Blueprint_0_Build 27
+Blueprint_0_Map Elver
+
+Should_Close_When_Outside_Range true

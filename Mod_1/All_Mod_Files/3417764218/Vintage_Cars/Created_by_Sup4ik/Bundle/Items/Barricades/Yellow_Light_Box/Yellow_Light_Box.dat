@@ -1,0 +1,22 @@
+GUID ccfb29c6b2fe41149dddd921dda8d214
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 19403
+
+Use_Auto_Icon_Measurements False
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 700
+Range 5
+Radius 0
+Offset 0
+
+Explosion 37
+Vulnerable
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+Has_Clip_Prefab false

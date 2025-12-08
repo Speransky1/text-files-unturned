@@ -1,0 +1,44 @@
+GUID 4b2d39ed64d648b7b585ebe7116cee90
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 51630
+
+// Use_Auto_Icon_Measurements false
+SalvageItem 4b2d39ed64d648b7b585ebe7116cee90
+// Min_Items_Dropped_On_Destroy 1
+// Max_Items_Dropped_On_Destroy 1
+// Item_Dropped_On_Destroy 997e711f94a848c985b8bf72dbf9ce8d
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 51307
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 51017
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Tool 51059
+Blueprint_0_Tool_Critical
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51630
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Health 10
+Range 4
+Radius 0.1
+Offset 0.63
+
+Explosion 51023
+Vulnerable
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+Salvage_Duration_Multiplier 1.5
+Bypass_Pickup_Ownership True
+Bypass_Claim
+
+Use_Auto_Stat_Descriptions false

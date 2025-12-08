@@ -1,0 +1,35 @@
+﻿GUID 3bb6318656064771a23e1f9d6f849c8a
+
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 41652
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Quality_Min 100
+Quality_Max 100
+
+Quest_Rewards 5
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 41639
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 41637
+Quest_Reward_1_Amount 1
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 41629
+Quest_Reward_2_Amount 1
+Quest_Reward_3_Type Item
+Quest_Reward_3_ID 41648
+Quest_Reward_3_Amount 1
+Quest_Reward_4_Type Hint
+Quest_Reward_4_Text Filed Ration Unpacked
+Quest_Reward_4_Duration 1
+
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset
+Master_Bundle_Override sovcore.masterbundle
+Bundle_Override_Path /Items/Food/SC_Iskra_0

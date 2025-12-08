@@ -1,0 +1,11 @@
+GUID 254b704bddc249b3886ada8492fe3033
+
+Type Large
+Has_Clip_Prefab false
+ID 58166
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 57087
+Condition_0_Value 4
+Condition_0_Logic Equal

@@ -1,0 +1,29 @@
+﻿// Made in NPC Maker by BowieD
+GUID 42b12c63210f445abc359d3808eb82f6
+Type Quest
+ID 14002
+Conditions 3
+Condition_0_Type Item
+Condition_0_ID 59178
+Condition_0_Amount 4
+Condition_0_Reset 
+
+Condition_1_Type Item
+Condition_1_ID 59031
+Condition_1_Amount 4
+Condition_1_Reset 
+
+Condition_2_Type Item
+Condition_2_ID 59032
+Condition_2_Amount 4
+Condition_2_Reset 
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 550
+
+Reward_1_Type Item
+Reward_1_ID 59039
+Reward_1_Amount 3
+Reward_1_Auto_Equip False
+

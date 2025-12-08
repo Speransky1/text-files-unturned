@@ -1,0 +1,122 @@
+GUID 9e1882b806b049c4bb99d0d55bc73cc8
+Type Spawn
+ID 41446
+
+Tables
+[
+	{
+		// Military Top (Shirt Item)
+		LegacyAssetId 41594
+		Weight 40
+	}
+	{
+		// Military Bottom (Pants Item)
+		LegacyAssetId 41595
+		Weight 40
+	}
+	{
+		// Military Bottom (Pants Item)
+		Guid 894df4ca10ba48819456db1389ac408f
+		Weight 40
+	}
+	{
+		// Military Ushanka (Hat Item)
+		LegacyAssetId 41572
+		Weight 40
+	}
+	{
+		// Military Top (Shirt Item)
+		Guid 6f33ecdb48ea4b748e32f79028f324c5
+		Weight 40
+	}
+	{
+		// Officer's Peaked Hat (Hat Item)
+		LegacyAssetId 41579
+		Weight 25
+	}
+	{
+		// Military Protective Helmet (Hat Item)
+		LegacyAssetId 41605
+		Weight 25
+	}
+	{
+		// Field Sack (Backpack Item)
+		LegacyAssetId 41598
+		Weight 23
+	}
+	{
+		// Field Sack (Backpack Item)
+		LegacyAssetId 41598
+		Weight 23
+	}
+	{
+		// Military Helmet (Hat Item)
+		LegacyAssetId 41604
+		Weight 20
+	}
+	{
+		// Officer's Uniform Bottom (Pants Item)
+		LegacyAssetId 41578
+		Weight 20
+	}
+	{
+		// Military Bottom (Pants Item)
+		LegacyAssetId 41575
+		Weight 20
+	}
+	{
+		// Military Top (Shirt Item)
+		LegacyAssetId 41573
+		Weight 20
+	}
+	{
+		// Officer's Uniform Top (Shirt Item)
+		LegacyAssetId 41577
+		Weight 20
+	}
+	{
+		// Officer's Formal Shirt (Shirt Item)
+		LegacyAssetId 41576
+		Weight 20
+	}
+	{
+		// Military Top (Shirt Item)
+		LegacyAssetId 41574
+		Weight 15
+	}
+	{
+		// Military Backpack (Backpack Item)
+		LegacyAssetId 41596
+		Weight 12
+	}
+	{
+		// Military Backpack (Backpack Item)
+		LegacyAssetId 41597
+		Weight 12
+	}
+	{
+		// Military Titan Helmet (Hat Item)
+		LegacyAssetId 41614
+		Weight 10
+	}
+	{
+		// Military Titan Helmet (Hat Item)
+		LegacyAssetId 41613
+		Weight 10
+	}
+	{
+		// Military Body Armor (Vest Item)
+		LegacyAssetId 41580
+		Weight 10
+	}
+	{
+		// Military Rig (Vest Item)
+		LegacyAssetId 41584
+		Weight 5
+	}
+	{
+		// Military Rig (Vest Item)
+		LegacyAssetId 41583
+		Weight 5
+	}
+]

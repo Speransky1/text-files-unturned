@@ -1,0 +1,20 @@
+GUID 7e6adc97b01f4d0f95bbe2b99c2e51d5
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 19896
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+
+Quest_Rewards 3
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 19890
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 19836
+Quest_Reward_1_Amount 2
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 19893
+Quest_Reward_2_Amount 1

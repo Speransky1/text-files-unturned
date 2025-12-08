@@ -1,0 +1,16 @@
+﻿GUID 39ed4d6c4d844b7ba0b12da5fac31c71
+
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 41621
+
+Size_X 2
+Size_Y 1
+Size_Z 0.16
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset
+Use_Auto_Stat_Descriptions False
+Aid
+Health 10
+Disinfectant 25
+ConsumeAudioClip Sounds/Eating_1.ogg

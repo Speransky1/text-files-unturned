@@ -1,0 +1,12 @@
+GUID 3a6cd8436fc444af9e66ea6466af3bd3
+Type Spawn
+ID 10511
+
+Tables
+[
+	{
+		// Медь (Supply Item)
+		Guid 38203468d6cc47d087f7db4799716e21
+		Weight 1
+	}
+]

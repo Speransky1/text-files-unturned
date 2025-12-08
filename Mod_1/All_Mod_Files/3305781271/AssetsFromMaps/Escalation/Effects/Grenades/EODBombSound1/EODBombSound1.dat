@@ -1,0 +1,5 @@
+GUID 6deded2373ba49f988bb0d25b4623604
+Type Effect
+ID 51039
+Spawn_On_Dedicated_Server
+Relevant_Distance 256

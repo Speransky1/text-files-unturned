@@ -1,0 +1,54 @@
+GUID 1ba535271e934879af4c8187c2badd8d
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 10733
+
+Sight 1301
+
+Auto
+Semi
+
+Caliber 10581
+
+Firerate 16
+Action Rocket
+
+Player_Damage 120
+Zombie_Damage 120
+Animal_Damage 120
+Barricade_Damage 450
+Structure_Damage 600
+Vehicle_Damage 3000
+Resource_Damage 40000
+Object_Damage 3000
+
+Range 15
+Explosion 19061
+
+Spread_Aim 0.03
+Spread_Hip 0.08
+
+
+BladeIDs 3
+BladeID_0 0
+BladeID_1 2
+BladeID_2 3
+
+Ballistic_Force 6000
+
+Gunshot_Rolloff_Distance 350
+
+Recoil_Min_X -1
+Recoil_Min_Y 1
+Recoil_Max_X 1
+Recoil_Max_Y 2
+
+Recover_X 1
+Recover_Y 1
+
+Muzzle 0
+
+Reload_Time 12
+Turret

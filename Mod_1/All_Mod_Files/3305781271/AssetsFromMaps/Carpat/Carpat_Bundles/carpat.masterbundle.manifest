@@ -1,0 +1,659 @@
+ManifestFileVersion: 0
+CRC: 3436022857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e440a8ca566e64ff5ac39e38ded227e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7b7325b1fe382a51f40c849a68cbebb7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 226
+  Script: {instanceID: 0}
+- Class: 227
+  Script: {instanceID: 0}
+- Class: 228
+  Script: {instanceID: 0}
+Assets:
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Train_Station_01/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_04/Slots.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Charge_Thermite/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Tespy_Top/Material.mat
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_green/Material.mat
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_blue/Shirt.png
+- Assets/CarpatMasterBundle/Items/Shirts/Slavic_Hunter_Top/Material.mat
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_03/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_orange/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_07/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_04/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Folder_Takeable_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_white_dot/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_03/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_03/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Chalet_01/Slots.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Black/Horn.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bus_Stop_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Seed_Cucumber/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Candy_Blueberry/Use.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_01/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Power_Line_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_invert/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Carpet_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_brown/Material.mat
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_02/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Street_Light_03/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_02/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_04/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_05/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_Borisevichevo/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_03/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_orange/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_01/Nav.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Monster/Roar_0.wav
+- Assets/CarpatMasterBundle/Items/Pants/slavic_denim shorts/Material.mat
+- Assets/CarpatMasterBundle/Items/Vests/Carpat_Marauder_Vest/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Police_Pants/Material.mat
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Picture_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_09/Nav.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Stump_Clip.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Landmine_Tripwire/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_08/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ambulance_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_green/Item.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Gopnik_Botton/Material.mat
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Bottle_Takeable_03/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Green/Ignition.mp3
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Marauder_Pants/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_blue/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Brown/Backpack.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_blue/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_04/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Sights/Carpat_Vityaz_Iron_Sight/Item.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Glaz/Reload.mp3
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Blue/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Street_Light_02/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_02/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Orange/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_Black_Pidora/Pants.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_06/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_02/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_07/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_05/Nav.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Marauder_Top/Shirt.png
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Orange/Horn.mp3
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Kepka/Use.mp3
+- Assets/CarpatMasterBundle/Items/Magazines/Carpat_Vityaz_30/Item.prefab
+- Assets/CarpatMasterBundle/Items/Magazines/Carpat_Glaz_10/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bus_Stop_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Bottle_Takeable_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Marauder_Top/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Bottle_Takeable_01/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Orange/Vehicle.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Chalet_Breakable_Wall_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_JKG_Pants/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_01/Clip.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Monster/Roar_2.wav
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Bear/Animal_Dedicated.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Bus/Siren.ogg
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Kepka/Barricade.prefab
+- Assets/CarpatMasterBundle/Items/Supplies/Carpat_CPU_01/Item.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_blue/Material.mat
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Wood_Fence_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Tespy_Pants/Item.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Gopnik_Top/Item.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Carpat_Police_Hat/Item.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Gopnik_Botton/Item.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Gopnik_Botton/Pants.png
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Charge_Thermite/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Tespy_Pants/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_02/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_White_Pidora/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_brown/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Concrete_Fence_02/Object.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Slavic_Hunter_Top/Item.prefab
+- Assets/CarpatMasterBundle/Items/Pants/slavic_denim shorts/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_01/Clip.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Blue/Ignition.mp3
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Police_Top/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_School_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_07/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_02/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Pistol_Holster/Animations.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Stump_Old.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Resource.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_02/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_02/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_02/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_04/Object.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Resource_Clip_Old.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Blue/Vehicle.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Brown/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_08/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_06/Clip.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Police/Ignition.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_04/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_05/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Marauder_Pants/Pants.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Landmine_Tripwire/Barricade.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_03/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_04/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Red/Horn.mp3
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Wolf/Animal_Client.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_brown/Item.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Carpat_Marauder_Hat/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Vityaz/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_brown/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_blue/Shirt.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Water_Tower_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Train_Station_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_03/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Disk_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_03/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_05/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_green/Shirt.png
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Wolf/Ragdoll.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Bear/Roar_0.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_Haika/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Orange/Siren.ogg
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Blue/Horn.mp3
+- Assets/CarpatMasterBundle/Texture.png
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Resource_Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_01/Slots.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Wolf/Animal_Dedicated.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Police_Top/Item.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Vityaz/Shoot.mp3
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Debris.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_clasic/Item.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Tespy_Pants/Material.mat
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_invert/Material.mat
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_08/Object.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Monster/Animal_Dedicated.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_Borisevichevo/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_02/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Concrete_Fence_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_02/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_02/Nav.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Stump_Clip.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Carpat_Marauder_Hat/Hat.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Dam_01/Slots.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Red/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_white_dot/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Fort-12_Takeable_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Pants/slavic_denim/Item.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Wolf/Roar_0.mp3
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Chalet_Breakable_Wall_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_04/Nav.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Stump_Clip_Old.prefab
+- Assets/CarpatMasterBundle/Items/Vests/Carpat_Wiz_Vest/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Power_Line_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_02/Object.prefab
+- Assets/CarpatMasterBundle/Items/Vests/Carpat_Police_Vest/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Kepka/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Oven_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Disk_02/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_02/Clip.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Stump.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_School_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_Putanovo/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Kepka/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Oven_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_clasic/Shirt.png
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Pistol_Holster/Backpack.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Fort-12_Returnable/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_blue/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Table_Wood_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_green/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Pants/slavic_denim shorts/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_blue/Material.mat
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Stump_Old.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_Borisevichevo/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_03/Slots.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_brown/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Water_Tower_01/Clip.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Debris.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Skybox_Old.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Wolf/Roar_1.mp3
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_White/Siren.ogg
+- Assets/CarpatMasterBundle/Items/Shirts/Slavic_JKG_Top/Material.mat
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_09/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Chalet_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Vityaz/Hammer.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Dam_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_03/Nav.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Black/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_03/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Red/Vehicle.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_White/Horn.mp3
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_Haika/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Concrete_Fence_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Vityaz/Reload.mp3
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Firewood_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Dam_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Candy_Blueberry/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Vine_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Train_Station_01/Nav.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Bear/Animal_Client.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Firewood_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Police_Pants/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Disk_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Street_Light_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Landmine_Tripwire/Use.mp3
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Charge_Thermite/Use.mp3
+- Assets/CarpatMasterBundle/Items/Vests/Carpat_Marauder_Vest/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Bottle_Takeable_03/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Carpat_Gopnik_Hat/Hat.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Tespy_Top/Shirt.png
+- Assets/CarpatMasterBundle/Items/Sights/Carpat_Green_Dot_Sight/Item.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Police_Top/Material.mat
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Orange/Item.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_Black_Pidora/Material.mat
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Street_Light_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_05/Clip.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Resource_Old.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Slavic_Hunter_Top/Shirt.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_03/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Pistol_Holster/Item.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Police/Vehicle.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_green/Shirt.png
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Bear/Ragdoll.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_08/Clip.prefab
+- Assets/CarpatMasterBundle/Material.mat
+- Assets/CarpatMasterBundle/Items/Vests/Carpat_Wiz_Vest/Vest.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Seed_Cucumber/Barricade.prefab
+- Assets/CarpatMasterBundle/Items/Pants/slavic_denim/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_03/Nav.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Ambulance/Siren.ogg
+- Assets/CarpatMasterBundle/Items/Magazines/Carpat_Glaz_10/Magazine.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Street_Light_02/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Table_Wood_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_02/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Seed_Cucumber/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_orange/Material.mat
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Concrete_Fence_02/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Police_Top/Shirt.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_02/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Slavic_Panama_Bag/Hat.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Slavic_Panama_Bag/Item.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Bear/Animal_Server.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Black/Ignition.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_02/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Flag_Ukrainian/Object.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_brown/Material.mat
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Wood_Fence_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Supplies/Carpat_Flash_Drive_01/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_04/Clip.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Ambulance/Ignition.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Police_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_03/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Folder_Takeable_01/Clip.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Monster/Ragdoll.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Carpat_Gopnik_Hat/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Slavic_JKG_Top/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_green/Material.mat
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_04/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Landmine_Tripwire/Item.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Green/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Blue/Backpack.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Orange/Backpack.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_Black_Pidora/Item.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_JKG_Pants/Pants.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_02/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Tespy_Pants/Pants.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Train_Station_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Concrete_Fence_01/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Ambulance/Horn.mp3
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Ambulance/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_White_Pidora/Material.mat
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Resource_Clip_Old.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bus_Stop_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Glaz/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Carpet_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_03/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Carpet_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Condensed_Milk/Use.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Dam_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_05/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_02/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ambulance_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Blue/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_02/Clip.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Blue/Siren.ogg
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_orange/Shirt.png
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Picture_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_01/Clip.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_White/Vehicle.prefab
+- Assets/CarpatMasterBundle/Items/Supplies/Carpat_Leather_Wolf/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Well_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Charge_Thermite/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Marauder_Pants/Material.mat
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Green/Backpack.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Candy_Blueberry/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Sights/Carpat_Green_Dot_Sight/Sight.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_School_01/Slots.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Red/Siren.ogg
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_01/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Bus/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_02/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Street_Light_02/Object.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Carpat_Police_Hat/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_09/Slots.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Slavic_JKG_Top/Shirt.png
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_invert/Item.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Resource_Old.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_04/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_Putanovo/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Street_Light_01/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Orange/Ignition.mp3
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_JKG_Pants/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_05/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_06/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Police_01/Nav.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Green/Siren.ogg
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_clasic/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Well_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_04/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_03/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_09/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Police_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_clasic/Material.mat
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_03/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_brown/Shirt.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_02/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Chalet_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Skybox_Old.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_05/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Train_Station_01/Clip.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Monster/Roar_1.wav
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_03/Slots.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Marauder_Top/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Orange/Animations.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_White/Ignition.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_03/Skybox.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Ambulance/Vehicle.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_07/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Fridge_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Condensed_Milk/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Fort-12_Takeable_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_05/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Bottle_Takeable_02/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Street_Light_03/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_02/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Fridge_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Marauder_Top/Material.mat
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_02/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_02/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_09/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Chalet_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Chalet_Breakable_Wall_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_04/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Pants/slavic_denim/Material.mat
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Cucumber/Use.mp3
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Table_Wood_01/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Bus/Vehicle.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_Black_Pidora/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_02/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Slavic_Hunter_Top/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_01/Slots.prefab
+- Assets/CarpatMasterBundle/Items/Vests/Carpat_Wiz_Vest/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_06/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_05/Object.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Monster/Animal_Client.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_05/Slots.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Glaz/Shoot.mp3
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_04/Object.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Green/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_05/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_03/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_03/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Gopnik_Top/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_01/Slots.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Bear/Roar_2.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_06/Slots.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Police/Siren.ogg
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Bottle_Takeable_02/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Vests/Carpat_Police_Vest/Vest.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Charge_Thermite/Barricade.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_06/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_04/Slots.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Black/Vehicle.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_Haika/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Magazines/Carpat_Vityaz_30/Magazine.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ambulance_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Pants/slavic_denim/Pants.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_03/Object.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_invert/Shirt.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_06/Object.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_orange/Material.mat
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Water_Tower_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Gopnik_Botton/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_03/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_08/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Apartment_01/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_03/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Vityaz/Item.prefab
+- Assets/CarpatMasterBundle/Items/Supplies/Carpat_Leather_Bear/Item.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_brown/Shirt.png
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Cucumber/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_02/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_02/Nav.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Red/Ignition.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Vine_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Seed_Cucumber/Use.mp3
+- Assets/CarpatMasterBundle/Animals/Carpat_Monster/Animal_Server.prefab
+- Assets/CarpatMasterBundle/Items/Pants/slavic_denim shorts/Pants.png
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Green/Horn.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_05/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Chalet_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_orange/Item.prefab
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Brown/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Flag_Ukrainian/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Charge_Thermite/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Police_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Glaz/Hammer.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bunker_02/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Well_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_green/Item.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Marauder_Pants/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_06/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Police_Pants/Item.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Carpat_Marauder_Hat/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Apartment_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Flag_Ukrainian/Nav.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Bear/Roar_1.mp3
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_TV_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_02/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_04/Nav.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Police/Horn.mp3
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Dam_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Wolf/Animal_Server.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_TV_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_05/Slots.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_green/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_07/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Vests/Carpat_Police_Vest/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bus_Stop_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Supplies/Carpat_GPU_01/Item.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Resource.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_04/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_02/Clip.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_White/Clip.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Black/Siren.ogg
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Vine_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Tespy_Top/Item.prefab
+- Assets/CarpatMasterBundle/Items/Guns/Carpat_Glaz/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_01/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_02/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Candy_Lusod/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_02/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_02/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_white_dot/Material.mat
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Green/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_04/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_02/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Garage_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_02/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Water_Tower_01/Slots.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Candy_Lusod/Use.mp3
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_03/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_04/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Apartment_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_TV_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_01/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_05/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Apartment_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_02/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Bus_Stop_01/Slots.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Police/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_03/Slots.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Slavic_JKG_Top/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Water_Tower_01/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_blue/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Street_Light_03/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Fort-12_Returnable/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ambulance_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_School_01/Nav.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Bus/Ignition.mp3
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Resource_Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Gopnik_Top/Shirt.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Police_01/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Disk_02/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Candy_Lusod/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_Putanovo/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Fort-12_Takeable_02/Object.prefab
+- Assets/CarpatMasterBundle/Effects/Carpat_Kepka_Effect/Effect.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_White_Pidora/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_06/Skybox.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Office_01/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_04/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Small/Carpat_Fort-12_Takeable_02/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Supplies/Carpat_Leather_Monster/Item.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Landmine_Tripwire/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_03/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Sights/Carpat_Vityaz_Iron_Sight/Sight.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Cucumber/Item.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_0/Stump.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ambulance_01/Slots.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Sign_03/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Concrete_Fence_02/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_04/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_05/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Vests/Carpat_Marauder_Vest/Vest.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Carpat_Gopnik_Hat/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_House_01/Skybox.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Carpat_Police_Pants/Pants.png
+- Assets/CarpatMasterBundle/Items/Backpacks/Slavic_Backpack_Blue/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Firewood_01/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_02/Object.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_JKG_Pants/Material.mat
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_05/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_School_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_hoody_orange/Shirt.png
+- Assets/CarpatMasterBundle/Items/Hats/Carpat_Police_Hat/Hat.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_shirt_white_dot/Shirt.png
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Bus/Horn.mp3
+- Assets/CarpatMasterBundle/Items/Shirts/slavic_open_hoody_orange/Item.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Kepka/Item.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Oven_01/Nav.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Fridge_01/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_04/Nav.prefab
+- Assets/CarpatMasterBundle/Items/Hats/Slavic_Panama_Bag/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Picture_01/Nav.prefab
+- Assets/CarpatMasterBundle/Animals/Carpat_Mutant_Wolf/Roar_2.mp3
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Wood_Fence_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Pants/Slavic_White_Pidora/Pants.png
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_06/Skybox.prefab
+- Assets/CarpatMasterBundle/Vehicles/Carpat_Lanus_Green/Vehicle.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Ruin_01/Clip.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Gopnik_Top/Material.mat
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_05/Slots.prefab
+- Assets/CarpatMasterBundle/Trees/Carpat_Pine_1/Stump_Clip_Old.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Apartment_01/Object.prefab
+- Assets/CarpatMasterBundle/Items/Barricades/Carpat_Seed_Cucumber/Item.prefab
+- Assets/CarpatMasterBundle/Items/Shirts/Carpat_Tespy_Top/Animations.prefab
+- Assets/CarpatMasterBundle/Items/Food/Carpat_Condensed_Milk/Animations.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Barn_03/Object.prefab
+- Assets/CarpatMasterBundle/Objects/Large/Carpat_Factory_04/Clip.prefab
+- Assets/CarpatMasterBundle/Objects/Medium/Carpat_Power_Line_01/Nav.prefab
+Dependencies: []

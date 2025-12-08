@@ -1,0 +1,5 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Extraction
+Description Insert a USB into a computer in Fort Knell server room.
+Condition_0 {0}/{1} Inserted USBs
+Reward_2 Documents Exchange 

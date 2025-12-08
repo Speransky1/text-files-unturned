@@ -1,0 +1,5 @@
+Name PS Armored Door Openable #3 (Tamara Complex)
+
+Interactability_Condition_0 No Power [{0}/2]
+
+Interact Use [{0}]

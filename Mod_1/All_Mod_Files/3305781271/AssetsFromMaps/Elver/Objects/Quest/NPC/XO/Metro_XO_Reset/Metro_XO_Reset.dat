@@ -1,0 +1,20 @@
+GUID 7c9b1cbd7b8949ffa8702df0ceb5b41e
+
+Type Small
+Has_Clip_Prefab false
+ID 57564
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+//Resets
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 57300
+Interactability_Reward_0_Value True
+
+Conditions 1
+//Appears when O selected
+Condition_0_Type Flag_Bool
+Condition_0_ID 57301
+Condition_0_Value True
+Condition_0_Logic Equal

@@ -1,0 +1,38 @@
+GUID cf0df46590df4ae8a65b98f0b3488591
+
+Type Storage
+Rarity Legendary
+Useable Barricade
+Build Storage
+ID 57264
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 1290
+Range 4
+Radius 0.45
+Offset 0.75
+
+Storage_X 6
+Storage_Y 7
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 57263
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 57222
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+
+Asset_Bundle_Version 3

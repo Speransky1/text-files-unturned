@@ -1,0 +1,53 @@
+GUID 7003a5da12d245fa8c999d93ea1da32d
+
+Type Melee
+Rarity Uncommon
+Useable Melee
+Slot Tertiary
+ID 27163
+
+Size_X 1
+Size_Y 2
+Size_Z 0.6
+
+Range 1.89
+Strength 1.5
+
+Weak 0.381
+Strong 0.415
+Stamina 10
+
+Player_Damage 15
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 20
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 15
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 4
+Resource_Damage 1
+Object_Damage 5
+
+Light
+SpotLight_Angle 120
+SpotLight_Intensity 1.2
+SpotLight_Range 8
+SpotLight_Color_R 0.960
+SpotLight_Color_G 0.874
+SpotLight_Color_B 0.576
+
+Durability 0
+
+Blueprints 0

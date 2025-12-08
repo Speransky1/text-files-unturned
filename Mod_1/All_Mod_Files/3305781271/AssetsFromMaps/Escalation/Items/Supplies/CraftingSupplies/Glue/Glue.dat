@@ -1,0 +1,14 @@
+GUID ab6772bda536483193356c3e0ae2cb01
+// Type Supply
+Type Water
+Useable Consumeable
+ID 51313
+
+Size_X 1
+Size_Y 2
+Size_Z 0.35
+
+Food 5
+Water 5
+Vision 10
+ConsumeAudioClip core.masterbundle:Sounds/DrinkSwallow.mp3

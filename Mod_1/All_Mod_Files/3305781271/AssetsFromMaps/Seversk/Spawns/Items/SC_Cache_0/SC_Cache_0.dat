@@ -1,0 +1,72 @@
+GUID 8e438c1dbff64141847e58c8d50774f9
+Type Spawn
+ID 41436
+
+Tables
+[
+	{
+		// Grenade Fuse (Supply Item)
+		LegacyAssetId 41568
+		Weight 30
+	}
+	{
+		// Fabric Mesh (Supply Item)
+		LegacyAssetId 41562
+		Weight 30
+	}
+	{
+		// Metal Sheet (Supply Item)
+		LegacyAssetId 41344
+		Weight 30
+	}
+	{
+		// Geiger Counter (Supply Item)
+		LegacyAssetId 41798
+		Weight 28
+	}
+	{
+		// Canteen (Refill Item)
+		LegacyAssetId 41684
+		Weight 25
+	}
+	{
+		// Broken Walkie Talkie (Supply Item)
+		LegacyAssetId 41510
+		Weight 22
+	}
+	{
+		// Gunpowder (Supply Item)
+		LegacyAssetId 41458
+		Weight 22
+	}
+	{
+		// Armor Plate (Supply Item)
+		LegacyAssetId 41320
+		Weight 20
+	}
+	{
+		// Aramid Fabric (Supply Item)
+		LegacyAssetId 41319
+		Weight 20
+	}
+	{
+		// Gun Parts (Supply Item)
+		LegacyAssetId 41316
+		Weight 18
+	}
+	{
+		// Military Battery (Barricade Item)
+		LegacyAssetId 41369
+		Weight 15
+	}
+	{
+		// Brick (Supply Item)
+		Guid 74af3d6a1de94af88f49c639883c5dba
+		Weight 15
+	}
+	{
+		// Sodium Perchlorate (Supply Item)
+		LegacyAssetId 41506
+		Weight 12
+	}
+]

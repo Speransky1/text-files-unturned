@@ -1,0 +1,8 @@
+GUID 299b58bca3b94ff58acd0870a788bf1c
+Type Effect
+ID 30021
+
+Relevant_Distance 500
+
+CameraShake_Radius 1
+CameraShake_MagnitudeDegrees 10

@@ -1,0 +1,19 @@
+GUID 10a1ff657e87436ab4c10a9166d2d8ea
+
+Type Storage
+Useable Barricade
+Build Storage_Wall
+ID 57707
+
+Size_X 1
+Size_Y 1
+Size_Z 0.375
+
+Health 50
+Range 4
+Offset 0.11
+
+Storage_X 4
+Storage_Y 4
+
+Should_Close_When_Outside_Range true

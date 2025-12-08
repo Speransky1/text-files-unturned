@@ -1,0 +1,69 @@
+﻿// Made in NPC Maker by BowieD
+GUID 0d23f469146d4f269432ecbc8096d686
+Type Dialogue
+ID 12093
+Messages 1
+Message_0_Pages 1
+Responses 1
+Response_0_Dialogue 12037
+Response_0_Quest 14041
+Response_0_Rewards 15
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 14041
+
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 17019
+Response_0_Reward_1_Value False
+
+Response_0_Reward_2_Type Flag_Bool
+Response_0_Reward_2_ID 17020
+Response_0_Reward_2_Value False
+
+Response_0_Reward_3_Type Flag_Bool
+Response_0_Reward_3_ID 17021
+Response_0_Reward_3_Value False
+
+Response_0_Reward_4_Type Flag_Bool
+Response_0_Reward_4_ID 17022
+Response_0_Reward_4_Value False
+
+Response_0_Reward_5_Type Flag_Bool
+Response_0_Reward_5_ID 17023
+Response_0_Reward_5_Value False
+
+Response_0_Reward_6_Type Flag_Bool
+Response_0_Reward_6_ID 17024
+Response_0_Reward_6_Value False
+
+Response_0_Reward_7_Type Flag_Bool
+Response_0_Reward_7_ID 17025
+Response_0_Reward_7_Value False
+
+Response_0_Reward_8_Type Flag_Bool
+Response_0_Reward_8_ID 17026
+Response_0_Reward_8_Value False
+
+Response_0_Reward_9_Type Flag_Bool
+Response_0_Reward_9_ID 17027
+Response_0_Reward_9_Value False
+
+Response_0_Reward_10_Type Flag_Bool
+Response_0_Reward_10_ID 17028
+Response_0_Reward_10_Value False
+
+Response_0_Reward_11_Type Flag_Bool
+Response_0_Reward_11_ID 17029
+Response_0_Reward_11_Value False
+
+Response_0_Reward_12_Type Flag_Bool
+Response_0_Reward_12_ID 17030
+Response_0_Reward_12_Value False
+
+Response_0_Reward_13_Type Flag_Bool
+Response_0_Reward_13_ID 17031
+Response_0_Reward_13_Value False
+
+Response_0_Reward_14_Type Flag_Bool
+Response_0_Reward_14_ID 17032
+Response_0_Reward_14_Value False
+

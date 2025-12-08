@@ -1,0 +1,48 @@
+GUID 47413a22f71f4f68aa280aa23cf3f28b
+Type Charge
+Rarity Legendary
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Charge
+ID 19666
+
+SalvageItem 47413a22f71f4f68aa280aa23cf3f28b
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+
+PlacementAudioClip Sounds/BeepPlacing1.mp3
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 1
+Range 3
+Offset 0.07
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 1550
+Structure_Damage 2050
+Vehicle_Damage 6000
+Resource_Damage 3000
+Object_Damage 3000
+
+Explosion_Launch_Speed 30
+
+Range2 12
+Explosion2 19046
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True
+
+Allow_Placement_Inside_Clip_Volumes False

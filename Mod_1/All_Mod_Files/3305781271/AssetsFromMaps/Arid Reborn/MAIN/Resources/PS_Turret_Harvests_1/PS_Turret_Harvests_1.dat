@@ -1,0 +1,18 @@
+GUID 04a3e4abfc724e3db251f096a4bc94d2
+
+Type Resource
+Has_Clip_Prefab False
+ID 59045
+
+Health 34300
+Radius 3
+
+Scale 0
+
+Forage
+
+Reset 3600
+
+BladeID 44
+
+Log 60002

@@ -1,0 +1,13 @@
+GUID 8dfbce8999d8426bad4d2493e145c6ed
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 6631
+
+Size_X 1
+Size_Y 1
+Size_Z 0.225
+
+Food 20
+
+Bypass_ID_Limit

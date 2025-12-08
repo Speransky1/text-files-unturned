@@ -1,0 +1,23 @@
+GUID f2eb1fe798494a93a58887b291dcf88d
+
+
+
+Type Small
+
+Has_Clip_Prefab False
+
+ID 62186
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 17018
+Condition_0_Value False
+Condition_0_Logic Equal
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 17018
+Interactability_Reward_0_Value True

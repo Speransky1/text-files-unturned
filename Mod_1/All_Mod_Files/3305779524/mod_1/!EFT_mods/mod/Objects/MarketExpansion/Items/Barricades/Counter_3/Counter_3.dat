@@ -1,0 +1,21 @@
+GUID 3108eaf4d066443b814445567c822847
+Type Storage
+Useable Barricade
+Build Storage
+ID 45372
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Health 250
+Range 4
+Radius 0.22
+Offset 0.5
+
+Storage_X 2
+Storage_Y 4
+
+Locked
+
+Explosion 19

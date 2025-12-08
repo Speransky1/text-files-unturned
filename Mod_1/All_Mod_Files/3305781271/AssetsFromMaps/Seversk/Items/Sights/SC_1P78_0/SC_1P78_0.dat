@@ -1,0 +1,48 @@
+﻿GUID 07849bcc77f542a98b94bf47904d903e
+Type Sight
+Rarity Rare
+ID 41736
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Spread 0.8
+Holographic
+Zoom 2.8
+ThirdPerson_Zoom 1.5
+Calibers 1
+Caliber_0 43013
+Use_Auto_Icon_Measurements true
+Use_Auto_Stat_Descriptions false
+InventoryAudio Sounds/Inventory/Default/Default.asset
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Screwdriver
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 2" // Metal Parts
+			"fc66e44ca92f49d0b8d4fca4bd512190 x 2" // Electronic Fragments
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Salvage
+Action_0_Tooltip Salvage into component materials.
+Add_Default_Actions false

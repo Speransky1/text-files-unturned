@@ -1,0 +1,18 @@
+GUID 7a3a961929154479932c69d9083ef409
+Type Mask
+Rarity Mythical
+Useable Clothing
+ID 6602
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Armor 0.9
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 6602
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27

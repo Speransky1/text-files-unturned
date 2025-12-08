@@ -1,0 +1,14 @@
+﻿GUID 8cf56521a8da424d9a3a8015f68a9e28
+
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 41300
+Use_Auto_Stat_Descriptions false
+Size_X 2
+Size_Y 2
+Size_Z 0.41
+Warmth 150
+Health 20
+
+InventoryAudio Sounds/Inventory/BagRustle/Bag_Rustle.asset

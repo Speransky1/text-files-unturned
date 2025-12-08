@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "8d472e0c19a4435ebb528cdc88436057"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.SearrchAndDestroy.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "arid_music.masterbundle"
+		"AssetPath" "Search_And_Destroy/Search And Destroy.wav"
+	}
+	"Link_URL" "https://www.youtube.com/c/staswalle"
+}

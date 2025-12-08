@@ -1,0 +1,281 @@
+ManifestFileVersion: 0
+CRC: 295785383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46461a68c9e7368ab89dd8e55973b5d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71166e864276d3f8b1ec0a7ab932a2e3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f12379735a496f49aba15992fc51ec2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 1773428102
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_OKP7_0/Sight.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/G_C8A3_Sight/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Aim_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_OKP7_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Attach_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/G_C8A3_0/Hammer.mp3
+- Assets/Commissions/GGuns.masterbundle/Effects/G_Casing_0/Trail.mat
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/T5000.fbx
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/G_Ash_Custom_0/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_1/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/G_AK47_Mag_0/Magazine.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_Mag_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/G_C8A3_0/Shoot.wav
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Attach_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/M4_Custom.fbx
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Inspect.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/G_AK47_0/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/M4.controller
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Aim_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/G_C8A3_0/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_8T_Sight_0/Res/Scope.mat
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Attach_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/G_AK47_0/Shoot.wav
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_Scope_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Sprint_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Ash_Camo.mat
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/G_C8A3_Sight/Sight.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/G_C8A3_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/G_Deagle_Mag_0/Magazine.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Aim_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Ash_Camo.png
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Attach_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/C8A3.fbx
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Aim_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Sprint_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Sprint_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Equip.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_Scope_0/AUG_Scope_0_Emission.png
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/G_AK47_0/Hammer.mp3
+- Assets/Commissions/GGuns.masterbundle/Effects/G_Casing_0/Effect.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Equip.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Aim_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Aim_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Equip.anim
+- Assets/Commissions/GGuns.masterbundle/Effects/G_Casing_0/Casing_0.fbx
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/T5000_Ghillie.png
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Inspect.anim
+- Assets/Commissions/GGuns.masterbundle/Effects/G_Muzzle_1/Effect.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_Scope_0/Sight.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/G_AK47_Mag_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_M4_Custom_0/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_Scope_0/Sight.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Deagle.controller
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/G_AK47_0/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_8T_Sight_0/Sight.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_Scope_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Aim_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Effects/G_Muzzle_0/Muzzle_0.asset
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/G_MK17_Mag_0/Magazine.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Sprint_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Sprint_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Laser_Green.mat
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_M4_Custom_0/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/G_Ash_Custom_0/Hammer.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Sprint_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Aim_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/MK17.fbx
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/AK47.fbx
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_1/Shoot.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Effects/G_Muzzle_0/Effect.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/G_MK17_0/Hammer.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/G_Deagle_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Aim_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Equip.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Sprint_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_8T_Sight_0/Res/Scope.png
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_1/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Equip.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/G_Ash_Custom_0_Mag_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_M4_Custom_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Equip.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/G_Ash_Supressor/Barrel.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_Mag_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Aim_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Sprint_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_0/Hammer.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_Supressor/Shoot.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Sprint_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_0/Shoot.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Attach_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/T5000_Ghillie.mat
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_1/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_M4_Custom_Mag_0/Magazine.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_Mag_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Effects/G_Muzzle_0/Flash_0.png
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Aim_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_M4_Custom_0/Shoot.wav
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Sprint_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Attach_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Sprint_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Sprint_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Equip.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Attach_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Sprint_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/G_MK17_0/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/G_MK17_0/Shoot.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/G_Deagle_0/Shoot.wav
+- Assets/Commissions/GGuns.masterbundle/Effects/G_Muzzle_0/Flash_0_E.png
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_OKP7_0/res/OKP7_Glass.mat
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Shoot.wav
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Deagle_Shutter.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_Mag_0/Magazine.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Attach_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_0/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_8T_Sight_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Sprint_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_M4_Custom_0/Reload 1.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/G_Ash_Custom_0/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_Mag_0/Magazine.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Attach_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Hammer.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Attach_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Aim_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Sprint_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Inspect.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Sprint_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/M4_Shutter.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_M4_Custom_Mag_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_1/Hammer.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Attach_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_OKP7_0/res/OKP-7_Sight.png
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Inspect.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Aim_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Val_Shutter.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_Supressor/Barrel.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/G_MK17_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Sprint_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/G_Deagle_0/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Hammer.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/G_C8A3_0/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_Supressor/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/res/Anims/Inspect.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/G_C8A3_Mag_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/TBL_Laser.mat
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Aim_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Aim_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Effects/G_Muzzle_0/Flash_0.mat
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Attach_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Attach_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Attach_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_Scope_0/AUG_Scope_0.mat
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Aim_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Sprint_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/G_MK17_Mag_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_M4_Custom_0/Equip.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Attach_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/G_Ash_Supressor/Shoot.wav
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Inspect.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_Mag_0/Magazine.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/G_Ash_Custom_0_Mag_0/Magazine.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_Scope_0/AUG_Scope_0.png
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_0/Attach_Stop.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_1/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_0/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Attach_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Ash_Custom.fbx
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Inspect.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/G_M4_Custom_0/Hammer.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/G_MK17_0/G_MK17_0/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Anims/Equip.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Aim_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/G_AUG_0_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/res/Anims/Aim_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/G_AK47_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Reload.mp3
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/res/Deagle.fbx
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Anims/Inspect.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/G_C8A3_Mag_0/Magazine.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_C8A3_0/res/Anims/Inspect.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Attach_Start.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/G_Deagle_0/Animations.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AK47_0/Res/Anims/Equip.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/G_Ash_Custom_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/AUG.fbx
+- Assets/Commissions/GGuns.masterbundle/Guns/G_M4_Custom/res/Anims/Hammer.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_AsVal_0/Res/Val_0.controller
+- Assets/Commissions/GGuns.masterbundle/Guns/G_T5000/G_T5000_0/Res/Anims/Equip.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AUG_0/res/Anims_1/Reload.anim
+- Assets/Commissions/GGuns.masterbundle/Guns/Deagle/G_Deagle_Mag_0/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_Ash_Custom_0/G_Ash_Supressor/Item.prefab
+- Assets/Commissions/GGuns.masterbundle/Guns/G_AsVal/G_OKP7_0/res/OKP-7_Sight.mat
+Dependencies: []

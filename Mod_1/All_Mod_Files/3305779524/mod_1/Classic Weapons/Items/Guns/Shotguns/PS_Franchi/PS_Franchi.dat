@@ -1,0 +1,115 @@
+GUID 4008d4ea51d04093a33c99ff9a4a05ca
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 64688
+
+Size_X 5
+Size_Y 2
+Size_Z 0.335
+
+Unplace 0.01
+Replace 0.01
+EquipableModelParent SpineHook
+Instantiated_Item_Name_Override 10688
+EquipAudioClip aridreborn.masterbundle:Assets/Guns_Equip/Equip_Shotgun.wav
+
+Magazine 33126
+
+Gunshot_Rolloff_Distance 250
+
+Aim_In_Duration 0.25
+
+
+
+Hook_Sight
+Hook_Barrel
+Use_Auto_Stat_Descriptions false
+
+Ammo_Min 0
+Ammo_Max 8
+
+Safety
+Semi
+
+Attachment_Calibers 2
+Attachment_Caliber_0 18904
+Attachment_Caliber_1 10557
+
+Magazine_Calibers 1
+Magazine_Caliber_0 63544
+
+Range 200
+Firerate 15
+Action Trigger
+
+Damage_Falloff_Range 0.04
+Damage_Falloff_Multiplier 0.1
+
+Player_Damage 15
+Player_Leg_Multiplier 0.7
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 65
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.9
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 65
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.5
+
+Barricade_Damage 28
+Structure_Damage 20
+Vehicle_Damage 10
+Resource_Damage 30
+Object_Damage 20
+
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Durability 0.1
+
+Spread_Aim 0.25
+Spread_Hip 0.05
+
+Recoil_Min_X -4.8
+Recoil_Min_Y 20
+Recoil_Max_X 12.8
+Recoil_Max_Y 40
+
+Recover_X 0.95
+Recover_Y 0.95
+
+Shake_Min_X 0.01
+Shake_Min_Y -0.05
+Shake_Min_Z 0
+Shake_Max_X 0.1
+Shake_Max_Y 0.1
+Shake_Max_Z -0.01
+
+Muzzle 30042
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+Recoil_Midair 1
+Spread_Aim 0.25
+Spread_Hip 0.03
+Spread_Midair 1
+
+Shell 30001
+
+
+Quality_Min 35
+Quality_Max 35

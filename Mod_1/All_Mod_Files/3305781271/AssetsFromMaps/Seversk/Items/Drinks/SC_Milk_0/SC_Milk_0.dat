@@ -1,0 +1,28 @@
+﻿GUID 2db85fe216fc4b2bb709e53ca5862a99
+
+Type Water
+Useable Consumeable
+Rarity Uncommon
+ID 41646
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Water 55
+Energy 10
+
+Blueprints
+[
+	{
+		Name Repair
+		CategoryTag "732ee6ffeb18418985cf4f9fde33dd11" // Repair
+		Operation RepairTargetItem
+		InputItems "3dca37c8a4834a989ef9e5a2f8060ecd" // Purification Tablets
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+InventoryAudio Sounds/Inventory/WaterShaking/Water_Shaking.asset
+ConsumeAudioClip Sounds/Drink_Swallow_0.ogg
+Use_Auto_Stat_Descriptions false

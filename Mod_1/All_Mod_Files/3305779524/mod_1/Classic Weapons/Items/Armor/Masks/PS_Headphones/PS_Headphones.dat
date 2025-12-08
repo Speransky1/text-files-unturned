@@ -1,0 +1,25 @@
+GUID 96ca8b82148948e1b7a10a3d08b3fe72
+Type Mask
+Rarity Rare
+Useable Clothing
+ID 31865
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Hair
+Beard
+
+Earpiece
+
+Blueprints
+[
+	{
+		Name Salvage
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "21ede8ebffb14c5580e8c7ad149e335e" // Metal Scrap
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]

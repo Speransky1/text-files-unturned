@@ -1,0 +1,24 @@
+﻿Metadata
+{
+	GUID 35c7af187a4f42df8b9d296d4af817b6
+	Type SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+}
+Asset
+{
+	ID 0
+	Texture
+	{
+		Name sovcore.masterbundle
+		Path Terrain/Materials/Beach.png
+	}
+	Mask
+	{
+		Name
+		Path
+	}
+	Physics_Material SAND_STATIC
+	Foliage
+	{
+		GUID e4a0c68fb130457da5ddd1ff6337b9e4
+	}
+}

@@ -1,0 +1,24 @@
+GUID 5b797c9e9ec44c2b8e49580d7142d2f4
+Type Sight
+Rarity Epic
+ID 31295
+
+Size_X 2
+Size_Y 1
+Size_Z 0.19
+
+Sway 1.4
+Zoom 4
+Aim_Duration_Multiplier 1.08
+
+Calibers 1
+Caliber_0 25001
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 31295
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27

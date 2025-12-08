@@ -1,0 +1,27 @@
+GUID d0ba1d244e7a42ad8f3ee1454f1a7b78
+
+
+
+Type Supply
+Rarity Common
+ID 48700
+
+Size_X 3
+Size_Y 3
+Size_Z 0.14
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1 
+Blueprint_0_Supply_0_ID 48700
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 59152
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 56247
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 44702
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 44692
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Build 27
+

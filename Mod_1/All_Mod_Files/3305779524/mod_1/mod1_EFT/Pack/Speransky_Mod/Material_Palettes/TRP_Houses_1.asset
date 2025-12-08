@@ -1,0 +1,77 @@
+"Metadata"
+{
+	"GUID" "b4bba69b815142e6854b0c152537d3b3"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_0.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_1.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_2.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_3.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_4.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_5.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_6.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_7.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_8.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_9.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_10.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_11.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_12.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_13.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_14.mat"
+		}
+		{
+			"Name" "t2022.masterbundle"
+			"Path" "Pack/Speransky_Mod/Material_Palettes/TRP_Houses_1/Residential_15.mat"
+		}
+		
+	]
+}

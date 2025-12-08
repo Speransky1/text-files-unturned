@@ -1,0 +1,32 @@
+GUID 4beb15b93a2946c78c92580f1229edc7
+Type Barricade
+Rarity Epic
+Useable Barricade
+Has_Clip_Prefab False
+Build Barricade
+ID 10800
+
+SalvageItem 4beb15b93a2946c78c92580f1229edc7
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 98f515c53e234c498ce828389a7bfff6
+Use_Water_Height_Transparent_Sort
+Size_X 2
+Size_Y 2
+Size_Z 0.42
+
+Health 50
+Range 4
+Radius 0.13
+Offset 0.15
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementPreviewPrefab Items/Barricades/PS_Explosive_Compound_Stack/Placement.prefab
+PlacementAudioClip core.masterbundle:Sounds/WoodenPlacement.mp3
+
+Bypass_Pickup_Ownership True

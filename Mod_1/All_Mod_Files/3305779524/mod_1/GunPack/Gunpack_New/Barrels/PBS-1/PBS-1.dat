@@ -1,0 +1,24 @@
+GUID bd7efe75235f45be96cb0fcee34deff9
+
+Type Barrel
+Rarity Rare
+ID 34106
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 23905
+
+Silenced 
+Volume 0.3
+
+Recoil_X 0.9
+Recoil_Y 0.7
+
+Gunshot_Rolloff_Distance_Multiplier 0.75
+
+
+
+Ballistic_Drop 1.3

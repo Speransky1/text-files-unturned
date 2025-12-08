@@ -1,0 +1,18 @@
+GUID 5445c3a6e05e409aa4a53082c52493d6
+Type Small
+ID 51006
+
+Has_Clip_Prefab false
+
+Master_Bundle_Override pbs.masterbundle
+Bundle_Override_Path /Objects/Small/Harddrive
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 52322
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Short
+Condition_1_ID 52319
+Condition_1_Value 1
+Condition_1_Logic Equal

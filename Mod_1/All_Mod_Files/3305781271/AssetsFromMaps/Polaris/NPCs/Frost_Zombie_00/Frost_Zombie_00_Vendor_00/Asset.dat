@@ -1,0 +1,36 @@
+GUID df8b1fa81983411aa8aa46ae17bbf9b1
+
+Type Vendor
+ID 36187
+
+Buying 6
+Buying_0_ID 36359
+Buying_0_Cost 8
+Buying_1_ID 36361
+Buying_1_Cost 8
+Buying_2_ID 36360
+Buying_2_Cost 10
+Buying_3_ID 36362
+Buying_3_Cost 16
+Buying_4_ID 36354
+Buying_4_Cost 20
+Buying_5_ID 36418
+Buying_5_Cost 150
+
+Selling 6
+Selling_0_ID 36357
+Selling_0_Cost 4
+Selling_1_ID 36359
+Selling_1_Cost 8
+Selling_2_ID 36361
+Selling_2_Cost 8
+Selling_3_ID 36362
+Selling_3_Cost 16
+Selling_4_ID 36354
+Selling_4_Cost 20
+Selling_5_ID 36418
+Selling_5_Cost 150
+
+Disable_Sorting
+
+Currency 2c91037138504ba39131a5e5bee921ef

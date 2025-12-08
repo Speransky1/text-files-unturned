@@ -1,0 +1,9 @@
+GUID 11f50748fc34454f989f7fc18da117ba
+Type Large
+
+Interactability Binary_State
+Interactability_Delay 35
+Interactability_Hint Door
+Interactability_Power Toggle
+Interactability_Nav Off
+Has_Clip_Prefab false

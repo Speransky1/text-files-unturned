@@ -1,0 +1,45 @@
+﻿GUID 76f1d26328564ee9ba88d395126a4639
+
+Type Supply
+ID 41347
+Size_X 3
+Size_Y 1
+Size_Z 0.44
+InventoryAudio Sounds/Inventory/Default/Default.asset
+
+
+
+
+
+Blueprints
+[
+	{
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 2" // Metal Parts
+			"e162f0162f154033935a7a1e3d58e57e" // Wooden Plank
+		]
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			"4f9fb8c83c494e2486329e494674813c x 3" // Metal Parts
+			"8ae387a91c1c4964be2a12be7aeabfb9 x 2" // Sticks
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]

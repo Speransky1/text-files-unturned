@@ -1,0 +1,119 @@
+GUID 9f31eb66ab08444abcac116fa23730ff
+
+Type Gun
+Rarity Uncommon
+Useable Gun
+Slot Primary
+ID 63494
+EquipAudioClip classicweapons.masterbundle:Assets/Guns_Equip/Equip_AK.wav
+
+Size_X 5
+Size_Y 2
+Size_Z 0.38
+
+Grip 19751
+Magazine 63615
+
+Hook_Sight
+Hook_Tactical
+Hook_Barrel
+
+Ammo_Min 30
+Ammo_Max 30
+
+Aim_In_Duration 0.35
+
+Semi
+Safety
+
+Attachment_Calibers 3
+Attachment_Caliber_0 18905
+Attachment_Caliber_1 18902
+Attachment_Caliber_2 53315
+
+
+Magazine_Calibers 1
+Magazine_Caliber_0 19315
+
+Unplace 0.1
+Replace 0.47
+
+Firerate 3
+Action Trigger
+
+Player_Damage 50
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.4
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 105
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 105
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 15
+Structure_Damage 15
+Vehicle_Damage 40
+Resource_Damage 80
+Object_Damage 90
+
+Durability 0.36
+
+Spread_Aim 0.002
+Spread_Hip 0.22
+
+Recoil_Min_X -1.6
+Recoil_Min_Y 4
+Recoil_Max_X 1.6
+Recoil_Max_Y 7
+
+Recover_X 1
+Recover_Y 0.1
+
+Shake_Min_X -0.004
+Shake_Min_Y -0.003
+Shake_Min_Z -0.01
+Shake_Max_X -0.004
+Shake_Max_Y -0.003
+Shake_Max_Z -0.01
+
+Range 220
+Ballistic_Steps 46
+Ballistic_Travel 13
+Ballistic_Drop 0.0013
+
+Muzzle 19001
+
+Shell 19004
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+
+Gunshot_Rolloff_Distance 700
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Use_Auto_Icon_Measurements False
+
+Recoil_Crouch 0.8
+Recoil_Prone 1
+
+Spread_Prone 1
+Spread_Crouch 1
+
+Quality_Min 50
+Quality_Max 50

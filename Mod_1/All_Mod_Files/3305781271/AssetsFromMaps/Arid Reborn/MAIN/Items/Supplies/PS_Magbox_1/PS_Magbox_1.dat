@@ -1,0 +1,17 @@
+GUID c795edb31fd5416fa9c940fbca264831
+
+Type Supply
+Rarity Rare
+ID 59685
+
+Size_X 2
+Size_Y 2
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59685
+Blueprint_0_Product 59260
+Blueprint_0_Products 4
+Blueprint_0_Build 27

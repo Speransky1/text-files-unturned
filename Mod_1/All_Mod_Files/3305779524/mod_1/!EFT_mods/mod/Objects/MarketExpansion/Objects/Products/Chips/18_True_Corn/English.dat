@@ -1,0 +1,5 @@
+Name ME Chips #18
+
+Interactability_Condition_0 Requires <color=#4E5D8E>3$</color> 
+
+Interact Purchase True Corn for <color=#4E5D8E>3$</color>  [{0}]

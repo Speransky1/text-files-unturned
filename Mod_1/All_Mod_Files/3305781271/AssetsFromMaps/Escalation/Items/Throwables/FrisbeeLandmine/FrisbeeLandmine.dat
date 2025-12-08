@@ -1,0 +1,37 @@
+GUID aec18cf89ce9482491ddc3405a7ffb9b
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 51319
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Player_Damage 99
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 25
+Structure_Damage 25
+Vehicle_Damage 175
+Resource_Damage 625
+Object_Damage 250
+
+Range 8
+Explosion 51008
+
+Explosive
+Fuse_Length 20
+Explode_On_Impact
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 51318
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 51603
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51319
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

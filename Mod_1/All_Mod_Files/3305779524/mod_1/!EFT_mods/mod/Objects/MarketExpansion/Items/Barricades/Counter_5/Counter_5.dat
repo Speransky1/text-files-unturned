@@ -1,0 +1,16 @@
+GUID e57279007db5453ab4d70474a73da695
+Type Storage
+Useable Barricade
+Build Campfire
+ID 45374
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 500
+Range 4
+Radius 0.5
+Offset 0.5
+
+Explosion 36

@@ -1,0 +1,19 @@
+GUID 0446ec32a8ff4d45889e18d65f758488
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 54718
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Should_Delete_After_Use true
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item_Random
+Quest_Reward_0_ID 10777
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Сюда лут...
+Quest_Reward_1_Duration 2

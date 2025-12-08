@@ -1,0 +1,160 @@
+"Metadata"
+{
+	"GUID" "662b6fc080df4794900f98b8a3679400"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_00.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_01.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_02.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_03.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_04.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_05.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_06.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_07.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_08.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_09.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_10.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_11.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_12.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_13.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_14.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_15.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_16.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_17.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_18.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_19.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_20.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_21.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_22.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_23.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_24.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_26.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_27.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_28.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_29.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_30.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_31.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_32.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_33.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_34.mat"
+		}
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_35.mat"
+		}		
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_36.mat"
+		}		
+		{
+			"Name" "downtown.masterbundle"
+			"Path" "Objects/Material_Palettes/Materials/DE_STREET_NAME_SIGN_0/DE_STREET_NAME_SIGN_0_37.mat"
+		}
+	]
+}

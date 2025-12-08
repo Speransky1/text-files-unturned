@@ -1,0 +1,25 @@
+GUID 09f2537090784dc28680b3e9bccb2e25
+
+
+Type Hat
+Rarity Uncommon
+Useable Clothing
+ID 59846
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.80
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59000
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+
+Quality_Min 90
+Quality_Max 95

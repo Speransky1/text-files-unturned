@@ -1,0 +1,5 @@
+// This file was generated in Demo build of BowieD's AssetEditor 0.0.16-alpha.6
+Name Mark Contract - Restoring Light
+Description Bring me 4x <color=#ffffff>Broken Lightbulb</color>, mark Old Bunker Entrance & kill 200x zombies.
+Condition_1 {0}/{1} Planted Markers
+Condition_2 {0}/{1} Zombies

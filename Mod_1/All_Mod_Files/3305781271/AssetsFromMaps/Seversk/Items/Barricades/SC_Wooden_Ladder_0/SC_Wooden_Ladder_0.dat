@@ -1,0 +1,53 @@
+﻿GUID c618648bf3834fecbdc67c329f1e3b4b
+
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Ladder
+ID 41396
+
+Size_X 1
+Size_Y 3
+Size_Z 0.9
+
+Health 350
+Range 4
+Offset 0.125
+
+Explosion 41302
+Vulnerable
+
+Blueprints
+[
+	{
+		CategoryTag "31a59b5fec3f4ec5b2887b1ce4acb029" // Barricades
+		InputItems
+		[
+			{
+				ID "e162f0162f154033935a7a1e3d58e57e" // Wooden Plank
+				Amount 5
+			}
+			{
+				ID "8ae387a91c1c4964be2a12be7aeabfb9" // Wooden Stick
+				Amount 5
+			}
+			{
+				ID "022caafdda4e4937804a7cf79157dd91" // Nails
+				Amount 2
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems this
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+SalvageItem c618648bf3834fecbdc67c329f1e3b4b
+InventoryAudio Sounds/Inventory/Default/Default.asset
+PlacementAudioClip Sounds/Placement_1.ogg
+Use_Auto_Stat_Descriptions false
+Salvage_Duration_Multiplier 0.3
+Has_Clip_Prefab false

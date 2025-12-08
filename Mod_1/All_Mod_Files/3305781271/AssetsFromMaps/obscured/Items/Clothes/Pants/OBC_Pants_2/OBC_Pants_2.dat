@@ -1,0 +1,17 @@
+GUID f7d595c259ac46c8b408be27629a5c38
+
+Type Pants
+Rarity Rare
+Useable Clothing
+ID 39112
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Use_Auto_Stat_Descriptions false
+
+Should_Drop_On_Death False
+
+Quality_Min 100
+Quality_Max 100

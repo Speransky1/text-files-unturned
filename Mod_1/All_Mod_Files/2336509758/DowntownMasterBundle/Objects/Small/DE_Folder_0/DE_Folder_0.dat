@@ -1,0 +1,10 @@
+GUID 0ff04d8af4d54ed6b548faf23ccbd65d
+Type Small
+ID 43309
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 1
+Interactability_Effect 58
+
+Material_Palette fc8028e1e92f48d6917f95fb01227983

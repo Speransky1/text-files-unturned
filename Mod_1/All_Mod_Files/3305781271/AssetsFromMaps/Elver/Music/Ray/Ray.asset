@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "e48f2edc981f4977bb3006514199aade"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Ray.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "metro.masterbundle"
+		"AssetPath" "Vehicles/Metro_Faster/SirenAlt2.wav"
+	}
+}

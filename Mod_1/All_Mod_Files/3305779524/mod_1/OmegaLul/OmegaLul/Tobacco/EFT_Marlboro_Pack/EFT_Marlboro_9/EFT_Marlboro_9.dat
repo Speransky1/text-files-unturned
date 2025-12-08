@@ -1,0 +1,27 @@
+GUID a254351c159645ab97f60444ce84a725
+
+
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 58112
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+
+
+Quest_Rewards 3
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 58113
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 58105
+Quest_Reward_1_Amount 1
+Quest_Reward_2_Type Hint
+Quest_Reward_2_Text В пачке осталось ещё 8 сигарет
+Quest_Reward_2_Duration 1
+
+
+Asset_Bundle_Version 3

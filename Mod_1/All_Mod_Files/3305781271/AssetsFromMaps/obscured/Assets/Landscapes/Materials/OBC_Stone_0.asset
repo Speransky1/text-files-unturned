@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "e1d7d5bb8d764e099d3da982f5a62ce6"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "obscured.masterbundle"
+		"Path" "Landscapes/Terrain/Materials/Stone.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "Gravel_Static"
+	"Foliage"
+	{
+		"GUID" "cea67276165a43d783eb07eac2589210"
+	}
+}

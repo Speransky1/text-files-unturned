@@ -1,0 +1,10 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Слушаю, боец.
+Response_0 *Сдать материалы разведки*
+Response_1 *Сдать государственное имущество*
+Response_2 *Сдать хлам*
+Response_3 *Сдать бытовые предметы*
+Response_4 *Сдать автозапчасти*
+Response_5 *Сдать электронику*
+Response_6 *Купить провизию*
+Response_7 *Уйти*

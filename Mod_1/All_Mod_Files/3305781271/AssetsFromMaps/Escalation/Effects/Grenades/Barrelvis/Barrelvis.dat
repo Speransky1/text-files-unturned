@@ -1,0 +1,9 @@
+GUID 98c2be36ab9d40d0ad9a2a9c39bca20c
+
+
+Lifetime 6
+Type Effect
+ID 51024
+CameraShake_Radius 12
+CameraShake_MagnitudeDegrees 32
+Spawn_On_Dedicated_Server

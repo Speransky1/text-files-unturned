@@ -1,0 +1,8 @@
+GUID 0ee977f511f443c18d079df1e9e50db1
+Type Small
+ID 26624
+
+Master_Bundle_Override prophunt.masterbundle
+Bundle_Override_Path /Objects/Small/WH Crowbar Prop
+
+Has_Clip_Prefab false

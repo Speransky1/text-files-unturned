@@ -1,0 +1,30 @@
+GUID a8680860a2c6480aa5a8aff0a466a218
+
+Type Magazine
+Rarity Epic
+ID 44018
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 200
+Count_Min 200
+Count_Max 200
+
+Calibers 1
+Caliber_0 44003
+
+Range 4
+Player_Damage 28
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 53
+Explosive
+
+Tracer 48

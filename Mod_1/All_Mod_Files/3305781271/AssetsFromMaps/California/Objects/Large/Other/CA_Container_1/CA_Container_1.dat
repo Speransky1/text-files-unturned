@@ -1,0 +1,12 @@
+GUID c3ebb4117e24439bbbfa61f4b4ce4d8e
+Type Large
+ID 4545
+
+Chart Medium
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Large/Business/Container_3
+
+Material_Palette a3366759b75540f590872c69ba4f505d

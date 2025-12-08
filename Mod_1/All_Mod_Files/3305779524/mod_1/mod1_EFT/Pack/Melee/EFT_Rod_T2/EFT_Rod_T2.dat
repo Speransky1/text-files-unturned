@@ -1,0 +1,21 @@
+GUID 2d97b5f2d86e46e38cc6012c7d7cf310
+
+Type Fisher
+Rarity Epic
+Useable Fisher
+ID 49440
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Reward_ID 19227
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 19729
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27

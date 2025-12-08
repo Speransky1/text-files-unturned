@@ -1,0 +1,25 @@
+GUID 1832dcc6f5034620b9de7025db9eabe4
+
+
+Type Barricade
+Rarity Mythical
+Useable Barricade
+Build Barricade
+ID 54714
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Salvage_Duration_Multiplier 0.25
+
+Health 35200
+Range 4
+Radius 0.15
+Offset 0.11
+
+Explosion 19
+
+Invulnerable
+Unrepairable
+Proof_Explosion

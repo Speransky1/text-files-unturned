@@ -1,0 +1,14 @@
+GUID 6d75616a123b44d0a855b0521bb50ab8
+
+Type Large
+Has_Clip_Prefab false
+ID 57757
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 57578   
+Interactability_Condition_0_Amount 1
+
+Interactability Binary_State
+Interactability_Delay 4
+Interactability_Hint Use

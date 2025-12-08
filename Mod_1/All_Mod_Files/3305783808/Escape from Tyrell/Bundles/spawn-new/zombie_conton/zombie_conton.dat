@@ -1,0 +1,51 @@
+GUID 0ff2cfab22824432892680825d474e28
+Type Spawn
+ID 10138
+
+Roots
+[
+	{
+		// water (Spawn)
+		Guid 55a8e69c66f64094a7f38877e7978f3d
+		Weight 2
+	}
+	{
+		// food_canned (Spawn)
+		Guid a09a148543524a6786aff7c470a0bb70
+		Weight 2
+	}
+	{
+		// towns_scrap (Spawn)
+		Guid 195ba294c79b4908866478a5168ed89b
+		Weight 3
+	}
+	{
+		// towns_scrap_and_trash (Spawn)
+		Guid 710f572ddab64b1a8a0b0ef33dca7780
+		Weight 4
+	}
+]
+
+Tables
+[
+	{
+		// towns_scrap_and_trash (Spawn)
+		Guid 710f572ddab64b1a8a0b0ef33dca7780
+		Weight 4
+	}
+	{
+		// towns_scrap (Spawn)
+		Guid 195ba294c79b4908866478a5168ed89b
+		Weight 3
+	}
+	{
+		// water (Spawn)
+		Guid 55a8e69c66f64094a7f38877e7978f3d
+		Weight 2
+	}
+	{
+		// food_canned (Spawn)
+		Guid a09a148543524a6786aff7c470a0bb70
+		Weight 2
+	}
+]

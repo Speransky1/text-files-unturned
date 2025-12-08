@@ -1,0 +1,40 @@
+﻿// Made in NPC Maker by BowieD
+GUID 68f00966322e48a59cd70c9f6d3388a5
+Type Quest
+ID 14028
+Conditions 1
+Condition_0_Type Kills_Animal
+Condition_0_ID 0
+Condition_0_Animal 14881
+Condition_0_Value 10
+Condition_0_Reset 
+
+Rewards 6
+Reward_0_Type Experience
+Reward_0_Value 1700
+
+Reward_1_Type Item
+Reward_1_ID 58419
+Reward_1_Amount 7
+Reward_1_Auto_Equip False
+
+Reward_2_Type Item
+Reward_2_ID 54022
+Reward_2_Amount 0
+Reward_2_Auto_Equip False
+
+Reward_3_Type Item
+Reward_3_ID 41601
+Reward_3_Amount 0
+Reward_3_Auto_Equip False
+
+Reward_4_Type Item
+Reward_4_ID 59535
+Reward_4_Amount 0
+Reward_4_Auto_Equip False
+
+Reward_5_Type Item
+Reward_5_ID 48702
+Reward_5_Amount 0
+Reward_5_Auto_Equip False
+

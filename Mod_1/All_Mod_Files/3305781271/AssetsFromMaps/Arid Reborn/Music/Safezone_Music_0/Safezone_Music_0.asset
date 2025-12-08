@@ -1,0 +1,20 @@
+"Metadata"
+{
+	"GUID" "03cf831580e14e57b9f320bfd4c26856"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Safezone_Music0.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "arid_music.masterbundle"
+		"AssetPath" "Safezone_Music_0/Wasteland Serenade.wav"
+	}
+	"Link_URL" "https://www.youtube.com/c/staswalle"
+}

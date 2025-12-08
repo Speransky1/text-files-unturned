@@ -1,0 +1,8 @@
+GUID 8c58eed6717144779e968535db101c4e
+Type Large
+ID 4682
+
+Material_Palette 3987063d60df43e2ac4ca66fe91880f1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Apartment_2

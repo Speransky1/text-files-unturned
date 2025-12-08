@@ -1,0 +1,110 @@
+﻿GUID d77e6e24986945308859cdb42898673e
+Type Magazine
+Rarity Uncommon
+ID 41679
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 8
+Count_Min 6
+Count_Max 8
+
+Calibers 1
+Caliber_0 43000
+Tracer 41358
+
+InventoryAudio Sounds/Inventory/CasingRustle/Casing_Rustle.asset
+Use_Auto_Icon_Measurements True
+Use_Auto_Stat_Descriptions false
+
+Blueprints
+[
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "39b5f639d16749e79d2335d353ba4aae" // Pistol Ammo
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems this
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "4e7a468b0db54150ac3d7eb229f71b05" // APS Magazine
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "3d56f6fd480242c683492fbf3424b9c0" // SR-1MP Magazine
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "d739926736374e5ba34b4ac6ffbb5c8f" // Ammunition
+		Operation FillTargetItem
+		InputItems "b8eb7a4c11034354adf9fbb3739fd336" // PM Drum
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "da8249dfbe504ddeb331194539e791de" // Ammunition
+		Operation FillTargetItem
+		InputItems "6cd75458fe784b5697cef0ecf240b13f" // PP91 Magazine
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "da8249dfbe504ddeb331194539e791de" // Ammunition
+		Operation FillTargetItem
+		InputItems "083f7a5b22864716ba860866f035955e" // PP91 Large Magazine
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "da8249dfbe504ddeb331194539e791de" // Ammunition
+		Operation FillTargetItem
+		InputItems "da8249dfbe504ddeb331194539e791de" // PPSh Drum
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "da8249dfbe504ddeb331194539e791de" // Ammunition
+		Operation FillTargetItem
+		InputItems "7786702dfbb442e994730e8bceca5143" // PPSh Magazine
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "da8249dfbe504ddeb331194539e791de" // Ammunition
+		Operation FillTargetItem
+		InputItems "dc06c6f5d7d448f2bec0530484faeda4" // TT Magazine
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		CategoryTag "da8249dfbe504ddeb331194539e791de" // Ammunition
+		Operation FillTargetItem
+		InputItems "fc23a13bdded41af9368aa911175df0a" // PP-19-01 "Vytiaz" Magazine
+		Effect "8592eca843554d96aed942cc3514b8b9" // SC_Casing_0
+	}
+	{
+		Name Salvage
+		CategoryTag "ad1804b6945145f3b308738b0b8ea447" // Tools
+		InputItems
+		[
+			{
+				ID this
+				Prioritization LowestAmount
+				CountEmptyAsOne true
+			}
+			{
+				ID "2d5ac5212373492ab943419faf6d6a75" // Hammer
+				Delete false
+			}
+		]
+		OutputItems "4f9fb8c83c494e2486329e494674813c x 2" // Metal_Parts
+		Effect "0ae7a614942043f8b7013e165e036eb2" // SC_Wrench_0
+	}
+]
+
+Add_Default_Actions false

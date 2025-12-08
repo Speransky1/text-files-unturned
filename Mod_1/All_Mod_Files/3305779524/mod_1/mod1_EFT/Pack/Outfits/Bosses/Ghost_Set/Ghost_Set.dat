@@ -1,0 +1,21 @@
+GUID ce0a5d581c46456db386f3eb5073706f
+
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 63662
+
+Size_X 3
+Size_Y 2
+Size_Z 0.35
+
+Width 8
+Height 8
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+Hair_Visible False
